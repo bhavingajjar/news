@@ -2,7 +2,7 @@
 
 ## Prerequisites
 
-- Node.js 20+ (22 recommended)
+- Node.js 24+
 - npm
 - Optional: Python 3.12 + NewsAPI key to refresh JSON locally
 

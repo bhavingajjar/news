@@ -26,7 +26,7 @@ Path filters prevent a data commit from re-running the fetch workflow.
 
 **Steps**
 
-1. `npm ci`
+1. `npm ci` on **Node.js 24**
 2. `npm run build` with `VITE_APP_NAME` and `VITE_SITE_URL`
 3. Upload `dist/` as a Pages artifact
 4. Deploy with `actions/deploy-pages`
