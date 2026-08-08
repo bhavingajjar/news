@@ -1,7 +1,7 @@
-export const APP_NAME = import.meta.env.VITE_APP_NAME || 'Top News'
+export const APP_NAME = import.meta.env?.VITE_APP_NAME || 'Top News'
 
 export const SITE_URL =
-  import.meta.env.VITE_SITE_URL || 'https://bhavingajjar.github.io/news'
+  import.meta.env?.VITE_SITE_URL || 'https://bhavingajjar.github.io/news'
 
 export const CATEGORIES = [
   'business',

@@ -37,6 +37,10 @@ Mirrored in both Python and [`src/config.js`](../src/config.js):
 
 `useNewsFeed` loads the matching file once per `category` + `country` change, filters `[removed]` titles, and surfaces loading / error / empty states.
 
+## Build-time prerender
+
+`scripts/seo-prerender.mjs` reads the same JSON under `public/data/` (or `dist/data/` after Vite copies it) to inject up to ~40 crawlable article links into static HTML for `/`, each category, and `/404`. See [SEO](./seo.md).
+
 ## Secrets
 
 GitHub Actions uses repository secret `News_API_KEY`. Never commit API keys or `.env` files with secrets.

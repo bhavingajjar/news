@@ -1,19 +1,15 @@
 import { Navigate, useParams } from 'react-router-dom'
-import {
-  APP_NAME,
-  SITE_URL,
-  capitalize,
-  isValidCategory,
-} from '../config'
+import { capitalize, isValidCategory } from '../config'
 import { PageMeta } from '../components/seo/PageMeta'
 import { NewsFeed } from '../components/news/NewsFeed'
 import { useCountry } from '../context/country-context'
 import { useNewsFeed } from '../hooks/useNewsFeed'
+import { getRouteSeo } from '../lib/seo'
 
 export function CategoryPage() {
   const { category } = useParams()
   const valid = isValidCategory(category)
-  const { country, countries } = useCountry()
+  const { country } = useCountry()
   const { articles, loading, error } = useNewsFeed({
     category,
     country,
@@ -24,30 +20,16 @@ export function CategoryPage() {
     return <Navigate to="/404" replace />
   }
 
-  const countryLabel =
-    countries.find((item) => item.code === country)?.label || country.toUpperCase()
-  const title = `${countryLabel} · ${capitalize(category)}`
-  const description = `Top ${category} headlines for ${countryLabel}, refreshed from NewsAPI on a rolling schedule.`
-  const path = `/${category}`
+  const seo = getRouteSeo(`/${category}`)
 
   return (
     <>
       <PageMeta
-        title={title}
-        description={description}
-        path={path}
-        jsonLd={{
-          '@context': 'https://schema.org',
-          '@type': 'CollectionPage',
-          name: `${title} · ${APP_NAME}`,
-          url: `${SITE_URL}${path}`,
-          description,
-          isPartOf: {
-            '@type': 'WebSite',
-            name: APP_NAME,
-            url: SITE_URL,
-          },
-        }}
+        title={seo.title}
+        description={seo.description}
+        path={seo.path}
+        robots={seo.robots}
+        jsonLd={seo.jsonLd}
       />
       <NewsFeed
         title={`${country.toUpperCase()} — Top ${capitalize(category)} Headlines`}

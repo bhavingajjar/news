@@ -1,20 +1,25 @@
 import { Link } from 'react-router-dom'
 import { PageMeta } from '../components/seo/PageMeta'
+import { getRouteSeo } from '../lib/seo'
 
 export function NotFoundPage() {
+  const seo = getRouteSeo('/404')
+
   return (
     <>
       <PageMeta
-        title="Page not found"
-        description="The page you requested does not exist."
-        path="/404"
+        title={seo.title}
+        description={seo.description}
+        path={seo.path}
+        robots={seo.robots}
+        jsonLd={seo.jsonLd}
       />
       <section className="mx-auto flex min-h-[50vh] max-w-lg flex-col items-center justify-center text-center">
         <p className="text-sm font-semibold uppercase tracking-[0.2em] text-signal">
           404
         </p>
         <h1 className="mt-3 font-display text-4xl font-bold text-ink">
-          Page not found
+          {seo.heading}
         </h1>
         <p className="mt-3 text-slate">
           That route is not part of this news reader. Head back to the latest headlines.

@@ -2,41 +2,49 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://bhavingajjar.github.io/news/</loc>
+    <lastmod>2026-08-08</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://bhavingajjar.github.io/news/business</loc>
+    <lastmod>2026-08-08</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bhavingajjar.github.io/news/entertainment</loc>
+    <lastmod>2026-08-08</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bhavingajjar.github.io/news/general</loc>
+    <lastmod>2026-08-08</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bhavingajjar.github.io/news/health</loc>
+    <lastmod>2026-08-08</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bhavingajjar.github.io/news/science</loc>
+    <lastmod>2026-08-08</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bhavingajjar.github.io/news/sports</loc>
+    <lastmod>2026-08-08</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bhavingajjar.github.io/news/technology</loc>
+    <lastmod>2026-08-08</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
