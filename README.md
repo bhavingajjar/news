@@ -1,16 +1,37 @@
-# React + Vite
+# Top News
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+Mobile-friendly news reader built with **React 19**, **Vite**, and **Tailwind CSS**. Headlines are served from a rolling static JSON cache updated by NewsAPI via GitHub Actions.
 
-Currently, two official plugins are available:
+**Live:** https://bhavingajjar.github.io/news/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Features
 
-## React Compiler
+- Home feed plus seven category routes
+- India / United States country filter (persisted)
+- Tailwind editorial UI with responsive layout
+- Per-route SEO meta, sitemap, robots, JSON-LD
+- Scheduled data refresh every six hours
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Quick start
 
-## Expanding the Oxlint configuration
+```bash
+cp .env.example .env
+npm install
+npm run dev
+```
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+Open the printed local URL under the `/news/` base path.
+
+## Documentation
+
+Full workflow notes live in [`docs/`](./docs/README.md):
+
+- [Architecture](./docs/architecture.md)
+- [Data pipeline](./docs/data-pipeline.md)
+- [Workflows](./docs/workflows.md)
+- [SEO](./docs/seo.md)
+- [Local development](./docs/local-development.md)
+
+## Deploy
+
+Pushes to `main` build and publish via [`.github/workflows/deploy.yml`](./.github/workflows/deploy.yml). Set Pages source to **GitHub Actions** and add the `News_API_KEY` secret for the fetch workflow.
