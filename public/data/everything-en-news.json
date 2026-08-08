@@ -4,6 +4,578 @@
     "articles": [
         {
             "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": null,
+            "title": "Bryan Kohberger's post-conviction relief bid enabled by flawed plea deal, psychologist argues",
+            "description": "A forensic psychologist says prosecutors made a critical error by not requiring Bryan Kohberger to fully explain the Idaho student murders in his deal.",
+            "url": "https://www.foxnews.com/us/bryan-kohberger-post-conviction-relief-bid-enabled-flawed-plea-deal-psychologist-argues",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/01/idaho-four-bryan-kohberger-1.jpg",
+            "publishedAt": "2026-08-07T10:00:24Z",
+            "content": "The forensic psychologist who publicly warned last year that Bryan Kohberger's plea agreement was part of the killer's calculated \"long game\" plans is arguing that prosecutors missed a critical oppor… [+3548 chars]"
+        },
+        {
+            "source": {
+                "id": "financial-post",
+                "name": "Financial Post"
+            },
+            "author": "Jack M. Mintz",
+            "title": "Jack Mintz: High speed derails in North America",
+            "description": "Bullet trains have been a big success in China, Japan and Europe. Why have they utterly failed on this continent? Find out more here",
+            "url": "https://financialpost.com/opinion/jack-mintz-high-speed-derails-in-north-america",
+            "urlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/08/0807-mg-high-speed-rail.jpg",
+            "publishedAt": "2026-08-07T10:00:24Z",
+            "content": "High-speed rail (HSR), which enables passengers to travel at 300 km/h or more over long distances, diverting demand from roads and airports to electrified rail trips, has been a big success in China,… [+5269 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": null,
+            "title": "Fox News Digital's News Quiz: August 7, 2026",
+            "description": "This week's Fox Digital News Quiz challenges readers on the biggest headlines from politics, entertainment and culture.",
+            "url": "https://www.foxnews.com/lifestyle/fox-news-digital-news-quiz-august-7-2026",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/08/fox-news-quiz-photo-1.jpg",
+            "publishedAt": "2026-08-07T10:00:21Z",
+            "content": "Test your news knowledge with this week's Fox News Digital News Quiz, featuring James Carville's red line for the Democratic Party and a stripped Miss USA title in one state.\r\nLooking for another cha… [+491 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BusinessLine"
+            },
+            "author": "cuelive",
+            "title": "CityUHK ranked No.1 in Hong Kong in Nature Index 2026 Nanoscience and Nanotechnology Supplement",
+            "description": "CityUHK ranked No.1 in Hong Kong in Nature Index 2026 Nanoscience and Nanotechnology Supplement",
+            "url": "https://www.thehindubusinessline.com/brandhub/pr-release/cityuhk-ranked-no-1-in-hong-kong-in-nature-index-2026-nanoscience-and-nanotechnology-supplement/article71317126.ece",
+            "urlToImage": "https://bl-i.thgim.com/public/incoming/62u155/article71317125.ece/alternates/LANDSCAPE_1200/20260807051236EDT_image_1.jpg",
+            "publishedAt": "2026-08-07T10:00:18Z",
+            "content": "HONG KONG , Aug. 7, 2026 /PRNewswire/ -- City University of Hong Kong (CityUHK) has achieved another significant milestone in global research excellence. Following its earlier achievement of ranking … [+2867 chars]"
+        },
+        {
+            "source": {
+                "id": "financial-post",
+                "name": "Financial Post"
+            },
+            "author": "Terence Corcoran",
+            "title": "Terence Corcoran: The old trade order isn’t dead. Let’s not kill it",
+            "description": "The Churchill-Roosevelt 1941 charter created the global free-trade boom that still exists. Find out more here",
+            "url": "https://financialpost.com/opinion/terence-corcoran-the-old-trade-order-isnt-dead-lets-not-kill-it",
+            "urlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/08/0807-biz-corcoran.jpg",
+            "publishedAt": "2026-08-07T10:00:12Z",
+            "content": "Exactly 85 years ago this coming weekend, on Aug. 9, 1941 in the thick of World War Two British prime minister Winston Churchill and U.S. president Franklin Roosevelt met secretly for three days on a… [+5010 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Grace O'Donnell",
+            "title": "Stock market today: Dow, S&P 500, Nasdaq rise after July jobs report surprises to the downside",
+            "description": "Wall Street awaited the July jobs report for a fresh picture of the labor market.",
+            "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-august-7-nasdaq-dow-sp-500-july-jobs-report-surprises-100009572.html",
+            "urlToImage": "https://s.yimg.com/lo/mysterio/api/6CB9B0902F51A79DE4229E413EB020A599CEEE925A4B67655244E681D5276E31/subgraphmysterio/resizefill_w1200_h900;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-08%2Fc6b174be-8b0a-44a7-ab6c-311fb4c02fea",
+            "publishedAt": "2026-08-07T10:00:09Z",
+            "content": "US stocks glided higher as investors digested a surprise decline in job growth and its implications for the Federal Reserve's interest rate policy decisions.\r\nThe Dow Jones Industrial Average (^DJI) … [+1529 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": null,
+            "title": "Communist, socialist network helped fuel Madison protests after Corey Ruiz shooting, investigation finds",
+            "description": "Communist and socialist groups including the Party for Socialism and Liberation and Freedom Inc. drove Madison protests after the Corey Ruiz shooting.",
+            "url": "https://www.foxnews.com/politics/communist-socialist-network-helped-fuel-madison-protests-corey-ruiz-shooting-investigation-finds",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/08/madison-unrest.gif",
+            "publishedAt": "2026-08-07T10:00:01Z",
+            "content": "A coalition of communist, socialist and left-wing activist organizations helped drive nearly two weeks of protests and a sprawling encampment in Madison, Wis., following the fatal police shooting of … [+9429 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The New Republic"
+            },
+            "author": "Timothy Noah",
+            "title": "A No-Bid Contract to Rat Out Immigrant Minors",
+            "description": "I wrote in July about how Donald Trump, despite rhapsodizing about the virtues of competitive bidding (“it sharpens their game, makes them bid competitively on price, and encourages them to give me the best quality product possible”) doesn’t practice competit…",
+            "url": "https://newrepublic.com/article/214084/no-bid-contract-immigrant-minors",
+            "urlToImage": "https://images.newrepublic.com/e242cc3518159580d3c9b39dfaed745f92367991.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg",
+            "publishedAt": "2026-08-07T10:00:00Z",
+            "content": "The New York Times reported August 1 that Trump paid almost $7 billion to purchase, on a no-bid basis, 11 icebreakersmore than twice as many as the Coast Guard has said it needs. Most of these will b… [+1744 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Lighthouse Hockey"
+            },
+            "author": "Dominik",
+            "title": "Islanders News: Gold in, Palmieri and Ledecky look ahead",
+            "description": "The “32 in 32” series has begun at the Official NHL site, so it must be August and we must be inching forward in the offseason. With a shorter preseason and training camp — but 84 games now…yay?! — the summer will have an even longer slow window. Still, some …",
+            "url": "https://www.lighthousehockey.com/islanders-news-headlines/44991/islanders-news-gold-kyle-palmieri-ledecky",
+            "urlToImage": "https://s.yimg.com/lo/mysterio/api/ff540d548037d3d513c5f05cd0c40d0c20310525c208cb285d99fbfc344ea4f1/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2F8ba66fcaa82c15f3e76a3b3d804f16a7",
+            "publishedAt": "2026-08-07T10:00:00Z",
+            "content": "The \"32 in 32\" series has begun at the Official NHL site, so it must be August and we must be inching forward in the offseason. With a shorter preseason and training camp but 84 games nowyay?! the su… [+1760 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Slate Magazine"
+            },
+            "author": "Kristin Wong and Athena Valentine",
+            "title": "I Own Several Vacation Properties. But There Are Two Guests I’ll Never Let Stay, No Matter What It Does to My Marriage.",
+            "description": "Only I decide who stays in my houses.",
+            "url": "https://slate.com/advice/2026/08/money-advice-vacation-home-tantrum.html",
+            "urlToImage": "https://compote.slate.com/images/8d5fb49e-6998-4061-a53a-62a2b1889338.jpeg?crop=1560%2C1040%2Cx0%2Cy0&width=1560",
+            "publishedAt": "2026-08-07T10:00:00Z",
+            "content": "Our advice columnists have heard it all over the yearsso were diving into the Pay Dirt archives to share classic letters with our readers. Submit your own questions about money here. (Its anonymous!)… [+10167 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Tom's Hardware UK"
+            },
+            "author": "editors@tomshardware.com (Jowi Morales) , Jowi Morales",
+            "title": "Claude Opus 5 mistakenly deletes dev’s entire profile directory during routine backup, responds with 'Sorry, typo' — AI tool mistakes user's home directory as temporary backup, proceeds to wipe everything to undo the error",
+            "description": "An AI agent got confused with file path conventions and mistakenly deleted its user's entire profile folder. Claude Opus 5 apologized to the user, who called it \"the funniest and most painful AI moment I've had.\"",
+            "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/claude-opus-5-mistakenly-deletes-devs-entire-profile-directory-ai-tool-mistakes-users-home-directory-as-temporary-backup-proceeds-to-wipe-everything-to-undo-error",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/HKF2Fm6GjsN8orrJdBxbXH-1920-80.png",
+            "publishedAt": "2026-08-07T10:00:00Z",
+            "content": "A developer posted on the r/ClaudeCode subreddit a major error that their AI tool executed, which resulted in the deletion of their entire drive. According to u/Ecstatic-Big5126, they instructed Opus… [+2735 chars]"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "tom.power@futurenet.com (Tom Power) , Tom Power",
+            "title": "To me, my X-Men: Marvel has found its Cyclops in Heartstopper's Kit Connor — and he might not be the only actor who's reportedly been cast for the new MCU movie",
+            "description": "Marvel has seemingly tapped the Heartstopper alumnus to portray Scott Summers in its hotly-anticipated X-Men reboot.",
+            "url": "https://www.techradar.com/streaming/entertainment/to-me-my-x-men-marvel-has-found-its-cyclops-in-heartstoppers-kit-connor-and-he-might-not-be-the-only-actor-whos-reportedly-been-cast-for-the-new-mcu-movie",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/hesF3H9qW5bAxQ5gjWTcvD-2000-80.jpg",
+            "publishedAt": "2026-08-07T10:00:00Z",
+            "content": "<ul><li>Kit Connor has reportedly joined Marvel's new X-Men movie</li><li>The Heartstopper star is said to be playing Scott Summers/Cyclops</li><li>He joins Sadie Sink and Samara Weaving as part of t… [+4426 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Crimsonquarry.com"
+            },
+            "author": "L.C. Norton",
+            "title": "Candystripe Catchup: Does Indiana have the best defensive line in the country?",
+            "description": "Stephen Daley and Kellan Wyatt’s returns highlight Indiana’s week in the news alongside the new Purdue AD comments.",
+            "url": "https://www.crimsonquarry.com/indiana-hoosiers-news-updates/29067/candystripe-catchup-does-indiana-have-the-best-defensive-line-in-the-country",
+            "urlToImage": "https://s.yimg.com/lo/mysterio/api/e16b1fc63084428ca8fb9fab0177a1efe89bf613bd336e302295af7dcb905677/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2Ffd79a84193dd3eaccaaa705994373249",
+            "publishedAt": "2026-08-07T10:00:00Z",
+            "content": "It was a huge news week for Indiana and we're here with a quick recap to make sure you're all caught up.\r\nFootball was in headlines all week, from the cancellation of the future series against Notre … [+888 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Desiringgod.org"
+            },
+            "author": "Kristin Couch",
+            "title": "Helpers, Mothers, Teachers",
+            "description": "As women in Christ, God has set forth plentiful opportunities to minister for his glory. But like Eve in the garden, we can sometimes fixate on what God has forbidden. Slowly, the garden grows dimmer, and the goodness and beauty of God’s design become clouded…",
+            "url": "https://www.desiringgod.org/articles/helpers-mothers-teachers",
+            "urlToImage": "https://dg.imgix.net/resources/17703/media/11284b8f-adba-4d0e-ad77-a12be7ef7a73/landscape/helpers-mothers-teachers-en.jpg?ts=1784732082&ixlib=rails-4.3.1&fit=crop&w=2000&h=1050",
+            "publishedAt": "2026-08-07T10:00:00Z",
+            "content": "As women in Christ, God has set forth plentiful opportunities to minister for his glory. But like Eve in the garden, we can sometimes fixate on what God has forbidden. Slowly, the garden grows dimmer… [+6547 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Scientific American"
+            },
+            "author": "Rachel Feltman, Adam Kovac, Fonda Mwangi, Alex Sugiura",
+            "title": "Smoking was supposed to be fading away. Why are young people embracing it again?",
+            "description": "Smoking rates remain low, but experts say social media, stress and shifting attitudes could be fueling a cigarette revival",
+            "url": "https://www.scientificamerican.com/podcast/episode/smoking-was-supposed-to-be-fading-away-why-are-young-people-embracing-it-again/",
+            "urlToImage": "https://static.scientificamerican.com/dam/asset/71a3f1aa-1ca7-4c45-b0dc-06cae1fd2099/2608_SQ_FRI_GENZ_SMOKING.png?m=1786041059.207&w=1200",
+            "publishedAt": "2026-08-07T10:00:00Z",
+            "content": "Rachel Feltman: For Scientific American’s Science Quickly, I’m Rachel Feltman.\r\nI don’t need to spew a bunch of statistics to convince you that people don’t smoke like they used to. Because while it’… [+12451 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Ines Ferré",
+            "title": "Gold's rally 'has support', with prices set to rise toward $5,000 next year, UBS says",
+            "description": "UBS expects gold prices to rise toward $5,000 per ounce in the first half of 2027.",
+            "url": "https://finance.yahoo.com/markets/article/golds-rally-has-support-with-prices-set-to-rise-toward-5000-next-year-ubs-says-100000563.html",
+            "urlToImage": "https://s.yimg.com/lo/mysterio/api/FB37CF86857AD6AEDEC3287101C2B2F20B75B3C23A70992FC2F0CD9FC389862A/subgraphmysterio/resizefill_w1200_h695;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-08%2Fc6e64024-7f7b-4ca6-8f41-758bc72ba4d9",
+            "publishedAt": "2026-08-07T10:00:00Z",
+            "content": "UBS analysts are making the case for gold prices (GC=F) to rise, with the once-high-flying precious metal rallying over the past week.\r\nGold futures jumped 2% on Friday after a weaker-than-expected m… [+2030 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PRNewswire"
+            },
+            "author": null,
+            "title": "China Yuchai International Announces Unaudited 2026 First Half-Year Financial Results",
+            "description": "SINGAPORE, Aug. 7, 2026 /PRNewswire/ -- China Yuchai International Limited (NYSE: CYD) (\"China Yuchai International\" or the \"Company\"), one of the largest powertrain solution manufacturers through its main operating subsidiary in China, Guangxi Yuchai Machine…",
+            "url": "https://www.prnewswire.com/news-releases/china-yuchai-international-announces-unaudited-2026-first-half-year-financial-results-302845952.html",
+            "urlToImage": null,
+            "publishedAt": "2026-08-07T10:00:00Z",
+            "content": "SINGAPORE, Aug. 7, 2026 /PRNewswire/ -- China Yuchai International Limited (NYSE: CYD) (\"China Yuchai International\" or the \"Company\"), one of the largest powertrain solution manufacturers through it… [+18145 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Eonline.com"
+            },
+            "author": "Brahmjot Kaur",
+            "title": "Wagner Moura Reveals How Son Bem Is Following in His Acting Footsteps",
+            "description": "It's no secret where Bem Moura got the acting bug from.\nAfter all, Wagner Moura shared insight into how his 20-year-old son is embarking on his own career onscreen—and behind the camera.\n\"My...",
+            "url": "https://www.eonline.com/news/1434720/wagner-moura-reveals-son-bem-is-following-in-his-acting-footsteps",
+            "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/20260805/9d7f06a1-f94c-4059-8bf9-e0833212652f_1785962114.jpg?fit=around%7C1200:1200&output-quality=90&crop=1200:1200;center,top",
+            "publishedAt": "2026-08-07T10:00:00Z",
+            "content": "It's no secret where Bem Moura got the acting bug from.\r\nAfter all, Wagner Mourashared insight into how his 20-year-old son is embarking on his own career onscreenand behind the camera.\r\n\"My oldest, … [+680 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": "Bobby Allyn",
+            "title": "Kalshi and Polymarket bets on clinical trials criticized as 'ghastly'",
+            "description": "Researchers warn betting on clinical trials could incentivize insider trading and interfere with drug development. But Kalshi and Polymarket say they provide valuable information to patients.",
+            "url": "https://www.npr.org/2026/08/07/nx-s1-5922530/patients-betting-kalshi-polymarket-clinical-trials",
+            "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4256x2394+0+219/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F41%2Fc6%2Fe7079d3a4f128467d00bfebea0dd%2Fgettyimages-463189932.jpg",
+            "publishedAt": "2026-08-07T10:00:00Z",
+            "content": "As a soon-to-be seventh grader, Joshua Pederson's son is not exactly brimming with enthusiasm when he talks about the upcoming school year.\r\n\"The thing I'm looking forward to most in seventh grade is… [+6791 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Big Blue View"
+            },
+            "author": "Ed Valentine",
+            "title": "Giants news: Dru Phillips’ injury, training camp updates",
+            "description": "New York Giants headlines for Friday.",
+            "url": "https://www.bigblueview.com/new-york-giants-news/167023/dru-phillips-injury-training-camp-updates",
+            "urlToImage": "https://s.yimg.com/lo/mysterio/api/1550286a6dca9cc281fef0bc0ea5bd6af302be1142519a756aca50038ddf43fe/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2Fe5e28f900fbf0351d27173589dc0ea30",
+            "publishedAt": "2026-08-07T10:00:00Z",
+            "content": "[Wan'Dale] Robinson said there were many reasons he chose the Titans. Undoubtedly, the four-year, $78 million contract the Titans gave him was near the top of the list. He is also reunited with forme… [+755 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Dawgs By Nature"
+            },
+            "author": "Thomas Moore",
+            "title": "Cleveland Browns news: A talented DE. An eager rookie. And more!",
+            "description": "The latest Cleveland Browns news and notes from around the NFL in the August 7 edition of the Daily Dawg Chow.",
+            "url": "https://www.dawgsbynature.com/cleveland-browns-news/129744/cleveland-browns-news-jared-verse-joe-thomas-spencer-fano",
+            "urlToImage": "https://s.yimg.com/lo/mysterio/api/ebff50bf8bbd3f3d870f3052aac8d0f171403eed7910a1b71552207757bbeffc/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2Fedd8df65c555ca72c0b192fdf5a44e8f",
+            "publishedAt": "2026-08-07T10:00:00Z",
+            "content": "<li>Browns defender lands at No. 35 on NFL's Top 100 list (Thomas Moore) \"The Cleveland Browns made the decision earlier this summer, after months of contemplation, to trade reigning Defensive Player… [+4557 chars]"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "alexblake.techradar@gmail.com (Alex Blake) , Alex Blake",
+            "title": "The Mac Pro is dead. 20 years after its glitzy launch, what went wrong with Apple’s ultimate flagship computer?",
+            "description": "The Mac Pro would be 20 today if it hadn’t been discontinued. Here’s why Apple ditched its most powerful Mac.",
+            "url": "https://www.techradar.com/computing/macs/the-mac-pro-is-dead-20-years-after-its-glitzy-launch-what-went-wrong-with-apples-ultimate-flagship-computer",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/Kh3HrkBSB9z7MJiqzbH3JT-1920-80.jpg",
+            "publishedAt": "2026-08-07T10:00:00Z",
+            "content": "Apple unveiled the very first Mac Pro 20 years ago today, dubbing the computer “the ideal system for the most demanding user.” It was the last Mac to make the transition to Intel processors and put t… [+6930 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PRNewswire"
+            },
+            "author": null,
+            "title": "MDA SPACE APPOINTS JOHN FARRELL & STEPHEN SPENGLER TO ITS BOARD OF DIRECTORS",
+            "description": "Appointments bring additional manufacturing, telecommunications and satellite expertise to support company's next phase of growth. TORONTO, Aug. 7, 2026 /PRNewswire/ -- MDA Space Ltd. (TSX: MDA) (NYSE: MDA), a trusted mission partner to the rapidly expanding …",
+            "url": "https://www.prnewswire.com/news-releases/mda-space-appoints-john-farrell--stephen-spengler-to-its-board-of-directors-302845602.html",
+            "urlToImage": "https://mmx.prnewswire.com/media/MS1549657/MDA-Space-MDA-SPACE-APPOINTS-JOHN-FARRELL-STEPHEN-SPENGLER-TO.jpg?id=OA2834254&p=facebook",
+            "publishedAt": "2026-08-07T10:00:00Z",
+            "content": "Appointments bring additional manufacturing, telecommunications and satellite expertise to support company's next phase of growth. \r\nTORONTO, Aug. 7, 2026 /PRNewswire/ -- MDA Space Ltd. (TSX: MDA) (N… [+5602 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Ewtnnews.com"
+            },
+            "author": "Diego López Marina, Edy Rodríguez Morel",
+            "title": "Peruvian researcher: Big mistake to think ‘the Catholic faith was imposed on the Incas’",
+            "description": "The author of “The Catholic Incas” discusses “an entire history that, unfortunately, is not taught.”",
+            "url": "https://www.ewtnnews.com/world/americas/peruvian-researcher-big-mistake-to-think-the-catholic-faith-was-imposed-on-the-incas",
+            "urlToImage": "https://res.cloudinary.com/ewtn/image/upload/c_fill,g_auto,w_1200,h_630/v1786045693/ewtn-news/en/Inca.Catolicos.Aug.2026_myeiig.jpg",
+            "publishedAt": "2026-08-07T10:00:00Z",
+            "content": "Peruvian researcher and author Rafael Aíta asserts that one of the most widespread beliefs about the evangelization of Peru is also one of the most mistaken: the belief that Catholicism was forcibly … [+4190 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": "Mara Gordon",
+            "title": "Everyone's talking about hormone therapy for menopause. Should I be on it?",
+            "description": "For years doctors advised women against hormone therapy for women in the menopausal transition. Now everyone's talking about how great it is. Is it really a wonder drug that women should all be on?",
+            "url": "https://www.npr.org/2026/08/07/nx-s1-5922746/menopause-hormone-therapy-hrt-heart",
+            "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3500x1969+0+635/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F21%2F6c%2Fab0deef84a9387d9aeff6ffd188c%2Fnpr-7-menopause-fa-hi-res.jpg",
+            "publishedAt": "2026-08-07T10:00:00Z",
+            "content": "Dr. Mara Gordon, a family physician in Camden, N.J., answers reader health questions monthly. Send in your question to: thrive@npr.org.\r\nQ: I am in perimenopause. I keep seeing posts all over social … [+9680 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Caroline Haskins",
+            "title": "The Hottest New AI Chatbot Is Just a Guy Answering Your Questions",
+            "description": "WIRED spoke with Tucker Bryant, an artist and former Google employee who created ChatTJB to get people to reflect on the “strange moment” we’re in.",
+            "url": "https://www.wired.com/story/this-chatbot-is-just-a-random-guy-lol/",
+            "urlToImage": "https://media.wired.com/photos/6a74accfee5313e488f8fb05/191:100/w_1280,c_limit/080726-Guy-Running-Chatbot-By-Hand-Business.jpg",
+            "publishedAt": "2026-08-07T10:00:00Z",
+            "content": "What if, instead of typing the next silly question you have into Claude or ChatGPT, you asked a random guy instead?\r\nThats the idea behind ChatTJB. Its the creation of 32-year-old Tucker Bryant, a pu… [+3170 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Thelineofbestfit.com"
+            },
+            "author": "Best Fit",
+            "title": "The Linda Lindas share hardcore-inspired single “Blood On Our Hands” ahead of new album",
+            "description": "Ahead of their third album, GOTTA GET OUT, The Linda Lindas have shared a hardcore beatdown led by bassist Eloise Wong, addressing our complicity in mass murder.",
+            "url": "https://www.thelineofbestfit.com/news/the-linda-lindas-share-hardcore-inspired-single-blood-on-our-hands-ahead-of-new-album",
+            "urlToImage": "https://cdn.craft.cloud/3747bbfe-07db-499d-aa3d-b239ba21c062/assets/images/The-Linda-Lindas-by-Jaxon-Whittington.jpg?fit=cover&format=webp&width=1200&s=M-CBAOHcTxq7INCJPDuKeBKk28vOGLEfR3vlEook5c4",
+            "publishedAt": "2026-08-07T10:00:00Z",
+            "content": "Were living in very dark times and its really easy to feel hopeless, Wong explained. Blood On Our Hands is about doing what you can, not just on national boycott days and marches, but thinking every … [+1078 chars]"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "Demi Williams",
+            "title": "The latest firmware beta update automatically enables PSSR 2.0 on PS5 Pro, giving supported games 'sharper and clearer' graphics",
+            "description": "Sony has released a new PS5 firmware update for its beta program that automatically enables PSSR 2.0 (PlayStation Spectral Super Resolution) on PS5 Pro.",
+            "url": "https://www.techradar.com/gaming/the-latest-firmware-beta-update-automatically-enables-pssr-2-0-on-ps5-pro-giving-supported-games-sharper-and-clearer-graphics",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/U8FDQjAxYmygvFzXAoLXzK-1920-80.jpg",
+            "publishedAt": "2026-08-07T09:59:01Z",
+            "content": "<ul><li>A new PlayStation 5 firmware update has been released for testing</li><li>The update automatically enables PSSR 2.0 on PS5 Pro, even for games that support the previous version of PSSR</li><l… [+3382 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Carly Stern",
+            "title": "I tested the new Samsung Galaxy Watch9: The health tracker’s most exciting features",
+            "description": "The new watch, on sale today, tracks fitness and sleep, measures antioxidants in the skin, and an even do a body composition scan.",
+            "url": "https://nypost.com/2026/08/07/health/samsung-galaxy-watch9-review-health-trackers-most-exciting-features/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/08/newspress-collage-ho7ykihzl-1786048520196.jpg?quality=75&strip=all&1786034207&w=1200",
+            "publishedAt": "2026-08-07T09:59:00Z",
+            "content": "New York Post may be compensated and/or receive an affiliate commission if you click or buy through our links. Featured pricing is subject to change.\r\nHi, I’m the New York Post’s Wellness Editor and … [+9080 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Iasbaba.com"
+            },
+            "author": "IASbaba",
+            "title": "UPSC Quiz – 2026 : IASbaba’s Daily Current Affairs Quiz 4th August 2026",
+            "description": "For Previous Daily Quiz (ARCHIVES) – CLICK HERE The Current Affairs questions are based on sources like ‘The Hindu’, ‘Indian Express’ and ‘PIB’, which are very important sources for UPSC Prelims Exam. The questions are focused on both the concepts and facts. …",
+            "url": "https://iasbaba.com/2026/08/upsc-quiz-2026-iasbabas-daily-current-affairs-quiz-4th-august-2026/",
+            "urlToImage": "https://iasbaba.com/wp-content/uploads/2025/06/Daily-Current-Affairs-Quiz-2025.jpeg",
+            "publishedAt": "2026-08-07T09:57:58Z",
+            "content": "For Previous Daily Quiz (ARCHIVES) – CLICK HERE\r\nThe Current Affairs questions are based on sources like The Hindu, Indian Express and PIB, which are very important sources for UPSC Prelims Exam. The… [+11531 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Bleeding Cool News"
+            },
+            "author": "Mark Seifert",
+            "title": "The Debut of the Golden Age Black Cat in Pocket Comics #1, at Auction",
+            "description": "The Golden Age Black Cat debuted in Harvey's Pocket Comics #1, which also helped launch the entire Harvey comic book empire.",
+            "url": "https://bleedingcool.com/comics/the-debut-of-the-golden-age-black-cat-in-pocket-comics-1-at-auction/",
+            "urlToImage": "https://bleedingcool.com/wp-content/uploads/2026/08/40377-11054-featured-2000x1125.jpg",
+            "publishedAt": "2026-08-07T09:57:09Z",
+            "content": "Posted in: Comics, Heritage Sponsored | Tagged: bob powell, Harvey Comics, joe simon\r\nThe Golden Age Black Cat debuted in Harvey's Pocket Comics #1, which also helped launch the entire Harvey comic b… [+6446 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Itsfoss.com"
+            },
+            "author": "Sourav Rudra",
+            "title": "Illinois Just Told Every Operating System to Start Reporting Your Kid's Age",
+            "description": "The Children's Online Social Media Safety Act has device makers collect the age bracket, but apps still have to act on it.",
+            "url": "https://itsfoss.com/news/illinois-age-verification-bill/",
+            "urlToImage": "https://itsfoss.com/content/images/2026/08/illinois-age-verification-banner.png",
+            "publishedAt": "2026-08-07T09:57:09Z",
+            "content": "Illinois has become the latest U.S. state to pull operating systems into the age verification pool. Governor JB Pritzker has signed HB5511, the Children's Online Social Media Safety Act, putting forw… [+3588 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "CATCH UP: The Round-Up | AI, Search & Digital Marketing News – 08/2026",
+            "description": "CATCH UP: The Round-Up | AI, Search & Digital Marketing News – 08/2026youtube.com",
+            "url": "https://www.youtube.com/supported_browsers?next_url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DwSBfP-2lCzM",
+            "urlToImage": null,
+            "publishedAt": "2026-08-07T09:57:05Z",
+            "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more\r\nRemind me later"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "Sead Fadilpašić",
+            "title": "Swiss government says SharePoint-linked data breach affected hundreds of accounts",
+            "description": "The servers were disconnected to investigate the attack",
+            "url": "https://www.techradar.com/pro/security/swiss-government-says-sharepoint-linked-data-breach-affected-hundreds-of-accounts",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/Ri2dNNTvgmKGsMuhNDCavZ-2560-80.jpg",
+            "publishedAt": "2026-08-07T09:56:47Z",
+            "content": "<ul><li>Swiss government confirms attackers breached BIT’s SharePoint servers </li><li>Investigators suspect exploitation of recent SharePoint flaws </li><li>No sensitive or confidential data is beli… [+2537 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Dailymail.com"
+            },
+            "author": "Shivali Best",
+            "title": "Have YOU seen a ghost? Study maps the 'uncanny' experiences we rarely talk about - and it turns out they're much more common than we thought",
+            "description": "Have you seen a ghost, had an out-of-body-experience, or experienced deja vu? If so, you're not alone - as a study reveals 'uncanny' experiences are more common than we thought.",
+            "url": "https://www.dailymail.com/sciencetech/article-16035875/Have-YOU-seen-ghost-Study-maps-uncanny-experiences.html",
+            "urlToImage": "https://i.dailymail.com/1s/2026/08/07/10/110495389-0-image-m-18_1786095869961.jpg",
+            "publishedAt": "2026-08-07T09:55:40Z",
+            "content": "Have you seen a ghost, had an outofbodyexperience, or even experienced deja vu? \r\nIf so, you're not alone as a new study reveals these 'uncanny' experiences are much more common than we thought. \r\nSc… [+5452 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Vanguard"
+            },
+            "author": "Nwafor",
+            "title": "Uzodimma to Davido: I’m not an Osun voter",
+            "description": "OWERRI – Imo State Governor, Senator Hope Uzodimma, has clarified that he is not a voter in Osun State and has no direct role in determining the outcome of the state’s governorship election. Uzodimma made the clarification while distancing himself from a stat…",
+            "url": "https://www.vanguardngr.com/2026/08/uzodimma-to-davido-im-not-an-osun-voter/",
+            "urlToImage": "https://cdn.vanguardngr.com/wp-content/uploads/2025/05/Uzodimma.jpg",
+            "publishedAt": "2026-08-07T09:55:35Z",
+            "content": "OWERRI Imo State Governor, Senator Hope Uzodimma, has clarified that he is not a voter in Osun State and has no direct role in determining the outcome of the states governorship election.\r\nUzodimma m… [+2483 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "BBC",
+            "title": "McLeish on Phillips interest, 'exciting' St Johnstone & transfer model",
+            "description": "St Mirren manager Craig McLeish has been speaking to the media as his side prepare for Saturday's visit of St Johnstone. On last weekend's victory over Falkirk, McLeish says it was \"a really good start\", adding it's helped \"build confidence and momentum\". McL…",
+            "url": "https://www.bbc.com/sport/articles/c2lqgzglzlgo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+            "urlToImage": "https://s.yimg.com/lo/mysterio/api/0be2b11f36539e4a3b50dc3dfd3451f984078fc7ed55bea06b55035961703386/lightyear_networkapi/resizefill_w1024_h576%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F1d69aec1af02949b24063ee8a5c0d6c7",
+            "publishedAt": "2026-08-07T09:55:33Z",
+            "content": "St Mirren manager Craig McLeish has been speaking to the media as his side prepare for Saturday's visit of St Johnstone.<li>On last weekend's victory over Falkirk, McLeish says it was \"a really good … [+1191 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Vanguard"
+            },
+            "author": "Henry Oduah",
+            "title": "Norwegian football federation calls for Infantino to resign",
+            "description": "The Norwegian Football Federation (NFF), among the fiercest critics of FIFA president Gianni Infantino for several years, will call for his resignation, its head Lise Klaveness said on Friday.\nThe post Norwegian football federation calls for Infantino to resi…",
+            "url": "https://www.vanguardngr.com/2026/08/norwegian-football-federation-calls-for-infantino-to-resign/",
+            "urlToImage": "https://cdn.vanguardngr.com/wp-content/uploads/2023/10/infantino.webp",
+            "publishedAt": "2026-08-07T09:54:29Z",
+            "content": "The Norwegian Football Federation (NFF), among the fiercest critics of FIFA president Gianni Infantino for several years, will call for his resignation, its head Lise Klaveness said on Friday.\r\n“He d… [+908 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Dailymail.com"
+            },
+            "author": "Ruth Stainer",
+            "title": "Princess Beatrice's husband Edo Mapelli Mozzi makes rare comment about the 'luxury' of 'spending time with his family' amid rumours of 'marriage troubles'",
+            "description": "Edo, who wed the daughter of disgraced Andrew Mountbatten-Windsor and Sarah Ferguson in 2020, opened up about his private life on Wednesday.",
+            "url": "https://www.dailymail.com/news/royals/article-16035885/Princess-Beatrices-husband-Edo-Mapelli-Mozzi-marriage.html",
+            "urlToImage": "https://i.dailymail.com/1s/2026/08/07/10/107374229-0-image-m-19_1786094078909.jpg",
+            "publishedAt": "2026-08-07T09:54:25Z",
+            "content": "Princess Beatrice's husband Edo Mapelli Mozzi has offered a rare insight into his family life amid speculations of their 'marriage troubles'.\r\nEdo, who wed the daughter of disgraced Andrew Mountbatte… [+5813 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Crypto Briefing"
+            },
+            "author": "Estefano Gomez",
+            "title": "Oil prices rise amid Gulf tensions; US jobs data awaited",
+            "description": "Rising oil prices amid Gulf tensions highlight potential supply risks, influencing global markets and economic forecasts amid data anticipation.\nThe post Oil prices rise amid Gulf tensions; US jobs data awaited appeared first on Crypto Briefing.",
+            "url": "https://cryptobriefing.com/oil-prices-rise-amid-gulf-tensions-us-jobs-data-awaited/",
+            "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/08093645/pexels-photo-16862261-699x457.jpeg",
+            "publishedAt": "2026-08-07T09:52:52Z",
+            "content": "Stocks and the dollar paused on Tuesday as investors awaited the release of U.S. employment data, while oil prices rose amid escalating tensions in the Gulf. The Bureau of Labor Statistics is set to … [+1534 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Politicalwire.com"
+            },
+            "author": "Taegan Goddard",
+            "title": "Trump Won’t Drop War, Tariffs or Monuments to Save GOP",
+            "description": "“Read the polls, watch economic indicators and talk to President Trump’s inner circle in private, and the verdict on his second term seems clear:,” Axios reports. “Even some longtime insiders fear he’s trapped by a war he shouldn’t have waged, tariffs he shou…",
+            "url": "https://politicalwire.com/2026/08/07/trump-wont-drop-war-tariffs-or-monuments-to-save-gop/",
+            "urlToImage": "https://politicalwire.com/wp-content/uploads/2018/02/PW-podcast-logo.jpg",
+            "publishedAt": "2026-08-07T09:52:47Z",
+            "content": "“There are a lot of blogs and news sites claiming to understand politics, but only a few actually do. Political Wire is one of them.”\r\n Chuck Todd, host of “Meet the Press”\r\n“Concise. Relevant. To th… [+594 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Slashdot.org"
+            },
+            "author": "feedfeeder",
+            "title": "China’s Export Boom Rolls On Despite Trade Backlash - The New York Times",
+            "description": "China’s Export Boom Rolls On Despite Trade BacklashThe New York Times China's exports growth beats estimates in July, as AI-driven shipments surgeCNBC China’s exports slow slightly in July despite robust demand for high-tech productsAP News Three Things to Kn…",
+            "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184889590",
+            "urlToImage": null,
+            "publishedAt": "2026-08-07T09:52:25Z",
+            "content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Fluentin3months.com"
+            },
+            "author": "Benny Lewis",
+            "title": "Poder Conjugation: All Tenses, Explained Simply (with Examples)",
+            "description": "Poder is Spanish's essential modal verb for ability, possibility, and permission, but it comes with two irregular quirks: an o-to-ue stem change under stress and an unpredictable preterite. This complete guide covers every tense with clean conjugation tables …",
+            "url": "https://www.fluentin3months.com/poder-conjugation/",
+            "urlToImage": "https://www.fluentin3months.com/wp-content/uploads/2026/07/poder-conjugation-card.png",
+            "publishedAt": "2026-08-07T09:51:24Z",
+            "content": "Poder is the verb you reach for every single day, “can I”, “could you”, “I wasn't able to”. It's Spanish's do-it-all modal verb for ability, possibility and permission, and it comes with two irregula… [+14941 chars]"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "Graham Barlow",
+            "title": "'Great music is made by people' — Suno, the biggest AI music company, is finally trying to solve a problem its own success helped create",
+            "description": "The AI music revolution has hit an awkward reality — even Suno is starting to put the brakes on.",
+            "url": "https://www.techradar.com/ai-platforms-assistants/great-music-is-made-by-people-suno-the-biggest-ai-music-company-is-finally-trying-to-solve-a-problem-its-own-success-helped-create",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/yYbobM5UY5b7wN3mKUpUsB-2560-80.jpg",
+            "publishedAt": "2026-08-07T09:50:41Z",
+            "content": "Suno, the most popular AI music creation tool, spent years making it incredibly easy to generate music. Now it's introducing download limits, watermarking and fingerprinting to stop people flooding s… [+3187 chars]"
+        },
+        {
+            "source": {
                 "id": null,
                 "name": "Biztoc.com"
             },
@@ -12429,578 +13001,6 @@
             "urlToImage": "https://s.yimg.com/lo/mysterio/api/8488a14b4d4409ce09f43e0650ac1c99c86d9b3e0e0b341db7e9563972cccb7f/lightyear_networkapi/resizefill_w760_h427;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_sporting_news_articles_584%2F3d4efc99627d552ad26c61b2f8b08f09",
             "publishedAt": "2026-08-04T19:34:38Z",
             "content": "Mariners reveal major Rob Refsnyder, Mitch Garver news after Taylor Ward trade originally appeared on The Sporting News. Add The Sporting News as a Preferred Source by clicking here.\r\nThe Seattle Mar… [+1508 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Detroit News"
-            },
-            "author": "Richard Silva, The Detroit News",
-            "title": "Lions RB Jacob Saylors aims to seize opportunity with Gibbs, Vaki out",
-            "description": "Until Jahmyr Gibbs and Sione Vaki return to Lions practice, Jacob Saylors will have ample opportunity to show what he's capable of.",
-            "url": "https://www.detroitnews.com/story/sports/nfl/lions/2026/08/04/detroit-lions-jacob-saylors-jahmyr-gibbs-sione-vaki-running-back/91169278007/",
-            "urlToImage": "https://s.yimg.com/lo/mysterio/api/021004d5749a7db7e39ac5161a8d94d8e8675ba4677243d78d2e6d219ee0e509/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdetroit_news_articles_230%2F6797343f617b2d9300eaefbb607fbe27",
-            "publishedAt": "2026-08-04T19:33:47Z",
-            "content": "Allen Park The surrounding circumstances aren't anything he'd ever root for, but the door is open for Jacob Saylors, and the Detroit Lions are looking for him to capitalize.\r\nSaylors, previously repp… [+2709 chars]"
-        },
-        {
-            "source": {
-                "id": "abc-news-au",
-                "name": "ABC News (AU)"
-            },
-            "author": "Grace Nakamura",
-            "title": "Nurses and midwives' union calls out 'gendered violence' after survey",
-            "description": "Annalise has been kicked, punched and even bitten on the face while working as a nurse. Her experience is reflected in the Queensland Nurses and Midwives' Union's latest report into occupational violence in healthcare settings.",
-            "url": "https://www.abc.net.au/news/2026-08-05/queensland-nurses-midwives-union-workplace-violence/106994304",
-            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/28d82acf251dd31be8ba0f8e9500c0a8?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=0&width=862&height=485&imformat=generic",
-            "publishedAt": "2026-08-04T19:33:40Z",
-            "content": "In her almost 30 years as a nurse, Annalise* has been \"punched, kicked, spat on\" and even bitten on the face by a patient.\r\nWhen she reported the incident to her manager, she was told to \"stick an al… [+5157 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Freerepublic.com"
-            },
-            "author": "CBS News",
-            "title": "ICE detentions set Trump-era high in July, as immigration crackdown widens",
-            "description": "Detentions by Immigration and Customs Enforcement set a monthly record high for the second Trump administration in July, internal agency data obtained by CBS News shows, as ICE widened its crackdown, making arrests at airports, immigration check-in offices an…",
-            "url": "https://freerepublic.com/focus/f-news/4390593/posts",
-            "urlToImage": null,
-            "publishedAt": "2026-08-04T19:33:39Z",
-            "content": "Skip to comments.\r\nICE detentions set Trump-era high in July, as immigration crackdown widensCBS News ^\r\n | August 3, 2026\r\n | Camilo Montoya-Galvez\r\nPosted on 08/04/2026 12:33:39 PM PDT by Twotone\r\n… [+2569 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "pymnts.com"
-            },
-            "author": "PYMNTS",
-            "title": "Cloudflare Issues AI Agents a Wallet and Identity",
-            "description": "Connectivity cloud company Cloudflare introduced tools to help artificial intelligence agents on its platform make purchases. Cloudflare Wallets and cloudlfare.pay are designed to provide AI agents deployed on Cloudflare a “stable identity,” while letting the…",
-            "url": "https://www.pymnts.com/news/artificial-intelligence/2026/cloudflare-issues-ai-agents-wallet-identity/",
-            "urlToImage": "https://www.pymnts.com/wp-content/uploads/2023/09/Cloudflare.jpg",
-            "publishedAt": "2026-08-04T19:33:14Z",
-            "content": "Connectivity cloud company Cloudflare introduced tools to help artificial intelligence agents on its platform make purchases.Cloudflare Wallets and cloudlfare.pay are designed to provide AI agents de… [+2553 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Daily Caller"
-            },
-            "author": "Emily Kopp",
-            "title": "Wall Street Tuned Blind Eye To Epstein’s Massive Money Laundering Scheme, Senator Alleges",
-            "description": "Wall Street executives abetted notorious pedophile Jeffrey Epstein by executing wire transfers to his victims and powerful friends, a new report says.",
-            "url": "https://dailycaller.com/2026/08/04/wall-street-jeffrey-epstein-money-laundering-ron-wyden-report",
-            "urlToImage": "https://images.dailycaller.com/image/width=1280,height=549,fit=cover,format=webp,f=auto/https://cdn01.dailycaller.com/wp-content/uploads/2026/08/Screenshot%202026-08-04%20at%2010.21.25%E2%80%AFAM.png",
-            "publishedAt": "2026-08-04T19:33:07Z",
-            "content": "Wall Street executives abetted notorious pedophile Jeffrey Epstein by executing wire transfers to his victims and powerful friends while shielding him from law enforcement, according to a new Senate … [+4575 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "DW (English)"
-            },
-            "author": "Jenipher Camino Gonzalez",
-            "title": "Italy: Garbage workers help woman find €1 million jackpot",
-            "description": "A woman who won €1 million mistakenly threw her lottery ticket in a trash bin in Bitonto, southern Italy — prompting her local sanitation company to launch an hourslong search.",
-            "url": "https://www.dw.com/en/italy-garbage-workers-help-woman-find-1-million-jackpot/a-78237944",
-            "urlToImage": "https://static.dw.com/image/78238065_6.jpg",
-            "publishedAt": "2026-08-04T19:33:00Z",
-            "content": "Garbage workers in the city of Bitonto, Italy recovered a 1 million ($1.15 million) lottery ticket, after having to search through an entire truck full of trash. Waste management company SANB adminis… [+2237 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Slashdot.org"
-            },
-            "author": "feedfeeder",
-            "title": "Watch: Evacuations as Guatemala volcano erupts - bbc.com",
-            "description": "Watch: Evacuations as Guatemala volcano eruptsbbc.com Guatemala volcano eruption prompts evacuation of hundreds of peopleThe Guardian Guatemala is on alert and evacuates hundreds of villagers after eruption of the Fuego volcano eruptsAP News Photos show lava …",
-            "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184855872",
-            "urlToImage": null,
-            "publishedAt": "2026-08-04T19:32:58Z",
-            "content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way."
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Slashdot.org"
-            },
-            "author": "feedfeeder",
-            "title": "Buckingham Palace: Princess Eugenie welcomes a baby girl in Portugal - AP News",
-            "description": "Buckingham Palace: Princess Eugenie welcomes a baby girl in PortugalAP News See more headlines &amp; perspectives on Google News ...",
-            "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184855828",
-            "urlToImage": null,
-            "publishedAt": "2026-08-04T19:32:17Z",
-            "content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way."
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Slashdot.org"
-            },
-            "author": "feedfeeder",
-            "title": "Tick-borne 'rabbit fever' spreads with cases reported near major metro area - Fox News",
-            "description": "Tick-borne 'rabbit fever' spreads with cases reported near major metro areaFox News What is rabbit fever? Cases of rare tick-borne illness reported on Long IslandNBC New York \"Rabbit fever\" suspected in New York as rare illness resurfacesAxios 9-year-old boy …",
-            "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184855814",
-            "urlToImage": null,
-            "publishedAt": "2026-08-04T19:32:05Z",
-            "content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way."
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "TheWrap"
-            },
-            "author": "Lucas Manfredi",
-            "title": "Paramount-Warner Bros. Merger Antitrust Trial Set for March 2027",
-            "description": "The trial will run for a total of 12 days from March 2 to 15\nThe post Paramount-Warner Bros. Merger Antitrust Trial Set for March 2027 appeared first on TheWrap.",
-            "url": "https://www.thewrap.com/industry-news/deals-ma/paramount-warner-bros-merger-antitrust-trial-march-2027/",
-            "urlToImage": "https://www.thewrap.com/wp-content/uploads/2026/07/071325-WB-Paramount-v4.jpg",
-            "publishedAt": "2026-08-04T19:31:34Z",
-            "content": "The Paramount-Warner Bros. Discovery merger’s legal battle with a group of 12 state attorneys general and the Writers’ Guild of America is headed to court, with an antitrust trial set for March 2027.… [+3430 chars]"
-        },
-        {
-            "source": {
-                "id": "usa-today",
-                "name": "USA Today"
-            },
-            "author": "Dylan Flippo, Aggies Wire",
-            "title": "'We're finally here': Texas A&M HC Mike Elko previews fall camp",
-            "description": "Here is everything Texas A&M head coach Mike Elko said in his fall camp preview during media availability on Tuesday.",
-            "url": "https://aggieswire.usatoday.com/story/sports/college/aggies/football/2026/08/04/texas-aggies-football-mike-elko-fall-camp-preview-media-availability/91169016007/",
-            "urlToImage": "https://s.yimg.com/lo/mysterio/api/2413f7bf74c44b3b1c2268f31b7d90e15d3afd017697d6206bf9ae92d9a63370/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Faggies_wire_usa_today_articles_632%2Fcb498d42e02114130e80e2510fc66664",
-            "publishedAt": "2026-08-04T19:31:27Z",
-            "content": "Report day for Texas A&amp;M is officially here, which means third-year head coach Mike Elko took the podium for media availability to preview fall camp and the upcoming campaign.\r\nLast season, Elko … [+4800 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Jeff Eisenberg",
-            "title": "Bijan Robinson's $75M extension with Falcons resets market and our beliefs on value of running backs",
-            "description": "Contract negotiations involving Robinson, 24, and Jahmyr Gibbs, 24, challenge the often-repeated premise that it’s unwise to invest significant money or draft capital in the running back position.",
-            "url": "https://sports.yahoo.com/nfl/article/bijan-robinsons-75m-extension-with-falcons-resets-market-and-our-beliefs-on-value-of-running-backs-193122182.html",
-            "urlToImage": "https://s.yimg.com/lo/mysterio/api/704d51327c0578e82344755b22f4e808671effc35a012ae4c9b43b8cdbcfed7e/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-08%2F62f2425d-5417-4d8b-84d3-db1fa214d9fa",
-            "publishedAt": "2026-08-04T19:31:22Z",
-            "content": "At 8:06 a.m. ET on Tuesday, Bijan Robinson's agent took a well-earned social media victory lap. \r\n\"Anybody have a brinks truck?\" Nicole Lynn wrote, punctuating her post with the eyes emoji. \r\nOnly mi… [+5375 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Daily Caller"
-            },
-            "author": "Harold Hutchison",
-            "title": "Gun-Control Groups Racking Up Losses Across America",
-            "description": "Over the last two months, anti-Second Amendment groups have been on a losing streak, highlighted by the Supreme Court’s decision in Wolford v. Lopez",
-            "url": "https://dailycaller.com/2026/08/04/david-hogg-wants-you-to-believe-the-nra-is-failing-but-the-news-tells-a-different-story",
-            "urlToImage": "https://images.dailycaller.com/image/width=1280,height=549,fit=cover,format=webp,f=auto/https://cdn01.dailycaller.com/wp-content/uploads/2026/08/DCNF%20-%20Hogg%20NRA%20CNN%20Cooper%20-%20Featured.jpg",
-            "publishedAt": "2026-08-04T19:31:02Z",
-            "content": "Gun-control groups have been on a losing streak in court this summer, highlighted by the Supreme Courts decision in Wolford v. Lopez.\r\nThe most recent defeat came when a United States Court of Appeal… [+2543 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "HuffPost"
-            },
-            "author": "HuffPost",
-            "title": "Laura Ingraham Wants James Carville To Help The Right ‘Defeat’ 1 Common Enemy",
-            "description": "Considering the Democratic strategist’s previous remarks, he may be tempted.",
-            "url": "https://www.huffpost.com/entry/laura-ingraham-wants-james-carville-to-help-the-right-defeat-1-common-enemy_n_6a7217b6e4b02974827b625d",
-            "urlToImage": "https://img.huffingtonpost.com/asset/6a7233511400009d2beaf5d8.jpeg?cache=YjXVUGryPP&ops=1200_630",
-            "publishedAt": "2026-08-04T19:30:52Z",
-            "content": "Fox News host Laura Ingraham asked longtime Democratic strategist James Carville on Monday to join Republicans to help defeat a common opponent: democratic socialists.\r\nThe invitation came in respons… [+3509 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Medical Daily"
-            },
-            "author": "Ryan Archer",
-            "title": "UFC Fighter Allan Nascimento Dies at 34 as Doctors Explain Why Heart Attacks Can Strike Younger Adults",
-            "description": "Former UFC flyweight Allan Nascimento died at 34 after an apparent heart attack, raising awareness of heart attack symptoms and cardiovascular health.",
-            "url": "https://www.medicaldaily.com/allan-nascimento-death-apparent-heart-attack-ufc-fighter-476834",
-            "urlToImage": "https://d.medicaldaily.com/en/full/483969/mike-roach-zuffa-llc.jpg",
-            "publishedAt": "2026-08-04T19:30:50Z",
-            "content": "Allan Nascimento, who competed in the UFC's flyweight division, has died at the age of 34 after an apparent heart attack, according to multiple reports. The news came just weeks after his most recent… [+4835 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Daily Beast"
-            },
-            "author": "Laura Esposito",
-            "title": "Cornered MAGA Senator Bernie Moreno Condemns Accused Wife Beater Max Miller's Grotesque Mistake",
-            "description": "Cornered MAGA Senator Bernie Moreno Condemns Accused Wife Beater Max Miller's Grotesque Mistakethedailybeast.com",
-            "url": "https://www.thedailybeast.com/cornered-maga-senator-bernie-moreno-condemns-accused-wife-beater-max-millers-grotesque-mistake/",
-            "urlToImage": "https://www.thedailybeast.com/resizer/v2/L43SHPHXBJCFZHG5KEL2RCIA4E.jpg?smart=true&auth=2a2c4886a44c5009802e94e57efaa7a6b2020c59c9ae027b0c9617dc20f227e9&width=1200&height=630",
-            "publishedAt": "2026-08-04T19:30:43Z",
-            "content": "Republican Sen. Bernie Moreno is calling for his former son-in-law and Trump-endorsed Rep. Max Miller to be jailed after Millers legal team allegedly released a nude photo of his 2-year-old daughter.… [+4877 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Hockey News"
-            },
-            "author": "Karine Hains",
-            "title": "Canadiens’ Classic Look Shouldn’t Be Messed With",
-            "description": "The Athletic came up with a list of one jersey each NHL team should bring back, but they drew a blank for two teams, including the Montreal Canadiens. It's quite easy to understand why.",
-            "url": "https://thehockeynews.com/nhl/montreal-canadiens/latest-news/canadiens-classic-look-shouldn-t-be-messed-with",
-            "urlToImage": "https://s.yimg.com/lo/mysterio/api/eb58127d6c34b518a86accf2e4dbaee4e48fcd3f12b3ac8c0cc555db9e174436/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_hockey_news_montreal_canadiens_articles_443%2F028deff5a7040068d19110ca3653bf38",
-            "publishedAt": "2026-08-04T19:30:26Z",
-            "content": "In a feature article, The Athletic's staff wrote a piece focusing on one jersey each NHL team should bring back, but there were two exceptions. The writers explained that the Utah Mammoth hadn't had … [+3648 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Commercial Observer"
-            },
-            "author": "Edavis",
-            "title": "Munish Viralam of Newmark: 5 Questions",
-            "description": "Munish Viralam arrived at Newmark in June, fresh off an 18-year stint at CBRE. As executive vice chairman at Newmark, Viralam has been tasked with leading the firm’s newly centralized real estate strategy and consulting group, scaling up its strategic arm, an…",
-            "url": "http://commercialobserver.com/2026/08/munish-viralam-newmark-5-questions/",
-            "urlToImage": "https://commercialobserver.com/wp-content/uploads/sites/3/2026/08/Newmark_Group_Munish_Viralam-credit-Newmark-WEB.jpg?quality=80&crop=0px%2C287px%2C2000px%2C1051px&resize=1200%2C630&strip",
-            "publishedAt": "2026-08-04T19:30:04Z",
-            "content": "Munish Viralam arrived at Newmark in June, fresh off an 18-year stint at CBRE.\r\nAs executive vice chairman at Newmark, Viralam has been tasked with leading the firm’s newly centralized real estate st… [+7586 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Vanguard"
-            },
-            "author": "Akinbayo Wahab",
-            "title": "Consumers paid N208.15bn for electricity in May – NERC",
-            "description": "NERC's Commercial Performance Factsheet for May 2026 showed that the DisCos received electricity worth N328.95 billion during the month, representing an 8.58 per cent increase from April.\nThe post Consumers paid N208.15bn for electricity in May – NERC appeare…",
-            "url": "https://www.vanguardngr.com/2026/08/consumers-paid-n208-15bn-for-electricity-in-may-nerc/",
-            "urlToImage": "https://cdn.vanguardngr.com/wp-content/uploads/2024/05/image-340.png",
-            "publishedAt": "2026-08-04T19:29:36Z",
-            "content": "By Obas Esiedesa, Abuja\r\nElectricity consumers across Nigeria paid a total of N208.15 billion for power supplied in May 2026, as electricity distribution companies (DisCos) improved their revenue col… [+1880 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Cricketnews.com"
-            },
-            "author": "Deepanjan Mitra",
-            "title": "What is a Chinaman bowler? Meaning, name origin and cricket's famous left-arm wrist spinners listed",
-            "description": "With a long line of famous names and boasting some of the best bowlers of all time, here's everything you would need to know about Chinaman bowling, its origin and its meaning.",
-            "url": "https://www.cricketnews.com/en/cricket/news/chinaman-bowler-meaning-famous-left-arm-wrist-spinners/e2107393d66cdaf5af83fe15",
-            "urlToImage": "https://s.yimg.com/lo/mysterio/api/6eb438b75458223855318e9310f3ad450dac0328bc73045729bdb8aba7413d8c/lightyear_networkapi/resizefill_w760_h427;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F6228a1027a62f9d70f2372f33970e8ba",
-            "publishedAt": "2026-08-04T19:29:19Z",
-            "content": "What is a Chinaman bowler? Meaning, name origin and cricket's famous left-arm wrist spinners listed originally appeared on Cricket News. Add Cricket News as a Preferred Source by clicking here.\r\n<ul>… [+5411 chars]"
-        },
-        {
-            "source": {
-                "id": "techcrunch",
-                "name": "TechCrunch"
-            },
-            "author": "Julie Bort",
-            "title": "Nvidia doesn't mess around: A week after open AI industry group formed, it's already showing progress | TechCrunch",
-            "description": "The week-old Open Secure AI Alliance, spearheaded by Nvidia and grown to over 120 companies, already has proposals out for defending against AI agents.",
-            "url": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/",
-            "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/01/jensen-ces-2026-getty.jpg?resize=1200,800",
-            "publishedAt": "2026-08-04T19:28:49Z",
-            "content": "The week-old Open Secure AI Alliance (OSAA), an industry group spearheaded by Nvidia that has already grown to over 120 companies, has developed a cutely named working group, the Shared AI Findings E… [+3076 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "TIM WILLERT",
-            "title": "Oklahoma coach Brent Venables looking for more production from running game",
-            "description": "Much of that defense returns, but the Sooners will need more production from their running backs and tight ends to make a return trip. Oklahoma is looking to boost production from the tight end position heading into fall camp, which begins Wednesday, and Vena…",
-            "url": "https://sports.yahoo.com/articles/oklahoma-coach-brent-venables-looking-192750471.html",
-            "urlToImage": "https://s.yimg.com/lo/mysterio/api/0a1ac4a4d12ca0a50d98f879bde0626cd5517e0d81ad59770f024d09daa88edd/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F22194a2e82ffd932757b4e86f1d86198",
-            "publishedAt": "2026-08-04T19:27:50Z",
-            "content": "NORMAN, Okla. (AP) Oklahoma leaned on an elite defense to reach the College Football Playoff in Brent Venables' fourth year as coach. Much of that defense returns, but the Sooners will need more prod… [+2554 chars]"
-        },
-        {
-            "source": {
-                "id": "abc-news-au",
-                "name": "ABC News (AU)"
-            },
-            "author": "Madeleine Rojahn",
-            "title": "Tasmanian child detained for 55 hours in adult watch house cell",
-            "description": "Children have been detained in adult watch houses for up to 55 hours at a time, figures show, a year on since the Tasmanian government was urged to completely phase out the use of adult facilities for kids.",
-            "url": "https://www.abc.net.au/news/2026-08-05/tasmania-kids-kept-adult-watch-houses/106969554",
-            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/77ef1fd2d7a101a5a6571055744e75bd?impolicy=wcms_watermark_news&cropH=2169&cropW=3856&xPos=0&yPos=2808&width=862&height=485&imformat=generic",
-            "publishedAt": "2026-08-04T19:27:49Z",
-            "content": "Children were locked up in a Tasmanian prison watch house more than 300 times last financial year, including one child who was detained for 55 hours.\r\nThe figures, released to the Greens under right … [+7030 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Vanguard"
-            },
-            "author": "Emmanuel Okogba",
-            "title": "WAFCON: Super Falcons in must-win tie against Egypt",
-            "description": "Cup-holders Nigeria have their eyes trained hard on a ticket to the quarter-finals as they confront Egypt in Wednesday’s final match of Group C of the Women Africa Cup of Nations finals.\nThe post WAFCON: Super Falcons in must-win tie against Egypt appeared fi…",
-            "url": "https://www.vanguardngr.com/2026/08/wafcon-super-falcons-in-must-win-tie-against-egypt/",
-            "urlToImage": "https://cdn.vanguardngr.com/wp-content/uploads/2026/08/Super-Falcons-e1785871607776.png",
-            "publishedAt": "2026-08-04T19:27:10Z",
-            "content": "Cup-holders Nigeria have their eyes trained hard on a ticket to the quarter-finals as they confront Egypt in Wednesdays final match of Group C of the Women Africa Cup of Nations finals.\r\nDefeat by de… [+1569 chars]"
-        },
-        {
-            "source": {
-                "id": "nbc-news",
-                "name": "NBC News"
-            },
-            "author": "Lily Alvino",
-            "title": "Chipotle removes jalapeños after possible link to salmonella outbreak",
-            "description": "Chipotle said Tuesday it had removed jalapeños from its restaurants across the country after they were suspected in a salmonella outbreak that has sickened at least 110 people in Minnesota.",
-            "url": "https://www.nbcnews.com/health/health-news/chipotle-removes-jalapenos-possible-link-salmonella-outbreak-rcna590826",
-            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-02/250205-chipotle-ch-1438-487171.jpg",
-            "publishedAt": "2026-08-04T19:27:10Z",
-            "content": "Chipotle said Tuesday it had removed jalapeños from its restaurants across the country after they were suspected in a salmonella outbreak that has sickened at least 110 people in Minnesota.\r\nOut of a… [+2576 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "PRNewswire"
-            },
-            "author": null,
-            "title": "In HelloNation, Moving Expert Mike Marschhausen Explains How to Protect Fragile and High-Value Items During a Move",
-            "description": "The article explains how planning, communication, and specialized packing help protect valuable belongings throughout the moving process. PORTSMOUTH, N.H., Aug. 4, 2026 /PRNewswire/ -- How should fragile items and high-value belongings be handled during a mov…",
-            "url": "https://www.prnewswire.com/news-releases/in-hellonation-moving-expert-mike-marschhausen-explains-how-to-protect-fragile-and-high-value-items-during-a-move-302842927.html",
-            "urlToImage": "https://mmx.prnewswire.com/media/MS1963914/HelloNation-Mike-Marschhausen-Owner-of-Fit-2-Move-Moving-Services.mp4?id=OA2824612&p=thumbnail",
-            "publishedAt": "2026-08-04T19:27:00Z",
-            "content": "The article explains how planning, communication, and specialized packing help protect valuable belongings throughout the moving process.\r\nPORTSMOUTH, N.H., Aug. 4, 2026 /PRNewswire/ -- How should fr… [+4654 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Biztoc.com"
-            },
-            "author": "barchart.com",
-            "title": "Nat-Gas Prices Retreat on Bigger US Supplies and Cooler Temps",
-            "description": "September Nymex natural gas (NGU26) closed down -0.099 (-3.56%) on Tuesday.\nNat-gas prices retreated on Tuesday amid news of larger US supplies and forecasts for cooler US temperatures that could reduce electricity demand to run air conditioning.\nNat-gas pric…",
-            "url": "https://biztoc.com/x/60894e7132203fad",
-            "urlToImage": "https://biztoc.com/cdn/60894e7132203fad_s.webp",
-            "publishedAt": "2026-08-04T19:27:00Z",
-            "content": "September Nymex natural gas (NGU26) closed down -0.099 (-3.56%) on Tuesday.Nat-gas prices retreated on Tuesday amid news of larger US supplies and forecasts for cooler US temperatures that could redu… [+141 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Bleeding Green Nation"
-            },
-            "author": "Brandon Lee Gowton",
-            "title": "Eagles Training Camp Practice Notes: Offense out of sync as DeVonta Smith and Makai Lemon miss time",
-            "description": "﻿﻿﻿Observations from the Jefferson Health Training Complex.",
-            "url": "https://www.bleedinggreennation.com/philadelphia-eagles-preseason/178557/eagles-training-camp-practice-notes-offense-out-of-sync-as-devonta-smith-and-makai-lemon-miss-time",
-            "urlToImage": "https://s.yimg.com/lo/mysterio/api/345aac48dea01dc0b4ce396bb7b51c9f8fccde8079f234923fcb9194d6178181/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2F72da4bda50fb6ccaef8347ad6f39f161",
-            "publishedAt": "2026-08-04T19:26:46Z",
-            "content": "Today marked the fifth Philadelphia Eagles training camp practice ahead of the 2026 NFL season. Here's what I observed at the Jefferson Health Training Complex!<li>Leading with injury news today sinc… [+5557 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Vanguard"
-            },
-            "author": "Akinbayo Wahab",
-            "title": "US hopeful Hormuz strait deal will be done ‘today or tomorrow’",
-            "description": "US Treasury Secretary Scott Bessent told broadcaster CNBC \"there is a chance we may have a deal\" in the coming hours, echoing remarks from President Donald Trump the day before.\nThe post US hopeful Hormuz strait deal will be done ‘today or tomorrow’ appeared …",
-            "url": "https://www.vanguardngr.com/2026/08/us-hopeful-hormuz-strait-deal-will-be-done-today-or-tomorrow/",
-            "urlToImage": "https://cdn.vanguardngr.com/wp-content/uploads/2026/07/AFP__20260712__B9XZ8ZQ__v1__MidRes__FilesIranUsIsraelWar.jpg",
-            "publishedAt": "2026-08-04T19:26:20Z",
-            "content": "(FILES) In this picture obtained from Iran’s ISNA news agency on June 18, 2026, vessels are seen anchored in Bandar Abbas along the Strait of Hormuz. Tehran announced it was closing the Strait of Hor… [+4852 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Sporting News"
-            },
-            "author": "Kyle Bonn",
-            "title": "Who is USMNT hopeful Zavier Gozo? Meet American teenager leaving MLS for Premier League's Crystal Palace",
-            "description": "No U.S. youngster seems primed for more immediate growth than 19-year-old Zavier Gozo, who is now set for a move to Europe's biggest stage.",
-            "url": "https://www.sportingnews.com/us/soccer/news/who-zavier-gozo-american-leaving-mls-crystal-palace/c23971dd1f7e827653ec9da3",
-            "urlToImage": "https://s.yimg.com/lo/mysterio/api/79d20a8bb37d579e671f4aa9094ee09e7e4c66b795aea9960965842a735f6691/lightyear_networkapi/resizefill_w760_h427;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_sporting_news_articles_584%2Fcfb66ca7e45c8641154ea310a5d48e96",
-            "publishedAt": "2026-08-04T19:25:54Z",
-            "content": "Who is USMNT hopeful Zavier Gozo? Meet American teenager leaving MLS for Premier League's Crystal Palace originally appeared on The Sporting News. Add The Sporting News as a Preferred Source by click… [+6001 chars]"
-        },
-        {
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "author": null,
-            "title": "Tennessee coach unloads on NCAA's 'bulls–t', after star linebacker suspended for outdated rule",
-            "description": "Josh Heupel called the NCAA's two-game suspension of Arion Carter \"bullsh*t,\" blasting outdated rules after the linebacker returned from the NFL Draft.",
-            "url": "https://www.foxnews.com/outkick-sports/tennessee-coach-unloads-ncaa-bulls-star-linebacker-suspended-outdated-rule",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/08/josh-heupel-tennessee-volunteers-sec-media-day.jpg",
-            "publishedAt": "2026-08-04T19:25:15Z",
-            "content": "KNOXVILLE, TN - After the NCAA decided it was going to suspend Tennessee linebacker Arion Carter for the opening two games of the upcoming season, his head coach did not hesitate to call out the orga… [+4769 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Sports Illustrated"
-            },
-            "author": "Killian Wright",
-            "title": "Mizzou's No. 25 Ranking in the Preseason Coaches Poll Indicates Tough Schedule, More",
-            "description": "Mizzou was ranked 25 in the Preseason Coaches Poll. The ranking shows how hard Missouri's schedule is, along with how the coaches view Missouri. Additionally, Ahmad Hardy, Cayden Green and Brett Le Blanc were named to award watchlists.",
-            "url": "https://www.si.com/college/missouri/football/mizzou-s-no-25-ranking-in-the-preseason-coaches-poll-indicates-tough-schedule-more",
-            "urlToImage": "https://s.yimg.com/lo/mysterio/api/92e1d78a1b257dc370ee619732bf2ff3329a2df2bd684ca2da5a1de1ef0f46cb/lightyear_networkapi/resizefill_w912_h513%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmissouri_tigers_on_si_articles_910%2F72ebb3b069fbdd809398419defc22de7",
-            "publishedAt": "2026-08-04T19:25:05Z",
-            "content": "USA Today released its preseason Coaches Top 25 poll on Tuesday, and the Missouri Tigers made the cut, slotting in at the No. 25 spot.\r\n1. Ohio State2. Oregon3. Georgia4. Texas5. Notre Dame6. Indiana… [+3339 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Superherohype.com"
-            },
-            "author": "Evolve Editors",
-            "title": "Star Wars: New TV Show Trailer Features Lightsaber Battles, Returning Characters, & More",
-            "description": "The new Star Wars Disney+ TV show‘s final trailer has been released. It teases lightsaber battles with returning characters and more. In the new animated show, Lah Kara continues to train in the ways of the Jedi. The official synopsis reads, “Kara and her rag…",
-            "url": "https://www.superherohype.com/tv/683836-star-wars-new-tv-show-trailer-lightsaber-returning-characters",
-            "urlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/08/star-wars.jpg?resize=1200,630",
-            "publishedAt": "2026-08-04T19:24:47Z",
-            "content": "The new Star Wars Disney+ TV shows final trailer has been released. It teases lightsaber battles with returning characters and more. In the new animated show, Lah Kara continues to train in the ways … [+1836 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Sporting News"
-            },
-            "author": "Sami Haider",
-            "title": "Cowboys ownership talk heats up after Jerry Jones' Mark Cuban response",
-            "description": "Jerry Jones said he would be open to selling a minority stake in the Cowboys to Mark Cuban, who confirmed his own interest in return.",
-            "url": "https://www.sportingnews.com/us/nfl/dallas-cowboys/news/jerry-jones-mark-cuban-cowboys-stake/b45c7f44226f4e29d4e676d2",
-            "urlToImage": "https://s.yimg.com/lo/mysterio/api/87d6b8bf4126aa85bb75874a6be1d0278006c087fb9e7d56b7e8483aeda05ecc/lightyear_networkapi/resizefill_w760_h427;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_sporting_news_articles_584%2Fdf5628fab873a21a1e5c7862a2666752",
-            "publishedAt": "2026-08-04T19:24:19Z",
-            "content": "Cowboys ownership talk heats up after Jerry Jones' Mark Cuban response originally appeared on The Sporting News. Add The Sporting News as a Preferred Source by clicking here.\r\nThe Dallas Cowboys have… [+2803 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Daily Caller"
-            },
-            "author": "Nicole Silverio",
-            "title": "Max Miller Gets His Wish: House Opens Investigation Into His Personal Life",
-            "description": "The House Ethics Committee opened an investigation Tuesday into Republican Ohio Rep. Max Miller after the congressman requested one be opened.",
-            "url": "https://dailycaller.com/2026/08/04/max-miller-gets-his-wish-house-opens-investigation-into-his-personal-life",
-            "urlToImage": "https://images.dailycaller.com/image/width=1280,height=549,fit=cover,format=webp,f=auto/https://cdn01.dailycaller.com/wp-content/uploads/2026/08/GettyImages-1325666486.jpg",
-            "publishedAt": "2026-08-04T19:24:13Z",
-            "content": "The House Ethics Committee opened an investigation Tuesday into Republican Ohio Rep. Max Miller after the congressman requested one be opened. \r\nMiller took steps Tuesday for the Ethics Committee to … [+3644 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "GamesRadar+"
-            },
-            "author": "lauren.milici@futurenet.com (Lauren Milici) , Lauren Milici",
-            "title": "Wonder Man co-creator says Kevin Feige didn't cancel season 2 of the acclaimed Marvel show: \"I know he loves that show as much as I do\"",
-            "description": "Destin Daniel Cretton has spoken out about the show's surprise cancellation",
-            "url": "https://www.gamesradar.com/entertainment/marvel-tv-shows/wonder-man-co-creator-says-kevin-feige-didnt-cancel-season-2-of-the-acclaimed-marvel-show-i-know-he-loves-that-show-as-much-as-i-do/",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/CquYXaN2hrA4thvSQkvShZ-1920-80.jpg",
-            "publishedAt": "2026-08-04T19:24:12Z",
-            "content": "Disney Plus Wonder Man series co-creator Destin Daniel Cretton says he's just as confused and heartbroken as the rest of us over the show's cancellation... but that it wasn't Marvel boss Kevin Feige'… [+1622 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Eonline.com"
-            },
-            "author": "Olivia Evans",
-            "title": "Caitlin O’Connor Celebrates Birthday With Fiancé Joe Manganiello",
-            "description": "Caitlin O’Connor is ringing in a new year with fiancé Joe Manganiello. \nThe television host shared exclusive details on how she celebrated her 37th birthday Aug. 3 alongside the Magic Mike actor,...",
-            "url": "https://www.eonline.com/news/1434663/joe-manganiello-celebrates-fiancee-caitlin-oconnors-birthday",
-            "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/20260804/b41af11f-f65b-4ac8-89e9-8445be16c23c_1785867158.jpg?fit=around%7C1200:1200&output-quality=90&crop=1200:1200;center,top",
-            "publishedAt": "2026-08-04T19:24:00Z",
-            "content": "Caitlin OConnor is ringing in a new year with fiancé Joe Manganiello. \r\nThe television host shared exclusive details on how she celebrated her 37th birthday Aug. 3 alongside the Magic Mike actor, mus… [+896 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Celtics Blog"
-            },
-            "author": "Shirley Coshatt",
-            "title": "Boston Celtics Daily Links 8/4/26",
-            "description": "All the Celtics news you need in one convenient place.",
-            "url": "https://www.celticsblog.com/boston-celtics-daily-links/144477/boston-celtics-daily-links-8-4-26",
-            "urlToImage": "https://s.yimg.com/lo/mysterio/api/9dfe8304815f958ffda5fc11827c6cb9705b3574c4c35f89afa8a6a1be6d9da9/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2F00689fc4f13c276b1aa9879d45f226e3",
-            "publishedAt": "2026-08-04T19:23:42Z",
-            "content": "HeraldCeltics' Jordan Walsh dishes on chats with Paul George, new contract and LeBron-to-Philly\r\nCelticsBlog Ron Harper Jr. talks new contract, giving Paul George his number, and more\r\nBanner Years: … [+4843 chars]"
-        },
-        {
-            "source": {
-                "id": "nbc-news",
-                "name": "NBC News"
-            },
-            "author": "Nicole Acevedo",
-            "title": "Family of New Jersey man who died in ICE custody accuses agency of ‘medical neglect’",
-            "description": "The family of a 41-year-old Salvadoran man who died Saturday at an immigration detention center in New Jersey is claiming that medical negligence is to blame for his death.",
-            "url": "https://www.nbcnews.com/news/us-news/death-ice-custody-lopez-cornejo-family-speaks-rcna590751",
-            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-08/260804-Edwin-Lopez-Cornejo-vl-132p-ae5666.jpg",
-            "publishedAt": "2026-08-04T19:23:37Z",
-            "content": "The family of a 41-year-old Salvadoran man who died Saturday at an immigration detention center in New Jersey is claiming that medical negligence is to blame for his death. \r\nIt isnt fair that he die… [+3803 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Falcoholic"
-            },
-            "author": "Dave Choate",
-            "title": "Jalon Walker injured, carted off field at Falcons training camp",
-            "description": "A nightmare moment at practice has us hoping for the best.",
-            "url": "https://www.thefalcoholic.com/atlanta-falcons-injuries/94809/jalon-walker-injured-carted-off-field-at-falcons-training-camp",
-            "urlToImage": "https://s.yimg.com/lo/mysterio/api/f6631790cf971b88389e0c502a7cd72c00245de16cc29a5cf5f2485f876f1993/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2Fd0f30efad6c48796aabbe175b66c3c5d",
-            "publishedAt": "2026-08-04T19:23:36Z",
-            "content": "We've had more injury news regarding the Falcons than any of us cared to hear, and we just received the worst news yet. Jalon Walker was injured at practice on Tuesday and was carted off the field, a… [+1402 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Newsonjapan.com"
-            },
-            "author": "News On Japan",
-            "title": "Betting on Bananas in Okinawa",
-            "description": "A banana grower in Okinawa is working to transform the fruit into a major local industry after recognizing the potential of a market that depends almost entirely on imports despite strong consumer demand. (News On Japan)",
-            "url": "https://newsonjapan.com/article/150251.php",
-            "urlToImage": "https://i2.ytimg.com/vi/tF9E4RSeXgk/maxresdefault.jpg",
-            "publishedAt": "2026-08-04T19:22:54Z",
-            "content": "NAHA -\r\n A banana grower in Okinawa is working to transform the fruit into a major local industry after recognizing the potential of a market that depends almost entirely on imports despite strong co… [+4194 chars]"
-        },
-        {
-            "source": {
-                "id": "usa-today",
-                "name": "USA Today"
-            },
-            "author": "Charlie Strella, Buffaloes Wire",
-            "title": "Shedeur Sanders receives mixed reviews in The Athletic's NFL QB tiers",
-            "description": "Former Colorado quarterback Shedeur Sanders debuted in The Athletic's NFL QB tiers, drawing mixed reviews from coaches and league executives.",
-            "url": "https://coloradobuffaloeswire.usatoday.com/story/sports/college/buffaloes/football/2026/08/04/shedeur-sanders-ranking-the-athletic-nfl-quarterback-tiers-2026/91168230007/",
-            "urlToImage": "https://s.yimg.com/lo/mysterio/api/257781506eaf5fcc417e0a81b60b1789b12966acceba3c3d720f8ece9db16614/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbuffaloes_wire_usa_today_articles_968%2Fcdf6a003315098dbe538ec0428a06637",
-            "publishedAt": "2026-08-04T19:22:52Z",
-            "content": "Every August brings rankings galore, with teams, players, coaches, conferences, and leagues stacked against each other as we enter a new football season. At the NFL level, one list that has become a … [+2213 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Emma Roth",
-            "title": "Telegram CEO says an extortionist planted CSAM in a chat to get it pulled from the App Store",
-            "description": "Telegram CEO Pavel Durov blames an extortionist for planting child sexual abuse material (CSAM) in a public chat to get the app temporarily removed from Apple's App Store on Monday night. \"Apple removed Telegram from the App Store before contacting us,\" Durov…",
-            "url": "https://www.theverge.com/tech/975300/telegram-app-store-takedown-extortion-pavel-durov",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25589996/STK207_STK085__PAVEL_DUROV_TELEGRAM_C.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
-            "publishedAt": "2026-08-04T19:22:41Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nPavel Durov claims attackers post illegal content and manipulate reports to trigger the removal of legitimate communities.\r\nPavel Durov claims attackers post ill… [+4469 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Abajournal.com"
-            },
-            "author": "Julianne Hill",
-            "title": "Lawyer faces competence claims from 4 judges after disciplinary actions",
-            "description": "Five years after a Portland, Oregon, attorney received an apology from the state legislature for a decision denying his admission to the Oregon State Bar, he now faces challenges from four Multnomah County, Oregon, judges after disciplinary actions related to…",
-            "url": "https://www.abajournal.com/news/article/portland-lawyer-facing-judges-competence-claims",
-            "urlToImage": "https://www.abajournal.com/images/main_images/shutterstock_oregon_gavel.jpg",
-            "publishedAt": "2026-08-04T19:22:00Z",
-            "content": "<ol><li>Home</li><li>Daily News</li><li>Lawyer faces competence claims from 4 judges…</li></ol>By Julianne Hill\r\nAugust 4, 2026, 2:22 pm CDT\r\nFive years after a Portland, Oregon, attorney received an… [+1228 chars]"
         }
     ]
 }

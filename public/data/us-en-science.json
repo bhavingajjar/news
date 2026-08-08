@@ -1,6 +1,6 @@
 {
     "status": "ok",
-    "totalResults": 294,
+    "totalResults": 293,
     "articles": [
         {
             "source": {
@@ -3810,19 +3810,6 @@
             "urlToImage": "https://www.sciencealert.com/images/2026/07/cyclops-eye-lizard.jpg",
             "publishedAt": "2026-08-01T10:02:20Z",
             "content": "The human eye is one of nature's most complex visual systems.\r\nYet its origins may trace back to a small, worm-like sea creature with a single, simple eye in the middle of its head.\r\nAccording to a n… [+4709 chars]"
-        },
-        {
-            "source": {
-                "id": "ars-technica",
-                "name": "Ars Technica"
-            },
-            "author": "Jacek Krywko",
-            "title": "How fruit flies chase invisible ribbons of smell to get to their source - Ars Technica",
-            "description": "Tracking smells in turbulent air takes a keen sense of direction and sharp memory.",
-            "url": "https://arstechnica.com/science/2026/08/how-fruit-flies-chase-invisible-ribbons-of-smell-to-get-to-their-source/",
-            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-956238116-1152x648.jpg",
-            "publishedAt": "2026-08-01T10:00:19Z",
-            "content": null
         }
     ]
 }
