@@ -1,6 +1,6 @@
 {
     "status": "ok",
-    "totalResults": 292,
+    "totalResults": 294,
     "articles": [
         {
             "source": {
@@ -83,6 +83,19 @@
         {
             "source": {
                 "id": null,
+                "name": "Houston Chronicle"
+            },
+            "author": "Andrea Leinfelder",
+            "title": "Photos, video show crater and moon dust plume after SpaceX rocket crashes into the moon - Houston Chronicle",
+            "description": "Photos and a video show the aftermath of a SpaceX Falcon 9 rocket crashing into the moon early Wednesday morning.",
+            "url": "https://www.houstonchronicle.com/news/houston-texas/space/article/spacex-moon-crash-aftermath-22377457.php",
+            "urlToImage": "https://s.hdnux.com/photos/01/65/67/31/30897736/5/rawImage.jpg",
+            "publishedAt": "2026-08-06T21:01:06Z",
+            "content": "A view of the moon taken by an Artemis II crew member through the window of the Orion spacecraft on April 3, 2026.\r\nNASA\r\nNew video and photos confirm that a SpaceX rocket crashed into the moon early… [+4913 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "Space.com"
             },
             "author": "Robert Z. Pearlman",
@@ -105,6 +118,19 @@
             "urlToImage": "https://dims.apnews.com/dims4/default/78ed727/2147483647/strip/true/crop/546x364+0+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F44%2F4f%2F071239961579c316e8f6dda9d118%2F1c8a3178e896474a917004ed8605c841",
             "publishedAt": "2026-08-06T19:46:00Z",
             "content": "CAPE CANAVERAL, Fla. (AP) A South Korean satellite has captured the first pictures of the moons fresh crash scene caused by a stray SpaceX rocket.\r\nThe Korea Aerospace Research Institutes Danuri spac… [+1379 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Phys.Org"
+            },
+            "author": null,
+            "title": "Observing key material properties atom by atom for the first time - Phys.org",
+            "description": "Many material properties depend on how electrons are arranged inside a material. Their distribution determines, for example, whether a material conducts electricity or displays magnetic behavior. Understanding how electrons organize themselves at the atomic s…",
+            "url": "https://phys.org/news/2026-08-key-material-properties-atom.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/a-new-technique-allows-1.jpg",
+            "publishedAt": "2026-08-06T19:00:01Z",
+            "content": "Many material properties depend on how electrons are arranged inside a material. Their distribution determines, for example, whether a material conducts electricity or displays magnetic behavior. Und… [+5012 chars]"
         },
         {
             "source": {
@@ -209,6 +235,19 @@
             "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/fungi1-1152x648-1785957606.jpg",
             "publishedAt": "2026-08-06T17:13:45Z",
             "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "FRANCE 24 English"
+            },
+            "author": "FRANCE 24",
+            "title": "What to know about the total solar eclipse on August 12 - France 24",
+            "description": "On August 12 the Moon will completely block out the Sun during a rare total solar eclipse across much of northern Spain. Here is what to know about the phenomenon, the first total solar eclipse visible from mainland Europe in 20 years.",
+            "url": "https://www.france24.com/en/science/20260806-what-to-know-about-the-total-solar-eclipse-on-august-12",
+            "urlToImage": "https://s.france24.com/media/display/06cf4696-f5e4-11ee-abea-005056a90284/w:1280/p:16x9/2024-04-08T192447Z_1846775207_RC2J27AK87CY_RTRMADP_3_SOLAR-ECLIPSE-USA.jpg",
+            "publishedAt": "2026-08-06T17:03:23Z",
+            "content": "Day will briefly turn into night across a swathe of northern Spain on August 12, when the Moon will completely cover the Sun during a rare total solar eclipse.\r\nHere is what you need to know about th… [+3767 chars]"
         },
         {
             "source": {
@@ -456,6 +495,19 @@
             "urlToImage": null,
             "publishedAt": "2026-08-06T09:58:00Z",
             "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Seacoastonline.com"
+            },
+            "author": "Ellen Goethel",
+            "title": "The strangest fish in the sea spotted at Hampton's North Beach - Seacoastonline.com",
+            "description": "A visiting ocean sunfish off North Beach offered beachgoers a glimpse of one of the ocean’s most unusual giants.",
+            "url": "https://www.seacoastonline.com/story/news/local/2026/08/06/sunfish-strangest-fish-in-the-sea-hampton-nh-north-beach/91168886007/",
+            "urlToImage": "https://www.seacoastonline.com/gcdn/authoring/authoring-images/2024/07/22/NPOH/74499557007-molamola.png?crop=509,287,x0,y40&width=509&height=287&format=pjpg&auto=webp",
+            "publishedAt": "2026-08-06T09:05:00Z",
+            "content": "One of my favorite fish was spotted off North Beach this past week. The ocean sunfish (Mola mola) is one of the strangest fish; they have been around in the fossil record for over 50 million years! \r… [+4741 chars]"
         },
         {
             "source": {
@@ -3771,32 +3823,6 @@
             "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-956238116-1152x648.jpg",
             "publishedAt": "2026-08-01T10:00:19Z",
             "content": null
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Ritsuko Kawai",
-            "title": "Astronomers Have Detected an Exomoon for the First Time - WIRED",
-            "description": "A discovery in a solar system 73 light-years from Earth is challenging definitions and “blurring the lines between stars, planets, and moons.”",
-            "url": "https://www.wired.com/story/astronomer-detect-exomoon-for-first-time/",
-            "urlToImage": "https://media.wired.com/photos/6a6be31e5abc2a8fa7b821ac/191:100/w_1280,c_limit/eso2610a.jpg",
-            "publishedAt": "2026-08-01T09:00:00Z",
-            "content": "To confirm that the observed signal was indeed caused by a moon, the research team also examined other possible factors. These included apparent periods resulting from errors in corrections for Earth… [+2686 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Space Daily"
-            },
-            "author": null,
-            "title": "Saturn's moon Titan has an atmosphere thicker than Earth's and seas you could sail on, and it is the one place beyond Earth where a person could stand outside without a pressure suit, though its surface sits at about minus 179 degrees Celsius - Space Daily",
-            "description": "To survive on Titan, you'd need a heated suit and oxygen, but not the pressurized shell that would crush you on Venus or suffocate you on Mars—a distinction that fundamentally reshapes how we imagine life beyond Earth.",
-            "url": "https://spacedaily.com/t-saturns-moon-titan-has-an-atmosphere-thicker-than-earths-and-seas-you-could-sail-on-and-it-is-the-one-place-beyond-earth-where-a-person-could-stand-outside-without-a-pressure-suit-though-its-surface/",
-            "urlToImage": "https://spacedaily.com/wp-content/uploads/2026/07/blog-images-27.png",
-            "publishedAt": "2026-08-01T07:13:12Z",
-            "content": "Of all the places people talk about settling beyond Earth, Titan is the one that makes me stop and reconsider what living somewhere else would even feel like. Saturn’s largest moon is the only other … [+5638 chars]"
         }
     ]
 }

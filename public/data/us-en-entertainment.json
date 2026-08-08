@@ -1,7 +1,33 @@
 {
     "status": "ok",
-    "totalResults": 590,
+    "totalResults": 597,
     "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "TMZ"
+            },
+            "author": "TMZ Staff",
+            "title": "Toni Braxton Resolves 6-Figure Tax Debt Years After Bankruptcy - TMZ",
+            "description": "Toni Braxton says she dropped some serious dough to settle a debt with the IRS … over a decade after she finalized her second bankruptcy.",
+            "url": "https://www.tmz.com/2026/08/07/toni-braxton-allegedly-owes-massive-tax-debt/",
+            "urlToImage": "https://imagez.tmz.com/image/63/16by9/2026/08/04/639cb6028413479fa8b3f63160dac58b_xl.jpg",
+            "publishedAt": "2026-08-07T08:00:41Z",
+            "content": "Toni Braxton says she dropped some serious dough to settle a debt with the IRS over a decade after she finalized her second bankruptcy.\r\nAccording to official records, the singer was hit with a feder… [+672 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "KGO-TV"
+            },
+            "author": null,
+            "title": "Lionel Richie, Earth, Wind & Fire concert at San Francisco's Chase Center postponed last-minute due to medical emergency - ABC7 Bay Area",
+            "description": "The Chase Center and Earth, Wind & Fire issued statements at 7:20 p.m. for the 7:30 p.m. show, forcing thousands of fans inside the arena and waiting in lines outside to exit the building.",
+            "url": "https://abc7news.com/post/earth-wind-fire-concert-san-franciscos-chase-center-postponed-last-minute-due-medical-emergency/19639014/",
+            "urlToImage": "https://cdn.abcotvs.com/dip/images/19639523_080626-kgo-concert-canceled-img.jpg?w=1600",
+            "publishedAt": "2026-08-07T07:02:07Z",
+            "content": "SAN FRANCISCO (KGO) -- The Lionel Richie and Earth, Wind &amp; Fire concert at San Francisco's Chase Center was canceled just minutes before showtime due to a medical emergency with a member of Earth… [+736 chars]"
+        },
         {
             "source": {
                 "id": null,
@@ -14,6 +40,32 @@
             "urlToImage": "https://static.the-independent.com/s3fs-public/thumbnails/image/2020/08/14/10/ted-lasso.jpg?width=1200&height=800&crop=1200:800",
             "publishedAt": "2026-08-07T05:08:00Z",
             "content": "Your support helps us to tell the story\r\nFrom reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financia… [+3723 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Suntimes.com"
+            },
+            "author": "Georgia Nicols",
+            "title": "Horoscope for Friday, August 07, 2026 - Chicago Sun-Times",
+            "description": null,
+            "url": "https://chicago.suntimes.com/horoscopes/2026/08/07/horoscopes-today-friday-august-07-2026",
+            "urlToImage": "https://cst.brightspotcdn.com/dims4/default/2145dbd/2147483647/strip/true/crop/870x497+0+67/resize/1461x834!/quality/90/?url=https%3A%2F%2Fchorus-production-cst-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fac%2Ffd%2F790f04b15195427014757adc0272%2Fgeorgia-nicols.jpg",
+            "publishedAt": "2026-08-07T05:01:00Z",
+            "content": "Moon Alert\r\nAfter 1:30 a.m., there are no restrictions to shopping or important decisions today. The moon is in Gemini.\r\nAries (March 21-April 19)\r\n This is a fantastic day to schmooze with others. A… [+3848 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Cageside Seats"
+            },
+            "author": "Cain A. Knight",
+            "title": "Rumor Roundup: Brock Lesnar return, Roman Reigns vs. Mexico, Rhea Ripley surgery, more! - Cageside Seats",
+            "description": "Brock Lesnar coming out of retirement for WrestleMania 43, Roman Reigns’ opponent in Mexico, Ripley vacating the title after surgery, Trick’s belt & more rumors.",
+            "url": "https://www.cagesideseats.com/rumor-round-up/466662/rumor-roundup-brock-lesnar-wwe-return-wrestlemania-43-saudi-arabia-hof-ripley-surgery-mexico",
+            "urlToImage": "https://platform.cagesideseats.com/wp-content/uploads/sites/54/2026/08/brocklesnar2.jpg?quality=90&strip=all&crop=0,2.7502036067481,100,93.077370564282",
+            "publishedAt": "2026-08-07T05:00:00Z",
+            "content": "Did Brock Lesnar just trick everyone with another fake retirement this week? Lets see what todays rumors have to say about it!\r\nEven though Brock Lesnar officially announced his retirement this week … [+2244 chars]"
         },
         {
             "source": {
@@ -144,6 +196,19 @@
             "urlToImage": "https://variety.com/wp-content/uploads/2025/11/David-Ellison-Paramount.jpg?crop=0px%2C123px%2C3934px%2C2213px&resize=1000%2C563",
             "publishedAt": "2026-08-06T22:24:00Z",
             "content": "The U.K.’s decision to clear Paramount Skydance’s $111 ⁠billion proposed acquisition of Warner Bros. Discovery has been broadly welcomed by European industry players. \r\nU.K. exhibitors, media executi… [+6360 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hollywood Reporter"
+            },
+            "author": "Nicole Fell",
+            "title": "How Ella Rubin Went From Being a Briefcase-Wielding 11-Year-Old to the Star of ’Sterling Point’ - The Hollywood Reporter",
+            "description": "The 24-year-old steps into her leading lady status in Megan Park’s new coming-of-age drama series.",
+            "url": "http://www.hollywoodreporter.com/tv/tv-features/ella-rubin-sterling-point-profile-interview-1236657586/",
+            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2026/07/EllaRubin.png?w=1440&h=810&crop=1",
+            "publishedAt": "2026-08-06T22:23:47Z",
+            "content": "“I wasn’t really a very successful child actor, thankfully,” says actress Ella Rubin. \r\nDespite what the 24-year-old has to say about the fruitfulness of her childhood career, she was arguably the mo… [+6040 chars]"
         },
         {
             "source": {
@@ -499,6 +564,19 @@
         {
             "source": {
                 "id": null,
+                "name": "Variety"
+            },
+            "author": "Rebecca Rubin",
+            "title": "Kit Connor in Talks to Play Cyclops in Marvel’s ‘X-Men’ Reboot - Variety",
+            "description": "Kit Connor is in talks to play Cyclops in Marvel's upcoming \"X-Men\" reboot.",
+            "url": "https://variety.com/2026/film/news/kit-connor-cyclops-x-men-reboot-marvel-1236829221/",
+            "urlToImage": "https://variety.com/wp-content/uploads/2025/05/2207982329-e1748550367184.jpg?crop=0px%2C79px%2C3250px%2C1828px&resize=1000%2C563",
+            "publishedAt": "2026-08-06T17:07:00Z",
+            "content": "Kit Connor looks to be the next actor to join the sprawling Marvel Cinematic Universe.\r\nThe rising star, best known for the TV series “Heartstopper,” is being eyed to play Cyclops in Disney and Marve… [+1520 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "Vogue"
             },
             "author": "Vogue",
@@ -629,6 +707,19 @@
         {
             "source": {
                 "id": null,
+                "name": "Space.com"
+            },
+            "author": "Richard Edwards",
+            "title": "'Strange New Worlds' latest 'Hangover'-inspired episode is a reminder that 'Star Trek' vacations are never a good idea - Space",
+            "description": "Seeking rest or relaxation? You're unlikely to find either on a \"Star Trek\" holiday",
+            "url": "https://www.space.com/entertainment/space-movies-shows/strange-new-worlds-latest-hangover-inspired-episode-is-a-reminder-that-star-trek-vacations-are-never-a-good-idea",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/dHdCokKx6vmaXJ6KmX4JNo-2000-80.jpg",
+            "publishedAt": "2026-08-06T16:00:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "Vox"
             },
             "author": "Alex Abad-Santos",
@@ -694,6 +785,19 @@
         {
             "source": {
                 "id": null,
+                "name": "TVInsider"
+            },
+            "author": "Emily Aslanian",
+            "title": "On the Set of 'Anna Pigeon': Tracy Spiridakos' Park Ranger Heroine Is 'Fighting for What's Right' - TV Insider",
+            "description": "New mystery-of-the-week drama is based on Nevada Barr's 19-book series.",
+            "url": "https://www.tvinsider.com/1279778/anna-pigeon-tracy-spiridakos-lea-thompson-set-behind-the-scenes-exclusive/",
+            "urlToImage": "https://www.tvinsider.com/wp-content/uploads/2026/08/anna-pigeon-tracy-spiridakos-1420x798.jpg",
+            "publishedAt": "2026-08-06T14:40:31Z",
+            "content": "Pigeon? She’s more of an eagle, or a hawk. Still, the titular detective park ranger in USA’s new mystery-of-the-week drama Anna Pigeon, based on Nevada Barr’s 19-book series and played by Chicago P.D… [+8273 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "Forbes"
             },
             "author": "Paul Tassi",
@@ -703,6 +807,19 @@
             "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6a74965e221ba18d62b0405f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
             "publishedAt": "2026-08-06T14:18:15Z",
             "content": "Ted Lasso seemed like it was going to wrap up after season 3, a somewhat logical ending for the series based on its original arc. Well, this is Apple TV, and it does nothing else if not endlessly ren… [+2317 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Page Six"
+            },
+            "author": "Eric Todisco",
+            "title": "Hilary Duff rushed ‘brave’ daughter, 5, to the ER hours before first sold-out MSG show - Page Six",
+            "description": "Duff opened up about the family medical emergency on stage at the New York City venue.",
+            "url": "https://pagesix.com/2026/08/06/celebrity-news/hilary-duff-rushed-daughter-5-to-er-hours-before-her-msg-show/",
+            "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2026/08/hilary-duff-er-show.jpg?quality=75&strip=all&w=1200",
+            "publishedAt": "2026-08-06T14:18:00Z",
+            "content": "Hilary Duff dealt with a family medical emergency hours before she performed at Madison Square Garden on Wednesday night. \r\nThe “Come Clean” singer told the sold-out stadium that her 5-year-old daugh… [+3063 chars]"
         },
         {
             "source": {
@@ -807,6 +924,19 @@
             "urlToImage": "https://static.the-independent.com/2026/08/06/11/download..?trim=0,720,1183,1056&width=1200&height=800&crop=1200:800",
             "publishedAt": "2026-08-06T11:10:00Z",
             "content": "Your support helps us to tell the story\r\nFrom reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financia… [+4734 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Why is Amanda Knox's upcoming Edinburgh Fringe comedy show causing controversy? - BBC",
+            "description": "Meredith Kercher's sister told the BBC her sibling \"wouldn't find these topics of any comedy value\".",
+            "url": "https://www.bbc.com/news/videos/cn4ndp12epro",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/cbf8/live/f9907710-917d-11f1-b59e-3d7a9337129d.jpg",
+            "publishedAt": "2026-08-06T11:08:10Z",
+            "content": "Amanda Knox, a woman involved in one of the world's most famous murder cases, is set to perform a comedy show at The Edinburgh Festival Fringe.\r\nKnox was convicted and later acquitted of murdering he… [+815 chars]"
         },
         {
             "source": {
@@ -7632,45 +7762,6 @@
             "urlToImage": "https://www.washingtonexaminer.com/wp-content/uploads/2026/06/AP26148689447235_58dbcc.jpg?resize=1200,683",
             "publishedAt": "2026-08-01T10:00:00Z",
             "content": "In Focus delivers deeper coverage of the political, cultural, and ideological issues shaping America. Published daily by senior writers and experts, these in-depth pieces go beyond the headlines to g… [+6943 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "TMZ"
-            },
-            "author": "TMZ Staff",
-            "title": "Dorit Kemsley Claims She's Her Kids' Primary Caregiver In Child Support Battle - TMZ",
-            "description": "'Real Housewives of Beverly Hills' star Dorit Kemsley says her ex-husband owes her child support ... claiming she is their kids' primary caregiver ... while he only has them 5% of the time, TMZ has learned.",
-            "url": "https://www.tmz.com/2026/08/01/dorit-kemsley-fighting-estranged-husband-over-child-support/",
-            "urlToImage": "https://imagez.tmz.com/image/a2/16by9/2026/07/31/a2b396e610c941e581dee66dc6287c10_xl.jpg",
-            "publishedAt": "2026-08-01T08:00:02Z",
-            "content": "'Real Housewives of Beverly Hills' star Dorit Kemsley says her ex-husband owes her child support ... claiming she is their kids' primary caregiver ... while he only has them 5% of the time, TMZ has l… [+1285 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Daily Beast"
-            },
-            "author": "Eboni Boykin-Patterson",
-            "title": "John Oliver in ‘Total Denial’ Over MAGA Boss’s HBO Takeover - The Daily Beast",
-            "description": "The late-night host revealed his plan for handling whatever comes next.",
-            "url": "https://www.thedailybeast.com/obsessed/john-oliver-in-total-denial-over-david-ellisons-hbo-takeover/",
-            "urlToImage": "https://www.thedailybeast.com/resizer/v2/3FVKWMWLZNFWTAZ2RARYRMI6TQ.jpg?smart=true&auth=fc93c888520b882086b78595bb80601b0656b01e3c8f1ac4d672f6eb44a63740&width=1200&height=630",
-            "publishedAt": "2026-08-01T07:39:00Z",
-            "content": "John Oliver said theres only one way to move forward amid his shows parent companys pending merger with Trump-friendly company Skydance Paramount.\r\nTotal denial, he told The Hollywood Reporter in an … [+2133 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Billboard"
-            },
-            "author": "Jessica Lynch",
-            "title": "Olivia Rodrigo and Yungblud Join Smashing Pumpkins for Surprise Lollapalooza Set - Billboard",
-            "description": "Smashing Pumpkins brought out Olivia Rodrigo and Yungblud for their headlining set at Lollapalooza.",
-            "url": "http://www.billboard.com/music/rock/olivia-rodrigo-yungblud-join-smashing-pumpkins-lollapalooza-set-1236307547/",
-            "urlToImage": "https://www.billboard.com/wp-content/uploads/2026/08/Screenshot-2026-08-01-at-5.13.53-pm-e1785569015668.png?w=641",
-            "publishedAt": "2026-08-01T07:27:55Z",
-            "content": "Smashing Pumpkins turned their Lollapalooza headline set into a generational summit on Thursday (July 31), with Billy Corgan bringing out Olivia Rodrigo and Yungblud as surprise guests for a pair of … [+3320 chars]"
         }
     ]
 }

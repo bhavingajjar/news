@@ -1,6 +1,6 @@
 {
     "status": "ok",
-    "totalResults": 366,
+    "totalResults": 372,
     "articles": [
         {
             "source": {
@@ -18,6 +18,19 @@
         {
             "source": {
                 "id": null,
+                "name": "KGW.com"
+            },
+            "author": "KGW",
+            "title": "Portland hospital ER identified as latest measles exposure site - KGW",
+            "description": null,
+            "url": "https://www.kgw.com/article/news/health/portland-hospital-randall-childrens-hospital-er-identified-latest-measles-exposure-site/283-3128fd03-d5bd-44ba-8d27-1dcadf6a3bb1",
+            "urlToImage": null,
+            "publishedAt": "2026-08-07T01:24:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "San Francisco Chronicle"
             },
             "author": "Aidin Vaziri",
@@ -27,6 +40,19 @@
             "urlToImage": "https://s.hdnux.com/photos/01/67/01/01/31199311/3/rawImage.jpg",
             "publishedAt": "2026-08-06T23:14:29Z",
             "content": "Students line up to receive their class schedules on the first day of school at Marina Middle School in San Francisco on Aug. 19, 2024. As Bay Area students return to classrooms this year, COVID-19 l… [+3566 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WDIV ClickOnDetroit"
+            },
+            "author": "Frank McGeorge, MD",
+            "title": "Coffee and heart health: Why cardiologists’ view of caffeine has shifted - ClickOnDetroit | WDIV Local 4",
+            "description": "Coffee has long been treated with caution in cardiology offices, largely because caffeine can temporarily raise heart rate and blood pressure.",
+            "url": "https://www.clickondetroit.com/health/2026/08/06/coffee-and-heart-health-why-cardiologists-view-of-caffeine-has-shifted/",
+            "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/video/wdiv/7c93be1e-ab59-4aa3-b79b-0c2da7148ce8/image.jpg?_a=DATAg1kSZAA0",
+            "publishedAt": "2026-08-06T23:08:09Z",
+            "content": "Coffee has long been treated with caution in cardiology offices, largely because caffeine can temporarily raise heart rate and blood pressure. \r\nBut a new scientific statement from the American Heart… [+4535 chars]"
         },
         {
             "source": {
@@ -40,6 +66,19 @@
             "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/08/06/a5f9ac57-7a89-4010-8e4c-93cb4844aa4e/thumbnail/1200x630/33bcfa33ad210e5076c4be0082232725/gettyimages-179795898.jpg",
             "publishedAt": "2026-08-06T22:00:00Z",
             "content": "A flesh-eating bacteria found in warm coastal waters is responsible for at least five deaths so far this year in Louisiana, state health officials reported Thursday. \r\nThere have been at least nine t… [+2697 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Healthline"
+            },
+            "author": "Mandy French",
+            "title": "Can Eating Less Protein Help You Live Longer? Studies Offer Clues - Healthline",
+            "description": "New research suggests eating less protein may support healthy aging and longevity, but the potential benefits may depend on factors such as age, activity level, and overall health.",
+            "url": "https://www.healthline.com/health-news/longevity-less-protein-linked-healthy-aging",
+            "urlToImage": "https://media.post.rvohealth.io/wp-content/uploads/2026/08/getty_1289032030_facebook_1200x630-1200x628.jpg",
+            "publishedAt": "2026-08-06T21:35:28Z",
+            "content": "<ul><li>New research suggests reducing protein intake may support healthy aging and longevity.</li><li>Protein restriction may improve metabolism, reduce inflammation, and reduce cellular damage.</li… [+4069 chars]"
         },
         {
             "source": {
@@ -79,6 +118,32 @@
             "urlToImage": "https://hermes.media.static.aol.com/media/2026/08/06/f61004f6-2350-3d29-80d6-22c357bff792/69d63949-d662-42dc-8c2c-ba1cccfc42cb.jpg",
             "publishedAt": "2026-08-06T20:15:13Z",
             "content": "\"Hearst Magazines and AOL may earn commission or revenue on some items through these links.\"\r\nWhile vitamin B12 might not be as buzzy as calcium or an immediately recognizable household name like Vit… [+5841 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Sci.news"
+            },
+            "author": "Enrico de Lazaro",
+            "title": "Study Points to Sugar, Not Just Meat, as Fuel for Human Brain Evolution - Sci.News",
+            "description": "A team of researchers from the University of Sydney and the University of Glasgow argues that dietary sugars, not animal foods, may have played the",
+            "url": "https://www.sci.news/othersciences/anthropology/sugar-human-brain-evolution-14973.html",
+            "urlToImage": "https://cdn.sci.news/images/2014/01/image_1680f-Paranthropus-boisei.jpg",
+            "publishedAt": "2026-08-06T19:47:00Z",
+            "content": "A team of researchers from the University of Sydney and the University of Glasgow argues that dietary sugars, not animal foods, may have played the decisive role in the expansion of the human brain o… [+3698 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "NAOMI CANTON",
+            "title": "Nearly 200 deaths linked to weight-loss drugs Ozempic and Mounjaro in the UK - timesofindia.indiatimes.com",
+            "description": "UK News: TOI Correspondent from London: There have been nearly 200 deaths linked to the use of anti-obesity drugs Mounjaro and Wegovy in the UK, as well as ove.",
+            "url": "https://timesofindia.indiatimes.com/world/uk/nearly-200-deaths-linked-to-weight-loss-drugs-ozempic-and-mounjaro-in-the-uk/articleshow/133014369.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-133015267,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-08-06T19:31:00Z",
+            "content": "Follow Us On Social Media\r\nTrump Preparing For Cuba Invasion? Bombshell Report Exposes CIA's Bay Of Pigs 2.0 PlotFauci's Senate Showdown: Committee Votes Contempt After 100+ Fifth Amendment Invocatio… [+1515 chars]"
         },
         {
             "source": {
@@ -170,6 +235,19 @@
             "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2020/12/GettyImages-1290558683.jpg",
             "publishedAt": "2026-08-06T16:31:06Z",
             "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Florida Today"
+            },
+            "author": "C. A. Bridges",
+            "title": "Florida leprosy cases increase again in latest update. Where, symptoms - Florida Today",
+            "description": "Florida again ranks among states with the most leprosy cases. Here's what the latest numbers show.",
+            "url": "https://www.floridatoday.com/story/news/2026/08/06/leprosy-cases-florida-hansesn-disease/91194018007/",
+            "urlToImage": "https://www.floridatoday.com/gcdn/authoring/authoring-images/2026/06/19/NTGS/90620209007-gai-infectiousdisease-205583.jpg?crop=4999,2813,x0,y272&width=3200&height=1801&format=pjpg&auto=webp",
+            "publishedAt": "2026-08-06T16:22:00Z",
+            "content": "Two new leprosy cases were reported in Brevard County, part of a growing number of Hansens disease diagnoses that again put Florida near the top of the national list.\r\nThe Florida Department of Healt… [+5102 chars]"
         },
         {
             "source": {
@@ -378,6 +456,19 @@
             "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4528x2547+0+235/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fae%2F86%2Ff14392f74d2591eaa8a85da7d13c%2Fgettyimages-1245255504.jpg",
             "publishedAt": "2026-08-06T13:13:28Z",
             "content": "Only 11 countries in the world can say this:\r\nNinety-five percent of people living there who are HIV positive know their status.\r\nNinety-five percent of HIV-positive people are taking medication that… [+7743 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Abcnews.com"
+            },
+            "author": "ABC News",
+            "title": "Video New research reveals 3 things that may reduce dementia risk - abcnews.com",
+            "description": "ABC News' Dr. Tara Narula breaks down new research highlighting three things to avoid in middle age that may help lower the risk of dementia.",
+            "url": "https://abcnews.com/video/135418316/",
+            "urlToImage": "https://i.abcnewsfe.com/a/9eea9ef1-8e42-4aed-bc3c-be7055ad3dc1/260806_gma_narula_dementia1_hpMain_16x9.jpg?w=992",
+            "publishedAt": "2026-08-06T13:09:56Z",
+            "content": null
         },
         {
             "source": {
@@ -1184,6 +1275,19 @@
             "urlToImage": "https://c.ndtvimg.com/2026-08/1pmm94b_chewing-gum_625x300_05_August_26.png?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
             "publishedAt": "2026-08-05T15:06:39Z",
             "content": "Head and neck cancer is one of the most common cancers worldwide, which affects the mouth, throat, voice box, nose, and nearby tissues. A lot of these cases are linked to tobacco and alcohol use. How… [+4359 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Christopher F. Rufo, Ryan Thorpe",
+            "title": "The typhus rats: Why a medieval disease is rocking LA - Yahoo",
+            "description": "A rat eats seeds in the Karni Mata temple in India. (Getty Images)Rats, and the fleas that live on them, can be carriers of deadly diseases — including typhu...",
+            "url": "https://nypost.com/2026/08/05/opinion/the-typhus-rats-why-a-medieval-disease-is-rocking-la/",
+            "urlToImage": "https://s.yimg.com/lo/mysterio/api/22e4a0da382f398168ed3d1148a0d5528e2013dc07db6427a2ea6eaa28e6910a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcalifornia_post_772%2F672013a913017d58ca43cb9f7ca4db2b",
+            "publishedAt": "2026-08-05T15:00:00Z",
+            "content": "Rats, and the fleas that live on them, can be carriers of deadly diseases including typhus, a bacteria-borne, fever-like illness that is rocking LA.\r\nSince 2009, the number of flea-borne typhus cases… [+7576 chars]"
         },
         {
             "source": {
@@ -4733,32 +4837,6 @@
             "urlToImage": "https://www.inquirer.com/resizer/v2/JLPZJ4CD7FHCFDGOLINKVTVG2Q.jpg?auth=f6769bbeeaca0292d81ce3873c1f0da91464f16de836d836f47caa124aaeca9a&width=760&height=507&smart=true",
             "publishedAt": "2026-08-01T10:01:00Z",
             "content": "Listen to article 0:00 min\r\nAs Philadelphia wallowed in self-pity over its seemingly botched Bicentennial celebrations 50 years ago, thousands of American Legion members arrived for a late July conve… [+7473 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Honolulu Star-Advertiser"
-            },
-            "author": "Star-Advertiser Staff",
-            "title": "Health Department confirms 4th case of cyclosporiasis in Hawaii - Honolulu Star-Advertiser",
-            "description": "The state Department of Health confirmed a fourth case of cyclosporiasis in the islands today, identifying the patient as a military service member based in Hawaii.",
-            "url": "https://www.staradvertiser.com/2026/07/31/breaking-news/health-department-confirms-4th-case-of-cyclosporiasis-in-hawaii/",
-            "urlToImage": "https://www.staradvertiser.com/wp-content/uploads/2026/07/web1_20260714_brk_cyc01.jpg",
-            "publishedAt": "2026-08-01T09:11:27Z",
-            "content": "The state Department of Health confirmed a fourth case of cyclosporiasis in the islands today, identifying the patient as a military service member based in Hawaii.\r\nThe individual traveled internati… [+2171 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Eatingwell.com"
-            },
-            "author": "https://www.facebook.com/EatingWell/",
-            "title": "4 Blood Sugar–Friendly Drinks to Bring on Your Next Road Trip, According to Dietitians - EatingWell",
-            "description": "Dietitians share the top four drinks they recommend packing on road trips to help you stay hydrated and energized without wreaking havoc on your blood sugars.",
-            "url": "https://www.eatingwell.com/best-blood-sugar-friendly-drinks-for-road-trip-12020740",
-            "urlToImage": "https://www.eatingwell.com/thmb/oSAIlz__cAOiouFCxjtlQP0NNYc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4-Best-Blood-Sugar-Friendly-Drinks-for-Your-Next-Road-Trip-According-to-Dietitians-85bbb1b1cba4481da216736d2aeb4883.jpg",
-            "publishedAt": "2026-08-01T09:00:00Z",
-            "content": "Theres nothing quite like hitting the open road. Whether youre headed to the beach, the mountains or visiting family, road trips are all about the adventure. But in the excitement of reaching your de… [+8191 chars]"
         }
     ]
 }

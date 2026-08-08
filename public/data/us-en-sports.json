@@ -1,7 +1,20 @@
 {
     "status": "ok",
-    "totalResults": 681,
+    "totalResults": 690,
     "articles": [
+        {
+            "source": {
+                "id": "espn",
+                "name": "ESPN"
+            },
+            "author": "Josh Weinfuss",
+            "title": "Rookie QB Carson Beck delivers efficient debut for Cardinals - ESPN",
+            "description": "Carson Beck completed 15 of 19 passes for 188 yards and a touchdown for a quarterback rating of 125.4 in the Cardinals' 33-30 loss to the Panthers in the Hall of Fame Game.",
+            "url": "https://www.espn.com/nfl/story/_/id/49550569/rookie-qb-carson-beck-delivers-efficient-debut-cardinals",
+            "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0807%2Fr1698610_1296x729_16%2D9.jpg",
+            "publishedAt": "2026-08-07T05:19:00Z",
+            "content": "CANTON, Ohio -- Carson Beck couldn't sleep Wednesday night.\r\nEven though Thursday night's Hall of Fame Game against the Carolina Panthers was just a preseason game, the Arizona Cardinals' rookie quar… [+4202 chars]"
+        },
         {
             "source": {
                 "id": "espn",
@@ -14,6 +27,19 @@
             "urlToImage": null,
             "publishedAt": "2026-08-07T03:24:00Z",
             "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NBCSports.com"
+            },
+            "author": "Charean Williams",
+            "title": "Haynes King leads Panthers to 33-30 win on final play of Hall of Fame Game - NBC Sports",
+            "description": "Haynes King wasn't drafted despite being the ACC Player of the Year last season.",
+            "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/haynes-king-leads-panthers-to-33-30-win-on-final-play-of-hall-of-fame-game",
+            "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/96ca034/2147483647/strip/true/crop/3872x2178+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F4e%2F91%2F48ee7651405d98decb5bf167a425%2Fhttps-api-imagn.com%2Frest%2Fdownload%2FimageID%3D29490918",
+            "publishedAt": "2026-08-07T03:16:43Z",
+            "content": "Haynes King wasnt drafted despite being the ACC Player of the Year last season. The Panthers signed the former Georgia Tech star quarterback as a free agent, and he showed Thursday night maybe someon… [+718 chars]"
         },
         {
             "source": {
@@ -66,6 +92,19 @@
             "urlToImage": "https://media.pff.com/2026/08/Bam-Knight.jpg?w=1200&h=675",
             "publishedAt": "2026-08-07T01:41:00Z",
             "content": "<ul><li>Bam Knight starts for the Arizona Cardinals: Knight was a focal point of the Arizona offense, and the broadcast made it clear he has a shot at the third running back spot on the depth chart.<… [+7307 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Managing Madrid"
+            },
+            "author": "Managing Madrid",
+            "title": "Rodri chooses Barcelona over Real Madrid as Manchester City exit takes shape — report - Managing Madrid",
+            "description": "The Spanish midfielder has informed the club that his preference is Barcelona",
+            "url": "https://www.managingmadrid.com/real-madrid-cf-transfer-talk/111049/rodri-chooses-barcelona-over-real-madrid-as-manchester-city-exit-takes-shape-report",
+            "urlToImage": "https://platform.managingmadrid.com/wp-content/uploads/sites/103/2026/08/gettyimages-2286962722.jpg?quality=90&strip=all&crop=0%2C10.739237998514%2C100%2C78.521524002972&w=1200",
+            "publishedAt": "2026-08-07T01:25:00Z",
+            "content": "Bar another dramatic turnaround, Real Madrids pursuit of Rodri appears to be over.\r\nThe Manchester City midfielder has informed Madrid that his preference, should he leave England this summer, is to … [+9586 chars]"
         },
         {
             "source": {
@@ -147,6 +186,19 @@
         },
         {
             "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Noah White",
+            "title": "Dodgeball! Kickball! Trump’s Patriot Games will look a lot like gym class. - The Washington Post",
+            "description": "The Patriot Games now have an official schedule, with events Sunday, Monday and Tuesday.",
+            "url": "https://www.washingtonpost.com/politics/2026/08/06/patriot-games-schedule-released-ahead-weekend-competition/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/6FYOIXZVAUNPYOPHYLSTDW7IVA.jpg&w=1440",
+            "publishedAt": "2026-08-06T23:20:00Z",
+            "content": "The Patriot Games now have an official schedule.\r\nDetails about the Freedom 250 event, in which teens will compete in a three-day athletic competition, have remained sparse. What we know: Events star… [+336 chars]"
+        },
+        {
+            "source": {
                 "id": null,
                 "name": "On3.com"
             },
@@ -157,6 +209,19 @@
             "urlToImage": "https://on3static.com/uploads/dev/assets/cms/2026/08/06180851/260805_AJW_FB_PRAC_0572.jpg",
             "publishedAt": "2026-08-06T23:15:20Z",
             "content": "The Georgia Bulldogs wrapped up their second practice of fall camp Thursday afternoon, and I was told the intensity picked up as Kirby Smart challenged his team to stack days.\r\nI spoke with several d… [+1105 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MassLive.com"
+            },
+            "author": "MassLive.com",
+            "title": "What Chad Tracy says Red Sox ‘would be foolish not to consider’ (and injury notes) - MassLive.com",
+            "description": null,
+            "url": "https://www.masslive.com/redsox/2026/08/what-chad-tracy-says-red-sox-would-be-foolish-not-to-consider-and-injury-notes.html",
+            "urlToImage": null,
+            "publishedAt": "2026-08-06T23:10:00Z",
+            "content": null
         },
         {
             "source": {
@@ -228,6 +293,19 @@
                 "id": "espn",
                 "name": "ESPN"
             },
+            "author": "Anthony Gharib",
+            "title": "Dallas Mavericks offer 'bounty' for Cooper Flagg 1-of-1 card - ESPN",
+            "description": "The Dallas Mavericks' bounty for Cooper Flagg's 1-of-1 debut patch autograph card includes a plethora of items.",
+            "url": "https://www.espn.com/nba/story/_/id/49547405/dallas-mavericks-cooper-flagg-signed-1-1-rookie-card-bounty-trade-proposal",
+            "urlToImage": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0717%2Fr1690534_1269x714_16%2D9.jpg",
+            "publishedAt": "2026-08-06T21:36:00Z",
+            "content": "The Dallas Mavericks are offering a \"bounty\" to whoever unpacks Cooper Flagg's debut patch autograph card via a package similar to that of a blockbuster NBA trade.\r\nEditor's Picks\r\nDallas announced t… [+2553 chars]"
+        },
+        {
+            "source": {
+                "id": "espn",
+                "name": "ESPN"
+            },
             "author": "Eric Woodyard",
             "title": "Lions, RB Jahmyr Gibbs agree to 3-year, $67.5M extension - ESPN",
             "description": "Jahmyr Gibbs and the Lions reached agreement on a three-year, $67.5 million deal that could be worth up to $75.75 million and includes $51.5 million guaranteed, agent Todd France told ESPN's Adam Schefter and NFL Network's Ian Rapoport.",
@@ -235,6 +313,19 @@
             "urlToImage": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F1021%2Fr1563316_1296x729_16%2D9.jpg",
             "publishedAt": "2026-08-06T21:33:00Z",
             "content": "The Detroit Lions and three-time Pro Bowler Jahmyr Gibbs have agreed to a contract extension that makes him the highest-paid running back in NFL history.\r\nGibbs and the Lions reached agreement Thursd… [+2991 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Prideofdetroit.com"
+            },
+            "author": "Jeremy Reisman, Erik Schlitt",
+            "title": "Detroit Lions give Jahmyr Gibbs record-breaking contract extension - Pride Of Detroit",
+            "description": "Jahmyr Gibbs is signing an extension that will make him the highest-paid running back in NFL history.",
+            "url": "https://www.prideofdetroit.com/detroit-lions-news/166537/detroit-lions-jahmyr-gibbs-record-breaking-contract-extension",
+            "urlToImage": "https://platform.prideofdetroit.com/wp-content/uploads/sites/127/2026/07/gettyimages-2248970541.jpg?quality=90&strip=all&crop=0%2C10.737164748395%2C100%2C78.52567050321&w=1200",
+            "publishedAt": "2026-08-06T21:32:26Z",
+            "content": "The hold-in is over.\r\nJust two days after Bijan Robinson became the highest-paid running back in NFL history, the Detroit Lions and Jahmyr Gibbs have agreed upon an extension that will one-up the thr… [+2600 chars]"
         },
         {
             "source": {
@@ -410,6 +501,19 @@
                 "id": null,
                 "name": "NBCSports.com"
             },
+            "author": null,
+            "title": "Colts and Taylor agree on two-year, $44M extension - NBC Sports",
+            "description": "Colts signed Jonathan Taylor to a two-year, $44 million contract extension.",
+            "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-08-06/colts-and-taylor-agree-on-two-year-44m-extension",
+            "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/806a404/2147483647/strip/true/crop/100x56+0+39/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd1%2F6c%2Ff4a37f5f41a7b3766afab639efac%2Ftaylor-jonathan-cropped.jpg",
+            "publishedAt": "2026-08-06T19:42:36Z",
+            "content": "A Division of NBCUniversal.\r\nDISCLAIMER: This site and the products offered are for entertainment purposes only, and there is no gambling offered on this site. This service is intended for adult audi… [+153 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NBCSports.com"
+            },
             "author": "Charean Williams",
             "title": "Steelers first-round rookie Max Iheanachor leaves practice early - NBC Sports",
             "description": "Steelers first-round rookie Max Iheanachor left practice early Thursday with an apparent injury.",
@@ -469,6 +573,19 @@
             "urlToImage": "https://sports.mynorthwest.com/wp-content/uploads/2026/08/Seattle-Mariners-Dan-Wilson-ejected-Detroit-Tigers-2026-AP-900.jpg",
             "publishedAt": "2026-08-06T18:42:42Z",
             "content": "Seattle Mariners manager Dan Wilson has been suspended one game and left-hander Gabe Speier three games by Major League Baseball after Speier’s “intentional throwing” at Detroit’s Gleyber Torres on W… [+1940 chars]"
+        },
+        {
+            "source": {
+                "id": "espn",
+                "name": "ESPN"
+            },
+            "author": null,
+            "title": "NASCAR changes rules to limit laps under caution, create more green flag racing - ESPN",
+            "description": "NASCAR plans to implement a new stage-break procedure for its Cup Series races beginning this weekend at Iowa Speedway and continuing through the remainder of the season.",
+            "url": "https://www.espn.com/racing/story/_/id/49546640/nascar-changes-rules-limit-laps-caution-create-more-green-flag-racing",
+            "urlToImage": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0218%2Fr1293045_1296x729_16%2D9.jpg",
+            "publishedAt": "2026-08-06T18:34:00Z",
+            "content": "Aug 6, 2026, 02:34 PM ET\r\nNASCAR plans to implement a new stage-break procedure for its Cup Series races beginning this weekend at Iowa Speedway and continuing through the remainder of the season.\r\nU… [+1073 chars]"
         },
         {
             "source": {
@@ -781,6 +898,19 @@
             "urlToImage": "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_0,w_6000,h_3375/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/ReutersImages/mmsport/jaguar_report/01kzbhvx2w3t0wfcxms3.jpg",
             "publishedAt": "2026-08-06T15:38:35Z",
             "content": "JACKSONVILLE, Fla. -- The Jacksonville Jaguars have turned in yet another day of training camp practice on Thursday morning, and the dog days of camp are officially here. \r\nThe Jaguars held a shorter… [+7121 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NBCSports.com"
+            },
+            "author": "Josh Alper",
+            "title": "Buccaneers GM Jason Licht: We have no plans to trade Vita Vea - NBC Sports",
+            "description": "Buccaneers defensive tackle Vita Vea's agent said this week that he doesn't see Vea's contract impasse with the team \"ending in anything but a trade at this point,\" but the team is taking a different view of things.",
+            "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/buccaneers-gm-jason-licht-we-have-no-plans-to-trade-vita-vea",
+            "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/201ab9e/2147483647/strip/true/crop/4800x2700+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F5d%2F35%2F69dbfd3e49e28faf70ee758df7f7%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2281510391",
+            "publishedAt": "2026-08-06T15:31:49Z",
+            "content": "Buccaneers defensive tackle Vita Veas agent said this week that he doesnt see Veas contract impasse with the team ending in anything but a trade at this point, but the team is taking a different view… [+775 chars]"
         },
         {
             "source": {
@@ -1912,6 +2042,19 @@
             "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/08/riley-gaines-sophie-cunningham-jen-sey-xx-xy-athletics-indiana-fever.jpg",
             "publishedAt": "2026-08-05T20:11:29Z",
             "content": "Sophie Cunningham said of the WNBA media \"all we ever do is cover everything except basketball,\" while speaking to reporters on Wednesday.\r\n\"The WNBA media, all we ever do is cover everything except … [+4039 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Jake Mintz",
+            "title": "George Lombard Jr.'s debut, Anthony Volpe's demotion offer reminders of the unpredictability of baseball and the pressure of wearing pinstripes - sports.yahoo.com",
+            "description": "Lombard is being lauded as the next great Yankees hope. A few years ago, similar compliments were heaped upon another shortstop.",
+            "url": "https://sports.yahoo.com/mlb/article/george-lombard-jrs-debut-anthony-volpes-demotion-offer-reminders-of-the-unpredictability-of-baseball-and-the-pressure-of-wearing-pinstripes-195459058.html",
+            "urlToImage": "https://s.yimg.com/lo/mysterio/api/d3eb829ce43e0eadda7b6f953d51205139cc30164d8717912c970ef5f08163f4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-08%2Fba4bf642-6ac5-4ef6-b979-f747dc322064",
+            "publishedAt": "2026-08-05T19:54:59Z",
+            "content": "NEW YORK George Lombard Jr., the next great Yankees hope, chuckled and shrugged his shoulders.\r\nA reporter had asked why the 21-year-old shortstop, about to make his MLB debut, would be wearing No. 9… [+5101 chars]"
         },
         {
             "source": {
@@ -8828,32 +8971,6 @@
             "urlToImage": null,
             "publishedAt": "2026-08-01T10:00:00Z",
             "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Boston Herald"
-            },
-            "author": "Doug Kyed",
-            "title": "Patriots 53-man roster projection: Standout rookie tight ends fill out depth - Boston Herald",
-            "description": "One week into camp, we’re put together our first Patriots 53-man roster projection, making difficult decisions at key positions.",
-            "url": "https://www.bostonherald.com/2026/08/01/patriots-53-man-roster-projection-standout-rookie-tight-ends-fill-out-depth/",
-            "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2026/07/patriotsms08.jpg?w=5113&h=4000",
-            "publishedAt": "2026-08-01T09:00:55Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
-            },
-            "author": "Graham Dunbar",
-            "title": "Infantino abandons plans to sell World Cup profits to private equity following massive pushback - AP News",
-            "description": "FIFA President Gianni Infantino is abandoning his divisive plan to sell World Cup profits to private equity after receiving pushback from all corners of the soccer world. Infantino’s decision came after his senior adviser who sat on a White House panel resign…",
-            "url": "https://apnews.com/article/world-cup-infantino-fifa-investors-8aba1b529f220c27d02d326e8fd9e377",
-            "urlToImage": "https://dims.apnews.com/dims4/default/2b3ab91/2147483647/strip/true/crop/3500x2332+0+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fa4%2Ff1%2F7e7562ee4339b2e5772bef7ca50f%2Fe5f229667eef4aabaf064d5e7b74ae4e",
-            "publishedAt": "2026-08-01T07:37:00Z",
-            "content": "GENEVA (AP) FIFA President Gianni Infantino is abandoning his divisive plan to sell World Cup profits to private equity after receiving pushback from all corners of the soccer world.\r\nInfantinos deci… [+3280 chars]"
         }
     ]
 }

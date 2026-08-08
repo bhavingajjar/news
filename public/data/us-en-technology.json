@@ -1,6 +1,6 @@
 {
     "status": "ok",
-    "totalResults": 553,
+    "totalResults": 557,
     "articles": [
         {
             "source": {
@@ -14,6 +14,19 @@
             "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/08/Gemini-Wear-OS-7.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
             "publishedAt": "2026-08-07T03:10:00Z",
             "content": "Gemini on Wear OS is getting a new overlay design that takes after Neural Expressive on Android phones to boost cross-device consistency.\r\nPreviously, activating Gemini on Wear OS would open the full… [+981 chars]"
+        },
+        {
+            "source": {
+                "id": "axios",
+                "name": "Axios"
+            },
+            "author": "Herb Scribner",
+            "title": "OpenAI makes major upgrades for free and paid ChatGPT users. Here's what they are - Axios",
+            "description": "The upgrades will help both paid and free users.",
+            "url": "https://www.axios.com/2026/08/06/openai-chatgpt-upgrades-luna-free-paid",
+            "urlToImage": "https://images.axios.com/3EWLGC0rbJqIU0XVPJzNwxuwb8c=/0x56:3803x2195/1366x768/2026/08/06/1786034604750.jpeg",
+            "publishedAt": "2026-08-07T01:38:52Z",
+            "content": "Driving the news: OpenAI said it will shift the default model for all users to GPT-5.6 Luna this week. \r\n<ul><li>OpenAI says that responses featuring at least one factual error were 62% less common w… [+1263 chars]"
         },
         {
             "source": {
@@ -92,6 +105,19 @@
             "urlToImage": "https://kotaku.com/app/uploads/2026/08/destiny23.jpg",
             "publishedAt": "2026-08-06T20:45:17Z",
             "content": "In 2020, Bungie announced that it was vaulting a large portion of old Destiny 2 content, and it would no longer be playable. This content included important story missions and other stuff people had … [+1950 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Sheena Vasani",
+            "title": "The AirPods Pro are $60 off, their best price since late June - The Verge",
+            "description": "The AirPods Pro are $189.99 ($60 off). Our favorite wireless earbuds for iPhone owners deliver excellent sound and top-tier noise cancellation.",
+            "url": "https://www.theverge.com/gadgets/976276/apple-airpods-pro-3-best-buy-apple-deal-sale",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257943_Airpods_Pro3_AKrales_0133.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-08-06T20:00:00Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nOur favorite wireless earbuds for iPhone owners are just $20 shy of the all-time low price set during Prime Day.\r\nOur favorite wireless earbuds for iPhone owners… [+2500 chars]"
         },
         {
             "source": {
@@ -511,6 +537,19 @@
         },
         {
             "source": {
+                "id": null,
+                "name": "Videocardz.com"
+            },
+            "author": null,
+            "title": "ASUS launches 4K 240Hz Tandem RGB OLED monitors with 480Hz dual mode - videocardz.com",
+            "description": "ASUS has released its 27-inch and 32-inch ROG Swift Tandem RGB OLED monitors. Both support 4K at 240Hz and Full HD at 480Hz.",
+            "url": "https://videocardz.com/newz/asus-launches-4k-240hz-tandem-rgb-oled-monitors-with-480hz-dual-mode",
+            "urlToImage": "https://cdn.videocardz.com/1/2026/08/ASUS-ROG-OLED-MONITOR-ROG-Swift-OLED-PG27UCWM-PG32UCWM-_-scenario2.webp",
+            "publishedAt": "2026-08-06T13:15:42Z",
+            "content": "Tandem RGB OLED panels without a white subpixel.\r\nASUS has released two ROG Swift gaming monitors based on Tandem RGB OLED panels. The ROG Swift OLED PG27UCWM uses a 26.5-inch panel, while the PG32UC… [+2085 chars]"
+        },
+        {
+            "source": {
                 "id": "the-verge",
                 "name": "The Verge"
             },
@@ -629,6 +668,19 @@
         {
             "source": {
                 "id": null,
+                "name": "9to5google.com"
+            },
+            "author": "Ben Schoon",
+            "title": "Why are you still using Google Assistant on Android? [Poll] - 9to5Google",
+            "description": "Google Assistant has an official end-of-life date – September 4. While many have already made the jump to Gemini, a...",
+            "url": "http://9to5google.com/2026/08/06/why-are-you-still-using-google-assistant-on-android-poll/",
+            "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/03/Google-Assistant-pop-up-on-Pixel-9-with-Gemini-is-replacing-me-query.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2026-08-06T12:30:00Z",
+            "content": "Google Assistant has an official end-of-life date September 4. While many have already made the jump to Gemini, a number of Android users are still holding on to Google Assistant. Why are you?\r\nAs Go… [+1579 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "Jalopnik"
             },
             "author": "Rob Emslie",
@@ -742,6 +794,19 @@
             "urlToImage": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/08/SeikoPurpleRotocall-1.jpg",
             "publishedAt": "2026-08-06T10:34:25Z",
             "content": "I know its become a bit Seiko-heavy here these days, and I have the feeling we havent seen the end of it yet. This year marks Seikos 145th anniversary, and theyre making sure you are aware. This morn… [+6351 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Pure Xbox"
+            },
+            "author": "Pure Xbox",
+            "title": "Two Games Are Available Today Across Various Tiers Of Xbox Game Pass (August 6) - Pure Xbox",
+            "description": "Here's a look at what's joining Game Pass today!",
+            "url": "https://www.purexbox.com/news/2026/08/two-games-are-available-today-across-various-tiers-of-xbox-game-pass-august-6",
+            "urlToImage": "https://images.purexbox.com/b57d0cf38b44f/large.jpg",
+            "publishedAt": "2026-08-06T10:04:48Z",
+            "content": "We're back with your latest Xbox Game Pass update for August. Two more games join the subscription service today across various tiers, including a bonus third title if you're willing to count a 10-ho… [+1392 chars]"
         },
         {
             "source": {
@@ -924,6 +989,19 @@
             "urlToImage": "https://spacenews.com/wp-content/uploads/2021/08/BlueOrigin_BE4_EngineLineup.jpg",
             "publishedAt": "2026-08-05T22:30:16Z",
             "content": "WASHINGTON Blue Origin has traced the explosion of its New Glenn rocket during a static-fire test in May to a valve in the rockets BE-4 engine, an issue that could also affect United Launch Alliances… [+2395 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "GameSpot"
+            },
+            "author": "Blair Marnell",
+            "title": "Another Way To Play Big Walk Is Already In The Works - GameSpot",
+            "description": "A fan-created mod for Big Walk may add a new dimension to the game once it's finally available to the public.",
+            "url": "https://www.gamespot.com/articles/another-way-to-play-big-walk-is-already-in-the-works/",
+            "urlToImage": "https://www.gamespot.com/wp-content/uploads/2026/08/Big-Walk-2.jpg",
+            "publishedAt": "2026-08-05T22:06:31Z",
+            "content": "GameSpot may receive revenue from affiliate and advertising partnerships for sharing this content and from purchases through links.\r\nHouse House’s critically acclaimed co-op puzzle-solving game Big W… [+1676 chars]"
         },
         {
             "source": {
@@ -1266,6 +1344,19 @@
         {
             "source": {
                 "id": null,
+                "name": "TechRepublic"
+            },
+            "author": "TechRepublic Staff",
+            "title": "Samsung Galaxy S27 Pro May Not Be the Smaller Ultra Buyers Expect - TechRepublic",
+            "description": "Samsung Galaxy S27 Pro leaks point to key differences from the S27 Ultra in cameras, display size, battery capacity, S Pen support, and processors.",
+            "url": "https://www.techrepublic.com/article/news-samsung-s27-pro-ultra-differences/",
+            "urlToImage": "https://assets.techrepublic.com/uploads/2026/08/Gemini_Generated_Image_nayiaanayiaanayi-1-1024x559.png?f=jpeg",
+            "publishedAt": "2026-08-05T17:17:07Z",
+            "content": "Samsungs next flagship lineup may introduce more than a routine annual upgrade. The company is reportedly preparing a new Galaxy S27 Pro alongside the standard S27, S27+, and S27 Ultra, creating a fo… [+3720 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "9to5google.com"
             },
             "author": "Ben Schoon",
@@ -1301,6 +1392,19 @@
             "urlToImage": "https://images.pushsquare.com/44c78d1414841/large.jpg",
             "publishedAt": "2026-08-05T16:45:00Z",
             "content": "Image: Push Square\r\nWhat do you think of Fire Emblem: Fortunes Weave, then? Looks like another solid strategy RPG for Nintendo folk, doesnt it?\r\nBut if you dont have a Switch 2, at least theres Beate… [+915 chars]"
+        },
+        {
+            "source": {
+                "id": "ign",
+                "name": "IGN"
+            },
+            "author": "Tom Phillips",
+            "title": "Pokémon Developer Game Freak Promises Fixes 'Within a Week' To Its Big Budget RPG Beast of Reincarnation, Following Mixed Response at Launch - IGN",
+            "description": "Game Freak has promised a series of quick fixes after a mixed response to the launch of its big budget RPG Beast of Reincarnation.",
+            "url": "https://www.ign.com/articles/pokmon-developer-game-freak-promises-fixes-within-a-week-to-its-big-budget-rpg-beast-of-reincarnation-following-mixed-response-at-launch",
+            "urlToImage": "https://assets-prd.ignimgs.com/2026/07/31/do-first-site-1785520967559.png?width=1280&format=jpg&auto=webp&quality=80",
+            "publishedAt": "2026-08-05T16:32:28Z",
+            "content": "Game Freak has promised a series of quick fixes after a mixed response to the launch of its big budget RPG Beast of Reincarnation.\r\nBest known as the developer of Pokémon, Game Freak has continued to… [+2062 chars]"
         },
         {
             "source": {
@@ -7138,58 +7242,6 @@
             "urlToImage": "https://www.phoronix.net/image.php?id=2026&image=cyberpunk_egpu_kwin",
             "publishedAt": "2026-08-01T10:18:00Z",
             "content": "It's been a very exciting week in the KDE Plasma 6.8 development space particularly thanks to performance work on bettering KWin's multi-GPU / external GPU handling.\r\nPlasma 6.8 is significantly impr… [+1075 chars]"
-        },
-        {
-            "source": {
-                "id": "mashable",
-                "name": "Mashable"
-            },
-            "author": "Alex Perry",
-            "title": "Google Pixel 11: Every rumor, leak, and confirmed fact - Mashable",
-            "description": "What's up with Google's next batch of flagships?",
-            "url": "https://mashable.com/tech/google-pixel-11-everything-we-know",
-            "urlToImage": "https://helios-i.mashable.com/imagery/articles/049MVbZZjnF8ZvepJCLSTHw/hero-image.fill.size_1200x675.v1785178768.jpg",
-            "publishedAt": "2026-08-01T09:46:15Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BGR"
-            },
-            "author": "Jorge Luis",
-            "title": "5 Tech Brands You Might Not Realize Are Owned By Logitech - bgr.com",
-            "description": "Logitech is perhaps best known for its popular mouse and keyboards, but there are multiple popular brands you may not realize are now owned by Logitech.",
-            "url": "https://www.bgr.com/2221738/tech-brands-owned-by-logitech/",
-            "urlToImage": "https://www.bgr.com/img/gallery/5-tech-brands-you-might-not-realize-are-owned-by-logitech/l-intro-1784821613.jpg",
-            "publishedAt": "2026-08-01T09:17:00Z",
-            "content": "Founded in 2016, Loupedeck designed and built streaming consoles for content creation. The consoles feature rows of buttons with digital screens on each, allowing users to customize each to trigger n… [+1023 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Windows Central"
-            },
-            "author": "Jez Corden",
-            "title": "Halo Campaign Evolved performed well on Xbox, but PS5 gamers shrugged - Windows Central",
-            "description": "Halo Campaign Evolved has been an abject failure on PS5 according to new data, heaping on evidence that Xbox's rush to PS5 publishing has been a huge mistake.",
-            "url": "https://www.windowscentral.com/gaming/halo/halo-campaign-evolved-performed-well-on-xbox-but-ps5-gamers-give-it-a-collective-shrug",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/hk7Uhtfeev3VNcUYiyCEeE-1920-80.jpg",
-            "publishedAt": "2026-08-01T09:00:00Z",
-            "content": "Nobody could've seen this one coming!\r\nMuch has been said about Xbox's previous approach to its gaming portfolio. In a sprint to boost margin mandates seeded by Microsoft CFO Amy Hood, Xbox leadershi… [+4056 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Wccftech"
-            },
-            "author": "Omar Sohail",
-            "title": "Microsoft Confirms Plans To Make 8GB RAM Run Efficiently On Windows 11 Systems, Realizing That AI Has Made Lower Memory Configurations The Norm - Wccftech",
-            "description": "Meta Description: Microsoft plans to make 8GB RAM run efficiently on Windows 11, acknowledging how AI features are reshaping lower memory configurations",
-            "url": "https://wccftech.com/windows-11-8gb-ram-optimization-microsoft-plans/",
-            "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2026/08/Windows-11.jpg",
-            "publishedAt": "2026-08-01T07:11:03Z",
-            "content": "The memory crisis pretty much means that laptop manufacturers are shifting back to 8GB RAM configurations, but if youre running Windows 11 and want a decent experience, having 16GB soldered or instal… [+2886 chars]"
         }
     ]
 }
