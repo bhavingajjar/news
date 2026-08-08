@@ -290,6 +290,19 @@
         },
         {
             "source": {
+                "id": null,
+                "name": "PhillyVoice.com"
+            },
+            "author": null,
+            "title": "After 'crazy transition,' Jaylen Brown ready to win with Sixers: 'I want to earn everybody's respect and trust' - PhillyVoice",
+            "description": "At his introductory press conference, Jaylen Brown discussed being traded to the Sixers, playing alongside LeBron James and more.",
+            "url": "https://www.phillyvoice.com/sixers-news-analysis-jaylen-brown-press-conference-interview-trade-reaction-celtics-lebron-james-joel-embiid-nba/",
+            "urlToImage": "https://media.phillyvoice.com/media/images/080626_JaylenBrownPresser_Coll.d2af692a.fill-1200x630-c0.jpg",
+            "publishedAt": "2026-08-06T21:37:35Z",
+            "content": "PHILADELPHIA Across his 10 years in the NBA, Jaylen Brown has faced the Sixers more than any other team. It makes his sudden exit from the Boston Celtics all the more jarring. Brown is not just turni… [+5698 chars]"
+        },
+        {
+            "source": {
                 "id": "espn",
                 "name": "ESPN"
             },
@@ -300,6 +313,19 @@
             "urlToImage": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0717%2Fr1690534_1269x714_16%2D9.jpg",
             "publishedAt": "2026-08-06T21:36:00Z",
             "content": "The Dallas Mavericks are offering a \"bounty\" to whoever unpacks Cooper Flagg's debut patch autograph card via a package similar to that of a blockbuster NBA trade.\r\nEditor's Picks\r\nDallas announced t… [+2553 chars]"
+        },
+        {
+            "source": {
+                "id": "nfl-news",
+                "name": "NFL News"
+            },
+            "author": "Bobby Kownack",
+            "title": "NFLN: Lions, Gibbs agree to 3-yr deal worth up to $75.75M - NFL.com",
+            "description": "The Lions are signing running back Jahmyr Gibbs to a three-year, $75.75 million extension that makes him the highest-paid running back in the league, NFL Network Insider Ian Rapoport reported Thursday.",
+            "url": "https://www.nfl.com/news/jahmyr-gibbs-lions-contract-extension",
+            "urlToImage": "https://static.www.nfl.com/image/upload/v1554321393/league/nvfr7ogywskqrfaiu38m.png",
+            "publishedAt": "2026-08-06T21:33:24Z",
+            "content": "When Gibbs joined Detroit as the 12th overall pick in the 2023 draft, his price tag was scoffed at by some around the league. A team seen as on the rise presumably had more pressing needs after alrea… [+1711 chars]"
         },
         {
             "source": {
@@ -694,6 +720,19 @@
         {
             "source": {
                 "id": null,
+                "name": "hoopsrumors.com"
+            },
+            "author": "Luke Adams",
+            "title": "Knicks Notes: Towns, Rosas, Coaching Staff, More - Hoops Rumors",
+            "description": "Will the Knicks offer Karl-Anthony Towns a max extension? Plus, notes on Gersson Rosas, Mike Brown's staff, and more.",
+            "url": "https://www.hoopsrumors.com/2026/08/knicks-notes-towns-rosas-coaching-staff-more.html",
+            "urlToImage": "https://cdn.hoopsrumors.com/files/2026/06/Karl-Anthony-Towns1-900x600.jpg",
+            "publishedAt": "2026-08-06T17:01:46Z",
+            "content": "It’s a little crazy to me that so many people are assuming the Sixers are contenders. There’s a strong possibility that one or two key players won’t be healthy most of the season, and it remains to b… [+1010 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "MMA Fighting"
             },
             "author": "Jed Meshew",
@@ -863,6 +902,19 @@
         {
             "source": {
                 "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Hayden Winks",
+            "title": "Fantasy Football: Using player projections to identify the best and worst ADPs on Yahoo, plus where to draft each position in 2026 - Yahoo Sports",
+            "description": "Fantasy football analyst Hayden Winks dives into player projections to identify best and worst ADPs on Yahoo for 2026.",
+            "url": "https://sports.yahoo.com/fantasy/article/fantasy-football-using-player-projections-to-identify-the-best-and-worst-adps-on-yahoo-plus-where-to-draft-each-position-in-2026-154439610.html",
+            "urlToImage": "https://s.yimg.com/lo/mysterio/api/cc5a9c0effd30e15ddb7243d5f3c62070e739c14ae9e5c89ffd16ebce8adb32b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-08%2Fa1bcf5d4-9b1c-4661-a85a-e2e524a4fdf6",
+            "publishedAt": "2026-08-06T15:44:39Z",
+            "content": "Anyone spending time on fantasy football player projections has my respect, and we should take value in what they say, especially if we take a consensus of the top projectors. At Yahoo Fantasy, we ha… [+6662 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "PensBurgh"
             },
             "author": "Jim Rixner",
@@ -924,6 +976,19 @@
             "urlToImage": "https://cdn.mlbtraderumors.com/files/2026/08/Jacob_deGrom_Rangers-1024x683.jpg",
             "publishedAt": "2026-08-06T15:24:39Z",
             "content": "With the trade deadline now passed, it’s time for Monday morning quarterbacking. My colleague Anthony Franco already took a look at the Rangers’ underwhelming deadline, in a post for Front Office sub… [+1881 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WPLG Local 10"
+            },
+            "author": null,
+            "title": "Former NFL WR Stedman Bailey, woman arrested for public sex at Pembroke Lakes Mall, cops say - WPLG Local 10",
+            "description": "Police arrested former NFL player Stedman Bailey and a woman after they said they had public sex in an arcade at the Pembroke Lakes Mall.",
+            "url": "https://www.local10.com/news/local/2026/08/06/former-nfl-wr-stedman-bailey-woman-arrested-for-public-sex-at-pembroke-lakes-mall-cops-say/",
+            "urlToImage": "https://wplginc-wplg-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd2p7h58ldpiqzj.cloudfront.net%2F08-06-2026%2Ft_5e044b4f7e7642b1b834d3c921a48ad0_name_47617672733_hdtv.jpg?auth=27de996764afe00f73927937c2af3c29d1d60e83af7084788f3e0b3d0435b31f&width=700",
+            "publishedAt": "2026-08-06T15:24:02Z",
+            "content": "PEMBROKE PINES, Fla. — Police arrested former NFL player Stedman Bailey and a woman after they said they had public sex in an arcade within the Pembroke Lakes Mall.\r\nLeer en español\r\nIt happened just… [+1666 chars]"
         },
         {
             "source": {
@@ -8893,71 +8958,6 @@
             "urlToImage": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/steelers/vfhgqphduvoj325rr1u9",
             "publishedAt": "2026-08-01T13:04:37Z",
             "content": "A weekly feature with Steelers Contributing Writer/Editor Brian Batko's thoughts, analysis and commentary on the Steelers. Four downs' worth of insight, and always going for it: no punting allowed.\r\n… [+4268 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Sfstandard.com"
-            },
-            "author": "Tim Kawakami",
-            "title": "Kawakami: The emergency Deebo/Pearsall flip-flop and more 49ers notes from camp - The San Francisco Standard",
-            "description": "The 49ers held their first padded practice on Friday at Levi’s Stadium",
-            "url": "https://sfstandard.com/2026/08/01/kawakami-deebo-samuel-ricky-pearsall-49ers-training-camp-notes/",
-            "urlToImage": "https://assets.sfstandard.com/image/994911177489/image_h1oafi9nj9243eqdksiq9ids10/-C100.00%25x77.78%25%2C0.00%25%2C4.35%25-S1200x630-FPNG",
-            "publishedAt": "2026-08-01T13:00:00Z",
-            "content": "Everybody has a proud plan until they get punched in the face by the first few days of training camp.\r\nThe 49ers are used to this, of course, especially at wide receiver. Their past several camps and… [+5448 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "MLB Trade Rumors"
-            },
-            "author": "Steve Adams",
-            "title": "Reds Getting Significant Interest In Hunter Greene - MLB Trade Rumors",
-            "description": "Reds righty Hunter Greene is garnering major interest. Will it be enough to force a deal? MLB Trade Rumors breaks it all down.",
-            "url": "https://www.mlbtraderumors.com/2026/08/reds-trade-rumors-hunter-greene-elly-de-la-cruz.html",
-            "urlToImage": "https://cdn.mlbtraderumors.com/files/2026/07/hunter-greene-reds-cincinnati-1024x683.jpg",
-            "publishedAt": "2026-08-01T12:11:12Z",
-            "content": "TODAY: The Reds “are now telling teams that…Greene is no longer available,” USA Today’s Bob Nightengale writes.  This may close the door on the possibility of Greene being moved at least by the deadl… [+6039 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Pats Pulpit"
-            },
-            "author": "Andrew Guindon",
-            "title": "3-Point Stance: Patriots’ training camp expectations have changed - Pats Pulpit",
-            "description": "New England’s no longer rebuilding; it’s refining amidst Super Bowl expectations.",
-            "url": "https://www.patspulpit.com/new-england-patriots-analysis/131749/patriots-training-camp-expectations-have-changed",
-            "urlToImage": "https://platform.patspulpit.com/wp-content/uploads/sites/121/2026/07/gettyimages-2287233282.jpg?quality=90&strip=all&crop=0%2C3.6641371699474%2C100%2C75.619632218296&w=1200",
-            "publishedAt": "2026-08-01T11:00:00Z",
-            "content": "The 2024 season left the New England Patriots in a bleak spot.\r\nNew England finished the season with a 4-13 record and moved on from Jerod Mayo as head coach after just one season. The only factors o… [+4880 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Prideofdetroit.com"
-            },
-            "author": "Erik Schlitt",
-            "title": "Detroit Lions fans excited to see how rookies perform in pads at training camp - Pride Of Detroit",
-            "description": "Checking in on the results from this week’s SB Nation Reacts survey.",
-            "url": "https://www.prideofdetroit.com/detroit-lions-discussion/168124/detroit-lions-fans-excited-to-see-how-rookies-perform-in-pads-at-training-camp",
-            "urlToImage": "https://platform.prideofdetroit.com/wp-content/uploads/sites/127/2026/07/reuters-tagreuters.com2026newsml_MT1USATODAY29470748901123203.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-08-01T11:00:00Z",
-            "content": "Earlier this week, we published our latest SB Nation Reacts survey, sponsored by the folks at FanDuel Sportsbook, and asked Detroit Lions fans: Which new Lions player are you most excited to see in p… [+2093 chars]"
-        },
-        {
-            "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
-            },
-            "author": "Graham Dunbar",
-            "title": "UEFA says it’s lost confidence in FIFA’s Infantino after failed private equity plan - AP News",
-            "description": "UEFA says it has lost confidence in FIFA President Gianni Infantino and that “no option should be off the table” as it will pursue a full review of his now abandoned plan to sell stakes of the World Cup to private equity investors. Infantino was forced to scr…",
-            "url": "https://apnews.com/article/infantino-fifa-uefa-b07dfbbbc0e79c60a902d7fd0e0e39b9",
-            "urlToImage": "https://dims.apnews.com/dims4/default/256363d/2147483647/strip/true/crop/6408x4270+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F4f%2Fad%2F381058167af56d804277c9f42c58%2F011b0bc95f2742799fe26e87097328c3",
-            "publishedAt": "2026-08-01T10:17:00Z",
-            "content": "GENEVA (AP) Successfully stopping Gianni Infantinos FIFA plan to sell World Cup profits to private investors was the first half of a high-stakes game in global soccer politics.\r\nThe second half kicke… [+4511 chars]"
         }
     ]
 }

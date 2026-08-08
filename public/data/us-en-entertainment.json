@@ -1,6 +1,6 @@
 {
     "status": "ok",
-    "totalResults": 596,
+    "totalResults": 594,
     "articles": [
         {
             "source": {
@@ -27,6 +27,19 @@
             "urlToImage": "https://cdn.abcotvs.com/dip/images/19639523_080626-kgo-concert-canceled-img.jpg?w=1600",
             "publishedAt": "2026-08-07T07:02:07Z",
             "content": "SAN FRANCISCO (KGO) -- The Lionel Richie and Earth, Wind &amp; Fire concert at San Francisco's Chase Center was canceled just minutes before showtime due to a medical emergency with a member of Earth… [+736 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Daily Beast"
+            },
+            "author": "Nick Schager",
+            "title": "‘The Last House’: Netflix’s Terrifying New Thriller Traps You Inside Forever - The Daily Beast",
+            "description": "Wagner Moura and Greta Lee are trapped in their home by mysterious forces in “The Last House.”",
+            "url": "https://www.thedailybeast.com/obsessed/the-last-house-netflixs-terrifying-new-thriller-traps-you-inside-forever/",
+            "urlToImage": "https://www.thedailybeast.com/resizer/v2/V2QDHDMC2BC2JNJV5NKJPFYTFY.jpg?smart=true&auth=df985a2d8f4a3090e074b0a2fa6f959220ba273bda7e8494b1a2b440e8617e8f&width=1200&height=630",
+            "publishedAt": "2026-08-07T07:00:00Z",
+            "content": "Director M. Night Shyamalan has made a career out of devising intriguing mysteries that have no satisfying explanation or conclusion. The Last House takes that formula and runs with it. \r\nDirected by… [+6334 chars]"
         },
         {
             "source": {
@@ -79,6 +92,19 @@
             "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2026/07/SBND-17598_r-H-2026.jpg?w=1296&h=730&crop=1",
             "publishedAt": "2026-08-07T02:39:57Z",
             "content": "Spider-Man: Brand New Day is still catching new records as the Tom Holland-led movie continues its impressive start at the box office. \r\nSony Pictures announced Thursday that director Destin Daniel C… [+2333 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Cageside Seats"
+            },
+            "author": "Cain A. Knight",
+            "title": "Jade Cargill vs. Charlotte Flair is finally happening in WWE, but not on a PLE - Cageside Seats",
+            "description": "This match has lost a lot of luster since the days when it was expected to be a major WrestleMania attraction.",
+            "url": "https://www.cagesideseats.com/wwe/466775/wwe-announces-charlotte-flair-vs-jade-cargill-smackdown-owens-return-cm-punk-chelsea-interim",
+            "urlToImage": "https://platform.cagesideseats.com/wp-content/uploads/sites/54/2026/08/flaircargill2.jpg?quality=90&strip=all&crop=0,1.7111626735094,100,74.847867647978",
+            "publishedAt": "2026-08-07T02:30:00Z",
+            "content": "There were several major developments for WWEs blue brand at SummerSlam, and WWE has now announced multiple segments for Friday nights (Aug. 7) fallout episode of SmackDown.\r\nFirst up is WWE Champion… [+1241 chars]"
         },
         {
             "source": {
@@ -226,6 +252,19 @@
         {
             "source": {
                 "id": null,
+                "name": "Entertainment Weekly"
+            },
+            "author": "https://www.facebook.com/entertainmentweekly",
+            "title": "Netflix stuck a guy in a billboard to promote a new movie - Entertainment Weekly",
+            "description": "Thirty feet above Sunset Boulevard, Netflix put a guy inside a billboard made up like a living room to promote the new sci-fi thriller ‘The Last House.’",
+            "url": "https://ew.com/netflix-stuck-a-guy-in-a-billboard-to-promote-the-last-house-12036197",
+            "urlToImage": "https://ew.com/thmb/S3pI9FLY2iTao0fqSedubWcvSlc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/living-billboard-netflix-the-last-house-080626-126a61e782ad41369c7ccf6c14b77bfe.jpg",
+            "publishedAt": "2026-08-06T22:18:56Z",
+            "content": "The nightmare plot of Netflixs The Last House is currently coming to life 30 feet over Sunset Boulevard.\r\nTo promote the new sci-fi thriller about a family trapped inside their home, the streamer stu… [+2822 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "Page Six"
             },
             "author": "Marie Pohl, Natalie O'Neill",
@@ -365,6 +404,19 @@
             "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/08/ellar-coltrane.jpg",
             "publishedAt": "2026-08-06T20:47:42Z",
             "content": "\"Boyhood\" actor Ellar Coltrane, who starred in Richard Linklater's Academy Award-nominated flick, moved on from Hollywood.\r\nColtrane, now 31, portrayed Mason Evans Jr. in the epic about a boy growing… [+3484 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Deadline"
+            },
+            "author": "Nellie Andreeva",
+            "title": "‘Emily In Paris’ Tweaks Production Schedule Following Minnie Driver’s Car Accident In France - Deadline",
+            "description": "Production on Season 6 of 'Emily In Paris' has been adjusted following Minnie Driver's car accident in France during time away from the set.",
+            "url": "http://deadline.com/2026/08/emily-in-paris-production-impact-minnie-driver-car-accident-1237027950/",
+            "urlToImage": "https://deadline.com/wp-content/uploads/2024/09/EIP_Unit_00508R.jpg?w=1024",
+            "publishedAt": "2026-08-06T20:26:00Z",
+            "content": "EXCLUSIVE: For the past eight weeks, Minnie Driver has been posting a series of “Paris Update” videos on Instagram, documenting her adventures in the city while filming the sixth and final season of … [+2192 chars]"
         },
         {
             "source": {
@@ -7671,84 +7723,6 @@
             "urlToImage": "https://assets-prd.ignimgs.com/2026/02/27/appletv-1-1772217140445.jpg?width=1280&format=jpg&auto=webp&quality=80",
             "publishedAt": "2026-08-01T13:30:00Z",
             "content": "The surprise return of Ted Lasso is definitely the biggest premiere on Apple TV this August, but were also going to get some decent variety from the quality-over-quantity service. Theres an adorable … [+3937 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Forbes"
-            },
-            "author": "Paul Tassi",
-            "title": "The Best Reviewed Show Of 2026 Has A 100% Rotten Tomatoes Score From Dozens Of Critics - forbes.com",
-            "description": "A new show doesn't just have a 100% Rotten Tomatoes score, but it has one from dozens of critics, making it the best-reviewed of the year.",
-            "url": "https://www.forbes.com/sites/paultassi/2026/08/01/the-best-reviewed-show-of-2026-has-a-100-rotten-tomatoes-score-from-dozens-of-critics/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6a6d5a5c8a0acf0e410912a4/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-            "publishedAt": "2026-08-01T13:02:16Z",
-            "content": "FURIOUS - The Gorgon - When FBI agent Alice Black investigates the suspicious overdose of a powerful mans son, she considers a connection to another case from her time with the NYPD. Meanwhile, fresh… [+2893 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Rolling Stone"
-            },
-            "author": "Andy Greene",
-            "title": "50 Years Ago Today: An Exhausted Elvis Presley Plays a Lackluster Matinee in Virginia - Rolling Stone",
-            "description": "Elvis Presley was not in good health, and was running on little sleep, when he took the stage at the Hampton Coliseum on Aug. 1, 1976.",
-            "url": "http://www.rollingstone.com/music/music-features/50-years-ago-today-elvis-presley-virginia-1235600565/",
-            "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2026/07/elvis-50-years-ago.jpg?crop=0px%2C0px%2C1800px%2C1014px&resize=1600%2C900",
-            "publishedAt": "2026-08-01T13:00:00Z",
-            "content": "Times-Herald reporter Cheryl Tucker walked into Elvis Presley‘s Aug. 1, 1976, show at the Hampton Coliseum in Hampton, Virginia, with an open mind. She’d never seen Presley in concert before, and wan… [+6162 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "TMZ"
-            },
-            "author": "TMZ Staff",
-            "title": "Chris Brown Wants Verdict Tossed, New Trial for Dog Bite Lawsuit - TMZ",
-            "description": "Chris Brown is not happy about being ordered to pay a woman nearly $13 million over his dog attacking her ... and officially plans on asking for the verdict to be tossed and a new trial set.",
-            "url": "https://www.tmz.com/2026/08/01/chris-brown-wants-verdict-tossed-new-trial-for-dog-bite-lawsuit/",
-            "urlToImage": "https://imagez.tmz.com/image/7e/16by9/2026/08/01/7ec6aadf7d23462d96d1133964ac63d6_xl.jpg",
-            "publishedAt": "2026-08-01T12:59:08Z",
-            "content": "Chris Brown is not happy about being ordered to pay a woman nearly $13 million over his dog attacking her ... and officially plans on asking for the verdict to be tossed and a new trial set.\r\nThat's … [+1346 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The-independent.com"
-            },
-            "author": "Tom Murray",
-            "title": "Big Bang Theory fans stunned as beloved character returns in spin-off with a very different look - The Independent",
-            "description": "‘Stuart Fails to Save the Universe’ episode two sees another major ‘Big Bang Theory’ cameo",
-            "url": "https://www.the-independent.com/arts-entertainment/tv/news/big-bang-theory-penny-stuart-saves-universe-kaley-cuoco-b3025770.html",
-            "urlToImage": "https://static.the-independent.com/2026/07/31/11/13/John-Ross-Bowie-Lauren-Lapkus-Kevin-Sussman-Brian-Posehn-in-Stuart-Saves-the-Universe.jpeg?trim=0,267,284,159&width=1200&height=800&crop=1200:800",
-            "publishedAt": "2026-08-01T11:32:00Z",
-            "content": "Your support helps us to tell the story\r\nFrom reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financia… [+3332 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Page Six"
-            },
-            "author": "Sara Nathan",
-            "title": "Exclusive | Jared Leto got 'handsy,' creeped out bartender, sent shower selfie — 'bombarded me with texts' - Page Six",
-            "description": "“His hands were all over me, and he got more irritated,” Gracelisa Akers told Page Six of Jared Leto “He was trying to pull me towards him and he was so close I could smell his br…",
-            "url": "https://pagesix.com/2026/08/01/celebrity-news/jared-leto-got-handsy-creeped-out-bartender-sent-shower-selfie-bombarded-me-with-texts/",
-            "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2026/07/newspress-collage-e4evmachf-1785535359905.jpg?quality=75&strip=all&1785521057&w=1200",
-            "publishedAt": "2026-08-01T11:01:00Z",
-            "content": "Oscar winner Jared Leto followed a young bartender out to her car after she declined his “handsy” advances before bombarding her with texts and a near-naked selfie, Page Six can reveal.\r\nGracelisa Ak… [+9894 chars]"
-        },
-        {
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "author": null,
-            "title": "Bryan Kohberger's choice of 'a house full of women' may hold the key to the Idaho murders' biggest mystery - Fox News",
-            "description": "The Netflix docuseries \"The Idaho Murders: College Nightmare\" explores whether Bryan Kohberger's struggles with women fueled the deadly attack.",
-            "url": "https://www.foxnews.com/us/bryan-kohberger-choice-house-full-women-may-hold-key-idaho-murders-biggest-mystery",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/01/idaho-four-bryan-kohberger-1.jpg",
-            "publishedAt": "2026-08-01T11:00:17Z",
-            "content": "Bryan Kohberger took the motive for the Idaho murders to his prison cell. One filmmaker believes the answer may lie in why he chose the house he attacked.\r\n\"The fact that [this] was the house that he… [+8649 chars]"
         }
     ]
 }
