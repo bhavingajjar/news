@@ -1,7 +1,189 @@
 {
     "status": "ok",
-    "totalResults": 590,
+    "totalResults": 572,
     "articles": [
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Marco Quiroz-Gutierrez",
+            "title": "The tax escape map: Billionaires are bolting for Florida from the West Coast and taking some $29 billion in tax revenue with them - Fortune",
+            "description": "Driven partly by proposed wealth taxes, some of America’s richest people have poured hundreds of millions of dollars into waterfront Florida real estate.",
+            "url": "https://fortune.com/article/tax-escape-map-billionaires-bolting-for-florida-from-the-west-coast-taking-29-billion-in-tax-revenue-with-them/",
+            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/04/GettyImages-2194358551.jpg?resize=1200,600",
+            "publishedAt": "2026-08-23T13:09:00Z",
+            "content": "The billionaire exodus from the West Coast to Florida is underway as the ultrawealthy seek refuge from wealth taxes in states like California and Washington.Google cofounders Larry Page (net worth $2… [+9679 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "WSJ",
+            "title": "How a Big Bet on Cancer Vaccines Brought Moderna Back from the Brink - WSJ",
+            "description": null,
+            "url": "https://www.wsj.com/health/pharma/moderna-cancer-vaccine-3d863ff3",
+            "urlToImage": null,
+            "publishedAt": "2026-08-23T13:01:33Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "WSJ",
+            "title": "Exclusive | Walmart Keeps Pushing Into Fashion With New Clothing Brand - WSJ",
+            "description": null,
+            "url": "https://www.wsj.com/business/retail/walmart-keeps-pushing-into-fashion-with-new-clothing-brand-5b2f9046",
+            "urlToImage": null,
+            "publishedAt": "2026-08-23T13:00:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Greg Ritchie, Michael MacKenzie",
+            "title": "Bessent Has No Easy Fix for What’s Really Driving Bond Yields Up - Bloomberg.com",
+            "description": "Treasury Secretary Scott Bessent came to office blasting his predecessor for trying to re-engineer the world’s largest bond market. This week he took a stab at it himself.",
+            "url": "https://www.bloomberg.com/news/articles/2026-08-23/bessent-has-no-easy-fix-for-what-s-really-driving-bond-yields-up",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iqJpxCf1C.u4/v0/1200x800.jpg",
+            "publishedAt": "2026-08-23T13:00:00Z",
+            "content": "Treasury Secretary Scott Bessent came to office blasting his predecessor for trying to re-engineer the worlds largest bond market. This week he took a stab at it himself.\r\nBy buying back a swath of l… [+308 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Leslie Josephs",
+            "title": "After 10 years at United, CEO Scott Kirby is thinking big about the future of his airline from JFK to AI - CNBC",
+            "description": "United Airlines CEO Scott Kirby talked to CNBC in a wide-ranging interview about his proposed airline megadeals, AI and the future of the carrier.",
+            "url": "https://www.cnbc.com/2026/08/23/united-airlines-ceo-scott-kirby.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108282297-1774370354680-gettyimages-2267710515-AFP_A4JX7G8.jpeg?v=1776879619&w=1920&h=1080",
+            "publishedAt": "2026-08-23T12:00:01Z",
+            "content": "United Airlines CEO Scott Kirby speaks during a media event showcasing the airline's new premium \"Elevated\" aircraft interior at Los Angeles International Airport, March 24, 2026.\r\nNEWARK, New Jersey… [+8708 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Leslie Josephs",
+            "title": "United's next decision: What to do with all those Boeing 737 Max 10 seats it ordered years ago - CNBC",
+            "description": "United Airlines wanted to put lie-flat premium seats on its Max 10 planes once they were certified, but that has been delayed by years.",
+            "url": "https://www.cnbc.com/2026/08/23/united-airlines-boeing-737-max-10-seats.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108350326-1786973662775-gettyimages-2284942155-AFP_B9W49E4.jpeg?v=1786973690&w=1920&h=1080",
+            "publishedAt": "2026-08-23T12:00:01Z",
+            "content": "In August 2018, the then-president and now CEO of United Airlines Scott Kirby told a room of reporters at an aviation conference in Denver about the airline's big plans for the new Boeing 737 Max 10:… [+1958 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Hugh Son",
+            "title": "Wells Fargo and Citigroup have room to buy a big bank. These 5 regionals fit the bill - CNBC",
+            "description": "Citigroup and Wells Fargo have room to buy a big regional bank as regulators have opened the door to megadeals. Five regional banks make sense as targets.",
+            "url": "https://www.cnbc.com/2026/08/23/wells-fargo-citigroup-deals-regional-banks.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108350603-1786995898579-Scharf_Fraser.jpg?v=1786995981&w=1920&h=1080",
+            "publishedAt": "2026-08-23T12:00:01Z",
+            "content": "Charles Scharf, chief executive officer of Wells Fargo &amp; Co., and Jane Fraser, chief executive officer of Citigroup Inc.\r\nWalk the halls of any major banking conference or listen in on a quarterl… [+7343 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Medora Lee",
+            "title": "Prenups cover more than just marriage and divorce these days - USA Today",
+            "description": "Prenups are becoming mainstream, but experts say they should also address estate planning for death and illness.",
+            "url": "https://www.usatoday.com/story/money/personal-finance/2026/08/23/prenups-death-incapacity-divorce-coverage/91404977007/",
+            "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/08/21/USAT/91405119007-20250829-t-051755-z-1427936325-mt-1-usatoday-26951557-rtrmadp-3-modelandinfluencerashleyalexissandherfiancbrodie.JPG?crop=2999,1687,x0,y0&width=2999&height=1687&format=pjpg&auto=webp",
+            "publishedAt": "2026-08-23T11:55:00Z",
+            "content": "Prenups are \"in,\" and one reason may be because they aren't just about marriage and divorce anymore.\r\nPrenups, once a little taboo like most money discussions were, are now common. More than half (53… [+5214 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Daniel Howley",
+            "title": "Nvidia's Q2 earnings to test resurgent AI trade - Yahoo Finance",
+            "description": "Nvidia will report its Q2 earnings after the bell on Aug. 26.",
+            "url": "https://finance.yahoo.com/news/nvidias-q2-earnings-to-test-resurgent-ai-trade-112502189.html",
+            "urlToImage": "https://s.yimg.com/lo/mysterio/api/A555BA0398626D55BA4ED7C7538CDB597E5C3CFE51FBD8C131AB61085A052F2F/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2026-08%2F11735c30-91bf-11f1-b7f2-8ded4782cfdd",
+            "publishedAt": "2026-08-23T11:25:02Z",
+            "content": "It's nearly here. The moment Wall Street waits for every quarter since the AI trade kicked off: Nvidia's (NVDA) second quarter earnings.\r\nYes, while its Big Tech peers reported their results nearly a… [+2469 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Jared Blikre",
+            "title": "Scott Bessent just kicked the bitcoin debasement trade into another gear: Chart of the Day - Yahoo Finance",
+            "description": "Bitcoin had its best week in more than three years — Scott Bessent helped light the match.",
+            "url": "https://finance.yahoo.com/markets/crypto/article/scott-bessent-just-kicked-the-bitcoin-debasement-trade-into-another-gear-chart-of-the-day-110841942.html",
+            "urlToImage": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+            "publishedAt": "2026-08-23T11:08:41Z",
+            "content": "Bitcoin (BTC-USD) had its best week in more than three yearsas stocks fell. Scott Bessent helped light the match.\r\nThe cryptocurrency surged roughly 23% this week, blowing through a months-long tradi… [+3089 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": null,
+            "title": "Hormuz crisis hides a deeper oil threat that could outlast the war - Fox News",
+            "description": "Art Berman warns that 8 million barrels shut in near the Strait of Hormuz may never fully recover, even after a ceasefire reopens the waterway.",
+            "url": "https://www.foxnews.com/world/strait-hormuz-may-only-half-story-new-oil-threat-comes-focus",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/02/irgc-navy-strait-hormuz-exercise.jpg",
+            "publishedAt": "2026-08-23T10:00:56Z",
+            "content": "As global attention remains fixed on tankers moving through the Strait of Hormuz, a petroleum geologist is warning that the more consequential energy story may be unfolding thousands of feet undergro… [+7012 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Financial Times"
+            },
+            "author": null,
+            "title": "Oil major Eni bets on nuclear fusion becoming its ‘next refinery’ - Financial Times",
+            "description": "Italian group widening investments in technology that promises much but is yet to be commercially proven",
+            "url": "https://www.ft.com/content/e6a069b6-69f8-4a21-9873-3cc0736d27e2?syn-25a6b1a6\\\\u003d1",
+            "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F88fc8e97-c44f-462a-88f8-16ceb6552754.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+            "publishedAt": "2026-08-23T10:00:08Z",
+            "content": "Then $75 per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Jake Conley",
+            "title": "Nvidia earnings and Jackson Hole: What to watch this week - Yahoo Finance",
+            "description": "Nvidia earnings headline a busy week with an all-important inflation reading",
+            "url": "https://finance.yahoo.com/markets/article/nvidia-earnings-and-jackson-hole-what-to-watch-this-week-100000082.html",
+            "urlToImage": "https://s.yimg.com/lo/mysterio/api/A555BA0398626D55BA4ED7C7538CDB597E5C3CFE51FBD8C131AB61085A052F2F/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2026-08%2F11735c30-91bf-11f1-b7f2-8ded4782cfdd",
+            "publishedAt": "2026-08-23T10:00:00Z",
+            "content": "After a dizzying week centered on mixed retail earnings, rising bond yields, and a surprise intervention from the Treasury Department, investors step into another action-packed five-day stretch. The … [+9459 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Financial Times"
+            },
+            "author": null,
+            "title": "Alibaba announces $10.2bn share placement as Chinese companies expand AI investment - Financial Times",
+            "description": "Equity issuance follows a strong reception for its latest Qwen 3.8-Max model",
+            "url": "https://www.ft.com/content/e4ab027e-ed41-48b7-89ac-8250d3054ae6?syn-25a6b1a6\\\\u003d1",
+            "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Faf815431-5326-459b-ac9c-912f314e9779.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+            "publishedAt": "2026-08-23T08:33:27Z",
+            "content": "Then $75 per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial."
+        },
         {
             "source": {
                 "id": "the-wall-street-journal",
@@ -30,6 +212,19 @@
         },
         {
             "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "Martha Bellisle",
+            "title": "Officials warn wildland firefighters about the risks of using a supplement for smoke exposure - AP News",
+            "description": "Fire and medical officials have issued warnings about a supplement offered to Western wildland firefighters who have been exposed to toxic chemicals. Glutathione was given to some firefighters during California wildfires last year and again this month in Wash…",
+            "url": "https://apnews.com/article/wildfire-toxic-smoke-firefighters-glutathione-supplement-244221cc2e2e539ba06d18a60d5f586c",
+            "urlToImage": "https://dims.apnews.com/dims4/default/36c7e81/2147483647/strip/true/crop/4686x3122+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F6c%2Fbd%2Fe245c9c6862ce23480b7866f3c58%2Ff24c51d7ebdf4a42a96bcfbc8e6ac91e",
+            "publishedAt": "2026-08-23T04:01:00Z",
+            "content": "SEATTLE (AP) Fire and medical officials have issued warnings about a supplement offered to Western wildland firefighters who have been exposed to toxic chemicals while battling some of the countrys b… [+5445 chars]"
+        },
+        {
+            "source": {
                 "id": "the-wall-street-journal",
                 "name": "The Wall Street Journal"
             },
@@ -53,6 +248,32 @@
             "urlToImage": null,
             "publishedAt": "2026-08-23T00:00:00Z",
             "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Sangmi Cha",
+            "title": "Korean Traders Chase 40% Coupons as Risk Appetite Survives Rout - Bloomberg.com",
+            "description": "A historic stock selloff has driven South Korea’s retail investors toward complex structured products as the risk-loving cohort continues to look for ways to boost returns.",
+            "url": "https://www.bloomberg.com/news/articles/2026-08-23/korean-traders-chase-40-coupons-as-risk-appetite-survives-rout",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/izg5.wfcqF1M/v0/1200x800.jpg",
+            "publishedAt": "2026-08-23T00:00:00Z",
+            "content": "A historic stock selloff has driven South Koreas retail investors toward complex structured products as the risk-loving cohort continues to look for ways to boost returns.\r\nEquity-linked securities d… [+210 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "TMZ"
+            },
+            "author": "TMZ Staff",
+            "title": "Dunkin' Donuts Viral Foot Washing Incident Under Investigation - TMZ",
+            "description": "America runs on Dunkin' Donuts ... but customers of one particular store may want to run somewhere else to buy coffee -- because an employee was caught washing their feet in the sink.",
+            "url": "https://www.tmz.com/2026/08/22/dunkin-donuts-investigated-over-foot-washing-employee/",
+            "urlToImage": "https://imagez.tmz.com/image/d7/16by9/2026/08/22/d76662a02a9c428883391434adbc9388_xl.jpg",
+            "publishedAt": "2026-08-22T22:41:45Z",
+            "content": "America runs on Dunkin' Donuts ... but customers of one particular store may want to run somewhere else to buy coffee -- because an employee was caught washing their feet in the sink.\r\nHere's the dea… [+1056 chars]"
         },
         {
             "source": {
@@ -157,6 +378,19 @@
             "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i.NfUqhs2WxU/v0/1200x800.jpg",
             "publishedAt": "2026-08-22T20:00:00Z",
             "content": "Investors are looking for Kevin Warsh to clarify his views on how the US central bank should react to stubborn inflation when the Federal Reserve chair speaks on Friday at the annual gathering in Jac… [+59 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "TheStreet"
+            },
+            "author": "thestreet.com",
+            "title": "Top analyst sees trouble looming for SpaceX stock - thestreet.com",
+            "description": null,
+            "url": "https://www.thestreet.com/investing/stocks/dz-bank-spacex-spcx-stock-sell-rating-valuation",
+            "urlToImage": null,
+            "publishedAt": "2026-08-22T20:00:00Z",
+            "content": null
         },
         {
             "source": {
@@ -343,6 +577,19 @@
         {
             "source": {
                 "id": null,
+                "name": "Theregister.com"
+            },
+            "author": "Jessica Lyons",
+            "title": "If you're not using AI to attack your own systems, your adversaries will - The Register",
+            "description": "Agents are also the new attack surface - cue defenders' existential angst",
+            "url": "https://www.theregister.com/security/2026/08/22/if-youre-not-using-ai-to-attack-your-own-systems-your-adversaries-will/5291346",
+            "urlToImage": "https://image.theregister.com/5270164.jpg?imageId=5270164&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+            "publishedAt": "2026-08-22T15:02:00Z",
+            "content": "AI agents excel at hacking organizations, as theyve demonstrated in real-life attacks multiple times over the past few weeks. They also expose a whole new attack surface for organizations trying to p… [+10111 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "Fox Business"
             },
             "author": "Fox Business",
@@ -365,6 +612,19 @@
             "urlToImage": "https://s.hdnux.com/photos/01/67/11/22/31233180/3/rawImage.jpg",
             "publishedAt": "2026-08-22T14:02:43Z",
             "content": "The Raleys at 157 N. McDowell Blvd. in Petaluma is expected to close on Jan. 26, 2027. \r\nGoogle Street View\r\nRaleys plans to close two more Bay Area locations in the coming months as the grocery chai… [+2603 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Fox Business"
+            },
+            "author": "Fox Business",
+            "title": "Tesla feature at the center of nearly 3 million-vehicle recall - New York Post",
+            "description": "The US automaker said the recall covers imported and China-made Model 3, Model Y, Model S and Model X vehicles, according to notices filed with China’s State Administration for Market Regulat…",
+            "url": "https://www.foxbusiness.com/lifestyle/tesla-recalls-nearly-3m-vehicles-over-doors-may-difficult-open-after-crashes",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/08/138179805.jpg?quality=75&strip=all&w=1200",
+            "publishedAt": "2026-08-22T14:01:00Z",
+            "content": "Tesla announced Friday that it is recalling nearly three million vehicles in China over concerns that doors may be difficult to open in an emergency, marking the largest automotive recall in the coun… [+2866 chars]"
         },
         {
             "source": {
@@ -469,6 +729,19 @@
             "urlToImage": "https://images.mktw.net/im-69034296/social",
             "publishedAt": "2026-08-22T13:00:00Z",
             "content": "Market Extra\r\nCryptocurrencies and precious metals shot higher, while the U.S. dollar weakened, after the Treasury Department said it planned to double its bond buybacks\r\nAug. 22, 2026, 9:00a.m. ET\r\n… [+496 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Emma Marsden",
+            "title": "Map: Recalled sprouts linked to rare E. Coli and Salmonella outbreak across 15 states - Newsweek",
+            "description": "At least 55 people have fallen ill, with four hospitalized, after eating alfalfa sprouts linked to the outbreak.",
+            "url": "https://www.newsweek.com/map-sprouts-recalled-after-rare-double-outbreak-hits-15-states-12355596",
+            "urlToImage": "https://assets.newsweek.com/wp-content/uploads/2026/08/sprout-bacteria-outbreak-map.jpg?w=1200&crop=1",
+            "publishedAt": "2026-08-22T12:57:00Z",
+            "content": "At least 55 people have fallen ill in a multistate outbreak of E. coli and Salmonella linked to alfalfa sprouts, U.S. health officials said.\r\nThe Food and Drug Administration (FDA) said 46 people hav… [+4003 chars]"
         },
         {
             "source": {
@@ -602,6 +875,19 @@
         },
         {
             "source": {
+                "id": null,
+                "name": "Albany Times Union"
+            },
+            "author": "Nora Mishanec",
+            "title": "There’s a new type of flu vaccine for older adults this year. Can you get it? - Times Union",
+            "description": "The Food and Drug Administration recently approved the drug company's first-of-its-kind mRNA flu vaccine for adults over 50.",
+            "url": "https://www.timesunion.com/health/article/influenza-vaccinations-new-york-flu-season-preview-22397249.php",
+            "urlToImage": "https://s.hdnux.com/photos/01/62/50/64/30051601/5/rawImage.jpg",
+            "publishedAt": "2026-08-22T10:13:16Z",
+            "content": "The Food and Drug Administration recently approved a first-of-its-kind mRNA flu vaccine for adults over 50.\r\nSkip Dickstein/Times Union\r\nPharmacies and doctors offices began stocking flu shots in rec… [+6397 chars]"
+        },
+        {
+            "source": {
                 "id": "usa-today",
                 "name": "USA Today"
             },
@@ -680,6 +966,19 @@
         },
         {
             "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Ben Shimkus",
+            "title": "Toyota's most affordable EV is a great car with some bad helicopter parent-y quirks - Business Insider",
+            "description": "Toyota's first mass-market EV, the bZ got a full facelift for 2026. It's great, but loves to act like your overbearing parent.",
+            "url": "https://www.businessinsider.com/2026-toyota-bz-review-ev-2026-8#article",
+            "urlToImage": "https://i.insider.com/6a7f650ec78818eff7d2d3e2?width=1200&format=jpeg",
+            "publishedAt": "2026-08-22T09:23:00Z",
+            "content": "Toyota's refreshed, midsize EV the 2026 bZ looks nothing like other Toyotas.\r\nIts backside is sharply sloped and angular, giving it a profile that resembles a doorstop. It might win a Pontiac Aztek l… [+4965 chars]"
+        },
+        {
+            "source": {
                 "id": null,
                 "name": "Yahoo Entertainment"
             },
@@ -690,19 +989,6 @@
             "urlToImage": "https://s.yimg.com/lo/mysterio/api/11E338A1AC26658A60F8C7B591A8FF59BE54F360C939F98F1DFB8FDD8C8269B0/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmoneywise_327%2F0cff5eebfee01615ccd395795373ff75.jpg",
             "publishedAt": "2026-08-22T09:15:00Z",
             "content": "Brandon Bell/Getty Images\r\nHave you ever been walking down the street and seen a $10 bill laying on the sidewalk? If so, did you pick it up and tuck it into your wallet?\r\nUnless someone was walking a… [+2828 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Fox Business"
-            },
-            "author": "Michael Sinkewicz",
-            "title": "Tesla recalls nearly 3M vehicles over doors that may be difficult to open after crashes - Fox Business",
-            "description": "Tesla's recall of nearly 3 million vehicles in China involves door handles that may trap occupants after severe collisions if low-voltage systems fail.",
-            "url": "https://www.foxbusiness.com/lifestyle/tesla-recalls-nearly-3m-vehicles-over-doors-may-difficult-open-after-crashes",
-            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2021/12/0/0/Tesla.jpeg?ve=1&tl=1",
-            "publishedAt": "2026-08-22T09:09:00Z",
-            "content": "Tesla announced Friday that it is recalling nearly 3 million vehicles in China over concerns that doors may be difficult to open in an emergency, marking the largest automotive recall in the country'… [+3029 chars]"
         },
         {
             "source": {
@@ -794,19 +1080,6 @@
             "urlToImage": "https://variety.com/wp-content/uploads/2026/07/Paramount-Skydance.jpg?w=1000&h=563&crop=1",
             "publishedAt": "2026-08-22T00:19:00Z",
             "content": "Paramount Skydance representatives are expected to meet on Monday with the California Attorney General’s office to discuss a potential settlement of the states’ antitrust case, according to two sourc… [+2339 chars]"
-        },
-        {
-            "source": {
-                "id": "the-wall-street-journal",
-                "name": "The Wall Street Journal"
-            },
-            "author": "WSJ",
-            "title": "How a Big Bet on Cancer Vaccines Brought Moderna Back from the Brink - WSJ",
-            "description": null,
-            "url": "https://www.wsj.com/health/pharma/moderna-cancer-vaccine-3d863ff3",
-            "urlToImage": null,
-            "publishedAt": "2026-08-22T00:01:03Z",
-            "content": null
         },
         {
             "source": {
@@ -937,6 +1210,19 @@
             "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/ebfc/live/7de297d0-9da6-11f1-95ab-d3b679e2384a.jpg",
             "publishedAt": "2026-08-21T21:40:47Z",
             "content": "The justice department did not detail on Friday any action against TikTok beyond the fine. But the department noted that since it sued the platform, TikTok has \"undergone significant changes,\" includ… [+77 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "KOMO News"
+            },
+            "author": "KOMO News Staff",
+            "title": "Boeing engineers, technical workers reject contracts, could strike after fall deadline - KOMO",
+            "description": "Members of the Society of Professional Engineering Employees in Aerospace (SPEEA), the union for aerospace professionals at Boeing, have rejected proposed colle",
+            "url": "https://komonews.com/news/local/boeing-strike-engineers-technical-workers-speea-union-reject-contracts-approve-strike-authorization-october-contarct-expires-negotiations",
+            "urlToImage": "https://komonews.com/resources/media2/16x9/3000/1320/0x156/90/4ac3962d-2c00-46b6-b383-8185d52befc9-GettyImages72662476.jpg",
+            "publishedAt": "2026-08-21T21:35:41Z",
+            "content": "SEATTLE Members of the Society of Professional Engineering Employees in Aerospace (SPEEA), the union for aerospace professionals at Boeing, have rejected proposed collective bargaining agreements for… [+4667 chars]"
         },
         {
             "source": {
@@ -7151,526 +7437,6 @@
             "urlToImage": "https://s.yimg.com/lo/mysterio/api/ada1a48976638bf349712af8f082cb1404c576ee9aaa7468edab537b314465fd/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2F9616d0bdbf006af6551ada44b4ea98d7.jpg",
             "publishedAt": "2026-08-17T13:05:00Z",
             "content": "Experienced investors know that politics and Wall Street often intersect. Compounding that issue in the near term is this year's status as a midterm election year.\r\nNo candidates or parties are being… [+4563 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Brian Sozzi",
-            "title": "Goldman Sachs warns of consumer spending slowdown as tax refund boost fades - Yahoo Finance",
-            "description": "Keep a close eye on consumer spending.",
-            "url": "https://finance.yahoo.com/economy/article/goldman-sachs-warns-of-consumer-spending-slowdown-as-tax-refund-boost-fades-125557282.html",
-            "urlToImage": "https://s.yimg.com/lo/mysterio/api/03184E476243EF2054ECB670D86CA19A71EE9E695297C15D99A449CAD3CB322D/subgraphmysterio/resizefill_w1200_h802;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-08%2Fd131c69f-4804-4431-bc64-1ff7fc7e0f26",
-            "publishedAt": "2026-08-17T12:55:57Z",
-            "content": "The US consumer has displayed remarkable resilience this year amid high gas and food prices. But that resilience may soon be put to the test, Goldman Sachs economists warned.\r\nThe call: Sales among c… [+2726 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Quartz India"
-            },
-            "author": "Cris Tolomia",
-            "title": "Harvard's endowment revealed a $2.2 billion SpaceX stake — its largest single stock holding - qz.com",
-            "description": "The holding in Space Exploration Technologies Corp. is the largest single stock position in Harvard's 13F filing, which shows $4.3 billion in U.S. equities",
-            "url": "https://qz.com/harvard-endowment-spacex-stake-2-billion-081726",
-            "urlToImage": "https://qz.com/cdn-cgi/image/width=1200,quality=85,format=auto/https://assets.qz.com/media/GettyImages-2011423256-300x200.jpg",
-            "publishedAt": "2026-08-17T12:40:44Z",
-            "content": "Global business news for a smarter world\r\n© 2026 Quartz Media, Inc. All rights reserved.\r\nThe holding in Space Exploration Technologies Corp. is the largest single stock position in Harvard's 13F fil… [+2170 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Financial Times"
-            },
-            "author": null,
-            "title": "Barclays shakes up investment bank less than 3 years since last overhaul - ft.com",
-            "description": "Mike Joo hired from Bank of America to lead investment banking",
-            "url": "https://www.ft.com/content/35be5ef3-4ea3-444d-b509-2fb00a9940c9?syn-25a6b1a6\\\\u003d1",
-            "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fe9b1f2f2-e620-4683-ba3e-c8ee0f84e465.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
-            "publishedAt": "2026-08-17T12:40:17Z",
-            "content": "Then $75 per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial."
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNBC"
-            },
-            "author": "Jenni Reid",
-            "title": "Veteran strategist Jeff Currie turns bullish on gold. Here’s why - CNBC",
-            "description": "Recent volatility is likely to continue but \"the spike is higher and the low is higher,\" Currie told CNBC on Monday.",
-            "url": "https://www.cnbc.com/2026/08/17/gold-prices-jeff-currie-gold.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108274629-1772775381971-gettyimages-1148114588-f0250608.jpeg?v=1776247745&w=1920&h=1080",
-            "publishedAt": "2026-08-17T12:33:12Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "the-wall-street-journal",
-                "name": "The Wall Street Journal"
-            },
-            "author": "WSJ",
-            "title": "Uber, Zipline Partner With Goal of Hitting 1 Million Drone Deliveries a Day - WSJ",
-            "description": null,
-            "url": "https://www.wsj.com/tech/uber-zipline-partner-with-goal-of-hitting-1-million-drone-deliveries-a-day-e022b67a",
-            "urlToImage": null,
-            "publishedAt": "2026-08-17T12:29:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
-            "author": "Todd C. Frankel",
-            "title": "They were told to park outside. Then their cars burst into flames. - The Washington Post",
-            "description": "Modern vehicles don’t need to be moving — or even turned on — to catch fire. That’s fueling lots of safety recalls and tough choices.",
-            "url": "https://www.washingtonpost.com/business/2026/08/17/they-were-told-park-outside-then-their-cars-burst-into-flames/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/MVMYXMJKG3KSFK6WYVTAAOSVIE.jpg&w=1440",
-            "publishedAt": "2026-08-17T12:26:46Z",
-            "content": "Late last year, when Sarah Lammersen learned her 2022 Jeep Wrangler plug-in hybrid was being recalled because the high-voltage battery could catch fire at any time even when the vehicle was parked sh… [+110 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNBC"
-            },
-            "author": "Hugh Leask",
-            "title": "'Don't get too comfortable': Wall Street’s ‘fear gauge’ hits 2026 low — here's why it's unlikely to last - CNBC",
-            "description": "A falling VIX points to growing investor complacency ahead of a traditionally turbulent time for markets, strategists warn.",
-            "url": "https://www.cnbc.com/2026/08/17/stock-market-volatility-vix-wall-street.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108285956-1775048846885-gettyimages-2269291703-6e6a0089_copy_zhv0gn6f.jpeg?v=1775048926&w=1920&h=1080",
-            "publishedAt": "2026-08-17T12:19:50Z",
-            "content": "Wall Street's so-called \"fear gauge\" has fallen to its lowest level of 2026 so far, reflecting relative market tranquility in a year marked by geopolitical turbulence but the calm appears unlikely to… [+3063 chars]"
-        },
-        {
-            "source": {
-                "id": "bloomberg",
-                "name": "Bloomberg"
-            },
-            "author": "Ilena Peng",
-            "title": "Skyrocketing Beef Prices Finally Have Americans Reaching Their Spending Limit - Bloomberg.com",
-            "description": "Aaron Kaufman used to meet his lofty daily protein goals — a gram for each pound he weighs — with ground beef.",
-            "url": "https://www.bloomberg.com/news/articles/2026-08-16/skyrocketing-beef-prices-finally-have-americans-reaching-their-spending-limit",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iICEmTRSCqiU/v6/1200x800.jpg",
-            "publishedAt": "2026-08-17T12:18:36Z",
-            "content": "Aaron Kaufman used to meet his lofty daily protein goals a gram for each pound he weighs with ground beef.\r\nThen in the spring the 32-year-old moved from Brooklyn to Manhattan. To offset the higher c… [+277 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Investopedia"
-            },
-            "author": "Aaron McDade",
-            "title": "5 Things to Know Before the Stock Market Opens on Monday - Investopedia",
-            "description": "Stock futures are pointing to a mixed open to kick off a busy week of retail earnings reports. Here’s what investors need to know today.",
-            "url": "https://www.investopedia.com/5-things-to-know-before-the-stock-market-opens-on-monday-august-17-2026-12061089",
-            "urlToImage": "https://www.investopedia.com/thmb/WGl7jakilrswhat083SCLPFZ30A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-2289704036-389e640bcee04de49678b49a5f4927d1.jpg",
-            "publishedAt": "2026-08-17T12:18:17Z",
-            "content": "Stock futures are pointing to a mixed open to kick off a busy week of retail earnings reports; investors will get quarterly results from Target, Walmart, Home Depot, Lowes and others this week; AI-re… [+4179 chars]"
-        },
-        {
-            "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
-            },
-            "author": "Kelly Burch",
-            "title": "My parents thought I was wasting my life playing video games. I became a millionaire by 27. - Business Insider",
-            "description": "Dima Beseda says his parents worried about how much he played World of Warcraft. He later turned gaming into a career and became a millionaire.",
-            "url": "https://www.businessinsider.com/college-dropout-gaming-business-millionaire-2026-8#article",
-            "urlToImage": "https://i.insider.com/6a7f2cbae3df4d0cbe686059?width=1200&format=jpeg",
-            "publishedAt": "2026-08-17T12:18:05Z",
-            "content": "This as-told-to essay is based on a conversation with Dima Beseda, cofounder of Spiry. It has been edited for length and clarity.\r\nI was only 3 when my dad brought our first computer into the house, … [+3165 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Brian Sozzi",
-            "title": "Why the 'immaculate' stock market might not stay that way long - Yahoo Finance",
-            "description": "Welcome to the seasonal period of suffering for investors.",
-            "url": "https://finance.yahoo.com/markets/article/why-the-immaculate-stock-market-might-not-stay-that-way-long-121205340.html",
-            "urlToImage": "https://s.yimg.com/lo/mysterio/api/6CB9B0902F51A79DE4229E413EB020A599CEEE925A4B67655244E681D5276E31/subgraphmysterio/resizefill_w1200_h900;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-08%2Fc6b174be-8b0a-44a7-ab6c-311fb4c02fea",
-            "publishedAt": "2026-08-17T12:12:05Z",
-            "content": "A near-perfect stock market is about to enter a rockier period.\r\n\"The 'broadening' [in the market] has happened, and the vibes are immaculate. Unfortunately, history says don't get too comfortable as… [+2421 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNBC"
-            },
-            "author": "Jonathan Vanian",
-            "title": "Meta faces ‘astronomical’ consequences as legal fight reaches critical moment in California - CNBC",
-            "description": "Less than two weeks after a loss in New Mexico, Meta faces a much bigger legal test in a case being co-led by California's attorney general.",
-            "url": "https://www.cnbc.com/2026/08/17/meta-attorneys-general-california-federal-trial-astronomical-consequences.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108297760-1777307207308-108297760-1777307153926-gettyimages-2267943764-Zuckerberg_182_032626.jpeg?v=1780690805&w=1920&h=1080",
-            "publishedAt": "2026-08-17T12:00:01Z",
-            "content": "Mark Zuckerberg, CEO of Meta, is seen in the U.S. Capitol after a meeting in the office of Senate Majority Leader John Thune, R-S.D., March 26, 2026.\r\nIf New Mexico created the blueprint for taking o… [+8778 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Brian Sozzi",
-            "title": "Micron stock heats up again, crossing $1,000 - Yahoo Finance",
-            "description": "Micron shares are back with some momentum.",
-            "url": "https://finance.yahoo.com/markets/stocks/article/micron-stock-heats-up-again-crossing-1000-115304344.html",
-            "urlToImage": "https://s.yimg.com/lo/mysterio/api/8B72439A83E45CC663855A646DE91A9158A9C2E865E643311CEB34F2AD13FDF6/subgraphmysterio/resizefill_w1200_h899;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fgettyimages-2147904149_6330.jpg",
-            "publishedAt": "2026-08-17T11:53:04Z",
-            "content": "The momentum has returned to one of 2026's hottest AI trades: Micron (MU).\r\nShares of the memory chip play crossed the psychologically important $1,000 level in premarket trading on Monday. The stock… [+2279 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Grace O'Donnell",
-            "title": "Stock market today: Dow, S&P 500, Nasdaq futures waver ahead of retail earnings - Yahoo Finance",
-            "description": "Stocks were little changed ahead of a relatively quiet week, with retail earnings on the docket.",
-            "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-august-17-dow-sp-500-nasdaq-094421171.html",
-            "urlToImage": "https://s.yimg.com/lo/mysterio/api/FCE04FAF0562F8D1585D118B55C512877F3B1B04CC750AE759AF202A403A06C4/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fgettyimages-2172027595_4556.jpg",
-            "publishedAt": "2026-08-17T11:41:14Z",
-            "content": "US stock futures wavered on Monday as investors weighed the Federal Reserve's next policy move and awaited a slate of retail earnings this week.\r\nFutures on the Dow Jones Industrial Average (YM=F) sl… [+1266 chars]"
-        },
-        {
-            "source": {
-                "id": "axios",
-                "name": "Axios"
-            },
-            "author": "Matt Phillips",
-            "title": "What rising Treasury yields are telling us - Axios",
-            "description": "Federal deficits, corporate borrowing and uncertainty about monetary policy are making investors nervous.",
-            "url": "https://www.axios.com/2026/08/17/treasury-yields-warsh-bonds",
-            "urlToImage": "https://images.axios.com/GfwkUMp4NpL8S8XsPeAFXFxigh4=/0x0:1600x900/1366x768/2026/08/14/1786745355920.png",
-            "publishedAt": "2026-08-17T11:14:14Z",
-            "content": "Yields on U.S. government bonds known as Treasurys continue to climb, thanks to groaning federal deficits, bonkers corporate borrowing and uncertainty about monetary policy under Federal Reserve chai… [+3140 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Investopedia"
-            },
-            "author": "Peter Gratton",
-            "title": "How Much a Typical Couple Needs to Retire in Every State and What Size Nest Egg Is Required - Investopedia",
-            "description": "Find out how much savings a typical couple needs to retire comfortably in each U.S. state, with details on what drives retirement costs the most.",
-            "url": "https://www.investopedia.com/how-much-a-typical-couple-needs-to-retire-in-every-state-and-the-size-of-the-nes-12036523",
-            "urlToImage": "https://www.investopedia.com/thmb/2W8EkcPaqSVUC2BxQfXG7afKWHM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Screenshot2026-06-02at4.20.02PM-8715319d014a4073969693a9204d11a9.png",
-            "publishedAt": "2026-08-17T11:05:00Z",
-            "content": "<ul><li>A typical American couple needs about $1.16 million saved to retire comfortably, but this amount varies widely by state.</li><li>Housing costs are the largest factor driving retirement expens… [+7331 chars]"
-        },
-        {
-            "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
-            },
-            "author": "Hugh Langley",
-            "title": "How Google lost the 'war for the hearts and minds' of its employees: Q&A with Claire Stapleton - Business Insider",
-            "description": "Former Googler Claire Stapleton talked to Business Insider about Google from the inside, worker power, and how the company obsessed over its image.",
-            "url": "https://www.businessinsider.com/claire-stapleton-google-employee-walkouts-protest-dont-be-evil-book-2026-8#article",
-            "urlToImage": "https://i.insider.com/6a7f537fbd87410e364d292e?width=1200&format=jpeg",
-            "publishedAt": "2026-08-17T11:03:00Z",
-            "content": "In 2018, Claire Stapleton helped spearhead a walkout of around 20,000 Google employees. The protest was a response to a New York Times story detailing how the company had paid multimillion-dollar exi… [+9840 chars]"
-        },
-        {
-            "source": {
-                "id": "usa-today",
-                "name": "USA Today"
-            },
-            "author": "James Powel, Gabe Hauari",
-            "title": "Buc-ee's to open 6 locations in 6 states. See when and where - USA Today",
-            "description": "The beaver-branded travel center opened its first location in Arkansas, continuing its nationwide expansion.",
-            "url": "https://www.usatoday.com/story/money/2026/08/17/buc-ees-arkansas-opening-next-locations/91296860007/",
-            "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/08/16/USAT/91330432007-20260622-t-163939-z-544043756-mt-1-usatoday-29245769-rtrmadp-3-customersarecheckedoutduringthebuceesgrandopening.JPG?crop=3899,2193,x0,y0&width=3200&height=1800&format=pjpg&auto=webp",
-            "publishedAt": "2026-08-17T11:02:00Z",
-            "content": "Buc-ee's opened its first Arkansas location in Benton on Aug. 17, continuing the beaver-branded travel center's expansion out of its Texas stomping grounds.\r\nThe location is expected to bring more th… [+3306 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "24/7 Wall St."
-            },
-            "author": "Joel South",
-            "title": "4 Vanguard ETFs That Belong in Every Portfolio in August - 24/7 Wall St.",
-            "description": "Mid-year rebalancing forces a hard question: which ETFs actually earn a permanent spot versus which ones just look good after a strong run? Four Vanguard funds make the case right now, and the reasoning cuts against what most investors assume about diversific…",
-            "url": "https://247wallst.com/investing/2026/08/17/4-vanguard-etfs-that-belong-in-every-portfolio-in-august/",
-            "urlToImage": "https://247wallst.com/wp-content/uploads/2026/08/4-vanguard-etfs-that-belong-in-every-portfolio-in-featured-1786964432459.webp",
-            "publishedAt": "2026-08-17T11:00:36Z",
-            "content": "August is when a lot of investors dust off their asset allocation spreadsheets. Mid-year rebalancing conversations kick in, tax-loss harvesting planning starts, and back-to-school cash-flow shifts fo… [+4597 chars]"
-        },
-        {
-            "source": {
-                "id": "ars-technica",
-                "name": "Ars Technica"
-            },
-            "author": "Eric Berger",
-            "title": "Satellite operators are in panic mode due to a worsening launch crisis - Ars Technica",
-            "description": "What happens if the Falcon rockets stop flying?",
-            "url": "https://arstechnica.com/space/2026/08/theres-a-huge-launch-crunch-right-now-and-it-will-probably-get-worse/",
-            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2015/05/1st-Dragon-Flight-12-10-1152x648.jpg",
-            "publishedAt": "2026-08-17T11:00:26Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNBC"
-            },
-            "author": "Alex Sherman, Lillian Rizzo",
-            "title": "What will TV look like in three years? Media insiders share their predictions - CNBC",
-            "description": "CNBC asked media insiders what they think the TV market — from pay TV subscribers to sports ratings — will look like in three years.",
-            "url": "https://www.cnbc.com/2026/08/17/tv-media-insiders-predictions.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108349861-1786723866209-260420_cg_32_future_tv_gfx4__0-00-12-15__1024.png?v=1786723905&w=1920&h=1080",
-            "publishedAt": "2026-08-17T11:00:01Z",
-            "content": "The television industry is in flux.\r\nDeals, spinouts and partnerships are all reshaping the landscape for traditional TV. While the industry is no stranger to turmoil, the recently rapid pace of chan… [+14831 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Seeking Alpha"
-            },
-            "author": "Steven Cress",
-            "title": "Nebius’ 366% Revenue Growth And Other Top AI Stocks With Short Squeeze Potential - seekingalpha.com",
-            "description": "NBIS surged 34% after blowout earnings coincided with high short interest. See more top AI stocks with similar fundamentals and short squeeze potential.",
-            "url": "https://seekingalpha.com/article/4936951-nebius-366-percent-revenue-growth-and-other-top-ai-stocks-with-short-squeeze-potential",
-            "urlToImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2228869477/image_2228869477.jpg?io=getty-c-w1536",
-            "publishedAt": "2026-08-17T11:00:00Z",
-            "content": "Analysts Disclosure: I/we have no stock, option or similar derivative position in any of the companies mentioned, and no plans to initiate any such positions within the next 72 hours. I wrote this ar… [+1047 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Jess Weatherbed",
-            "title": "Anthropic explains how Claude’s invisible text watermarks will work - The Verge",
-            "description": "Anthropic has clarified how it’s planning to apply invisible watermarks to Claude-generated text in order to comply with Europe’s AI transparency rules.",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-08-17T10:57:56Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nIts using a version of the open-source SynthID-Text system Google developed.\r\nIts using a version of the open-source SynthID-Text system Google developed.\r\nby\r\nJ… [+3270 chars]"
-        },
-        {
-            "source": {
-                "id": "usa-today",
-                "name": "USA Today"
-            },
-            "author": "Kathleen Wong",
-            "title": "What locals want visitors to know about Pacific Palisades today - USA Today",
-            "description": "Twenty months after the devastating wildfire, Pacific Palisades is welcoming visitors back to help fuel its recovery.",
-            "url": "https://www.usatoday.com/story/travel/destinations/2026/08/16/pacific-palisades-fire-recovery-tourism/91245066007/",
-            "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/08/13/USAT/91289954007-20251212-t-023825-z-1016685523-rc-2-ceia-6-bybb-rtrmadp-3-californiawildfirespacificpalisades.JPG?crop=6499,3656,x0,y975&width=3200&height=1801&format=pjpg&auto=webp",
-            "publishedAt": "2026-08-17T10:38:00Z",
-            "content": "<ul><li>A 2025 fire in Pacific Palisades, California, destroyed over 23,000 acres and caused significant economic damage.</li><li>Twenty months later, the community is rebuilding, marked by the reope… [+10330 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Financial Times"
-            },
-            "author": null,
-            "title": "Meta and BlackRock’s $14bn data centre exposes lenders to insurance gap - Financial Times",
-            "description": "Investors in gigawatt-scale campuses face billions in underinsured risks as insurers balk at cost of full coverage",
-            "url": "https://www.ft.com/content/adeca274-67a3-4ee8-94f1-f43e4f28be97?syn-25a6b1a6\\\\u003d1",
-            "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F560d9475-3d75-47e1-8534-5bd669df04dc.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
-            "publishedAt": "2026-08-17T10:00:10Z",
-            "content": "Then $75 per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial."
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "syracuse.com"
-            },
-            "author": "Syracuse.com",
-            "title": "Syracuse airport charges the highest parking fees in Upstate NY. It just raised them even more - Syracuse.com",
-            "description": null,
-            "url": "https://www.syracuse.com/business/2026/08/syracuse-airport-charges-the-highest-parking-fees-in-upstate-ny-it-just-raised-them-even-more.html",
-            "urlToImage": null,
-            "publishedAt": "2026-08-17T10:00:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Fox Business"
-            },
-            "author": "Kristen Altus",
-            "title": "Is Miami really costlier than New York City? Why top developers say the math still favors Florida - Fox Business",
-            "description": "Top developers in both Miami and NYC say South Florida real estate remains a bargain despite rising costs, citing no income tax, lower construction expenses and long-term value.",
-            "url": "https://www.foxbusiness.com/economy/miami-really-costlier-than-new-york-city-why-top-developers-say-math-still-favors-florida",
-            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/08/0/0/miami-fl-biscayne-bay-skyline.jpg?ve=1&tl=1",
-            "publishedAt": "2026-08-17T10:00:00Z",
-            "content": "While recent economic data suggests South Florida has lost its cost advantage over New York, top real estate developers argue the numbers fail to tell the full story.\r\nKey executives behind major res… [+8102 chars]"
-        },
-        {
-            "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
-            },
-            "author": "Rya Jetha",
-            "title": "The 25 most promising robotics startups in 2026, according to investors - Business Insider",
-            "description": "We asked investors from Sequoia, Felicis, Bessemer, and more to highlight promising robotics startups, as the sector sees an investment boom in 2026.",
-            "url": "https://www.businessinsider.com/robotics-tech-ai-startups-investors-funding-2026-8#article",
-            "urlToImage": "https://i.insider.com/6a7f7cc7e3df4d0cbe6864df?width=1200&format=jpeg",
-            "publishedAt": "2026-08-17T10:00:00Z",
-            "content": "After years of investors shunning hardware, Silicon Valley is getting physical.\r\nRobotics has become one of the hottest bets in tech as investors look beyond software for the next wave of AI. Physica… [+24768 chars]"
-        },
-        {
-            "source": {
-                "id": "the-wall-street-journal",
-                "name": "The Wall Street Journal"
-            },
-            "author": "WSJ",
-            "title": "AstraZeneca Ends Phase 3 Lung Cancer Drug Trial After Review - WSJ",
-            "description": null,
-            "url": "https://www.wsj.com/health/pharma/astrazeneca-ends-phase-three-lung-cancer-drug-trial-after-review-0b63c1d3",
-            "urlToImage": null,
-            "publishedAt": "2026-08-17T09:25:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "the-wall-street-journal",
-                "name": "The Wall Street Journal"
-            },
-            "author": "WSJ",
-            "title": "China’s Economy Weakens on Several Fronts as Property Bust Worsens - WSJ",
-            "description": null,
-            "url": "https://www.wsj.com/economy/chinas-economic-activity-weakened-in-july-0ce9bde7",
-            "urlToImage": null,
-            "publishedAt": "2026-08-17T09:20:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "axios",
-                "name": "Axios"
-            },
-            "author": "Rebecca Falconer",
-            "title": "How wildfires are changing the U.S. electric grid - axios.com",
-            "description": "Utilities face a long-term challenge: building the grid in an increasingly fire-prone America.",
-            "url": "https://www.axios.com/2026/08/17/wildfires-electric-grid-planning-energy-infrastructure",
-            "urlToImage": "https://images.axios.com/D0Fm1YVLB98gSmIw8hRiti_C_Ro=/0x605:7866x5030/1366x768/2026/08/02/1785695790032.jpeg",
-            "publishedAt": "2026-08-17T09:05:13Z",
-            "content": "The big picture: The U.S. is embarking on one of the biggest grid expansions in decades just as wildfire risk is becoming a defining challenge for utilities. Today's planning decisions may determine … [+3076 chars]"
-        },
-        {
-            "source": {
-                "id": "the-wall-street-journal",
-                "name": "The Wall Street Journal"
-            },
-            "author": "WSJ",
-            "title": "Dollar Falls Sharply as Prospects Dim for Fed Rate Rise - WSJ",
-            "description": null,
-            "url": "https://www.wsj.com/finance/currencies/dollar-falls-sharply-on-fading-prospect-of-federal-reserve-raising-rates-47a6837a",
-            "urlToImage": null,
-            "publishedAt": "2026-08-17T09:03:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Elisabeth Buchwald",
-            "title": "Americans could soon pay a lot more for strawberries - CNN",
-            "description": "Strawberries offer a taste of summer, even when they are eaten in the dead of winter. But the year-round treat Americans have grown accustomed to could soon get more expensive.",
-            "url": "https://www.cnn.com/2026/08/17/economy/americans-could-soon-pay-a-lot-more-for-strawberries",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2285789444.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2026-08-17T09:00:29Z",
-            "content": "Strawberries offer a taste of summer, even when they are eaten in the dead of winter. But the year-round treat Americans have grown accustomed to could soon get more expensive.\r\nThe Trump administrat… [+2598 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Efinancialcareers.com"
-            },
-            "author": "Sarah Butcher",
-            "title": "What a Jane Street partner said about losing $15bn in July alone - eFinancialCareers",
-            "description": "A master of understatement.",
-            "url": "https://www.efinancialcareers.com/news/jane-street-12bn-loss",
-            "urlToImage": "https://www.efinancialcareers.com/img/resize=width:1200,height:675,fit:crop/jVgSO2XPT1WtD375xGhX",
-            "publishedAt": "2026-08-17T08:42:24Z",
-            "content": "Jane Street's 3,500 employees are the smartest guys in the room. They mostly generate more in revenues and profits per head than rival electronic trading firms.  They are paid well for this, and pay … [+6914 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "STAT"
-            },
-            "author": "Bob Herman",
-            "title": "UnitedHealth faces IRS probe over potential tax avoidance - STAT",
-            "description": "The health insurer may face a significant increase in taxes, amid a dispute with federal authorities.",
-            "url": "https://www.statnews.com/2026/08/17/unitedhealth-irs-probe-audit-targets-foreign-subsidiary-transfers/",
-            "urlToImage": "https://www.statnews.com/wp-content/uploads/2026/08/AdobeStock_409379202_Editorial_Use_Only-1024x576.jpeg",
-            "publishedAt": "2026-08-17T08:31:49Z",
-            "content": "The Internal Revenue Service is investigating UnitedHealth Group, with an initial probe determining the health care conglomerate underpaid taxes during a four-year period by funneling money through a… [+814 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "STAT"
-            },
-            "author": "Mandy Cohen, Kody Kinsley",
-            "title": "We proved bipartisan health care reform works in North Carolina. Let’s bring it nationwide - STAT",
-            "description": "“North Carolina proved that pragmatism can beat partisanship,” write Mandy Cohen and Kody Kinsley.",
-            "url": "https://www.statnews.com/2026/08/17/healthy-opportunities-pilots-hop-program-north-carolina-medicaid-social-services/",
-            "urlToImage": "https://www.statnews.com/wp-content/uploads/2026/08/AdobeStock_845818699-1024x576.jpeg",
-            "publishedAt": "2026-08-17T08:31:49Z",
-            "content": "Americas health care affordability crisis is not a partisan problem. It is bankrupting families, straining state budgets, and overwhelming emergency rooms from rural Appalachia to downtown Seattle.\r\n… [+4918 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNBC"
-            },
-            "author": "Sawdah Bhaimiya",
-            "title": "Strait of Hormuz shipping grinds to a halt ahead of U.S.-Iran ceasefire expiry - CNBC",
-            "description": "Shipping traffic in the Strait of Hormuz sank to a new low as a ceasefire between the U.S. and Iran is set to expire on Monday with no deal in sight.",
-            "url": "https://www.cnbc.com/2026/08/17/us-iran-war-trump-hormuz.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108349975-1786737375530-gettyimages-2289946758-AFP_C4PM76G.jpeg?v=1786737397&w=1920&h=1080",
-            "publishedAt": "2026-08-17T07:46:41Z",
-            "content": "President Donald Trump on Monday said the U.S. would \"bomb\" Oman if the Gulf nation \"gets in the way,\" as Washington's 60-day ceasefire with Iran expires with no official negotiations or deal in sigh… [+2303 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Android Authority"
-            },
-            "author": null,
-            "title": "Anthropic reveals how Claude secretly watermarks AI-written text - Android Authority",
-            "description": "Anthropic has revealed how Claude is able to secretly watermark AI-written text, and it has everything to do with word choices.",
-            "url": "https://www.androidauthority.com/how-claude-watermarks-text-3699100/",
-            "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2026/04/Claude-main-screen-scaled.jpg",
-            "publishedAt": "2026-08-17T07:33:00Z",
-            "content": "<ul><li>Anthropic has revealed how Claudes text watermark system will work.</li><li>Watermarks are used as Claude makes low-stakes choices between the words it will generate.</li><li>Anthropic claims… [+3872 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Stocktwits.com"
-            },
-            "author": "Yuvraj Malik",
-            "title": "SNDK, MU Rise Overnight: Analyst Target Hikes, KOSPI Rebound Power Surge - Stocktwits",
-            "description": "SanDisk issued bullish targets for 2030 last week, prompting analysts to raise their price targets on the memory chipmaker’s shares.",
-            "url": "https://stocktwits.com/news-articles/markets/equity/sndk-mu-rise-overnight-analyst-target-hikes-kospi-rebound-power-surge/cZo6v4ORJKA",
-            "urlToImage": "https://news.stocktwits-cdn.com/large_Getty_Images_2225540994_jpg_b72d8a6c62.webp",
-            "publishedAt": "2026-08-17T07:28:00Z",
-            "content": "Memory stocks are starting the week with another burst of momentum. Shares of SanDisk Corp. and Micron Technology rose sharply in overnight trading ahead of Mondays session, signaling that the stocks… [+3002 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Financial Times"
-            },
-            "author": null,
-            "title": "China investment slump deepens as economy shows signs of weakness - Financial Times",
-            "description": "Industrial output growth slows and retail sales nearly flat as policymakers face calls to step up support",
-            "url": "https://www.ft.com/content/09a8a200-e572-486e-9bff-1f57933aebfc?syn-25a6b1a6\\\\u003d1",
-            "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F2e3f81b3-2ca8-4f9d-9543-d677b613b43a.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
-            "publishedAt": "2026-08-17T07:23:55Z",
-            "content": "Then $75 per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial."
         }
     ]
 }
