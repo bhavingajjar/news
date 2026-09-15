@@ -1,7 +1,397 @@
 {
     "status": "ok",
-    "totalResults": 406,
+    "totalResults": 428,
     "articles": [
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Dan Goodin",
+            "title": "AI agents flood the Internet with slop-infused spam - Ars Technica",
+            "description": "“Hello, I'm an Al agent, a few days old, living on a small platform for agents.”...",
+            "url": "https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/ai-slop-1152x648.jpg",
+            "publishedAt": "2026-09-14T21:04:32Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Kotaku"
+            },
+            "author": "Ethan Gach",
+            "title": "Sources: IGN Layoffs Hit Multiple Departments And Long-Time Hosts - Kotaku",
+            "description": "The top video game site keeps cutting",
+            "url": "https://kotaku.com/sources-ign-layoffs-hit-multiple-departments-and-long-time-hosts-2000734361",
+            "urlToImage": "https://kotaku.com/app/uploads/2026/09/sdcc.jpg",
+            "publishedAt": "2026-09-14T20:23:54Z",
+            "content": "IGN‘s Summer of Gaming has become another summer of layoffs. Sources tell Kotaku that the top video game website is cutting loose even more of its top talent, including some of its most public faces … [+2432 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Brad Bourque",
+            "title": "The best deals from Nintendo’s ‘customer appreciation’ sale - The Verge",
+            "description": "Nintendo Switch games and accessories are marked down across the web after the brand receives tariff refunds.",
+            "url": "https://www.theverge.com/gadgets/994892/nintendo-customer-appreciation-tariff-refund-deal-sale",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/Super-Mario-Odyssey.webp?quality=90&strip=all&crop=0,11.101688666028,100,77.796622667945",
+            "publishedAt": "2026-09-14T19:30:58Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nTariff refunds would have been nice, but discounted games and accessories is okay, too.\r\nTariff refunds would have been nice, but discounted games and accessorie… [+2435 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Eurogamer.net"
+            },
+            "author": "Kaan Serin",
+            "title": "GTA 6's first confirmed actor is King of the Hill's Stephen Root: \"It's an amazing thing to look at\" - Eurogamer.net",
+            "description": "Rockstar Games hasn't said anything about GTA 6's voice cast, but Stephen Root just let slip that he's playing a new character in the open-world romp.",
+            "url": "https://www.eurogamer.net/gta-6-confirmed-actor-king-of-the-hill-stephen-root",
+            "urlToImage": "https://assetsio.gnwcdn.com/GTA-6-Brian-Heder.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+            "publishedAt": "2026-09-14T19:04:43Z",
+            "content": "Rockstar Games hasn't said much about who's voicing the GTA 6 cast, but we now know at least one big-name actor attached to the upcoming crime epic: Stephen Root.\r\nInternet sleuths have been scouring… [+1716 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MacRumors"
+            },
+            "author": "Juli Clover",
+            "title": "Apple Releases New AirPods Firmware With iOS 27 Features - MacRumors",
+            "description": "Apple today released new firmware for the AirPods Pro 2, AirPods Pro 3, AirPods 4, and AirPods Max 2. The firmware is available for all of the above...",
+            "url": "https://www.macrumors.com/2026/09/14/apple-airpods-ios-27-firmware/",
+            "urlToImage": "https://images.macrumors.com/t/fUfFpe2FVFNFF0-k4dTl5BfQ2hg=/2500x/article-new/2026/08/AirPods-Pro-Beta-Firmware-2.jpg",
+            "publishedAt": "2026-09-14T18:42:44Z",
+            "content": "Apple today released new firmware for the AirPods Pro 2, AirPods Pro 3, AirPods 4, and AirPods Max 2. The firmware is available for all of the above devices, and it will enable support for new iOS 27… [+495 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Zack Whittaker",
+            "title": "ClickFix attacks are tricking Mac and Windows users into hacking themselves - TechCrunch",
+            "description": "If you clicked on a fake HBO Max ad on Reddit in the past week, you might have fallen victim to a rising \"ClickFix\" security threat.",
+            "url": "https://techcrunch.com/2026/09/14/clickfix-attacks-are-tricking-mac-and-windows-users-into-hacking-themselves/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/09/hbo-max-screenshot-clickfix.jpg?resize=1200,843",
+            "publishedAt": "2026-09-14T18:08:43Z",
+            "content": "If you clicked on an HBO Max ad on Reddit over the past week, you might want to check your computer for malware.\r\nThese so-called “ClickFix” attacks have quickly become one of the rising cybersecurit… [+2838 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Push Square"
+            },
+            "author": "Push Square",
+            "title": "PS5 Blackout Protest Made 'No Significant Change at All' to Player Counts, Says US Data - Push Square",
+            "description": "The state of play",
+            "url": "https://www.pushsquare.com/news/2026/09/ps5-blackout-protest-made-no-significant-change-at-all-to-player-counts-says-us-data",
+            "urlToImage": "https://images.pushsquare.com/a4aac68faa86f/large.jpg",
+            "publishedAt": "2026-09-14T17:45:00Z",
+            "content": "Thanks for the update! As many would have known/assumed, I did not take part in any form of not using a product in my home.\r\nItems purchased for my home, are used within the home until they have no f… [+1660 chars]"
+        },
+        {
+            "source": {
+                "id": "ign",
+                "name": "IGN"
+            },
+            "author": "Cade Onder",
+            "title": "Marathon Makes Major Changes Amidst Bungie Struggles, Delays Next Big Update to December - IGN",
+            "description": "Bungie's struggles grow more evident as Marathon undergoes more drastic changes, with a move away from seasonal content, a focus on PvE, and a significant delay for the game's next update.",
+            "url": "https://www.ign.com/articles/marathon-delays-next-major-update-puts-focus-on-pve-and-moves-away-from-seasonal-content-amidst-bungie-struggles",
+            "urlToImage": "https://assets-prd.ignimgs.com/2026/05/26/marathonthumb-1779822629000.png?width=1280&format=jpg&auto=webp&quality=80",
+            "publishedAt": "2026-09-14T17:33:01Z",
+            "content": "Bungie's struggles grow more evident as Marathon undergoes a handful of drastic changes, with a move away from seasonal content, a focus on PvE, and a significant delay for the game's next update.\r\nB… [+2001 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MacRumors"
+            },
+            "author": "Juli Clover",
+            "title": "Apple Releases iOS 26.7 With Security Fixes - MacRumors",
+            "description": "Alongside iOS 27, Apple today released iOS 26.7, an update to the existing iOS 26 software. Users who check for new software will see iOS 26.7 as the...",
+            "url": "https://www.macrumors.com/2026/09/14/apple-releases-ios-26-7/",
+            "urlToImage": "https://images.macrumors.com/t/aofBK95P7080pqh6mW10I9fFC9E=/1672x/article-new/2026/09/ios-26-7.jpg",
+            "publishedAt": "2026-09-14T17:32:03Z",
+            "content": "Alongside iOS 27, Apple today released iOS 26.7, an update to the existing iOS 26 software. Users who check for new software will see iOS 26.7 as the default update, with ‌iOS 27‌ listed as an option… [+452 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5google.com"
+            },
+            "author": "Ben Schoon",
+            "title": "Samsung reportedly considers early ‘Galaxy Z TriFold 2’ release in wake of iPhone Duo - 9to5Google",
+            "description": "In the wake of iPhone Duo, Samsung is reportedly considering an early release for a Galaxy Z TriFold sequel. The...",
+            "url": "http://9to5google.com/2026/09/14/samsung-galaxy-z-trifold-2-release-price-rumors/",
+            "urlToImage": "https://9to5google.com/wp-content/uploads/sites/4/2026/01/Galaxy-Z-TriFold-CES-2026-hands-on-5.jpg?quality=82&strip=all&resize=1200,628",
+            "publishedAt": "2026-09-14T17:15:00Z",
+            "content": "In the wake of iPhone Duo, Samsung is reportedly considering an early release for a Galaxy Z TriFold sequel.\r\nThe Galaxy Z TriFold delivered a wild new form factor to Samsung’s lineup late last year,… [+1142 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Tom Warren",
+            "title": "Apple releases iOS 27 with Siri AI overhaul - The Verge",
+            "description": "watchOS 27, iPadOS 27, and visionOS 27 also debut today.",
+            "url": "https://www.theverge.com/news/994756/apple-ios-27-launch-iphone-siri-ai-update",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DSC04248.jpg?quality=90&strip=all&crop=0%2C10.628272251309%2C100%2C78.743455497382&w=1200",
+            "publishedAt": "2026-09-14T17:10:32Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nwatchOS 27, iPadOS 27, and visionOS 27 also debut today.\r\nwatchOS 27, iPadOS 27, and visionOS 27 also debut today.\r\nby\r\nTom WarrenClose\r\nPosts from this author w… [+2977 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5Mac"
+            },
+            "author": "Ryan Christoffel",
+            "title": "watchOS 27 now available for Apple Watch, here’s what’s new - 9to5Mac",
+            "description": "Apple has released its next major update for Apple Watch users: watchOS 27 is rolling out now. Here’s what’s new.",
+            "url": "https://9to5mac.com/2026/09/14/watchos-27-now-available-for-apple-watch-heres-whats-new/",
+            "urlToImage": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/watchos-27-tap-gesture-wrist.jpg?quality=82&strip=all&resize=1200,628",
+            "publishedAt": "2026-09-14T17:10:00Z",
+            "content": "Apple has released its next major update for Apple Watch users: watchOS 27 is rolling out now. Heres whats new.\r\nApple Watch users, theres a major new software release rolling out now. watchOS 27 can… [+1148 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Digitalfoundry.net"
+            },
+            "author": "Digital Foundry",
+            "title": "Porting Half-Life: Alyx to Steam Frame: How Valve's Engineers Went from \"There's No Way\" to Shipping Standalone - digitalfoundry.net",
+            "description": "Foveated rendering, lots of driver work and 16GB of RAM.",
+            "url": "https://www.digitalfoundry.net/features/porting-half-life-alyx-to-steam-frame-how-valves-engineers-went-from-theres-no-way-to-shipping-standalone",
+            "urlToImage": "https://images.digitalfoundry.net/9dda13b1137f4/large.jpg",
+            "publishedAt": "2026-09-14T17:00:00Z",
+            "content": "Image: Valve\r\nWhen the Steam Frame was announced, the idea that a high-end VR showcase like Half-Life: Alyx would run natively on a modestly powerful, ARM-based headset seemed far-fetched - and Valve… [+10168 chars]"
+        },
+        {
+            "source": {
+                "id": "ign",
+                "name": "IGN"
+            },
+            "author": "Bo Moore",
+            "title": "'We’re Still Looking at It in the Same Way' – Valve Says the RAM Crisis Hasn’t Affected Its Plans for Steam Deck 2 - IGN",
+            "description": "It might be a worry that the ongoing RAM crisis would impact Valve’s plans for a device so sensitive to component costs like the Steam Deck 2. Thankfully, Valve says its plans haven’t changed.",
+            "url": "https://www.ign.com/articles/valve-says-ram-crisis-hasnt-affected-plans-for-steam-deck-2",
+            "urlToImage": "https://assets-prd.ignimgs.com/2022/10/24/flyzsqrwqamt5f8-1666578792849.jpg?width=1280&format=jpg&auto=webp&quality=80",
+            "publishedAt": "2026-09-14T17:00:00Z",
+            "content": "Its no secret that Valve is hard at work on Steam Deck 2 its devs have said as much every time\r\nIve asked\r\nthat question\r\n over the last several years, and their plans for a sequel have been clear fr… [+2574 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Antonio G. Di Benedetto",
+            "title": "The Dell XPS 13 is the first real competitor to the MacBook Neo - The Verge",
+            "description": "Even the base XPS 13 is an excellent laptop. But you’re still gonna want the 16GB model.",
+            "url": "https://www.theverge.com/tech/994636/dell-xps-13-2026-intel-wildcat-lake-8gb-16gb-review",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268732_Dell_XPS_13_2026_review_ADiBenedetto_0006.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-09-14T17:00:00Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nEven the base XPS 13 is an excellent laptop. But youre still gonna want the 16GB model.\r\nIf you buy something from a Verge link, Vox Media may earn a commission.… [+12547 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MacRumors"
+            },
+            "author": "Joe Rossignol",
+            "title": "iOS 27's iPhone Handoff Feature Expanding to More Carriers This Year - MacRumors",
+            "description": "Apple last week announced that Verizon and EE will support iOS 27's new iPhone Handoff feature later this year. The feature allows you to switch...",
+            "url": "https://www.macrumors.com/2026/09/14/ios-27-iphone-handoff-more-carriers-soon/",
+            "urlToImage": "https://images.macrumors.com/t/jG4b-VKd9y8S2sNqme6nXQKRHkY=/1672x/article-new/2026/09/iPhone-Handoff-Feature.jpeg",
+            "publishedAt": "2026-09-14T16:55:41Z",
+            "content": "This is a sincere question: What are some use cases for using this feature, same number on two phones seems redundant, Thanks in advance.\r\n[LIST=1]* Work phone (MDM managed) vs personal phone using t… [+561 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5google.com"
+            },
+            "author": "Abner Li",
+            "title": "Google’s official Pixel 11 series cases are already on sale - 9to5Google",
+            "description": "Following last month’s launch, Google’s official Pixelsnap cases for the Pixel 11 series are already on discount at Amazon.",
+            "url": "http://9to5google.com/2026/09/14/google-pixel-11-cases-discount/",
+            "urlToImage": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/MBG-Pixel-11-cases-28.jpg?quality=82&strip=all&resize=1200,628",
+            "publishedAt": "2026-09-14T16:35:00Z",
+            "content": "Following last months launch, Googles official Pixelsnap cases for the Pixel 11 series are already on discount at Amazon.\r\nInstead of paying $49.99 for the Pixel 11, 11 Pro, or 11 Pro XL case, Amazon… [+1096 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gematsu"
+            },
+            "author": "Sal Romano",
+            "title": "Rayman Legends Retold delayed to December 3 - Gematsu",
+            "description": "Publisher Ubisoft and developers Ubisoft Montpellier and Ubisoft Milan have delayed Rayman Legends Retold from its previously planned October 1 release date to December 3. It will be available for …",
+            "url": "https://www.gematsu.com/2026/09/rayman-legends-retold-delayed-to-december-3",
+            "urlToImage": "https://www.gematsu.com/wp-content/uploads/2026/09/Rayman-Legends-Retold-Delay_09-14-26.jpg",
+            "publishedAt": "2026-09-14T16:21:53Z",
+            "content": "Hello Rayman fans,\r\nRayman Legends Retold will release on December 3.\r\nWhile the game has officially gone gold, we have decided to take extra time to make sure every detail gets the care it deserves.… [+347 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5google.com"
+            },
+            "author": "Abner Li",
+            "title": "Google rolls out Motion Assist bubbles to Pixel, Samsung - 9to5Google",
+            "description": "After announcing earlier this month, Google has rolled out Motion Assist to Pixel and Samsung phones running Android 17.",
+            "url": "http://9to5google.com/2026/09/14/android-motion-assist-pixel-samsung/",
+            "urlToImage": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/Android-Motion-Assist-cover.jpg?quality=82&strip=all&resize=1200,628",
+            "publishedAt": "2026-09-14T15:40:00Z",
+            "content": "After announcing earlier this month, Google has rolled out Motion Assist to Pixel and Samsung phones running Android 17.\r\nThe aim is to reduce motion sickness when youre in a car, bus, or other movin… [+1385 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PCWorld"
+            },
+            "author": "Mikael Markander",
+            "title": "HP and Lenovo laptops are the latest victims of a Windows 11 update - PCWorld",
+            "description": "Microsoft's August update (KB5121003) is reportedly corrupting BIOS on HP laptops and disabling AC charging on Lenovo laptops.",
+            "url": "https://www.pcworld.com/article/3234625/hp-and-lenovo-laptops-are-the-latest-victims-of-a-windows-11-update.html",
+            "urlToImage": "https://www.pcworld.com/wp-content/uploads/2026/09/3234625-0-12116800-1789398840-Windows-11-blue-screen-crash-error-on-laptop-screen.jpg?quality=50&strip=all&w=1024",
+            "publishedAt": "2026-09-14T15:17:42Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "ign",
+                "name": "IGN"
+            },
+            "author": "Robert Anderson",
+            "title": "Metroid Dread Drops in Price for Nintendo Switch Following the Metroid Ravenous Reveal - IGN",
+            "description": "Nintendo just slashed the price of Metroid Dread as part of its 'Customer Appreciation' sale. This is the perfect time to pick it up after our first look at Metroid Ravenous during last weeks Nintendo Direct.",
+            "url": "https://www.ign.com/articles/metroid-dread-discount-nintendo-switch-customer-appreciation-sale",
+            "urlToImage": "https://assets-prd.ignimgs.com/2026/09/14/metroid-dread-deal-ign-1789394631882.png?width=1280&format=jpg&auto=webp&quality=80",
+            "publishedAt": "2026-09-14T14:47:51Z",
+            "content": "The reveal of Metroid Ravenous has me wanting to replay Metroid Dread again, which is pretty convenient timing considering Nintendo has just knocked a decent chunk off the price of one of my favorite… [+3906 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5google.com"
+            },
+            "author": "Ben Schoon",
+            "title": "Google Maps rolling out Android Auto speed limits and speedometer that show even without navigation - 9to5Google",
+            "description": "While the speedometer has been hit or miss for some Android Auto users as of late, Google Maps is now...",
+            "url": "http://9to5google.com/2026/09/14/google-maps-android-auto-speed-limits-speedometer-update/",
+            "urlToImage": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/android-auto-google-maps-2.jpg?quality=82&strip=all&resize=1200,628",
+            "publishedAt": "2026-09-14T14:40:00Z",
+            "content": "While the speedometer has been hit or miss for some Android Auto users as of late, Google Maps is now confirmed to be rolling out speed limits and a speedometer that show at all times, even when you … [+1495 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Eurogamer.net"
+            },
+            "author": "Dom Peppiatt",
+            "title": "What comes after Lies of P? It looks like it might be Wonders of O, according to a new trademark - Eurogamer.net",
+            "description": "The new name for a game from Neowiz is a bit on the nose.",
+            "url": "https://www.eurogamer.net/what-comes-after-lies-of-p-it-looks-like-it-might-be-wonders-of-o-according-to-a-new-trademark",
+            "urlToImage": "https://assetsio.gnwcdn.com/Lies-of-P_-Overture---Story-Trailer-1-29-screenshot.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+            "publishedAt": "2026-09-14T14:35:36Z",
+            "content": "Did you enjoy Lies of P? The game - a Soulslike take on the story of Geppetto and Pinocchio - was very succesful when it launched in 2023. Now, it looks like we may have our first proper glimpse at w… [+2640 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5Mac"
+            },
+            "author": "Ryan Christoffel",
+            "title": "iPhone 18 Pro, Pro Max pre-orders now delayed to October for most models - 9to5Mac",
+            "description": "Here’s the latest update on iPhone 18 Pro pre-order delivery estimates, which have now slipped to October in most cases.",
+            "url": "https://9to5mac.com/2026/09/14/iphone-18-pro-pro-max-pre-orders-now-delayed-to-october-for-most-models/",
+            "urlToImage": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-side-angle-burgundy.jpg?quality=82&strip=all&resize=1200,628",
+            "publishedAt": "2026-09-14T13:43:00Z",
+            "content": "If you havent yet ordered your iPhone 18 Pro or Pro Max, youll likely be waiting until October for delivery. Heres the latest update on iPhone 18 Pro pre-order shipping times.\r\nApple opened up iPhone… [+1302 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MacRumors"
+            },
+            "author": "Hartley Charlton",
+            "title": "Apple Stores Said to Lose Video Walls, Regain Dedicated Genius Bars - MacRumors",
+            "description": "Apple is working on a sweeping retail overhaul that would bring back dedicated Genius Bars to its stores, carve out new spaces for order pickup and...",
+            "url": "https://www.macrumors.com/2026/09/14/apple-stores-to-lose-video-walls/",
+            "urlToImage": "https://images.macrumors.com/t/hexPG0vXXJ3WG8Wkg0MxrYp-u7Q=/1920x/article-new/2025/06/Apple-Store-Genius-Bar-Pickup.jpg",
+            "publishedAt": "2026-09-14T13:23:00Z",
+            "content": "Apple is working on a sweeping retail overhaul that would bring back dedicated Genius Bars to its stores, carve out new spaces for order pickup and Today at Apple classes, and do away with oversized … [+2632 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Kotaku"
+            },
+            "author": "Kenneth Shepard",
+            "title": "Last Of Us Part 2 Multiplayer Mod Shut Down By Sony After Months Of Work - Kotaku",
+            "description": "Naughty Dog canceled its own Last Of Us multiplayer game in 2023",
+            "url": "https://kotaku.com/last-of-us-part-2-multiplayer-mod-sony-naughty-dog-canceled-2000734244",
+            "urlToImage": "https://kotaku.com/app/uploads/2024/01/c02844394a2c753e515d6ad48d962ba2-1200x675.jpg",
+            "publishedAt": "2026-09-14T13:03:15Z",
+            "content": "Its been nearly three years since Naughty Dog announced that it was canceling its planned Last of Us Online multiplayer game. While the studio was moving on to other projects, some fan modders had be… [+2586 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Theregister.com"
+            },
+            "author": "Richard Speed",
+            "title": "Microsoft patches Windows and Excel – breaks audio, remote access, and paste - The Register",
+            "description": "Redmond's quality drive takes another detour through the known issues list",
+            "url": "https://www.theregister.com/os-platforms/2026/09/14/microsoft-patches-windows-and-excel-breaks-audio-remote-access-and-paste/5296085",
+            "urlToImage": "https://image.theregister.com/259053.jpg?imageId=259053&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+            "publishedAt": "2026-09-14T13:00:00Z",
+            "content": "Microsoft has confirmed that its latest security updates can disrupt Remote Desktop Services, silence some USB audio devices, and break pasting in Excel.\r\nSeptember's Windows patches hardly support M… [+2537 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Nauman Khan",
+            "title": "Apple Foldable iPhone Could Change Smartphones Forever - Yahoo Finance",
+            "description": "Apple Just Entered the Foldable War. Gurman Says Its New iPhone Could Transform the Market",
+            "url": "https://finance.yahoo.com/technology/articles/apple-foldable-iphone-could-change-121236187.html",
+            "urlToImage": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+            "publishedAt": "2026-09-14T12:12:36Z",
+            "content": "This article first appeared on GuruFocus.\r\nApple (NASDAQ:AAPL) could turn foldable smartphones into a mainstream product category with the newly unveiled iPhone Duo, Bloomberg Strategist Mark Gurman … [+975 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Brittany Vincent",
+            "title": "Forget iPhone Duo, Samsung Galaxy Z Fold8 Gets an Early Drop to Its Lowest Price Despite Being Brand New - Gizmodo",
+            "description": "You can run three apps side by side and then fold the whole thing shut.",
+            "url": "https://gizmodo.com/forget-iphone-duo-samsung-galaxy-z-fold8-gets-an-early-drop-to-its-lowest-price-despite-being-brand-new-2000811075",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/09/Samsung-Galaxy-Z-Fold8-1200x675.jpg",
+            "publishedAt": "2026-09-14T11:50:14Z",
+            "content": "The main reason to buy a book-style foldable like the Samsung Galaxy Z Fold8 is that it opens into a large screen for reading and editing documents, then closes back into a device that fits in your p… [+2828 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Anime News Network"
+            },
+            "author": null,
+            "title": "Pokémon Developer Game Freak Announces Ame nochi Hare Onna Mobile Game - Anime News Network",
+            "description": "Game integrated with real-time weather forecasts slated for release this winter",
+            "url": "https://www.animenewsnetwork.com/news/2026-09-14/pokemon-developer-game-freak-announces-ame-nochi-hare-onna-mobile-game/.241755",
+            "urlToImage": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJ7/cms/news.9/241755/harekey.jpg",
+            "publishedAt": "2026-09-14T11:50:00Z",
+            "content": "GAME FREAK Inc. announced on Monday a new mobile game titled Ame nochi Hare Onna (Girl After the Rain), which will launch for iOS and Android in Japan this winter. The company revealed the game's tea… [+2473 chars]"
+        },
         {
             "source": {
                 "id": null,
@@ -57,6 +447,45 @@
         {
             "source": {
                 "id": null,
+                "name": "Android Authority"
+            },
+            "author": null,
+            "title": "Google Wallet could soon put up a fight against Apple Wallet on iPhones - Android Authority",
+            "description": "According to evidence spotted in several Google apps, Google may be working on a native Google Wallet app for iOS devices.",
+            "url": "https://www.androidauthority.com/google-wallet-iphone-apk-teardown-3710795/",
+            "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2026/07/google-wallet-order-track-home-screen-pop-up-scaled.jpg",
+            "publishedAt": "2026-09-14T09:51:00Z",
+            "content": "<ul><li>Google could be working to bring the Google Wallet app to iOS devices.</li><li>Strings spotted in a couple of Google apps hint at iOS-specific features in the Wallet app.</li><li>The app coul… [+2578 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Jalopnik"
+            },
+            "author": "Charles Krome",
+            "title": "These Fun New Cars All Have 3-Cylinder Engines - Jalopnik",
+            "description": "The Toyota GR Corolla, Morgan Super 3, Chevy Trax, and Ford Bronco Sport prove three-cylinder engines can deliver serious driving excitement.",
+            "url": "https://www.jalopnik.com/2252610/new-cars-3-cylinder-engines/",
+            "urlToImage": "https://www.jalopnik.com/img/gallery/these-fun-new-cars-all-have-3-cylinder-engines/l-intro-1788947689.jpg",
+            "publishedAt": "2026-09-14T09:25:00Z",
+            "content": "Three-cylinder engines have their pros and cons, but a lot depends on how they're used. Thanks to advances in turbocharging, for example, some of these tiny mills can make more horsepower than motors… [+1463 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "DualShockers"
+            },
+            "author": "Scott Baird",
+            "title": "XBOX CEO Message is Salt in Sony's Wound at Kojima Productions - DualShockers",
+            "description": "XBOX CEO Asha Sharma has left a message on Kojima Productions wall that fans are taking as a shot against Sony, which tried to cancel PHYSINT.",
+            "url": "https://www.dualshockers.com/xbox-ceo-message-salt-sony-wound-kojima-productions/",
+            "urlToImage": "https://static0.dualshockersimages.com/wordpress/wp-content/uploads/2026/09/xbox-hideo-kojima.jpg?w=1600&h=900&fit=crop",
+            "publishedAt": "2026-09-14T09:19:18Z",
+            "content": "XBOX CEO Asha Sharma has fired shots at Sony while promoting PHYSINT, the new game by Kojima Productions that was going to be a PlayStation exclusive, before it was canceled, and Microsoft picking up… [+3448 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "MacRumors"
             },
             "author": "Tim Hardwick",
@@ -79,6 +508,19 @@
             "urlToImage": "https://i.insider.com/6aa45cf09b8974787b1cb435?width=1191&format=jpeg",
             "publishedAt": "2026-09-14T08:59:09Z",
             "content": "Megi Endeladze never expected to be at the center of an AI backlash.\r\nShe and her husband opened Penny's Coffee Shop in downtown Buffalo, New York three years ago. Endeladze kept her 9-to-5 as a chir… [+4629 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Techpowerup.com"
+            },
+            "author": null,
+            "title": "AI Firms Are Reportedly Buying NVIDIA RTX 5090 GPUs in Bulk for Server Use - techpowerup.com",
+            "description": "New photos shared by HKEPC allegedly show pallets of brand-new, boxed GeForce RTX 5090 cards being unpacked at AI server assembly sites. Notably, these firms are not using the RTX PRO 6000 or dedicated data center accelerators NVIDIA actually markets for that…",
+            "url": "https://www.techpowerup.com/352663/ai-firms-are-reportedly-buying-nvidia-rtx-5090-gpus-in-bulk-for-server-use",
+            "urlToImage": "https://www.techpowerup.com/img/R0Hde6CqeQA0THz9.jpg",
+            "publishedAt": "2026-09-14T08:46:52Z",
+            "content": "New photos shared by HKEPC allegedly show pallets of brand-new, boxed GeForce RTX 5090 cards being unpacked at AI server assembly sites. Notably, these firms are not using the RTX PRO 6000 or dedicat… [+1610 chars]"
         },
         {
             "source": {
@@ -118,6 +560,19 @@
             "urlToImage": null,
             "publishedAt": "2026-09-14T07:35:43Z",
             "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BleepingComputer"
+            },
+            "author": "Sergiu Gatlan",
+            "title": "CISA: Hackers now exploit max severity GitLab flaw in attacks - BleepingComputer",
+            "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned that hackers are now exploiting a maximum-severity GitLab vulnerability in attacks.",
+            "url": "https://www.bleepingcomputer.com/news/security/cisa-hackers-now-exploit-max-severity-gitlab-flaw-in-attacks/",
+            "urlToImage": "https://www.bleepstatic.com/content/hl-images/2026/09/14/GitLab.jpg",
+            "publishedAt": "2026-09-14T07:06:27Z",
+            "content": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned that hackers are now exploiting a maximum-severity GitLab vulnerability in attacks.\r\nGitLab's DevSecOps platform is used by ove… [+2666 chars]"
         },
         {
             "source": {
@@ -209,6 +664,19 @@
             "urlToImage": "https://www.bgr.com/img/gallery/5-budget-android-phones-you-should-consider-instead-of-the-google-pixel-11/l-intro-1788967014.jpg",
             "publishedAt": "2026-09-14T01:50:49Z",
             "content": "There's a Samsung phone for every type of user, and while the world-famous electronics company has a large lineup of smartphones, many Samsung flagship offerings simply cost more than the Pixel 11. T… [+1073 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "DualShockers"
+            },
+            "author": "Greg Hill",
+            "title": "Diablo 4’s Next Big Activity Is Basically A Diablo 1 Remake - DualShockers",
+            "description": "Fans can revisit major dungeons and story beats from the original game, including those of Baal, Mephisto and Diablo himself.",
+            "url": "https://www.dualshockers.com/diablo-4s-next-big-activity-is-basically-a-diablo-1-remake/",
+            "urlToImage": "https://static0.dualshockersimages.com/wordpress/wp-content/uploads/2026/09/diablo-1-wallpaper.png?w=1600&h=900&fit=crop",
+            "publishedAt": "2026-09-14T01:11:00Z",
+            "content": "Nostalgia is the name of the game in Diablo IVs next major activity, with players returning to where it all began.\r\nEnd-game content for Diablo IVs upcoming season, titled Waking Nightmares, will all… [+4176 chars]"
         },
         {
             "source": {
@@ -394,6 +862,19 @@
         },
         {
             "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": null,
+            "title": "Thousands of hacked sites trick you into installing malware - Fox News",
+            "description": "Over 5,400 legitimate websites now serve fake CAPTCHA scams that trick users into pasting malware commands into Windows Run via ClickFix attacks.",
+            "url": "https://www.foxnews.com/tech/thousands-hacked-sites-trick-installing-malware",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/Serious-woman-works-on-laptop-computer.jpg",
+            "publishedAt": "2026-09-13T18:30:18Z",
+            "content": "You land on the real website of a local business and a CAPTCHA appears. It looks routine until the page tells you to open Windows Run and paste a command. That should stop you cold.\r\nSecurity researc… [+9261 chars]"
+        },
+        {
+            "source": {
                 "id": "the-verge",
                 "name": "The Verge"
             },
@@ -408,6 +889,19 @@
         {
             "source": {
                 "id": null,
+                "name": "Massivelyop.com"
+            },
+            "author": "https://massivelyop.com/author/eliot-lefebvre/",
+            "title": "BlizzCon 2026: World of Warcraft Forever’s deep-dive panel talks group play, progression, and item updates - massivelyop.com",
+            "description": "The big reveal of World of Warcraft Forever has definitely been a seismic impact, and it seems inevitable that folks are going to have a lot of questions about this extending beyond this weekend. But it's also clear that the developers are aware of that, with…",
+            "url": "https://massivelyop.com/2026/09/13/blizzcon-2026-world-of-warcraft-forevers-deep-dive-panel-talks-group-play-progression-and-item-updates/",
+            "urlToImage": "https://massivelyop.com/wp-content/uploads/2026/09/blizzcon2026-worldofwarcraftforever-52-1.jpg",
+            "publishedAt": "2026-09-13T18:04:53Z",
+            "content": "The big reveal of World of Warcraft Forever has definitely been a seismic impact, and it seems inevitable that folks are going to have a lot of questions about this extending beyond this weekend. But… [+9406 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "9to5Mac"
             },
             "author": "Chance Miller",
@@ -417,6 +911,19 @@
             "urlToImage": "https://9to5mac.com/wp-content/uploads/sites/6/2023/02/apple-oxmoor.jpg?quality=82&strip=all&resize=1200,628",
             "publishedAt": "2026-09-13T17:28:00Z",
             "content": "Apple is preparing major changes to its retail stores, according to a new report from Bloomberg. Perhaps most notably, the changes include bringing back the iconic dedicated Genius Bars.\r\nIn the late… [+2331 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Windows Central"
+            },
+            "author": "Jennifer Young",
+            "title": "Cyberpunk 2077 is coming to Battle net later this year, and Overwatch gets an Edgerunners collaboration - Windows Central",
+            "description": "We also got a first look at the Witcher 3 skin for Diablo 4",
+            "url": "https://www.windowscentral.com/gaming/cyberpunk-coming-to-battlenet",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/cGYyULztHG2YCe54Mxoqo5-2560-80.jpg",
+            "publishedAt": "2026-09-13T17:07:11Z",
+            "content": "Sitting in the audience here at BlizzCon, I was curious to see why CD Projekt Red was attending, given we've already had the announcement of The Witcher 3 coming to Battle.net prior to the convention… [+1911 chars]"
         },
         {
             "source": {
@@ -534,6 +1041,19 @@
             "urlToImage": "https://comicbook.com/wp-content/uploads/sites/4/2024/12/x-b-o-x-s-e-r-i-e-s-x_e09e4b.png?resize=2000,1125",
             "publishedAt": "2026-09-13T15:06:59Z",
             "content": "A new Xbox Series X and Xbox Series S update has brought some new upgrades to the consoles in the form of a handful of new features. Where Nintendo seldom updates the Nintendo Switch and Nintendo Swi… [+2816 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "AppleInsider"
+            },
+            "author": "Wesley Hilliard",
+            "title": "New Apple TV with Siri AI could launch at any time in the fall - appleinsider.com",
+            "description": "Apple reportedly held back on releasing new Apple TV hardware until its Apple Intelligence upgrades were ready, so expect the upgraded set-top box at any time.",
+            "url": "https://appleinsider.com/articles/26/09/13/new-apple-tv-with-siri-ai-could-launch-at-any-time-in-the-fall",
+            "urlToImage": "https://media.appleinsider.com/gallery/68965-145353-Apple-TV-4K-table-xl.jpg",
+            "publishedAt": "2026-09-13T14:25:00Z",
+            "content": "Apple TV could get an upgrade soon\r\nApple reportedly held back on releasing new Apple TV hardware until its Apple Intelligence upgrades were ready, so expect the upgraded set-top box at any time.\r\nTh… [+4579 chars]"
         },
         {
             "source": {
@@ -707,6 +1227,19 @@
         {
             "source": {
                 "id": null,
+                "name": "Search Engine Journal"
+            },
+            "author": "Roger Montti",
+            "title": "Google Admits Search Console Reporting For AI Search Is Inadequate - Search Engine Journal",
+            "description": "Google's John Mueller acknowledges that Search Console's AI search reporting falls short in providing the position data SEOs need.",
+            "url": "https://www.searchenginejournal.com/google-admits-search-console-reporting-for-ai-search-is-inadequate/589236/",
+            "urlToImage": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/09/google-ai-seo-reporting-413.jpg",
+            "publishedAt": "2026-09-13T12:17:31Z",
+            "content": "Google’s John Mueller answered a question about search console reporting’s inadequacies, defending the shortcomings as based on the inherent complexity of AI search itself.\r\nGoogle Search Console Sea… [+4965 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "Video Games Chronicle"
             },
             "author": "Andy Robinson",
@@ -807,6 +1340,32 @@
             "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2026/09/Apple-Watch-Ultra-4-2.jpg",
             "publishedAt": "2026-09-13T07:01:12Z",
             "content": "The Apple Watch Ultra 4 builds upon the solid foundation of its predecessor, the Ultra 3, by introducing a range of meaningful upgrades. These enhancements include improved battery life, smarter heal… [+5947 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Kotaku"
+            },
+            "author": "Ash Parrish",
+            "title": "Ikumi Nakamura Breaks Fans' Hearts By Asking Elon Musk To Play Her Demon-Hunting Action Game - Kotaku",
+            "description": "Her studio's hosting a closed testing event for Kemuri at Tokyo Game Show and she wants the Nazi to try it out I guess",
+            "url": "https://kotaku.com/ikumi-nakamura-elon-musk-kemuri-unseen-tokyo-game-show-2000734245",
+            "urlToImage": "https://kotaku.com/app/uploads/2023/05/5b1fcfd3f936e5f75ca9f09920fc9962.jpg",
+            "publishedAt": "2026-09-13T07:00:00Z",
+            "content": "What a terrible day to love quirky Japanese video game developers and have eyes. Ikumi Nakamura, studio lead at Unseen, has put out a call for fraudulent gamer Elon Musk to try out her new game, Kemu… [+2157 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Kotaku"
+            },
+            "author": "Kenneth Shepard",
+            "title": "Sora In Fortnite Wants To Know If You’ve Got Games On Your Phone - Kotaku",
+            "description": "I wish I could save all the characters I love from the crossover slop",
+            "url": "https://kotaku.com/sora-kingdom-hearts-fortnite-skin-announcement-trailer-2000734340",
+            "urlToImage": "https://kotaku.com/app/uploads/2026/09/sora.jpeg",
+            "publishedAt": "2026-09-13T07:00:00Z",
+            "content": "I played Fortnite for a week when it did the KPop Demon Hunters collab and got the ick enough to never pick it up again. I’m bored of crossovers infecting every video game in the world, and Epic’s ba… [+1142 chars]"
         },
         {
             "source": {
@@ -5006,279 +5565,6 @@
             "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security.jpg",
             "publishedAt": "2026-09-08T21:11:46Z",
             "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Droid Life"
-            },
-            "author": "Kellen",
-            "title": "Google Makes Gemini’s Daily Brief a Free Feature - Droid Life",
-            "description": "At the beginning of 2026, Google started testing a new feature within Gmail called “Google CC.” This was a Labs feature that would look through your inbox to be able to send you a daily brief that would help you better prepare for all of life’s events. The da…",
-            "url": "https://www.droid-life.com/2026/09/08/google-makes-geminis-daily-brief-a-free-feature/",
-            "urlToImage": "https://www.droid-life.com/wp-content/uploads/2026/05/Gemini-Daily-Brief.jpg",
-            "publishedAt": "2026-09-08T21:02:30Z",
-            "content": "At the beginning of 2026, Google started testing a new feature within Gmail called “Google CC.” This was a Labs feature that would look through your inbox to be able to send you a daily brief that wo… [+1642 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gamingbible.com"
-            },
-            "author": "Kate Harrold",
-            "title": "Red Dead Redemption 2 free expansion is a new story set within an alternate timeline - GAMINGbible",
-            "description": "If you need more post-game content, you've found it.",
-            "url": "https://www.gamingbible.com/news/platform/pc/red-dead-redemption-2-free-expansion-alternate-timeline-513238-20260908",
-            "urlToImage": "https://resizer.ladbiblegroup.com/ogimage/v3/assets/bltbc1876152fcd9f07/blt2feed76ec4dacfda/6aa026156cbce399284e7c89/reddeadbeechers.jpg",
-            "publishedAt": "2026-09-08T21:00:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Android Headlines"
-            },
-            "author": "Sai Krishna",
-            "title": "Samsung Galaxy Watch 4 Series Reaches the End of the Road - Android Headlines",
-            "description": "Samsung Galaxy Watch 4 and Watch 4 Classic will no longer receive software updates, as they reach the end of the road.",
-            "url": "https://www.androidheadlines.com/2026/09/samsung-galaxy-watch-4-series-reaches-the-end-of-the-road.html",
-            "urlToImage": "https://www.androidheadlines.com/wp-content/uploads/2021/09/AH-Samsung-Galaxy-Watch-4-Classic-2-1.jpg",
-            "publishedAt": "2026-09-08T20:46:12Z",
-            "content": "Tech products like smartphones and smartwatches typically come with a fixed software update policy. Samsung has a clear update policy for its Galaxy devices, and once a device reaches the end of its … [+1547 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BleepingComputer"
-            },
-            "author": "Bill Toulas",
-            "title": "Hackers breach F5 BIG-IP APM devices to deploy Linux rootkit - BleepingComputer",
-            "description": "A Linux rootkit targeting devices in F5 BIG-IP APM environments can intercept PHP file loading and inject a fileless web shell directly into memory, avoiding the need to write malicious code to disk.",
-            "url": "https://www.bleepingcomputer.com/news/security/hackers-breach-f5-big-ip-apm-devices-to-deploy-linux-rootkit/",
-            "urlToImage": "https://www.bleepstatic.com/content/hl-images/2025/10/15/F5_01.png",
-            "publishedAt": "2026-09-08T20:08:55Z",
-            "content": "A Linux rootkit targeting devices in F5 BIG-IP APM environments can intercept PHP file loading and inject a fileless web shell directly into memory, avoiding the need to write malicious code to disk.… [+3596 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Kotaku"
-            },
-            "author": "Ethan Gach",
-            "title": "Game Awards Host Geoff Keighley And PlayStation Architect Mark Cerny Will Start Giving $2 Million To Young Game Designers Each Year - Kotaku",
-            "description": "The Nova Games Foundation is a new philanthropic initiative aimed at supporting the next generation of game makers",
-            "url": "https://kotaku.com/game-awards-host-geoff-keighley-and-playstation-architect-mark-cerny-will-start-giving-over-2-million-to-young-game-designers-each-year-2000732391",
-            "urlToImage": "https://kotaku.com/app/uploads/2026/09/g-eoff-cnery-1200x675.jpg",
-            "publishedAt": "2026-09-08T19:49:04Z",
-            "content": "Two game industry icons are paying it forward. The host and creator of The Game Awards, Geoff Keighley, is teaming up with game designer and PlayStation 5 architect Mark Cerny to invest millions in t… [+2328 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gamefile.news"
-            },
-            "author": "Stephen Totilo",
-            "title": "Exclusive: Two of gaming’s biggest names are making a big investment in gaming’s future - Game File | Stephen Totilo",
-            "description": "Mark Cerny and Geoff Keighley are spending time and big money to launch a fellowship program for game design graduates. They hope the program will gain industry support for years to come.",
-            "url": "https://www.gamefile.news/p/nova-games-foundation-mark-cerny-geoff-keighley",
-            "urlToImage": "https://substackcdn.com/image/fetch/$s_!gIso!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff57d4367-d30d-415c-89a9-74896d738f9f_2172x1336.png",
-            "publishedAt": "2026-09-08T19:12:02Z",
-            "content": "The first thing to know about the Nova Games Foundation is that it isnt about The Game Awards. And its not about PlayStation.\r\nThe ambitious new grant program is the brainchild of Geoff Keighley and … [+8525 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "9to5Mac"
-            },
-            "author": "Ryan Christoffel",
-            "title": "Sonos just launched ‘Sonos 27’ app update, here’s what’s new - 9to5Mac",
-            "description": "Last week Sonos unveiled several new features coming soon, and now the first of those upgrades are here in the ‘Sonos 27’ app update.",
-            "url": "https://9to5mac.com/2026/09/08/sonos-just-launched-sonos-27-app-update-heres-whats-new/",
-            "urlToImage": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/sonos-27-app-update-screenshots.jpg?quality=82&strip=all&resize=1200,628",
-            "publishedAt": "2026-09-08T18:59:00Z",
-            "content": "Last week Sonos unveiled several new features coming to its app soon, and now the first of those upgrades are here in the Sonos 27 app update. Here are the details.\r\nFollowing the example of iOS 27 a… [+1842 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "9to5Mac"
-            },
-            "author": "Zac Hall",
-            "title": "OpenAI releases ChatGPT Images 2.5 with ‘sharper details’ and ‘more precise editing’ - 9to5Mac",
-            "description": "In April, OpenAI released upgraded image generation technology with ChatGPT Images 2. Five months later, the company is releasing an...",
-            "url": "https://9to5mac.com/2026/09/08/openai-releases-chatgpt-images-2-5-with-sharper-details-and-more-precise-editing/",
-            "urlToImage": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/chatgpt-orange.webp?resize=1200,628",
-            "publishedAt": "2026-09-08T18:50:00Z",
-            "content": "In April, OpenAI released upgraded image generation technology with ChatGPT Images 2. Five months later, the company is releasing an enhanced version, ChatGPT Images 2.5. \r\nChatGPT Images 2 was a not… [+2194 chars]"
-        },
-        {
-            "source": {
-                "id": "ign",
-                "name": "IGN"
-            },
-            "author": "Virginia Glaze",
-            "title": "Sega's President Says There's Been an Increase in Fans Who Don't Play Its Games - IGN",
-            "description": "Sega president and COO Shuji Utsumi says the company has experienced an uptick in fans who don’t actually play the games it develops and publishes.",
-            "url": "https://www.ign.com/articles/segas-president-says-theres-been-an-increase-in-fans-who-dont-play-its-games-but-that-doesnt-mean-they-arent-gamers",
-            "urlToImage": "https://assets-prd.ignimgs.com/2025/02/18/likeadragonhawaii-blogroll-1739839417413.jpg?width=1280&format=jpg&auto=webp&quality=80",
-            "publishedAt": "2026-09-08T18:48:16Z",
-            "content": "Sega president and COO Shuji Utsumi says the company has experienced an uptick in fans who dont actually play the games it develops and publishes.\r\nIn a September 7 interview with Nikkei Gaming\r\n, Ut… [+2970 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Thetimes.com"
-            },
-            "author": "Mark Sellman",
-            "title": "LG smart TVs record and upload conversations in homes, report says - The Times",
-            "description": "‘Chilling’ investigation finds that devices gather audio offline and transmit it once reconnected to wifi",
-            "url": "https://www.thetimes.com/uk/technology-uk/article/lg-smart-tv-investigation-lztg5xjnd",
-            "urlToImage": "https://www.thetimes.com/imageserver/image/f4620f02-7a1c-46d9-8291-274c5a7fe52f.jpg?strip=all&format=webp&crop=2493px%2C1403px%2C255px%2C143px&resize=1200",
-            "publishedAt": "2026-09-08T18:45:08Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "ign",
-                "name": "IGN"
-            },
-            "author": "Virginia Glaze",
-            "title": "'We Definitely Want to Make a Clear Separation' — Shift Up CTO Clarifies Stellar Blade Developer's Stance on AI After Blood Rain Music Video Controversy - IGN",
-            "description": "Shift Up’s chief technology officer, DongKi Lee, has clarified the developer’s stance on AI after a music video for Stellar Blade: Blood Rain sparked backlash last month.",
-            "url": "https://www.ign.com/articles/shift-up-cto-clarifies-stellar-blade-developers-stance-on-ai-after-blood-rain-music-video-controversy",
-            "urlToImage": "https://assets-prd.ignimgs.com/2026/08/03/shift-up-ceo-defends-stellar-blade-blood-rain-ai-music-video-1785780603942.jpg?width=1280&format=jpg&auto=webp&quality=80",
-            "publishedAt": "2026-09-08T18:16:23Z",
-            "content": "Shift Ups chief technology officer, DongKi Lee, has clarified the developers stance on AI after a music video for Stellar Blade: Blood Rain\r\n sparked backlash last month.\r\nThe music video, set to an … [+3993 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "9to5Mac"
-            },
-            "author": "Ryan Christoffel",
-            "title": "Apple releases iOS 26.6.2 for iPhone, here’s what’s new - 9to5Mac",
-            "description": "On the eve of its big iPhone launch event, Apple has just released a new iOS 26.6.2 software update for iPhone. Here’s what’s new.",
-            "url": "https://9to5mac.com/2026/09/08/apple-releases-ios-26-6-2-for-iphone-heres-whats-new/",
-            "urlToImage": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/ios-26-6-lg-iphone.jpg?quality=82&strip=all&resize=1200,628",
-            "publishedAt": "2026-09-08T17:36:00Z",
-            "content": "On the eve of its big iPhone launch event, Apple has just released a new iOS 26.6.2 software update for iPhone. Heres whats new.\r\nApple is expected to launch iOS 27 very soon, likely next week. \r\nBut… [+1155 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Digitalfoundry.net"
-            },
-            "author": "Digital Foundry",
-            "title": "SteelSeries Aeon Pro: The Infinite Battery Life, Dual-System Xbox and PC Controller Impresses, Despite Its High Price - Digital Foundry",
-            "description": "Borrowing the best ideas from the firm's Arctis Nova Pro headset lineup.",
-            "url": "https://www.digitalfoundry.net/reviews/steelseries-aeon-pro-the-infinite-battery-life-dual-system-xbox-and-pc-controller-impresses-despite-its-high-price",
-            "urlToImage": "https://images.digitalfoundry.net/5af93128bd469/large.jpg",
-            "publishedAt": "2026-09-08T17:32:52Z",
-            "content": "The SteelSeries Aeon Pro is the most expensive PC controller I've ever tested, at $260/£230 - yet it's also one of the most convincing, with unique features that set it apart from other pro controlle… [+8122 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "MacRumors"
-            },
-            "author": "Tim Hardwick",
-            "title": "Apple Event Tomorrow: iPhone 18 Pro and iPhone Ultra Cheat Sheet - MacRumors",
-            "description": "Apple's biggest event of the year is almost here, and all eyes are on Cupertino. With the first foldable iPhone expected to headline Apple's...",
-            "url": "https://www.macrumors.com/2026/09/08/apple-event-week-iphone-18-pro-cheat-sheet/",
-            "urlToImage": "https://images.macrumors.com/t/-K056f_ekYMCiuarz5vFfQ9vJ8c=/1646x/article-new/2026/08/apple-surprise-and-shine-event.jpg",
-            "publishedAt": "2026-09-08T17:24:56Z",
-            "content": "Apple's biggest event of the year is almost here, and all eyes are on Cupertino. With the first foldable iPhone expected to headline Apple's \"Surprise and Shine\" event on Wednesday, September 9, at 1… [+5758 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "MacRumors"
-            },
-            "author": "Joe Rossignol",
-            "title": "Next Apple TV's Chip Revealed in Latest Leak - MacRumors",
-            "description": "The next Apple TV 4K will be equipped with an A19 or A19 Pro chip, according to evidence in Apple's code uncovered by MacRumors contributor Aaron...",
-            "url": "https://www.macrumors.com/2026/09/08/next-apple-tv-chip-leak/",
-            "urlToImage": "https://images.macrumors.com/t/VsFKl4UWO8oZVdkJHHPVQWReYCo=/2500x/article-new/2026/04/Where-is-the-New-Apple-TV-Feature.jpg",
-            "publishedAt": "2026-09-08T17:19:48Z",
-            "content": "The next Apple TV 4K will be equipped with an A19 or A19 Pro chip, according to evidence in Apple's code uncovered by MacRumors contributor Aaron Perris. In particular, the device's model identifier … [+331 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "43rumors.com"
-            },
-            "author": null,
-            "title": "OM System PEN Camera Pre-Order Available at Amazon US - 43 Rumors",
-            "description": null,
-            "url": "https://www.43rumors.com/om-system-pen-camera-pre-order-available-at-amazon-us/",
-            "urlToImage": null,
-            "publishedAt": "2026-09-08T17:14:40Z",
-            "content": "Disclaimer: 43Rumors has no affiliation with any of the equipment manufacturers mentioned on this site. Please visit their official websites by typing the specific brand name and adding .com after it… [+552 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Andrew Webster",
-            "title": "Nintendo isn’t scared of GTA VI - The Verge",
-            "description": "Most game publishers are getting out of the way of Grand Theft Auto 6, but Nintendo is going up against it with the next Zelda on the Switch 2.",
-            "url": "https://www.theverge.com/games/991484/zelda-ocarina-of-time-gta-6",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/NS2_TheLegendofZeldaOcarinaofTime_scrn_02.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-            "publishedAt": "2026-09-08T17:13:51Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nWhile everyone else is avoiding Rockstars next game, the Ocarina of Time remake is going right up against it.\r\nWhile everyone else is avoiding Rockstars next gam… [+5560 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Nintendoeverything.com"
-            },
-            "author": "Brian",
-            "title": "The Legend of Zelda getting Link and Epona LEGO set, playable Ocarina, more - Nintendo Everything",
-            "description": "A number of new products have been announced for The Legend of Zelda, including a Link and Epona LEGO set and a playable Ocarina, and more. We have a look at the LEGO set above. Here’s a look at the new ocarinas, which includes an electric version: Also on th…",
-            "url": "https://nintendoeverything.com/the-legend-of-zelda-getting-link-and-epona-lego-set-playable-ocarina-more/",
-            "urlToImage": "https://nintendoeverything.com/wp-content/uploads/LEGO-Link-Epona.png",
-            "publishedAt": "2026-09-08T17:03:06Z",
-            "content": "A number of new products have been announced for The Legend of Zelda, including a Link and Epona LEGO set and a playable Ocarina, and more.\r\nWe have a look at the LEGO set above. Here’s a look at the… [+412 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Android Police"
-            },
-            "author": "Anu Joy",
-            "title": "I found 5 ways to use my Android camera that have nothing to do with photos - androidpolice.com",
-            "description": "I unlocked completely different uses for the camera",
-            "url": "https://www.androidpolice.com/ways-to-use-android-camera-that-have-nothing-to-do-with-photos/",
-            "urlToImage": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/09/android-phone-camera-shown-beside-several-camera-tool-icons.png?w=1600&h=900&fit=crop",
-            "publishedAt": "2026-09-08T17:00:10Z",
-            "content": "I used to think of my phone camera as a tool for taking photos and videos. Lately, though, I have started using it for things that have nothing to do with photography.\r\nIt can scan documents, make ti… [+5938 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Windows Central"
-            },
-            "author": "Jez Corden",
-            "title": "Preview: BlizzCon 2026 feels like a turning point as Blizzard prepares updates for every major franchise - Windows Central",
-            "description": "BlizzCon 2026 is shaping up to be incredibly special this year, with a huge amount of panels, unexpected surprises, and much more.",
-            "url": "https://www.windowscentral.com/gaming/blizzard/blizzcon-2026-preview-what-to-expect-for-warcraft-starcraft-overwatch-diablo",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/5QsKXXbjFNAp3jT4jTxYUn-2560-80.png",
-            "publishedAt": "2026-09-08T16:50:28Z",
-            "content": "BlizzCon 2026 kicks off in full next weekend, and for the Blizzard faithful, hype is reaching fever pitch already.\r\nLast month, Blizzard President Johanna Faries declared internally that the Warcraft… [+12252 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": null,
-            "title": "New law to force tech firms to prevent children from taking nude images - BBC",
-            "description": "The government said it will legislate \"as soon as they can\" but may \"reassess\" its plans if firms make the desired changes sooner.",
-            "url": "https://www.bbc.com/news/articles/cgrv9ypp5x2o",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/ec8e/live/f2e6ac40-ab90-11f1-aa04-efbf6a882854.jpg",
-            "publishedAt": "2026-09-08T16:48:29Z",
-            "content": "Apple and Google, which develop the operating systems of most smartphones used in the UK, were given three months in June to block access to nude images on smartphones and other devices used by under… [+4 chars]"
         }
     ]
 }

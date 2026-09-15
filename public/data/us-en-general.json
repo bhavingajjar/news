@@ -1,7 +1,293 @@
 {
     "status": "ok",
-    "totalResults": 527,
+    "totalResults": 540,
     "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "ScienceAlert"
+            },
+            "author": "Ivan Farkas",
+            "title": "Scientists Find First Adult T. Rex Trackway – And The Footprints Are Human-Sized - ScienceAlert",
+            "description": "Very few, if any, animals single-handedly represent an entire geological episode lasting nearly 100 million years.  But Tyrannosaurus rex is no regular animal.",
+            "url": "https://www.sciencealert.com/scientists-find-first-adult-t-rex-trackway-and-the-footprints-are-human-sized",
+            "urlToImage": "https://www.sciencealert.com/images/2026/09/trexprint.jpg",
+            "publishedAt": "2026-09-14T22:18:42Z",
+            "content": "Very few, if any, animals single-handedly represent an entire geological episode lasting nearly 100 million years. \r\nBut Tyrannosaurus rex is no regular animal. Furthering that fact, a spate of recen… [+4982 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Raquel Coronell Uribe, Frank Thorp V",
+            "title": "Mitch McConnell returns to the Senate after three-month absence - NBC News",
+            "description": "Sen. Mitch McConnell, R-Ky., returned to the Senate on Monday after a more than three-month absence.",
+            "url": "https://www.nbcnews.com/politics/congress/mitch-mcconnell-returns-senate-three-month-absence-rcna597815",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260914-Mitch-McConnell-ew-605p-d57d71.jpg",
+            "publishedAt": "2026-09-14T22:14:00Z",
+            "content": "Sen. Mitch McConnell, R-Ky., returned to the Senate on Monday after a more than three-month absence.\r\nToday, Ill cast my first Senate vote since I took a bad fall back in June. Im really looking forw… [+2439 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Deadline"
+            },
+            "author": "Robert Lang",
+            "title": "Emmy Awards 2026 Photos: Best Of The Red Carpet - Deadline",
+            "description": "Television's biggest night has arrived, and the 2026 Emmys red carpet is buzzing as stars make their grand entrances.",
+            "url": "https://deadline.com/gallery/emmy-awards-2026-photos-best-of-the-red-carpet/",
+            "urlToImage": "https://deadline.com/wp-content/uploads/2026/09/Emmys-2026_39c674.jpg?w=1024",
+            "publishedAt": "2026-09-14T21:40:00Z",
+            "content": "Tonight the red carpet is buzzing with the stars, writers, directors, and craftspeople of television, all gathering for the 78th Emmy Awards.\r\nTaking place this year at the Peacock Theater at L.A. Li… [+3307 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "Paul McLeary, Jack Detsch",
+            "title": "Hegseth allies campaign to put loyalist in Army secretary job - Politico",
+            "description": "Pentagon officials are pushing spokesperson Sean Parnell for the position and launching attacks against other candidates.",
+            "url": "https://www.politico.com/news/2026/09/14/hegseth-parnell-army-secretary-campaign-01075000",
+            "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F14%2F7f%2Fbcd92136439c9776c4b55c33516b%2Felection-2024-trump-14277.jpg",
+            "publishedAt": "2026-09-14T21:31:00Z",
+            "content": "Pete Hegseths Pentagon allies are waging a behind-the-scenes campaign against administration officials vying for the Army Secretary job an unprecedented effort to get the Defense secretarys spokesper… [+709 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": null,
+            "title": "Deadly bacteria detected as NYC orders emergency cleaning of cooling towers - Fox News",
+            "description": "A health expert discusses why Legionnaires' disease outbreaks keep striking the South Bronx and other historically marginalized NYC areas.",
+            "url": "https://www.foxnews.com/health/deadly-bacteria-detected-nyc-orders-emergency-cleaning-cooling-towers",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/woman-coughing.jpg",
+            "publishedAt": "2026-09-14T21:04:42Z",
+            "content": "Health officials ordered the immediate remediation of 10 rooftop cooling towers in the South Bronx after preliminary testing detected Legionella bacteria amid a growing Legionnaires disease cluster t… [+3792 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "Riley Rogerson",
+            "title": "Hakeem Jeffries: Congress must act ‘immediately’ to rein in AI - Politico",
+            "description": "The House Democratic leader said Republicans have ‘abandoned’ their responsibility on AI and called for the House to stay in session.",
+            "url": "https://www.politico.com/live-updates/2026/09/14/congress/jeffries-on-ai-urgency-01075271",
+            "urlToImage": "https://www.politico.com/dims4/default/9c9e695/2147483647/resize/1200x/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2Fc9%2F0a%2F1a8437584b2e8c58db3912cf0e45%2Fu-s-congress-73147.jpg",
+            "publishedAt": "2026-09-14T20:20:12Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "Samy Magdy",
+            "title": "Saudi pipeline hit by drones will be out of service for weeks, further restricting oil flow - AP News",
+            "description": "A crucial Saudi oil pipeline that was struck in an attack will mostly be out of service for weeks as the damage is repaired. That's according to two regional officials. The East-West Pipeline, which runs across the kingdom, is key to Saudi Arabia’s strategy o…",
+            "url": "https://apnews.com/article/yemen-houthis-saudi-shipping-mandeb-8c18d82c109a8ea91347ce53c0096c53",
+            "urlToImage": "https://dims.apnews.com/dims4/default/ed983d7/2147483647/strip/true/crop/6142x4093+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F84%2F72%2F885140e5cda4313bfc709ae2a1c0%2F3cad4a67b42f4d7fa35f94df233e24c6",
+            "publishedAt": "2026-09-14T20:15:00Z",
+            "content": "CAIRO (AP) A crucial Saudi oil pipeline that was struck in an attack will be mostly out of service for weeks as the damage is repaired, two regional officials said Monday, as Yemens Houthi rebels sei… [+7402 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Barron's"
+            },
+            "author": "Mariapaula Gonzalez, Rebecca Ungarino",
+            "title": "Bank of America CEO Sparks Bank Stock Selloff With One Small Word - Barron's",
+            "description": "Bank of America CEO Brian Moynihan said at a conference on Monday that sales and trading revenue for the fiscal third quarter will be “flat.”",
+            "url": "https://www.barrons.com/articles/bank-of-america-ceo-stock-selloff-d260ee22",
+            "urlToImage": "https://images.barrons.com/im-69298423/social",
+            "publishedAt": "2026-09-14T18:32:00Z",
+            "content": "Shares ofBank of Americaturned sharply lower on Monday after the banks chief executive, Brian Moynihan, said quarterly sales and trading revenue would be flat relative to a year ago.\r\nCopyright ©2026… [+82 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Defector.com"
+            },
+            "author": "Dave McKenna",
+            "title": "Conor Benn Wasn’t Ready For Ryan Garcia - Defector",
+            "description": "Ryan Garcia, the often troubled and always magnetic Californian who to this point in his career seemed unsure if he’d rather be an influencer who fights or a fighter who influences, struck a blow for his fighter side on Saturday in Las Vegas. Garcia hit Conor…",
+            "url": "https://defector.com/conor-benn-wasnt-ready-for-ryan-garcia",
+            "urlToImage": "https://lede-admin.defector.com/wp-content/uploads/sites/28/2026/09/GettyImages-2294975578.jpg",
+            "publishedAt": "2026-09-14T18:08:00Z",
+            "content": "Ryan Garcia, the often troubled and always magnetic Californian who to this point in his career seemed unsure if hed rather be an influencer who fights or a fighter who influences, struck a blow for … [+7047 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Doha Madani",
+            "title": "Macklemore says he was dropped from Ed Sheeran tour after Patriots owner Robert Kraft organized boycott - NBC News",
+            "description": "Macklemore has been dropped from Ed Sheeran’s tour after he says New England Patriots owner Robert Kraft organized a boycott among stadium owners over the rapper’s remarks in support of Palestinians.",
+            "url": "https://www.nbcnews.com/pop-culture/pop-culture-news/macklemore-says-was-dropped-ed-sheeran-tour-patriots-owner-robert-kraf-rcna597736",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260914-Macklemore-ew-150p-a3c1fa.jpg",
+            "publishedAt": "2026-09-14T17:53:02Z",
+            "content": "Macklemore has been dropped from Ed Sheerans tour after he says New England Patriots owner Robert Kraft organized a boycott among stadium owners over the rappers remarks in support of Palestinians. \r… [+5216 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Jacopo Prisco",
+            "title": "Scientists searching for dark matter spot a signal that defies explanation - CNN",
+            "description": "Finding dark matter would help to understand what the universe is made of. The LZ experiment may have made a breakthrough in detecting the invisible substance.",
+            "url": "https://www.cnn.com/2026/09/14/science/dark-matter-lz-experiment-potential-signal",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/190726-lz-assembled-tpc-0098.jpeg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2026-09-14T17:23:38Z",
+            "content": "An international team of scientists says it has detected an intriguing signal that could hint at evidence of dark matter, offering a clue that might bring the mystery of the elusive substance one ste… [+8541 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Mariem Bah",
+            "title": "Why is Trump warning Zelenskyy not to hit Russian diesel refineries? - aljazeera.com",
+            "description": "Trump blames Ukraine’s attacks for global diesel shortage, linking the crisis to Russia’s war rather than US actions.",
+            "url": "https://www.aljazeera.com/economy/2026/9/14/why-is-trump-warning-zelenskyy-not-to-hit-russian-diesel-refineries",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/09/getty_6aa6fb7835-1789328248.jpg?resize=1920%2C1440",
+            "publishedAt": "2026-09-14T17:17:15Z",
+            "content": "US President Donald Trump on Sunday asked Ukraine to stop hitting Russian diesel refineries, blaming the attacks for creating a diesel shortage that he said was hurting the world.\r\nRussia and Ukraine… [+5791 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Tom Warren",
+            "title": "Apple releases iOS 27 with Siri AI overhaul - The Verge",
+            "description": "watchOS 27, iPadOS 27, and visionOS 27 also debut today.",
+            "url": "https://www.theverge.com/news/994756/apple-ios-27-launch-iphone-siri-ai-update",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DSC04248.jpg?quality=90&strip=all&crop=0%2C10.628272251309%2C100%2C78.743455497382&w=1200",
+            "publishedAt": "2026-09-14T17:10:32Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nwatchOS 27, iPadOS 27, and visionOS 27 also debut today.\r\nwatchOS 27, iPadOS 27, and visionOS 27 also debut today.\r\nby\r\nTom WarrenClose\r\nPosts from this author w… [+2977 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Digitalfoundry.net"
+            },
+            "author": "Digital Foundry",
+            "title": "Porting Half-Life: Alyx to Steam Frame: How Valve's Engineers Went from \"There's No Way\" to Shipping Standalone - digitalfoundry.net",
+            "description": "Foveated rendering, lots of driver work and 16GB of RAM.",
+            "url": "https://www.digitalfoundry.net/features/porting-half-life-alyx-to-steam-frame-how-valves-engineers-went-from-theres-no-way-to-shipping-standalone",
+            "urlToImage": "https://images.digitalfoundry.net/9dda13b1137f4/large.jpg",
+            "publishedAt": "2026-09-14T17:00:00Z",
+            "content": "Image: Valve\r\nWhen the Steam Frame was announced, the idea that a high-end VR showcase like Half-Life: Alyx would run natively on a modestly powerful, ARM-based headset seemed far-fetched - and Valve… [+10168 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Investinglive.com"
+            },
+            "author": null,
+            "title": "Zelensky says Trump's deal to stop energy strikes is just a proposal - investingLive",
+            "description": "Ukraine's President writes on twitter",
+            "url": "https://investinglive.com/commodities/zelensky-says-trump-s-deal-to-stop-energy-strikes-is-just-a-proposal/",
+            "urlToImage": "https://investinglive.com/cms/media/images/Zelensky_id_66dceb97-c3a0-4118-a383-8eacf2281ff1_original.jpg?width=960&format=webp",
+            "publishedAt": "2026-09-14T16:32:14Z",
+            "content": "High risk warning: Foreign exchange trading carries a high level of risk that may not be suitable for all investors. Leverage creates additional risk and loss exposure. Before you decide to trade for… [+2119 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "WSJ Staff, Jinjoo Lee, Luke Vargas, Gina Heeb, Jack Pitcher, Shradha Dinesh, Ashlea Ebeling, Veronica Dagher, David Uberti, Chelsey Dulaney, Ed Ballard, Raffaele Huang",
+            "title": "Stock Market Today: Dow Slip; Oil Prices Surge; Nvdia Stock Down — Live Updates - WSJ",
+            "description": "Live updates on markets and the top finance, economics and business stories. Plus the latest on bonds, oil prices, the Dow, S&P 500 and Nasdaq.",
+            "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-14-2026",
+            "urlToImage": "https://images.wsj.net/im-34062673/social",
+            "publishedAt": "2026-09-14T16:12:00Z",
+            "content": "The 10-year U.S. Treasury yield briefly broke above 5% as widening instability in the Middle East pushed up oil prices, deepening investor concerns about inflation.\r\nThe yield on the benchmark bond r… [+1323 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Space.com"
+            },
+            "author": "Martin Elvis",
+            "title": "No cities on the moon — there isn't enough water, scientists say (op-ed) - Space",
+            "description": "Even a small city would run dry after just a decade or so.",
+            "url": "https://www.space.com/astronomy/moon/no-cities-on-the-moon-there-isnt-enough-water-scientists-say-op-ed",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/BHJ4WwrdL3DEGkJn9TwFtg-1920-80.jpg",
+            "publishedAt": "2026-09-14T15:00:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "Chip Patterson",
+            "title": "Texas surges to No. 1 spot, Michigan returns to top 25 in college football rankings - CBS Sports",
+            "description": "Texas takes over the top spot after beating Ohio State, while Oklahoma State and Michigan make massive leaps up the updated CBS Sports 138 rankings",
+            "url": "https://www.cbssports.com/college-football/news/college-football-rankings-texas-michigan-cbs-sports-138/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2026/09/14/f9aca91d-0865-4575-86d4-9adff95ef1b8/thumbnail/1200x675/1e3c0c96816b4b30eab2a6b56a662905/texas-138.png",
+            "publishedAt": "2026-09-14T14:12:50Z",
+            "content": "No college football season is truly off and running until we get our first couple of top-10 clashes and top-10 upsets. In Week 2, we checked both boxes, with Texas storming back dramatically to beat … [+7325 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WRAL.com"
+            },
+            "author": "Tony Rice, NASA Ambassador",
+            "title": "Look up Monday for the crescent Moon and brilliant Venus - WRAL",
+            "description": "Skywatchers can catch a thin crescent moon near exceptionally bright Venus on Monday evening as the planet approaches its greatest brilliance.",
+            "url": "https://www.wral.com/weather/moon-venus-sep-2026/",
+            "urlToImage": "https://images.wral.com/980b220f-f758-431d-be86-f716cb1dffc2?w=1200&h=630&height=630",
+            "publishedAt": "2026-09-14T13:47:21Z",
+            "content": "Look to the western horizon Monday shortly after sunset for the slender crescent moon pointing the way to brilliant Venus. The two objects will appear relatively close together in the sky, although t… [+2336 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5Mac"
+            },
+            "author": "Ryan Christoffel",
+            "title": "iPhone 18 Pro, Pro Max pre-orders now delayed to October for most models - 9to5Mac",
+            "description": "Here’s the latest update on iPhone 18 Pro pre-order delivery estimates, which have now slipped to October in most cases.",
+            "url": "https://9to5mac.com/2026/09/14/iphone-18-pro-pro-max-pre-orders-now-delayed-to-october-for-most-models/",
+            "urlToImage": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-side-angle-burgundy.jpg?quality=82&strip=all&resize=1200,628",
+            "publishedAt": "2026-09-14T13:43:00Z",
+            "content": "If you havent yet ordered your iPhone 18 Pro or Pro Max, youll likely be waiting until October for delivery. Heres the latest update on iPhone 18 Pro pre-order shipping times.\r\nApple opened up iPhone… [+1302 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Laura Strickler, Justin Goldman, Julia Ainsley",
+            "title": "DHS watchdog finds immigrants held at ‘Alligator Alcatraz’ in outdoor cages the size of phone booths - NBC News",
+            "description": "WASHINGTON — Some immigrants detained at Florida’s now-shuttered “Alligator Alcatraz” were confined in outdoor cages only slightly larger than telephone booths for more than an hour at a time, according to a new report by the Department of Homeland Security’s…",
+            "url": "https://www.nbcnews.com/politics/national-security/dhs-watchdog-immigrants-held-outdoor-cages-size-phone-booths-alligator-rcna593917",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-08/260824-alligator-alcatraz-cage-mn-1515-2044ae.jpg",
+            "publishedAt": "2026-09-14T13:39:40Z",
+            "content": "Homeland Securitys inspector general, Joseph Cuffari, is one of the few Cabinet-level inspectors general who wasnt fired in the purge. \r\nDHS IG inspectors visited the facility in January as part of i… [+6263 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Theron Mohamed",
+            "title": "'Big Short' Michael Burry says AI leaders' calls for slowdown are 'self-serving' and he's not worried - Business Insider",
+            "description": "Michael Burry of \"The Big Short\" fame said AI companies were helping themselves by calling for slower progress to head off any threats to humanity.",
+            "url": "https://www.businessinsider.com/michael-burry-big-short-anthropic-openai-slowdown-altman-amodei-musk-2026-9#article",
+            "urlToImage": "https://i.insider.com/6aa7e03dcc23a829a3b91025?width=1200&format=jpeg",
+            "publishedAt": "2026-09-14T13:27:00Z",
+            "content": "Sam Altman, Dario Amodei, and other AI chiefs are calling for slower development of the technology following fresh warnings that it could annihilate us all. Michael Burry says they're just helping th… [+2668 chars]"
+        },
         {
             "source": {
                 "id": "nbc-news",
@@ -30,6 +316,19 @@
         },
         {
             "source": {
+                "id": null,
+                "name": "POLITICO.eu"
+            },
+            "author": "Katie Westwood",
+            "title": "Russia wanted to cow Ukraine allies with railway drone attack, says top EU diplomat - politico.eu",
+            "description": "Prominent Western security officials were on a nearby train.",
+            "url": "https://www.politico.eu/article/russia-wanted-frighten-western-countries-with-drone-attack-warsaw-bound-train-kaja-kallas/",
+            "urlToImage": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/09/14/GettyImages-2294742746-scaled.jpg",
+            "publishedAt": "2026-09-14T12:28:00Z",
+            "content": "The drone hit the locomotive of a passenger train two kilometers from the frontier in Volyn region, Ukraines state rail operator confirmed.  \r\nNobody was injured in the attack, but it happened shortl… [+1550 chars]"
+        },
+        {
+            "source": {
                 "id": "associated-press",
                 "name": "Associated Press"
             },
@@ -44,6 +343,32 @@
         {
             "source": {
                 "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Nauman Khan",
+            "title": "Apple Foldable iPhone Could Change Smartphones Forever - Yahoo Finance",
+            "description": "Apple Just Entered the Foldable War. Gurman Says Its New iPhone Could Transform the Market",
+            "url": "https://finance.yahoo.com/technology/articles/apple-foldable-iphone-could-change-121236187.html",
+            "urlToImage": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+            "publishedAt": "2026-09-14T12:12:36Z",
+            "content": "This article first appeared on GuruFocus.\r\nApple (NASDAQ:AAPL) could turn foldable smartphones into a mainstream product category with the newly unveiled iPhone Duo, Bloomberg Strategist Mark Gurman … [+975 chars]"
+        },
+        {
+            "source": {
+                "id": "bleacher-report",
+                "name": "Bleacher Report"
+            },
+            "author": "Brad Shepard",
+            "title": "2026 College Football's Biggest Surprises After Week 2 - Bleacher Report",
+            "description": "The only guarantee in college football each week is that something – and likely multiple somethings – is going to happen to make you shake your head.",
+            "url": "https://bleacherreport.com/articles/25498811-2026-college-footballs-biggest-surprises-after-week-2",
+            "urlToImage": "https://gsp-image-cdn.wmsports.io/cms/prod/bleacher-report/getty_images/2026-09/2293876844_0_large_cropped.jpg?w=1120&h=630",
+            "publishedAt": "2026-09-14T12:10:48Z",
+            "content": "9 of 10You can't talk about Duke without mentioning North Carolina, right? Even on the gridiron, apparently.\r\nSo much hype surrounded Bill Belichick's return to coaching last year when the legendary … [+1004 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "9to5Mac"
             },
             "author": "Ben Lovejoy",
@@ -53,6 +378,19 @@
             "urlToImage": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Heres-how-the-iPhone-Duo-compares-to-the-Samsung-Galaxy-Z-Fold-8.webp?resize=1200,628",
             "publishedAt": "2026-09-14T12:09:00Z",
             "content": "CNET has a series of pieces comparing the iPhone Duo to three current Android foldables. While it’s a little frustrating to tackle the comparisons separately, it seems clear that the site views Samsu… [+2568 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "David DeTurris",
+            "title": "Women really are more fatigued than men — and CDC study proves it - New York Post",
+            "description": "Women really are more fatigued more than men — and now there’s federal data to prove it. More than half of women said they feel fatigued “some days,” with nearly 20% saying that they ex…",
+            "url": "https://nypost.com/2026/09/14/us-news/women-really-are-more-fatigued-than-men-and-cdc-study-proves-it/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/09/Untitled-1_69be86.jpg?quality=75&strip=all&w=1200",
+            "publishedAt": "2026-09-14T12:00:00Z",
+            "content": "Women really are more fatigued more than men — and now there’s federal data to prove it.\r\nMore than half of women said they feel fatigued some days, with nearly 20% saying that they experienced it mo… [+2217 chars]"
         },
         {
             "source": {
@@ -170,6 +508,19 @@
             "urlToImage": "https://s.yimg.com/lo/mysterio/api/101f4224dcae1c39ebda85323fb2e2bd99f8a1602b4774153015707ffa26d0a6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2F609e6347-3a99-4e52-8c10-11fa080ea06c_42bb33b5e815c8c9a9dcb6ead7c1ad3bac52ddaa506a1ad8a76d015d3bfc2a24.jpg",
             "publishedAt": "2026-09-14T10:00:00Z",
             "content": "Markets overwhelmingly expect the Federal Reserve to raise interest rates this week for the first time in more than three years but the decision is likely to be a closer call than investors' bets sug… [+8693 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "Rob Maaddi",
+            "title": "NFL offenses provide one of the highest-scoring opening weeks in history - AP News",
+            "description": "NFL offenses didn’t need any time to shake off the rust. They lit up the scoreboard in one of the highest-scoring opening weeks in NFL history. The Bears beat Carolina 59-37, falling three points shy of tying Atlanta’s 53-year-old record for the most in Week …",
+            "url": "https://apnews.com/article/nfl-offense-bears-williams-allen-bills-36d8624ba91df907e63cfe230171eff9",
+            "urlToImage": "https://dims.apnews.com/dims4/default/7026f0d/2147483647/strip/true/crop/5841x3892+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F69%2F70%2F018fe0bfed91ecafb5eeb8d156be%2F35a42c3cc44644fcb19d66ede66409ee",
+            "publishedAt": "2026-09-14T10:00:00Z",
+            "content": "Offenses didnt need any time to shake off the rust.\r\nThey lit up the scoreboard in one of the highest-scoring opening weeks in NFL history.\r\nThe Bears beat Carolina 59-37, falling three points shy of… [+4975 chars]"
         },
         {
             "source": {
@@ -6670,188 +7021,6 @@
             "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/09/08/294470c2-8bc4-412f-b8c1-de4d0ddfff7e/thumbnail/1200x630/bd42598fbfb1047fc0fde18af5d5da43/1788910928543.png",
             "publishedAt": "2026-09-08T21:27:00Z",
             "content": "Damaging winds and heavy rains from Hurricane Lowell pelted Hawaii's western islands early Tuesday, knocking out power, damaging roads and buildings and bringing the threat of flash floods and mudsli… [+3579 chars]"
-        },
-        {
-            "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
-            },
-            "author": "Farnoush Amiri",
-            "title": "US hits remaining parts of Iran's aviation sector with sanctions in latest move to isolate Tehran - AP News",
-            "description": "The Trump administration has imposed sanctions on additional elements of Iran’s aviation industry. On Tuesday, the Treasury Department targeted more than two dozen commercial and private airlines as well as foreign cargo service providers. The latest actions …",
-            "url": "https://apnews.com/article/iran-sanctions-treasury-trump-59b9b99d8dbb6dfbb519af565c995c85",
-            "urlToImage": "https://dims.apnews.com/dims4/default/3332c82/2147483647/strip/true/crop/6000x3998+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F24%2F45%2F715411cdf575c000e7021f0a3c5b%2Fdfb9d4a7ef314295a975d6c84fdcb04b",
-            "publishedAt": "2026-09-08T21:10:00Z",
-            "content": "The Trump administration on Tuesday imposed sanctions on additional elements of Irans aviation industry, targeting more than two dozen commercial and private airlines as well as foreign cargo service… [+4418 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Variety"
-            },
-            "author": "Ellise Shafer",
-            "title": "Penélope Cruz Sobs and Kisses Javier Bardem as ‘Bunker’ Dazzles Venice With Record 15.5-Minute Ovation - Variety",
-            "description": "Florian Zeller's \"Bunker,\" a psychological thriller starring Penélope Cruz and Javier Bardem, earned an ovation at its Venice premiere.",
-            "url": "https://variety.com/2026/film/festivals/penelope-cruz-javier-bardem-bunker-venice-premiere-1236844863/",
-            "urlToImage": "https://variety.com/wp-content/uploads/2026/09/GettyImages-2294177216.jpg?w=1000&h=563&crop=1",
-            "publishedAt": "2026-09-08T19:49:00Z",
-            "content": "Penelope Cruz broke out into uncontrollable sobs as she kissed her husband and co-star Javier Bardem during the incredibly long 15.5-minute standing ovation at the premiere of “Bunker” at the Venice … [+4067 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "NBCSports.com"
-            },
-            "author": "Josh Alper",
-            "title": "Mid-American Conference appeals to have Western Michigan recognized as winner of game against Michigan - NBC Sports",
-            "description": "Western Michigan's last-second loss to Michigan on a Hail Mary after a controversial replay review granted the Wolverines an extra play was the biggest story of the college football weekend, but Western Michigan's conference isn't ready to let it go just yet.",
-            "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mid-american-conference-appeals-to-have-western-michigan-recognized-as-winner-of-game-against-michigan",
-            "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/0441a56/2147483647/strip/true/crop/4763x2679+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F3c%2Fc9%2F017640c544d9a42a8b43bfa1295a%2F2293736863.jpg",
-            "publishedAt": "2026-09-08T19:13:13Z",
-            "content": "Western Michigans last-second loss to Michigan on a Hail Mary after a controversial replay review granted the Wolverines an extra play was the biggest story of the college football weekend, but Weste… [+1752 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "9to5Mac"
-            },
-            "author": "Zac Hall",
-            "title": "OpenAI releases ChatGPT Images 2.5 with ‘sharper details’ and ‘more precise editing’ - 9to5Mac",
-            "description": "In April, OpenAI released upgraded image generation technology with ChatGPT Images 2. Five months later, the company is releasing an...",
-            "url": "https://9to5mac.com/2026/09/08/openai-releases-chatgpt-images-2-5-with-sharper-details-and-more-precise-editing/",
-            "urlToImage": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/chatgpt-orange.webp?resize=1200,628",
-            "publishedAt": "2026-09-08T18:50:00Z",
-            "content": "In April, OpenAI released upgraded image generation technology with ChatGPT Images 2. Five months later, the company is releasing an enhanced version, ChatGPT Images 2.5. \r\nChatGPT Images 2 was a not… [+2194 chars]"
-        },
-        {
-            "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
-            "author": "Jonathan Edwards",
-            "title": "Smithsonian chief to retire as Trump fights to reshape the institution - The Washington Post",
-            "description": "Lonnie G. Bunch III, the Smithsonian’s first Black secretary, said President Donald Trump’s pressure played no role in his decision and vowed to defend the institution’s independence until he leaves.",
-            "url": "https://www.washingtonpost.com/entertainment/art/2026/09/08/smithsonian-chief-bunch-retiring-trump-fights-reshape-institution/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZODONUNHDGUADBFFEBFZZKMA6Y_size-normalized.JPG&w=1440",
-            "publishedAt": "2026-09-08T18:41:30Z",
-            "content": "The Smithsonian Institutions top official, Lonnie G. Bunch III, is retiring, ushering in a seismic transition at the nations museum and research organization just as President Donald Trump intensifie… [+61 chars]"
-        },
-        {
-            "source": {
-                "id": "the-hill",
-                "name": "The Hill"
-            },
-            "author": "Laura Kelly",
-            "title": "US issues sweeping sanctions against Iranian airlines, foreign businesses - The Hill",
-            "description": "The Trump administration on Tuesday announced new sanctions against all of Iran’s airlines and nearly a dozen foreign companies doing business with Iran’s Mahan Air, which had earlier been sanctioned for its ties to the Islamic Revolutionary Guard Corps (IRGC…",
-            "url": "https://thehill.com/homenews/administration/6076934-trump-sanctions-iran-airlines/",
-            "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2026/08/bessentscott_082426upi01_w.jpg?w=1280",
-            "publishedAt": "2026-09-08T17:50:00Z",
-            "content": "Skip to content\r\nThe Trump administration on Tuesday announced new sanctions against all of Iran’s airlines and nearly a dozen foreign companies doing business with Iran’s Mahan Air, which had earlie… [+2896 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Forbes"
-            },
-            "author": "forbes.com",
-            "title": "‘Practical Magic 2’ Rotten Tomatoes Reviews Splatter Bullock And Kidman Sequel - forbes.com",
-            "description": null,
-            "url": "https://www.forbes.com/sites/timlammers/2026/09/08/practical-magic-2-rotten-tomatoes-reviews-rip-bullock-and-kidman-sequel/",
-            "urlToImage": null,
-            "publishedAt": "2026-09-08T17:46:12Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Grace O'Donnell",
-            "title": "Stock market today: Dow, S&P 500, Nasdaq fall as oil prices rise, US-Canada trade war escalates - Yahoo Finance",
-            "description": "US stocks slipped on Tuesday as rising oil prices and inflation jitters took focus at the start of the holiday-shortened week.",
-            "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-8-dow-sp-500-nasdaq-080440338.html",
-            "urlToImage": "https://s.yimg.com/lo/mysterio/api/66882c17a7ba27137cab3bc755cd54d8a9d848ea966f0b0dbc6db9a79d0d832e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-09%2F8400017a-c4b5-49dc-8869-0152c4610003",
-            "publishedAt": "2026-09-08T17:44:41Z",
-            "content": "The price of the world's primary oil benchmark rose close to the $100 per barrel mark on Tuesday, approaching the key level for the first time in two months after a new wave of hostilities in the Mid… [+1207 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "GMA"
-            },
-            "author": "Katie Kindelan",
-            "title": "Prince Harry, Meghan Markle ‘surprised’ by King Charles’ letter on royal status - Good Morning America",
-            "description": "Prince Harry and Meghan returned to the U.K. after living in California for six years.",
-            "url": "https://www.goodmorningamerica.com/culture/story/prince-harry-meghan-markle-remain-working-royals-uk-136255195",
-            "urlToImage": "https://i.abcnewsfe.com/a/2bc125dc-e362-4b30-b8ea-0f42eef58d55/harry-1-gty-er-260907_1788792835829_hpMain_16x9.jpg?w=992",
-            "publishedAt": "2026-09-08T17:29:02Z",
-            "content": "Prince Harry and Meghan, the Duchess of Sussex, will remain \"private citizens\" and not be working royals while living in the United Kingdom, according to a letter released Monday by the head of the R… [+2897 chars]"
-        },
-        {
-            "source": {
-                "id": "usa-today",
-                "name": "USA Today"
-            },
-            "author": "Liza Esquibias",
-            "title": "Lori Loughlin, husband Mossimo Giannulli to divorce after 30 years - USA Today",
-            "description": "Lori Loughlin officially filed for divorce from Mossimo Giannulli after nearly 30 years of marriage.",
-            "url": "https://www.usatoday.com/story/entertainment/celebrities/2026/09/08/lori-loughlin-divorce-husband-mossimo-giannulli/91660219007/",
-            "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/09/08/USAT/91660421007-20190403-t-200110-z-1482889686-rc-1356-fdc-8-a-0-rtrmadp-3-usaeducationcheating.JPG?crop=1375,773,x132,y110&width=1375&height=773&format=pjpg&auto=webp",
-            "publishedAt": "2026-09-08T17:27:00Z",
-            "content": "Lori Loughlin and Mossimo Giannulli are officially going their separate ways.\r\nThe \"Full House\" alum, 62, filed for divorce from her husband of nearly 30 years on Friday, Sept. 4, according to docume… [+2409 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CBS Sports"
-            },
-            "author": "David Cobb",
-            "title": "Coaches Poll top 25: Michigan plummets but remains, while LSU surges in Week 2 college football rankings - CBS Sports",
-            "description": "LSU jumped into the top 10 following a rout of Clemson, while Michigan took a tumble ahead of a Week 2 matchup against Oklahoma",
-            "url": "https://www.cbssports.com/college-football/news/coaches-poll-top-25-college-football-rankings-michigan-lsu-week-2/",
-            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2026/09/08/a5db8ad8-5289-4b65-969c-8d278c4f044a/thumbnail/1200x675/769814b0aa5039c8f72d12947a2391be/michigan.jpg",
-            "publishedAt": "2026-09-08T17:27:00Z",
-            "content": "Oregon plummeted four spots to No. 6 in the Week 2 Coaches Poll released on Tuesday after narrowly escaping with a 34-27 win over Boise State in a Week 1 thriller. The Ducks received just one first-p… [+1626 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Reality Tea"
-            },
-            "author": "ashnagaur",
-            "title": "Jim Thornton Gets Surprising Defender Amid ‘Wheel of Fortune’ Controversy - Yahoo",
-            "description": "Former Wheel of Fortune contestant Joshua Beach defended Jim Thornton as online criticism intensified around the former announcer. Beach said some of the mat...",
-            "url": "https://www.realitytea.com/2026/09/08/jim-thornton-wheel-of-fortune-contestant-defends-controversy/",
-            "urlToImage": "https://s.yimg.com/lo/mysterio/api/e6a776062a293aba120ac82fd5750aadb90ff539445755f50bfc308db57e4889/lightyear_networkapi/resizefill_w640_h360%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freality_tea_694%2Ffb99f1c573c24cdb8605ecbaf8446673.png",
-            "publishedAt": "2026-09-08T17:20:28Z",
-            "content": "Former Wheel of Fortune contestantJoshua Beach defended Jim Thornton as online criticism intensified around the former announcer.\r\nBeach said some of the material he had seen disturbed him. However, … [+2176 chars]"
-        },
-        {
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "author": null,
-            "title": "Iran-backed terrorists escalate war with Saudi Arabia as US trades strikes with Iran - Fox News",
-            "description": "The U.S. and Iran continued to trade strikes and threats in the Strait of Hormuz on Tuesday as Iran-backed Houthi's launched ballistic missile strikes against Saudi Arabian targets.",
-            "url": "https://www.foxnews.com/live-news/iran-war-news-trump-israel-september-8",
-            "urlToImage": "https://assets.foxnews.com/liveblog/fn/prod/images/2026/09/91a270a689548fb957878d7f4a0aec3a.jpg",
-            "publishedAt": "2026-09-08T16:56:09Z",
-            "content": "With Israels stunning capture of the strategically valuable Ali al-Taher ridge in south Lebanon on Sunday, a major Hezbollah and Iran stronghold, the campaign to degrade Tehrans so-called \"Axis of Re… [+1834 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Khac Phu Nguyen",
-            "title": "Apple Falls Before Ternus's First $54 Billion iPhone Test - Yahoo Finance",
-            "description": "Tomorrow's launch must turn premium hardware into evidence that Apple can close its AI gap.",
-            "url": "https://finance.yahoo.com/markets/stocks/articles/apple-falls-ternuss-first-54-165156040.html",
-            "urlToImage": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-            "publishedAt": "2026-09-08T16:51:56Z",
-            "content": "This article first appeared on GuruFocus.\r\nApple (NASDAQ:AAPL), the consumer-technology and services giant, headed toward its first major product event under CEO John Ternus as shares fell approximat… [+1060 chars]"
         }
     ]
 }
