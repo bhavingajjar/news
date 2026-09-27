@@ -1,7 +1,215 @@
 {
     "status": "ok",
-    "totalResults": 596,
+    "totalResults": 617,
     "articles": [
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "Christine Mui, Maggie Miller",
+            "title": "Rogue OpenAI agents accessed US government websites - Politico",
+            "description": "It’s the latest instance of “misaligned” activity confirmed by the company as concerns about AI risks grow.",
+            "url": "https://www.politico.com/news/2026/09/25/rogue-openai-agents-accessed-us-government-websites-01094035",
+            "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F51%2Fe2%2F582ddba044fa9682123cc4974e46%2Fchatgpt-search-engine-97390.jpg",
+            "publishedAt": "2026-09-26T01:38:00Z",
+            "content": "The incident involving the Commerce Department concerned data from its Census Bureau website, which OpenAIs models accessed using credentials they found in online code repositories.\r\nIn the SEC case,… [+1370 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "TikTok to pay $100m and limit daily child usage in Alabama settlement - BBC",
+            "description": "Alabama was set to take TikTok to trial over claims that it intentionally addicted young users.",
+            "url": "https://www.bbc.com/news/articles/cmgjqq54dlx0o",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0514/live/9c315500-b935-11f1-9f63-299d77d07e85.jpg",
+            "publishedAt": "2026-09-26T00:11:14Z",
+            "content": "\"TikTok's priority has always been fostering a safe and positive space where people can be creative, discover what they love, and connect with their community,\" a spokesperson for TikTok USDS said. \"… [+113 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "KCRA Sacramento"
+            },
+            "author": "Daniel Macht",
+            "title": "These Starbucks locations are closing in the Sacramento area - KCRA",
+            "description": "Starbucks reportedly plans to close 250 stores across North America this week, including several across the Sacramento area.",
+            "url": "https://www.kcra.com/article/starbucks-closures-sacramento-area/73895286",
+            "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/starbucks-1573741048.jpg?crop=1.00xw%3A1.00xh%3B0%2C0&resize=1200%3A*",
+            "publishedAt": "2026-09-26T00:11:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": null,
+            "title": "Common kitchen staple may sharpen your brain — and it only takes 2 tablespoons - Fox News",
+            "description": "Eating about 2 tablespoons of tomato paste daily for three months boosted attention, processing speed and associative memory scores in a new study.",
+            "url": "https://www.foxnews.com/food-drink/common-kitchen-staple-may-sharpen-your-brain-only-takes-2-tablespoons",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/organic-tomato-sauce.jpg",
+            "publishedAt": "2026-09-25T23:45:53Z",
+            "content": "A couple of daily tablespoons of a common pantry staple often used to make pasta sauce richer were linked to better attention and processing speed, a small new study found.\r\nResearchers in Spain foun… [+3136 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Could an iced coffee freeze you out of the job market? - BBC",
+            "description": "Employees and recruiters weigh into the online debate around interview etiquette.",
+            "url": "https://www.bbc.com/news/articles/cv62k9p1rz4do",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2add/live/03c9d510-b905-11f1-bc1f-3f186ca4140c.png",
+            "publishedAt": "2026-09-25T23:08:22Z",
+            "content": "OpenAI agents tried to get information from \"governments, universities, public agencies, and other institutions\" through extreme means that sometimes curbed security controls, the company said."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Financial Times"
+            },
+            "author": null,
+            "title": "Walmart chief rules out personalised pricing as AI transforms retail - Financial Times",
+            "description": "Largest US retailer issues open letter saying it will not use electronic shelf labels to change costs based on shopper identity",
+            "url": "https://www.ft.com/content/632e21a3-b889-4423-a1d9-be16b3e680bd?syn-25a6b1a6\\\\u003d1",
+            "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F48d55fb1-8116-43c1-b2de-09ff7d8d904d.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+            "publishedAt": "2026-09-25T21:16:49Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Rolling Stone"
+            },
+            "author": "Jack Crosbie",
+            "title": "If You Want to Know Who America’s Oligarchs Are, Read This List - rollingstone.com",
+            "description": "Donald Trump's state dinner for Chinese President Xi Jinping features a who's who of the American oligarchy, from tech CEOs to Republican politicians.",
+            "url": "http://www.rollingstone.com/politics/political-commentary/trump-state-dinner-guest-list-american-oligarchs-1235632171/",
+            "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2026/09/altman-zuck-american-oligarchy.jpg?w=1600&h=900&crop=1",
+            "publishedAt": "2026-09-25T21:15:10Z",
+            "content": "There’s an art to throwing a good dinner party. The right food, the right entertainment, and the right seating arrangements are all important, but nothing matters more than the guests. On Thursday, P… [+5158 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "WSJ",
+            "title": "Stocks Rise to Cap Week of Increasing Yields, Volatile Oil Prices - WSJ",
+            "description": null,
+            "url": "https://www.wsj.com/finance/stocks/stocks-rise-to-cap-week-of-increasing-yields-volatile-oil-prices-de1cba89",
+            "urlToImage": null,
+            "publishedAt": "2026-09-25T21:06:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Sarah Perez",
+            "title": "Meta opens early access program for new Muse features - TechCrunch",
+            "description": "Anyone interested in joining has to ask Muse to put them on the list.",
+            "url": "https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-finger-on-app-GettyImages-2293791808.jpg?w=1024",
+            "publishedAt": "2026-09-25T20:34:53Z",
+            "content": "After announcing a host of new features for Meta’s Muse AI app at its Connect 2026 developer conference this week, the company is opening up requests for early access. Meta shared on Friday that you … [+1296 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Jacob Pramuk",
+            "title": "Coca-Cola hires Rob Gehring from Monster Energy to run its North American operations - CNBC",
+            "description": "Coca-Cola is trying to maintain growth as consumers face higher gas and grocery prices.",
+            "url": "https://www.cnbc.com/2026/09/25/monster-coca-cola-rob-gehring.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108263213-1770642410147-gettyimages-2243309622-AFP_827X866.jpeg?v=1770642432&w=1920&h=1080",
+            "publishedAt": "2026-09-25T20:34:13Z",
+            "content": "Rob Gehring, the head of Monster Energy's Americas business, will leave to run Coca-Cola's North America unit, the companies said Friday.\r\nHe will take over the position on Dec. 1. \r\nThe move comes a… [+1097 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Financial Times"
+            },
+            "author": null,
+            "title": "Blackstone’s top private equity executive prepares exit for possible public service move - Financial Times",
+            "description": "Joseph Baratta, one of the company’s best-paid employees, plans to leave the group after almost three decades",
+            "url": "https://www.ft.com/content/c1ab1254-bf38-43ca-aa22-02a09d6e2b73?syn-25a6b1a6\\\\u003d1",
+            "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F04976110-ead8-48a5-b43d-238eb5d574b6.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+            "publishedAt": "2026-09-25T20:10:36Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Seeking Alpha"
+            },
+            "author": "Chris Ciaccia",
+            "title": "Bill Gates warns AI is 'powerful enough' to cause a billion deaths (MSFT:NASDAQ) - Seeking Alpha",
+            "description": "Bill Gates warns AI could cause 1B deaths, as Altman, Musk and Anthropic call for safeguards.",
+            "url": "https://seekingalpha.com/news/4647293-bill-gates-warns-ai-powerful-enough-to-cause-a-billion-deaths",
+            "urlToImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2286840949/image_2286840949.jpg?io=getty-c-w630",
+            "publishedAt": "2026-09-25T20:10:28Z",
+            "content": "John M. Chase/iStock Unreleased via Getty Images\r\nAmid increased concern about artificial intelligence and its implications on humanity, Microsoft (MSFT) co-founder Bill Gates is set to throw his hat… [+123 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Mental Floss"
+            },
+            "author": "Nitya Rao",
+            "title": "The Most Popular Halloween Candy in Every State for 2026, Mapped - Mental Floss",
+            "description": "Discover the most popular Halloween candy in every state for 2026. From Reese’s dominance to unexpected regional faves, here’s what’s in your bowl.",
+            "url": "https://www.mentalfloss.com/geography/maps/most-popular-halloween-candy-in-each-state-2026-map",
+            "urlToImage": "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_0,w_1399,h_786/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/mentalfloss/01m37w6s6nzqzz07tz6k.jpg",
+            "publishedAt": "2026-09-25T20:00:01Z",
+            "content": "Picking favorites is never easy, especially when it comes to something as high-stakes as Halloween candy. From pumpkin-shaped chocolate peanut butter cups to the ever-controversial candy corn, there'… [+4658 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "Ben Lefebvre, Meredith Lee Hill",
+            "title": "White House eyes diesel fuel moves that fall short of export ban - Politico",
+            "description": "No final decision has been made yet on how to lower record-high diesel prices.",
+            "url": "https://www.politico.com/news/2026/09/25/white-house-diesel-fuel-01092922",
+            "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Faf%2Fdc%2F791080cf474fa6b112c2bde3a377%2Fu-s-congress-2118.jpg",
+            "publishedAt": "2026-09-25T19:29:00Z",
+            "content": "Earlier on Friday, GOP Alabama Gov. Kay Ivey directed state law enforcement officials to halt enforcement of the dyed-diesel rules for 120 days.\r\nSuspending any federal-level taxes on fuel would requ… [+2504 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": null,
+            "title": "Jury finds Facebook liable for deceiving users in Cambridge Analytica case - CBS News",
+            "description": "The two-week trial in New Mexico centered on accusations Facebook deceived users about a data breach.",
+            "url": "https://www.cbsnews.com/news/facebook-liable-deceiving-users-cambridge-analytica/",
+            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/07/15/75086901-0979-4c15-bff8-e08d099a0d48/thumbnail/1200x630/dd6c3a2164e3ba2fd68f4b4a7fde49d9/gettyimages-2272777092.jpg",
+            "publishedAt": "2026-09-25T18:50:00Z",
+            "content": "A New Mexico jury on Friday found Facebook liable for deceiving users about privacy protections on the social media platform.\r\nIt is now up to the judge to determine how much the company would pay, w… [+2757 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Fox Business"
+            },
+            "author": "Eric Revell",
+            "title": "Costco receives $184M in tariff refunds, says most will go toward lower prices - Fox Business",
+            "description": "Costco reinvested the majority of $184 million in tariff refunds into lower prices on produce, meat, beverages, home furnishings and hardware.",
+            "url": "https://www.foxbusiness.com/markets/costco-receives-184m-tariff-refunds-says-most-go-toward-lower-prices",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/07/0/0/costco-nj.png?ve=1&tl=1",
+            "publishedAt": "2026-09-25T18:24:00Z",
+            "content": "Costco on Thursday said it received $184 million in tariff refunds in the company's fourth quarter, the majority of which was reinvested into lower pricing for members shopping at the retail giant's … [+2958 chars]"
+        },
         {
             "source": {
                 "id": null,
@@ -14,6 +222,19 @@
             "urlToImage": "https://www.investors.com/wp-content/uploads/2017/03/stock-wallstreet-031317-shutter.jpg",
             "publishedAt": "2026-09-25T18:12:00Z",
             "content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. … [+1064 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Forbes",
+            "title": "Michael Dell Climbs To World’s Fourth-Richest, Passing Mark Zuckerberg And Sergey Brin - Forbes",
+            "description": null,
+            "url": "https://www.forbes.com/sites/maryroeloffs/2026/09/25/michael-dell-climbs-to-worlds-fourth-richest-passing-mark-zuckerberg-and-sergei-brin/",
+            "urlToImage": null,
+            "publishedAt": "2026-09-25T17:41:21Z",
+            "content": null
         },
         {
             "source": {
@@ -70,6 +291,19 @@
         {
             "source": {
                 "id": null,
+                "name": "OilPrice.com"
+            },
+            "author": "Julianne Geiger",
+            "title": "BP Eyes Bigger U.S. Shale Footprint After Devon Deal Talks - oilprice.com",
+            "description": "BP has started looking seriously at U.S. shale assets again, including Devon Energy's Eagle Ford business, as CEO Meg O'Neill pushes the company back toward oil and gas growth.",
+            "url": "https://oilprice.com/Latest-Energy-News/World-News/BP-Eyes-Bigger-US-Shale-Footprint-After-Devon-Deal-Talks.html",
+            "urlToImage": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-09-25_ozv1c08hn2.jpg",
+            "publishedAt": "2026-09-25T16:30:00Z",
+            "content": "The U.S. and Iran are…\r\nChina's rare earth shipments to…\r\nBy Julianne Geiger - Sep 25, 2026, 11:30 AM CDTBP has started looking seriously at U.S. shale assets again, including Devon Energy’s Eagle Fo… [+1932 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "Yahoo Entertainment"
             },
             "author": "By Noel Randewich and Johann M Cherian",
@@ -122,6 +356,32 @@
         {
             "source": {
                 "id": null,
+                "name": "Sources.news"
+            },
+            "author": "Alex Heath",
+            "title": "Satya Nadella on Microsoft's agent bet and AI’s trust problem - Sources | Alex Heath",
+            "description": "Microsoft’s CEO thinks AI agents will create a market “orders of magnitude” bigger than the cloud.",
+            "url": "https://sources.news/p/satya-nadella-microsoft-copilot-future",
+            "urlToImage": "https://substackcdn.com/image/fetch/$s_!mjWy!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-video.s3.amazonaws.com%2Fvideo_upload%2Fpost%2F217302409%2Fc5f3a762-012a-4f26-ac02-cf94641a4afc%2Ftranscoded-1790342093.png",
+            "publishedAt": "2026-09-25T15:21:35Z",
+            "content": "I recently sat down with Microsoft CEO Satya Nadella in Seattle for the unveiling of the new Copilot. \r\nWe discuss Autopilot, Microsofts new OpenClaw-based agent that can work on your behalf, and why… [+3228 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Rolling Stone"
+            },
+            "author": "Rumman Chowdhury",
+            "title": "I’ve Worked in AI for a Decade. Here’s Why I’m Not Scared of It - Rolling Stone",
+            "description": "Rumman Chowdhury, former United States Science Envoy for AI in the Biden Administration, on why she doesn't buy the AI doomer rhetoric.",
+            "url": "http://www.rollingstone.com/culture/culture-commentary/ai-risks-humanity-rumman-chowdhury-1235626494/",
+            "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2026/09/Five-Women-of-AI-for-RS-GIO-LEAD.jpg?crop=0px%2C309px%2C1600px%2C900px&resize=1600%2C900",
+            "publishedAt": "2026-09-25T15:21:05Z",
+            "content": "Earlier this month, government and media institutions around the world turned their attention to AI extinction based on the completely unsubstantiated tweet of a 27-year-old Anthropic researcher whos… [+7109 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "Seeking Alpha"
             },
             "author": "Max Gottlich",
@@ -160,6 +420,19 @@
         },
         {
             "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "Lorne Cook, Kelvin Chan",
+            "title": "EU vows to defend its stand against X after the US backs a court challenge from Elon Musk - AP News",
+            "description": "The European Union says it's ready to defend a 120 million euro fine issued to social media platform X. This comes after the U.S. government supported Elon Musk's legal effort to dismiss the case. The EU fined X for breaching digital regulations, marking the …",
+            "url": "https://apnews.com/article/musk-x-eu-legal-challenge-4f58184c2e48b2b181e949945e7587f0",
+            "urlToImage": "https://dims.apnews.com/dims4/default/0109b3f/2147483647/strip/true/crop/5486x3655+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F2c%2F97%2Fc5878622af4e7de5c9b8258a7b6b%2F5e43e77bf5fb4a5caf72f15bca69d417",
+            "publishedAt": "2026-09-25T14:35:00Z",
+            "content": "BRUSSELS (AP) The European Unions executive arm said Friday its prepared to defend a 120 million euro ($137 million) fine against the social media platform X after the U.S. government threw its suppo… [+3635 chars]"
+        },
+        {
+            "source": {
                 "id": null,
                 "name": "Endpoints.news"
             },
@@ -170,6 +443,19 @@
             "urlToImage": null,
             "publishedAt": "2026-09-25T14:00:00Z",
             "content": null
+        },
+        {
+            "source": {
+                "id": "axios",
+                "name": "Axios"
+            },
+            "author": "Matt Phillips",
+            "title": "No end to the sell-off in government bonds - Axios",
+            "description": "The price of diesel and other energy costs continue to feed inflationary pressures.",
+            "url": "https://www.axios.com/2026/09/25/bonds-yields-stocks-diesel",
+            "urlToImage": "https://images.axios.com/utuBlnPyMB8uSY2ffwca4wafTpg=/0x0:1920x1080/1366x768/2026/09/24/1790286869488.jpg",
+            "publishedAt": "2026-09-25T13:47:59Z",
+            "content": "Driving the news: It's the same old story. \r\n<ul><li>The Iran war and associated energy shocks diesel at about $6.50 a gallon and regular gasoline at $4.50 a gallon, according to AAA are feeding what… [+1332 chars]"
         },
         {
             "source": {
@@ -420,6 +706,45 @@
         },
         {
             "source": {
+                "id": null,
+                "name": "Gothamist"
+            },
+            "author": "https://gothamist.com/staff/david-brand",
+            "title": "NYC Council releases 'downtown' Staten Island plan, with a dash of Jersey envy - Gothamist",
+            "description": "Councilmember Kamillah Hanks’ plan to rezone large sections of the North Shore draws inspiration from nearby New Jersey.",
+            "url": "https://gothamist.com/news/nyc-council-releases-downtown-staten-island-plan-with-a-dash-of-jersey-envy",
+            "urlToImage": "https://api-prod.gothamist.com/images/359342/fill-1200x650|format-webp|webpquality-85/",
+            "publishedAt": "2026-09-25T10:30:00Z",
+            "content": "The City Council on Friday released a new plan to build more than 5,000 apartments on Staten Island's North Shore with an eye toward the boroughs closest neighbor, New Jersey.\r\nCouncilmember Kamillah… [+4566 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Marc Vartabedian, Thomas Barrabi",
+            "title": "Inside Kalshi CEO Tarek Mansour's testy relationship with Indian casinos -- and how it could pose an existential threat: 'Lying little twerp' - New York Post",
+            "description": "Kalshi’s dicey relationship with Native American casinos went south after CEO Tarek Mansour held unsuccessful talks to mend differences with tribal leaders – resulting in a flurry of lawsuits.",
+            "url": "https://nypost.com/2026/09/25/business/inside-kalshi-ceo-tarek-mansours-testy-relationship-with-indian-casinos-and-how-it-could-pose-an-existential-threat-lying-little-twerp/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/09/crop-40978965.jpg?quality=75&strip=all&w=1200",
+            "publishedAt": "2026-09-25T10:00:00Z",
+            "content": "Kalshis dicey relationship with Native American casinos went south after CEO Tarek Mansour held unsuccessful talks to mend differences with tribal leaders resulting in a flurry of lawsuits that could… [+11531 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Hamza Shaban",
+            "title": "Google throws a satellite into the ring as the AI space race heats up - Yahoo Finance",
+            "description": "The contest to establish a network of satellites that work in concert as a data center is an extension of the rivalry playing out among tech giants and front...",
+            "url": "https://finance.yahoo.com/technology/article/google-throws-a-satellite-into-the-ring-as-the-ai-space-race-heats-up-100000242.html",
+            "urlToImage": "https://s.yimg.com/lo/mysterio/api/965f07e38a2b0fd69645fee02ccbd29107dd9462d46741efd4a4ac080171cf36/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-09%2F52611d72-2641-4fd5-b036-93d4ba357c91",
+            "publishedAt": "2026-09-25T10:00:00Z",
+            "content": "Investors just got fresh confirmation that the new frontier of computing is in space. \r\nGoogle (GOOG) is the latest tech company aiming to put a data center into Earth's orbit, in the hopes of solvin… [+2613 chars]"
+        },
+        {
+            "source": {
                 "id": "the-wall-street-journal",
                 "name": "The Wall Street Journal"
             },
@@ -459,6 +784,19 @@
         },
         {
             "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "WSJ",
+            "title": "Cracks in Oracle’s AI Data-Center Build-Out Appear in Massive New Mexico Project - WSJ",
+            "description": null,
+            "url": "https://www.wsj.com/finance/investing/cracks-in-oracles-ai-data-center-build-out-appear-in-massive-new-mexico-project-effb51c2",
+            "urlToImage": null,
+            "publishedAt": "2026-09-25T09:30:00Z",
+            "content": null
+        },
+        {
+            "source": {
                 "id": "business-insider",
                 "name": "Business Insider"
             },
@@ -469,6 +807,19 @@
             "urlToImage": "https://i.insider.com/6ab55ed8eb7225411267a395?width=1200&format=jpeg",
             "publishedAt": "2026-09-25T09:20:37Z",
             "content": "Rising long-term bond yields are once again pestering stocks, and BNP Paribas says it's only going to get worse.\r\nIn a client note published Tuesday, the bank said it sees yields on the 30-year Treas… [+2451 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Atlanta Journal Constitution"
+            },
+            "author": "Rosie Manins",
+            "title": "Atlanta jurors reach $164M verdict in federal sex trafficking trial - The Atlanta Journal-Constitution",
+            "description": "The former owner of a Super 8 hotel near Atlanta's airport must pay $164 million to a young woman who says she was sex trafficked there as a minor, a federal jury decided.",
+            "url": "https://www.ajc.com/news/2026/09/atlanta-jurors-reach-164m-verdict-in-federal-sex-trafficking-trial/",
+            "urlToImage": "https://images.ajc.com/resizer/v2/ICH5PFKSC5AG3AXMRXO6EDZN24.jpg?auth=26a26e8ad52bc00e8c52d3c1c8f8e033b80c97537f41539d7f2ac901319f2aa9&width=1200&height=630&smart=true",
+            "publishedAt": "2026-09-25T09:18:05Z",
+            "content": "The former owner of a hotel near Hartsfield-Jackson Atlanta International Airport must pay $164 million to a young woman who says the hotels staff participated in her being sex-trafficked on site whe… [+4277 chars]"
         },
         {
             "source": {
@@ -534,6 +885,19 @@
             "urlToImage": "https://image.cnbcfm.com/api/v1/image/108348539-1786548799718-108348539-1786548734234-gettyimages-2289681325-LONDIAN_WASON_IPO.jpg?v=1786548808&w=1920&h=1080",
             "publishedAt": "2026-09-25T08:08:03Z",
             "content": "U.S. Treasury yields inched higher on Friday as recent selling pressure intensified following hawkish Fed commentary and stronger-than-expected economic data. \r\nThe benchmark 10-year Treasury note wa… [+1782 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Aliss Higham",
+            "title": "Walmart Pasta Recall Update as FDA Sets Most Serious Risk Level - Newsweek",
+            "description": "The pasta product was recalled due to potential Listeria contamination.",
+            "url": "https://www.newsweek.com/walmart-pasta-recall-update-as-fda-sets-most-serious-risk-level-12486598",
+            "urlToImage": "https://assets.newsweek.com/wp-content/uploads/2026/09/GettyImages-1504443442.jpg?w=1200&crop=1",
+            "publishedAt": "2026-09-25T07:00:00Z",
+            "content": "The U.S. Food and Drug Administration (FDA) has given a nationwide recall of frozen pasta sold at Walmart its most serious risk classification over concerns the product may be contaminated with Liste… [+4802 chars]"
         },
         {
             "source": {
@@ -928,6 +1292,19 @@
         {
             "source": {
                 "id": null,
+                "name": "Futurism"
+            },
+            "author": "Frank Landymore",
+            "title": "People Are Already Lusting After Meta’s New AI Assistant Muse - Futurism",
+            "description": "People are already posting absurd, sexual memes of Meta's new AI assistant Muse, including Meta's own Alexandr Wang.",
+            "url": "https://futurism.com/artificial-intelligence/people-are-already-lusting-after-metas-new-ai-assistant-muse",
+            "urlToImage": "https://futurism.com/wp-content/uploads/2026/09/lusting-after-meta-ai-assistant-muse.jpg?w=1200",
+            "publishedAt": "2026-09-24T20:37:41Z",
+            "content": "Can’t-miss innovations from the bleeding edge of science and tech\r\nMeta, for once, is doing something pretty novel in the AI sphere. It’s created and heavily marketed a cute little mascot for its new… [+2359 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "CNBC"
             },
             "author": "Justina Lee, Tobias Burns",
@@ -1093,6 +1470,19 @@
             "urlToImage": null,
             "publishedAt": "2026-09-24T18:56:00Z",
             "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "LAist"
+            },
+            "author": "Kavish Harjai",
+            "title": "More delays: LAX train contractor buys more time for testing - LAist",
+            "description": "The opening of the long-awaited LAX People Mover train is getting pushed back, again.",
+            "url": "https://laist.com/news/transportation/lax-people-mover-linxs-train",
+            "urlToImage": "https://scpr.brightspotcdn.com/dims4/default/b0aeb9b/2147483647/strip/true/crop/1008x529+0+139/resize/1200x630!/brightness/14x9/quality/90/?url=http%3A%2F%2Fscpr-brightspot.s3.us-west-2.amazonaws.com%2F59%2F8c%2F833b49c84b53be27d666bf12d48e%2Fscreenshot-2026-05-01-at-9-42-23-am.png",
+            "publishedAt": "2026-09-24T18:35:00Z",
+            "content": "More delays: LAX train contractor buys more time for testing\r\nThe contractor for the L-A-X People Mover this week secured an agreement with lenders to buy more time to finally get passengers on the t… [+3198 chars]"
         },
         {
             "source": {
@@ -7632,123 +8022,6 @@
             "urlToImage": "https://images.wsj.net/im-21202219/social",
             "publishedAt": "2026-09-20T05:31:14Z",
             "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "코리아타임스"
-            },
-            "author": "Lee Gyu-lee",
-            "title": "[COVER STORY] Korea-US $200 bil. investment talks hit last-stage hurdles over 'commercial viability' - The Korea Times",
-            "description": "Korea’s negotiations with the United States over a $200 billion investment package have run into last-stage hurdles, with the two sides disagreeing...",
-            "url": "https://www.koreatimes.co.kr/foreignaffairs/others/20260920/cover-story-korea-us-200-bil-investment-talks-hit-last-stage-hurdles-over-commercial-viability",
-            "urlToImage": "https://newsimg.koreatimes.co.kr/2026/09/18/74999ba1-38d5-4df1-8824-0ce316afea4c.jpg",
-            "publishedAt": "2026-09-20T02:54:04Z",
-            "content": "Korea's Industry Minister Kim Jung-kwan, left, shakes hands with U.S. Commerce Secretary Howard Lutnick during the G20 Innovation Ministerial Meeting in Chapel Hill, N.C., Sept. 2. Courtesy of Minist… [+5851 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Kyivindependent.com"
-            },
-            "author": "Olena Goncharova",
-            "title": "Le Pen condemns Russia over seizure of European companies’ assets - The Kyiv Independent",
-            "description": "The statement followed Russian President Vladimir Putin’s decision to place the Russian operations of Nestle and Auchan under temporary administration.",
-            "url": "https://kyivindependent.com/le-pen-condemns-russia-over-seizure-of-european-companies-assets/",
-            "urlToImage": "https://assets.kyivindependent.com/content/images/2026/09/GettyImages-2198352707_20260917-100243.jpg",
-            "publishedAt": "2026-09-20T02:47:00Z",
-            "content": "French far-right leader Marine Le Pen and National Rally president Jordan Bardella condemned Moscow on Sept. 19 after Russia placed the local assets of French retailer Auchan and Swiss food giant Nes… [+2569 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "New York Post"
-            },
-            "author": "Daniel Cody",
-            "title": "Crazed woman who tried to kidnap 4-year-old on NYC street arrested - New York Post",
-            "description": "She was hit with charges of attempted kidnapping and endangering the welfare of a child.",
-            "url": "https://nypost.com/2026/09/19/us-news/brooklyn-woman-arrested-after-fleeing-attempt-to-snatch-4-year-old-boy-from-grandma-outside-mcdonalds/",
-            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/09/Kidnapping-comp-1.jpg?quality=75&strip=all&w=1200",
-            "publishedAt": "2026-09-20T01:49:00Z",
-            "content": "The wacko woman who allegedly snatched a 4-year-old boy away from his grandmother outside a Brooklyn McDonalds on Monday has been busted for the heinous act, according to police.\r\nChrissy Payne, 47, … [+1574 chars]"
-        },
-        {
-            "source": {
-                "id": "the-wall-street-journal",
-                "name": "The Wall Street Journal"
-            },
-            "author": "Owen Tucker-Smith",
-            "title": "What It’s Like to Work in One of America’s Data Centers - WSJ",
-            "description": "Powering the nation’s massive AI build-out requires lots of walking, checking for burning smells and monitoring for bird damage",
-            "url": "https://www.wsj.com/business/what-its-like-to-work-in-one-of-americas-data-centers-b4358003",
-            "urlToImage": "https://images.wsj.net/im-53946391/social",
-            "publishedAt": "2026-09-20T01:31:35Z",
-            "content": "ASHBURN, Va.Growing up, James Waddy wanted to be a professional athlete. Now he logs 30,000 steps a day roaming the halls of a million-square-foot data center in the Virginia suburbs.\r\nThe 33-year-ol… [+388 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Associated Press",
-            "title": "Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal agreement on AI slowdown - CNN",
-            "description": "A new lawsuit claims Anthropic, OpenAI, SpaceXAI and Google made an illegal deal to slow the pace of their respective AI development.",
-            "url": "https://www.cnn.com/2026/09/19/business/ai-slowdown-lawsuit-antitrust",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/artboard-1-20260920010139193.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2026-09-20T01:06:00Z",
-            "content": "A new lawsuit claims Anthropic, OpenAI, SpaceXAI and Google made an illegal deal to slow the pace of their respective AI development.\r\nThe lawsuit, which was filed Friday in the U.S. District Court f… [+4476 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "TheStreet"
-            },
-            "author": "thestreet.com",
-            "title": "Goldman Sachs gold price target takes a turn after Fed rate hike - thestreet.com",
-            "description": null,
-            "url": "https://www.thestreet.com/fed/goldman-sachs-maintains-gold-price-target-lowers-value-estimate-after-fed-rate-hike",
-            "urlToImage": null,
-            "publishedAt": "2026-09-19T23:17:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": null,
-            "title": "Not all AI workers think the tech could kill everyone - BBC",
-            "description": "In text exchanges and conversations, multiple people who have worked for leading companies are sceptical of the warnings.",
-            "url": "https://www.bbc.com/news/articles/cm5y7qj54klpo",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/ae2c/live/f246e690-b3a3-11f1-84e0-d100e0413eb5.jpg",
-            "publishedAt": "2026-09-19T23:01:57Z",
-            "content": "The idea that a future AI tool or agent, an AI bot that is programmed to operate somewhat autonomously, could endanger people has been supported online by employees of Anthropic, as well as OpenAI, D… [+55 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Dailykos.com"
-            },
-            "author": "Clay Bennett",
-            "title": "The wedding photo - dailykos.com",
-            "description": "A cartoon by Clay Bennett.",
-            "url": "http://www.dailykos.com/stories/2026/9/19/800099214/cartoon/the-wedding-photo/",
-            "urlToImage": "https://www.dailykos.com/wp-content/uploads/sites/2/2026/09/20260917edcbc-a.jpg",
-            "publishedAt": "2026-09-19T22:55:00Z",
-            "content": "Comments didn't load?\r\nIt could be because of network issues or a problem with our commenting provider, or your browser or an extension may be blocking them. This can happen with Firefox Strict mode,… [+172 chars]"
-        },
-        {
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "author": null,
-            "title": "Flight attendants reveal 90-second 'hotel room autopsy' that could save your life - Fox News",
-            "description": "Flight attendants reveal their six-step \"hotel room autopsy\" routine, from scanning for intruders to checking door locks and emergency exits.",
-            "url": "https://www.foxnews.com/travel/flight-attendants-reveal-90-second-hotel-room-autopsy-save-your-life",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/06/Hotel-room.jpeg",
-            "publishedAt": "2026-09-19T22:04:42Z",
-            "content": "Before unpacking their bags, many flight attendants perform what they call a \"hotel room autopsy,\" a quick, six-step safety check to make sure their rooms are safe before settling in.\r\nThe routine is… [+3407 chars]"
         }
     ]
 }
