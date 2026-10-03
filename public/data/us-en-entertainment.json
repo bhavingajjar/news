@@ -1,7 +1,111 @@
 {
     "status": "ok",
-    "totalResults": 577,
+    "totalResults": 586,
     "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Deadline"
+            },
+            "author": "Glenn Garner",
+            "title": "Ben Affleck Used AI For “Lots Of Things” In Netflix’s ‘Animals’: “It’s A Very Human Movie” - Deadline",
+            "description": "After unloading his AI firm on Netflix earlier this year, Ben Affleck is showing off the tech in action with his latest project 'Animals'.",
+            "url": "http://deadline.com/2026/10/ben-affleck-used-ai-lots-of-things-animals-1237145166/",
+            "urlToImage": "https://deadline.com/wp-content/uploads/2026/10/Ben-Affleck-Animals.jpg?w=1024",
+            "publishedAt": "2026-10-02T02:45:00Z",
+            "content": "After unloading his AI firm on Netflix earlier this year, Ben Affleck is showing off the tech in action with his latest project.\r\nThe 2x Oscar winner recently revealed that he “did use” artificial in… [+1448 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Eonline.com"
+            },
+            "author": null,
+            "title": "Gypsy Rose Blanchard's Boyfriend Ken Urker Dead at 33 - E! News",
+            "description": "Gypsy Rose Blanchard's former fiancé and current boyfriend Ken Urker—with whom she shares daughter Aurora Raina Urker, 21 months—died on his 33rd birthday on Oct. 1. His cause of death was not shared.",
+            "url": "https://www.eonline.com/news/1436676/gypsy-rose-blanchards-former-fiance-ken-urker-dead-at-33",
+            "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/202527/cr_1200x1200-250307075207-Snapinsta.app_475045269_17887577691189483_6153961229241766856_n_1080.jpg?fit=around%7C1200:1200&output-quality=90&crop=1200:1200;center,top",
+            "publishedAt": "2026-10-02T02:34:00Z",
+            "content": "Blanchard went on to marry Ryan Anderson, a special education teacher from Louisiana, after similarly meeting him through prison correspondence in 2020.\r\n\"We've been able to build this emotional bond… [+1107 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "TVLine"
+            },
+            "author": "Rebecca Luther",
+            "title": "Big Brother Finale Recap: Did The Right Houseguest Win Season 28? - TVLine",
+            "description": "The winner of Big Brother 28 has been crowned! Did Devens, Drew, or Taylor walk away with the $750,000 grand prize? Find out in our recap!",
+            "url": "https://www.tvline.com/2275360/big-brother-recap-rick-devens-wins-season-28-finale/",
+            "urlToImage": "https://www.tvline.com/img/gallery/big-brother-recap-rick-devens-wins-season-28-finale/l-intro-1790905027.jpg",
+            "publishedAt": "2026-10-02T01:35:52Z",
+            "content": "Devens' Head of Household victory might initially seem like great news for Drew, who's played side-by-side with his in-game \"dad\" all summer and had long established that he'd take Devens to the end … [+2325 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": null,
+            "title": "Sydney Sweeney shares cheeky boat trip photos with boyfriend Scooter Braun - foxnews.com",
+            "description": "Sydney Sweeney shared a Lake Powell boat trip carousel with wakeboarding, water skiing and a sweet Polaroid snapshot with boyfriend Scooter Braun.",
+            "url": "https://www.foxnews.com/entertainment/sydney-sweeney-shares-cheeky-boat-trip-photos-boyfriend-scooter-braun",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/02/sydney-sweeney-26.jpg",
+            "publishedAt": "2026-10-02T01:09:35Z",
+            "content": "Sydney Sweeney is sharing a cheeky snapshot of her man \"taking her to the moon.\"\r\nEarlier this week, Sweeney shared a carousel of images to Instagram during a recent boating trip to Lake Powell, Ariz… [+1753 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Deadline"
+            },
+            "author": "Nellie Andreeva",
+            "title": "HBO’s Casey Bloys Gets New Challenge At Par-WBD: Scale & Mass Appeal - Deadline",
+            "description": "HBO's Casey Bloys faces new challenge at Paramount-Warner Bros with scale and programming for the masses as he is set to bring his executive team.",
+            "url": "http://deadline.com/2026/10/hbo-casey-bloys-paramount-warner-bros-new-job-1237143734/",
+            "urlToImage": "https://deadline.com/wp-content/uploads/2026/09/Casey-Bloys_2caca9.jpg?w=1024",
+            "publishedAt": "2026-10-02T00:34:00Z",
+            "content": "A survivor of multiple mergers, Casey Bloys, Chairman and CEO of HBO and HBO Max Content, looked unfazed during the year-long saga of HBO parent company Warner Bros. Discovery’s sale and its many twi… [+8360 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Page Six"
+            },
+            "author": "Audrey Rock",
+            "title": "Jennifer Garner reunites with ‘Alias’ co-star and ex Michael Vartan in rare photo - Page Six",
+            "description": "Garner marked the spy series’ 25th anniversary with a commemorative video and photo montage on social media.",
+            "url": "https://pagesix.com/2026/10/01/celebrity-news/jennifer-garner-reunites-with-alias-co-star-and-ex-michael-vartan-photo/",
+            "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2026/10/143350186.jpg?quality=75&strip=all&w=1200",
+            "publishedAt": "2026-10-01T23:56:00Z",
+            "content": "Jennifer Garner posed with former “Alias” co-star and ex-boyfriend Michael Vartan in a rare social media photo.\r\nGarner took to Instagram on Wednesday to mark the spy series’ 25th anniversary with a … [+3123 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Deadline"
+            },
+            "author": "Peter White",
+            "title": "‘Fast & Furious’ TV Series Greenlit At Peacock (Exclusive) - Deadline",
+            "description": "Peacock has greenlit its first TV series based on the hit movie franchise, which has made more than $7B at the global box office.",
+            "url": "http://deadline.com/2026/10/fast-furious-tv-series-greenlit-peacock-1237144885/",
+            "urlToImage": "https://deadline.com/wp-content/uploads/2026/05/MSDFAAN_EC058.jpg?w=1024",
+            "publishedAt": "2026-10-01T23:00:00Z",
+            "content": "EXCLUSIVE: Start those engines because the Fast &amp; Furious franchise is coming to television.\r\nDeadline understands that Peacock has greenlit its first television series based on the hit movie fra… [+2141 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Entertainment Weekly"
+            },
+            "author": "https://www.facebook.com/entertainmentweekly",
+            "title": "Halle Berry’s ex Olivier Martinez accuses her of child abuse, seeks restraining order and full custody - Entertainment Weekly",
+            "description": "Olivier Martinez has accused his ex, Halle Berry, of abusing their 13-year-old son Maceo, and is seeking a temporary restraining order against her and full custody of their son.",
+            "url": "https://ew.com/halle-berry-accused-of-child-abuse-by-ex-olivier-martinez-12153078",
+            "urlToImage": "https://ew.com/thmb/kYUy6Z_9sRErZwg3uUQaNGFiV3k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Halle-Berry-and-Olivier-Martinez-100126-12b08767628847d3bf3c720b9ab20785.jpg",
+            "publishedAt": "2026-10-01T22:37:21Z",
+            "content": "French actor Olivier Martinez has taken serious legal action against his ex, Halle Berry, accusing her of abusing their son and filing a petition for a temporary restraining order.\r\nAccording to the … [+5014 chars]"
+        },
         {
             "source": {
                 "id": "fox-news",
@@ -14,6 +118,32 @@
             "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/fiona-lowe-chad-lowe-instagram-crop.jpg",
             "publishedAt": "2026-10-01T22:00:12Z",
             "content": "This story discusses suicide. If you or someone you know is having thoughts of suicide, please contact the National Suicide Prevention Lifeline at 988 or 1-800-273-TALK (8255).\r\nChad Lowe's 13-year-o… [+2089 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Rolling Stone"
+            },
+            "author": "Althea Legaspi",
+            "title": "A 58-Year-Old Adopted Man Just Met His Biological Father: Michael McDonald - rollingstone.com",
+            "description": "An adopted man discovered his biological father is musician Michael McDonald and the pair discussed meeting for the first time in a new interview.",
+            "url": "http://www.rollingstone.com/music/music-news/michael-mcdonald-biological-father-adopted-man-meet-1235635494/",
+            "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2026/10/michael-mcdonald-adopted-son.jpg?w=1600&h=900&crop=1",
+            "publishedAt": "2026-10-01T21:43:38Z",
+            "content": "Michael Goessling, a St. Louis man who was adopted, has found his birth parents, and one of them happens to be Michael McDonald.\r\nGoessling shared his amazing discovery with KCTV 5. He was adopted wh… [+2176 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "InStyle"
+            },
+            "author": "https://www.facebook.com/InStyle",
+            "title": "How Rob Lowe Is Supporting Brother Chad Lowe After His Daughter Fiona’s Death at Age 13 - instyle.com",
+            "description": "Rob Lowe is rallying around his younger brother Chad after the death of his daughter Fiona. Learn more, here.",
+            "url": "https://www.instyle.com/how-rob-lowe-supporting-brother-chad-lowe-daughter-death-12152855",
+            "urlToImage": "https://www.instyle.com/thmb/ccfY17ReqIYJ7qhumedd0ZiOdgc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Chad-Rob-Lowe-Lead-ef7784dee36d4e42bc955c0f0b46aaf6.jpg",
+            "publishedAt": "2026-10-01T21:34:31Z",
+            "content": "Chad Lowe is leaning on his brother Rob Lowe following the death of his teenage daughter. Earlier this week, Chad and his wife Kim Painter confirmed that their middle child, Fiona, died at just 13 ye… [+1883 chars]"
         },
         {
             "source": {
@@ -31,6 +161,19 @@
         {
             "source": {
                 "id": null,
+                "name": "The Cut"
+            },
+            "author": "Jaharia Knowles",
+            "title": "Anne Hathaway Should Be Organizing Every Red Carpet - The Cut",
+            "description": "Anne Hathaway apologized for going into “mom mode” at the ‘Verity’ premiere. God forbid a woman take care of business.",
+            "url": "http://www.thecut.com/article/let-anne-hathaway-organize-the-red-carpet.html",
+            "urlToImage": "https://pyxis.nymag.com/v1/imgs/76c/78f/1650ff4f3a432a9fe6b2edd0d844b1749a-anne-hathaway-organize-red-carpet.1x.rsocial.w1200.jpg",
+            "publishedAt": "2026-10-01T21:15:09Z",
+            "content": "On Monday night, Anne Hathaway was filmed organizing photographers at the Verity premiere in New York City, laying out how she and her cast members would pose for shots. The clip quickly made the rou… [+1135 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "Page Six"
             },
             "author": "Antoinette Bueno, Sarah Jones",
@@ -40,6 +183,19 @@
             "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2026/10/143352544.jpg?quality=75&strip=all&w=1200",
             "publishedAt": "2026-10-01T21:13:00Z",
             "content": "Halle Berry’s ex-husband Olivier Martinez has filed a temporary restraining order against the actress, accusing her of physically abusing their son, Maceo.\r\nOn Sept. 26, Berry allegedly jumped on the… [+3553 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Page Six"
+            },
+            "author": "Angela Tricarico",
+            "title": "How to watch Sienna Miller and Dominic West in new HBO series ‘War’ - Page Six",
+            "description": "An explosive divorce sets the scene for a legal battle between two powerful firms in “War.”",
+            "url": "https://pagesix.com/2026/10/01/entertainment/how-to-watch-sienna-miller-dominic-west-in-hbo-series-war/",
+            "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2026/10/143346330.jpg?quality=75&strip=all&w=1200",
+            "publishedAt": "2026-10-01T21:00:00Z",
+            "content": "Page Six may be compensated and/or receive an affiliate commission if you click or buy through our links. Featured pricing is subject to change.\r\nHBO isn’t saving their buzziest new release for Sunda… [+3827 chars]"
         },
         {
             "source": {
@@ -57,6 +213,32 @@
         {
             "source": {
                 "id": null,
+                "name": "Forward"
+            },
+            "author": "PJ Grisar",
+            "title": "How Netflix’s ‘East of Eden’ handled its ‘Timshel’ problem for Hebrew speakers - The Forward",
+            "description": "The word is at the heart of Steinbeck’s epic. It’s also not a real one.",
+            "url": "https://forward.com/culture/film-tv/853199/netflix-east-of-eden-timshel-meaning-hebrew-real-translation/",
+            "urlToImage": "https://forward.com/wp-content/uploads/2026/10/East_of_Eden_n_S1_E7_00_53_36_00RX-scaled.jpg?_t=1790877261",
+            "publishedAt": "2026-10-01T20:06:11Z",
+            "content": "The crux of John Steinbecks East of Eden, now a splashy Netflix miniseries, is a Hebrew word that doesnt exist.\r\nAt one point in Steinbecks 600-page tome, as rife with biblical allegory as the Salina… [+5115 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": null,
+            "title": "Wynonna Judd says she and sister Ashley aren't speaking as family pain resurfaces - Fox News",
+            "description": "Wynonna Judd reveals she and sister Ashley Judd aren't speaking right now as she prepares to release her deeply personal new country music album.",
+            "url": "https://www.foxnews.com/entertainment/wynonna-judd-sister-ashley-arent-speaking-family-pain-resurfaces",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/wynonna-judd-ashley-judd-naomi-judd-premiere.jpg",
+            "publishedAt": "2026-10-01T20:04:20Z",
+            "content": "Wynonna Judd is finally telling her story even the parts that may be painful for her family to hear.\r\nThe country star revealed she and sister Ashley Judd arent speaking right now, explaining that th… [+2782 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "SFGate"
             },
             "author": "Dan Gentile",
@@ -66,6 +248,32 @@
             "urlToImage": "https://s.hdnux.com/photos/01/67/40/33/31327940/3/rawImage.jpg",
             "publishedAt": "2026-10-01T20:02:35Z",
             "content": "Former Theranos CEO Elizabeth Holmes, alongside her fiance, Billy Evans, walks back to her hotel following a hearing at the Robert E. Peckham U.S. Courthouse on March 17, 2023, in San Jose, Calif.\r\nP… [+2889 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Abcnews.com"
+            },
+            "author": "abcnews.com",
+            "title": "Jim Carrey marries Min Ah in small private ceremony in Los Angeles - abcnews.com",
+            "description": null,
+            "url": "https://abcnews.com/GMA/Culture/jim-carrey-marries-min-ah-small-private-ceremony/story?id\\\\u003d136929462",
+            "urlToImage": null,
+            "publishedAt": "2026-10-01T20:01:02Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hollywood Reporter"
+            },
+            "author": "Jackie Strause",
+            "title": "‘Landman’ Ups 4 Actors to Series Regulars as Season 3 Begins Filming - The Hollywood Reporter",
+            "description": "Colm Feore, Mustafa Speaks, Bobbi Salvor Menuez and Francesca Xuereb are all elevated when the Billy Bob Thornton series returns.",
+            "url": "http://www.hollywoodreporter.com/tv/tv-news/landman-season-3-production-start-texas-1236720485/",
+            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2026/01/LANDMAN_210_EM_0718_01638_RT_f.jpg?w=1440&h=810&crop=1",
+            "publishedAt": "2026-10-01T20:00:45Z",
+            "content": "Landman is drilling.\r\nThe Paramount+ Big Oil drama starring Billy Bob Thornton from Taylor Sheridan and Christian Wallace has begun production on season three in Forth Worth, Texas.\r\nAlong with Thorn… [+1788 chars]"
         },
         {
             "source": {
@@ -92,6 +300,19 @@
             "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/b9c3/live/ecbf17f0-bd82-11f0-b748-7f02f8da8806.jpg",
             "publishedAt": "2026-10-01T19:49:02Z",
             "content": "Trailer Park Boys Incorporated, the company behind the show, said in a statement that because the charge against Smith was dropped, the actor will resume his responsibilities with the company."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Germain Lussier",
+            "title": "Bradley Cooper Will Lead Danny McBride’s ‘G.I. Joe’ Movie - Gizmodo",
+            "description": "He'll play Duke in the upcoming film, which will act to reboot the Hasbro franchise.",
+            "url": "https://gizmodo.com/bradley-cooper-will-lead-danny-mcbrides-g-i-joe-movie-2000820474",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/10/Bradley-Cooper-A-Team-1200x675.jpg",
+            "publishedAt": "2026-10-01T19:15:19Z",
+            "content": "The new G.I. Joe has its leader. Months after Danny McBride was tapped to direct a film based on the Hasbro toy series for Paramount, he’s cast none other than Bradley Cooper as the leader of the Joe… [+1590 chars]"
         },
         {
             "source": {
@@ -122,6 +343,19 @@
         {
             "source": {
                 "id": null,
+                "name": "Deadline"
+            },
+            "author": "Matt Grobar",
+            "title": "Chase Infiniti Boards Dylan Clark Horror Film ‘Portrait Of God’ As It Moves To Lionsgate - Deadline",
+            "description": "Chase Infiniti is set to lead 'Portrait of God,' a horror film from Dylan Clark that has moved from Universal to Lionsgate. We scooped it previously.",
+            "url": "http://deadline.com/2026/10/chase-infiniti-to-star-portrait-of-god-lionsgate-1237144355/",
+            "urlToImage": "https://deadline.com/wp-content/uploads/2026/10/Chase-Infiniti-Dylan-Clark.jpg?w=1024",
+            "publishedAt": "2026-10-01T19:00:00Z",
+            "content": "Lionsgate has acquired Portrait of God, a horror flick from emerging genre filmmaker Dylan Clark based on his viral short of the same name. With One Battle After Another breakout Chase Infiniti now a… [+3968 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "Variety"
             },
             "author": "Todd Spangler",
@@ -144,6 +378,19 @@
             "urlToImage": "https://deadline.com/wp-content/uploads/2026/10/Casey.jpg?w=956",
             "publishedAt": "2026-10-01T18:56:00Z",
             "content": "Casey Bloys, Chairman and CEO of HBO and HBO Max Content, jokingly requested some credit for not canceling his appearance at Bloomberg’s Screentime conference Thursday which came at a very awkward ti… [+2632 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Rolling Stone"
+            },
+            "author": "Cheyenne Roundtree",
+            "title": "Sean Combs Placed in Solitary Confinement After Cushy Prison Perks Revealed - Rolling Stone",
+            "description": "Sean \"Diddy\" Combs was reportedly placed in solitary confinement after a report the music mogul was using a contraband phone to scroll Instagram.",
+            "url": "http://www.rollingstone.com/music/music-news/sean-diddy-combs-solitary-confinement-1235635446/",
+            "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2026/10/diddy-in-SHU.jpg?w=1600&h=900&crop=1",
+            "publishedAt": "2026-10-01T18:48:09Z",
+            "content": "Sean Combs was reportedly placed back in solitary confinement following a NBC News report that the music mogul was using a contraband cellphone to scroll on Instagram, kept a private stash of premium… [+2750 chars]"
         },
         {
             "source": {
@@ -187,6 +434,19 @@
         {
             "source": {
                 "id": null,
+                "name": "Hollywood Reporter"
+            },
+            "author": "Alex Weprin",
+            "title": "Fox News and Warner Bros. Trade Barbs Over Chris Harrison’s New Dating Show ‘The Vow’ (Exclusive) - The Hollywood Reporter",
+            "description": "In a cease and desist, WBTV writes that Fox \"improperly capitalizes on WB’s intellectual property and goodwill in the ['Bachelor'] Franchise\" in its promos for the Fox Nation series 'The Vow.' Fox responded that the studio was mistaken.",
+            "url": "http://www.hollywoodreporter.com/business/business-news/warner-bros-fox-news-legal-fight-chris-harrison-dating-show-1236718978/",
+            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2026/09/The-Vow-Art-e1789502289818.jpg?w=1440&h=810&crop=1",
+            "publishedAt": "2026-10-01T18:27:29Z",
+            "content": "There’s no love lost between Warner Bros. TV and Fox News Media.\r\nThe Hollywood Reporter has learned that WBTV fired off a cease and desist to Fox News Media and Lionsgate over promotions for the upc… [+2577 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "Variety"
             },
             "author": "Jack Dunn",
@@ -196,6 +456,32 @@
             "urlToImage": "https://variety.com/wp-content/uploads/2026/10/MixCollage-01-Oct-2026-11-09-AM-5277.jpg?crop=0px%2C5px%2C1200px%2C675px&resize=1000%2C563",
             "publishedAt": "2026-10-01T18:24:00Z",
             "content": "Is Jimmy Kimmel returning to ABC next year? Disney president and chief creative officer Dana Walden says she’s working on it. \r\n“It’s a very challenging daypart, late-night,” Walden said during her T… [+4725 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Variety"
+            },
+            "author": "Jack Dunn",
+            "title": "Disney President Dana Walden on the Future of 'Jimmy Kimmel Live!' - Variety",
+            "description": "Disney president Dana Walden discusses the future of 'Jimmy Kimmel Live!' on ABC and why the live-action 'Moana' bombed.",
+            "url": "https://variety.com/2026/tv/news/disney-dana-walden-jimmy-kimmel-abc-moana-box-office-1236894985/",
+            "urlToImage": "https://variety.com/wp-content/uploads/2026/10/MixCollage-01-Oct-2026-11-09-AM-5277.jpg?crop=0px%2C5px%2C1200px%2C675px&resize=1000%2C563",
+            "publishedAt": "2026-10-01T18:24:00Z",
+            "content": "Is Jimmy Kimmel returning to ABC next year? Disney president and chief creative officer Dana Walden says she’s working on it. \r\n“It’s a very challenging daypart, late-night,” Walden said during her T… [+4725 chars]"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Jennifer Ouellette",
+            "title": "Marvel releases one last VisionQuest trailer - Ars Technica",
+            "description": "This is a fight I likely won't win. We have said goodbye before. But remember, family is forever.\"",
+            "url": "https://arstechnica.com/culture/2026/10/marvel-releases-one-last-visionquest-trailer/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/vision3-1152x638.jpg",
+            "publishedAt": "2026-10-01T18:04:48Z",
+            "content": null
         },
         {
             "source": {
@@ -213,6 +499,32 @@
         {
             "source": {
                 "id": null,
+                "name": "PEOPLE"
+            },
+            "author": "Rachel DeSantis",
+            "title": "Trina Braxton’s ‘Beloved’ Husband Von Scales Dies at 58 - Yahoo News Canada",
+            "description": "The couple married in December 2019",
+            "url": "https://people.com/trina-braxton-husband-von-scales-dead-age-58-12152279",
+            "urlToImage": "https://s.yimg.com/lo/mysterio/api/a6e7387f99ef774fd2bfda1789f9b9b0581021dba4ebd7d194fc80c6def0cf1d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F9ddf3038632739cf31d07035c12038ac.jpg",
+            "publishedAt": "2026-10-01T17:57:37Z",
+            "content": "NEED TO KNOW\r\n<ul><li>Trina Braxton's husband Von Scales died at 58, his family announced in a statement shared with PEOPLE\r\n</li><li>He married Trina Braxton in 2019 in a ceremony featured on Braxto… [+3043 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hollywood Reporter"
+            },
+            "author": "Jackie Strause",
+            "title": "‘Dexter: Resurrection’ Trailer Reveals Brian Cox, Dan Stevens Serial Killer Roles - The Hollywood Reporter",
+            "description": "Meanwhile, Dexter Morgan (Michael C. Hall) is entering (a murderous) midlife crisis.",
+            "url": "http://www.hollywoodreporter.com/tv/tv-news/dexter-resurrection-season-2-trailer-brian-cox-dan-stevens-1236718351/",
+            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/DXR_S2_MI_0604_0171_RT-e1790876340683.jpg?w=1440&h=810&crop=1",
+            "publishedAt": "2026-10-01T17:40:49Z",
+            "content": "Dexter Morgan didn’t imagine that he’d still be a serial killer in his 50s — but he’s leaning in.\r\nIn the new, full trailer for the return of Dexter: Resurrection, Michael C. Hall’s titular killer is… [+1966 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "Deadline"
             },
             "author": "Peter White",
@@ -222,6 +534,19 @@
             "urlToImage": "https://deadline.com/wp-content/uploads/2026/06/Neagley-FI-cropped.jpg?w=1024",
             "publishedAt": "2026-10-01T17:30:00Z",
             "content": "Reacher was handed an early season six renewal earlier this week and Amazon has followed that up by bringing back its spinoff for another run.\r\nNeagley, starring Maria Sten as Frances Neagley, has be… [+1647 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Variety"
+            },
+            "author": "Joe Otterson",
+            "title": "‘Reacher’ Spinoff ‘Neagley’ Renewed for Season 2 at Amazon - variety.com",
+            "description": "\"Neagley\" has been renewed for Season 2 at Amazon, Variety has learned.",
+            "url": "https://variety.com/2026/tv/news/reacher-spinoff-neagley-renewed-season-2-amazon-1236894905/",
+            "urlToImage": "https://variety.com/wp-content/uploads/2026/10/Neagley-Amazon.jpg?w=1000&h=563&crop=1",
+            "publishedAt": "2026-10-01T17:30:00Z",
+            "content": "“Neagley” has been renewed for Season 2 at Amazon, Variety has learned. \r\nThe “Reacher” spinoff series originally debuted on Prime Video on Sept. 16, the same day as the “Reacher” Season 4 finale. Pe… [+1937 chars]"
         },
         {
             "source": {
@@ -252,6 +577,32 @@
         {
             "source": {
                 "id": null,
+                "name": "Stereogum"
+            },
+            "author": "Tom Breihan",
+            "title": "'SNL' Roasts Stella Leffy In Cut-For-Time Weekend Update Bit - Stereogum",
+            "description": "Stella Lefty must be so happy about all the Ed Sheeran stuff. Before Sheeran submitted to billionaire demands and kicked Macklemore off of his tour, Lefty, the Groupon heiress turned flavorless country-folk-pop singer, was the easiest snark-target in the musi…",
+            "url": "https://stereogum.com/2513269/snl-roasts-stella-leffy-in-cut-for-time-weekend-update-segment/news",
+            "urlToImage": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/10/Thefty.jpg",
+            "publishedAt": "2026-10-01T17:02:00Z",
+            "content": "Stella Lefty must be so happy about all the Ed Sheeran stuff. Before Sheeran submitted to billionaire demands and kicked Macklemore off of his tour, Lefty, the Groupon heiress turned flavorless count… [+2169 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Matt Lavietes, Anthony Cusumano",
+            "title": "Rick Ross charged with battery after alleged attack on girlfriend - NBC News",
+            "description": "The 50-year-old rapper is accused of beating his girlfriend at a Miami Beach home in August. He has denied all allegations.",
+            "url": "https://www.nbcnews.com/news/us-news/rick-ross-charged-battery-alleged-attack-girlfriend-rcna600925",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261001-rick-ross-mn-1100-9c165b.jpg",
+            "publishedAt": "2026-10-01T17:01:46Z",
+            "content": "Rapper Rick Ross was arrested Thursday and is accused of beating his girlfriend at his Miami Beach home, according to authorities.\r\nRoss, whose legal name is William Leonard Roberts II, was charged w… [+3253 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "Deadline"
             },
             "author": "Denise Petski",
@@ -278,6 +629,45 @@
         {
             "source": {
                 "id": null,
+                "name": "Daily Beast"
+            },
+            "author": "Leigh Kimmins",
+            "title": "J.Lo Fumes as Her Umbrella Is Confiscated at Rainy Fashion Show - The Daily Beast",
+            "description": "A witness described the A-lister as “annoyed.”",
+            "url": "https://www.thedailybeast.com/obsessed/jlo-fumes-as-her-umbrella-is-confiscated-at-rainy-fashion-show/",
+            "urlToImage": "https://www.thedailybeast.com/resizer/v2/S6SCJNDAOVDEPLUK2D6R7UZHNE.png?smart=true&auth=b98c710a9197a732285c18af28e223653bc81a599fe38d65deeeddf3ea679858&width=1200&height=630",
+            "publishedAt": "2026-10-01T16:10:00Z",
+            "content": "A high-profile fashion show descended into front-row awkwardness when organizers forced Jennifer Lopez to hand over her umbrella in the middle of a downpour.\r\nThe grumble came at Stella McCartneys Pa… [+2849 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MovieWeb"
+            },
+            "author": "Nahila Bonfiglio",
+            "title": "New Stephen King Remake Lands Impressive Rotten Tomatoes Score Ahead of Streaming Debut - MovieWeb",
+            "description": "Mike Flanagan's take on Stephen King story 'Carrie' lands an impressive Rotten Tomatoes score ahead of its upcoming streaming debut on Prime Video.",
+            "url": "https://movieweb.com/carrie-prime-video-rotten-tomatoes-score/",
+            "urlToImage": "https://static0.moviewebimages.com/wordpress/wp-content/uploads/2026/09/carrie-1.jpg?w=1600&h=900&fit=crop",
+            "publishedAt": "2026-10-01T15:59:37Z",
+            "content": "Stephen King has proven himself to be a powerhouse in the storytelling space. The decorated author has published more than 60 novels throughout his career, and a huge number of them have been adapted… [+2361 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Brian Truitt",
+            "title": "Tom Cruise makes a bold move with 'Digger.' Will the Oscars dig it? - USA Today",
+            "description": "\"Digger\" is Tom Cruise's clear swing for an Oscar nomination. But the Academy Awards are not \"participation trophies\" and he faces stiff competition.",
+            "url": "https://www.usatoday.com/story/entertainment/movies/2026/09/30/tom-cruise-digger-oscars-academy-awards/91981509007/",
+            "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/09/30/USAT/92015720007-diggerimage.jpg?crop=1798,1011,x1,y189&width=1798&height=1011&format=pjpg&auto=webp",
+            "publishedAt": "2026-10-01T15:38:00Z",
+            "content": "Everybody has a picture when they think of a young Tom Cruise. Dancing in his tighty-whities. Being the coolest guy in a fighter jet. Yelling Show me the money! \r\nCruise needed every one of those rol… [+7394 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "Entertainment Weekly"
             },
             "author": "https://www.facebook.com/entertainmentweekly",
@@ -287,6 +677,19 @@
             "urlToImage": "https://ew.com/thmb/rBRn3l_-o1FFjDUZlcWRFxMeWBo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/johnny-depp-ebenezer-1-5f4e1c491c6a4cefaa6df85c5d97b103.jpg",
             "publishedAt": "2026-10-01T15:31:47Z",
             "content": "Johnny Depp is fully in his element in the new trailer for Ebenezer.\r\nThe actor plays Scrooge in Ti Wests adaption of Charles Dickens classic novella, A Christmas Carol, set to hit theaters on Nov. 1… [+3037 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "mySA"
+            },
+            "author": "Cristela Jones",
+            "title": "‘Where is the rain?’ Austin meteorologist addresses severe weather doubts - MySA",
+            "description": "CBS Austin Meteorologist Avery Tomasco said on Thursday, October 1 that \"this complex of storms will slowly move eastward towards the I-35 corridor.\"",
+            "url": "https://www.mysanantonio.com/news/weather/article/austin-weather-22457632.php",
+            "urlToImage": "https://s.hdnux.com/photos/01/67/40/13/31326970/3/rawImage.jpg",
+            "publishedAt": "2026-10-01T15:22:41Z",
+            "content": "Rain is in the forecast and one Texas meteorologist is biting back at naysayers. \r\nChris McLoughlin/Getty Images\r\nMultiple flash flood warnings are currently underway throughout Central Texas, includ… [+1659 chars]"
         },
         {
             "source": {
@@ -404,6 +807,19 @@
             "urlToImage": "https://www.sheknows.com/wp-content/uploads/2025/04/GettyImages-2211633283-1.jpg?w=1024",
             "publishedAt": "2026-10-01T13:56:00Z",
             "content": "Prince Harry and Meghan Markle are reportedly surprised by the protection afforded to Prince Archie, 7, and Princess Lilibet, 5, in the U.K.—and the timing couldn’t be more significant.\r\nThe royal co… [+2150 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Variety"
+            },
+            "author": "Zack Sharf",
+            "title": "Ed Sheeran Told U2 He Didn’t Want to ‘Get Into Politics’ on Song About Ukraine’s War With Russia, Says Bono - Variety",
+            "description": "Ed Sheeran collaborated with U2 on the song 'Yours Eternally,' but he told Bono that he didn't want to get political on the track about Ukraine war.",
+            "url": "https://variety.com/2026/music/news/ed-sheeran-u2-political-ukraine-song-bono-1236894707/",
+            "urlToImage": "https://variety.com/wp-content/uploads/2026/10/the-16th-governors-awards-the-fabelmans-die-fabelmans-premie-1000x667-1.jpg?w=1000&h=563&crop=1",
+            "publishedAt": "2026-10-01T13:44:00Z",
+            "content": "U2 and Ed Sheeran collaborated earlier this year on the song “Yours Eternally” off the band’s “Days of Ash” EP, which dropped in February. Bono told Rolling Stone UK in a new interview that Sheeran e… [+4218 chars]"
         },
         {
             "source": {
@@ -573,6 +989,19 @@
             "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2026/09/GettyImages-2210325056.jpg?w=1440&h=810&crop=1",
             "publishedAt": "2026-10-01T04:02:25Z",
             "content": "Kathleen Kennedy admitted to feeling “a bit of relief” after stepping down from Lucasfilm earlier in 2026 following 14 years at the helm of one of the biggest American film franchises.\r\nThe longtime … [+5649 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Joseph Staszewski",
+            "title": "Family of AEW star Pac speaks out for first time since wrestler’s shocking death - New York Post",
+            "description": "The family of Benjamin “Pac” Satterley spoke out for the first time since the pro wrestling star’s shocking death at the age of 40.",
+            "url": "https://nypost.com/2026/09/30/sports/benjamin-pac-satterleys-family-speaks-out-for-first-time-since-aew-stars-shocking-death/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/09/crop-41077041.jpg?quality=75&strip=all&w=1200",
+            "publishedAt": "2026-10-01T03:57:00Z",
+            "content": "The family of Benjamin Pac Satterley spoke out for the first time since the pro wrestling stars shocking death at the age of 40.\r\nBroadcaster Renee Paquette read a statement from the Satterley family… [+3530 chars]"
         },
         {
             "source": {
@@ -7190,318 +7619,6 @@
             "urlToImage": "https://s.hdnux.com/photos/47/72/12/10461851/6/rawImage.jpg",
             "publishedAt": "2026-09-26T05:09:53Z",
             "content": "Star-crossed lovers?PlentyOfFish sorted through 150,000 users to find trends in matches between certain astrological signs. Who's your best match? Click through to find out. \r\nAries, March 21 to Apri… [+7181 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Suntimes.com"
-            },
-            "author": "Georgia Nicols",
-            "title": "Horoscope for Saturday, September 26, 2026 - Chicago Sun-Times",
-            "description": null,
-            "url": "https://chicago.suntimes.com/horoscopes/2026/09/26/horoscopes-today-saturday-september-26-2026",
-            "urlToImage": "https://cst.brightspotcdn.com/dims4/default/2145dbd/2147483647/strip/true/crop/870x497+0+67/resize/1461x834!/quality/90/?url=https%3A%2F%2Fchorus-production-cst-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fac%2Ffd%2F790f04b15195427014757adc0272%2Fgeorgia-nicols.jpg",
-            "publishedAt": "2026-09-26T05:01:00Z",
-            "content": "Moon alert\r\nAvoid shopping (except food and gas) and important decisions from 3 to 6 a.m. Chicago time. Today, the full moon in Aries peaks at 11:49 a.m.\r\nAries (March 21-April 19)\r\nThis is a restles… [+3652 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Pitchfork"
-            },
-            "author": "Sean T. Collins",
-            "title": "Joy Division: Eternal (Live) Album Review - Pitchfork",
-            "description": "Read Sean T. Collins’ review of the album.",
-            "url": "https://pitchfork.com/reviews/albums/joy-division-eternal-live/",
-            "urlToImage": "https://media.pitchfork.com/photos/6ab6422f43b1170d7975a5f6/16:9/w_1280,c_limit/Joy%20Division%20-%20Eternal%20(Live).jpeg",
-            "publishedAt": "2026-09-26T04:00:00Z",
-            "content": "Joy Division stood at the intersection of austerity and ecstasy. Restraint to the point of severity is a core component of the bands sound, look, and legend: four dour, unsmiling young men from Manch… [+3023 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Hollywood Reporter"
-            },
-            "author": "Kevin Dolak",
-            "title": "‘To Catch a Predator’ Host Chris Hansen Watches Robert Pattinson’s ‘Primetime’ — and He’s Not a Fan - The Hollywood Reporter",
-            "description": "After weeks of sparring with A24 from the sidelines, Hansen graded Pattinson's performance a \"D\" and called the film a \"fever dream.\"",
-            "url": "http://www.hollywoodreporter.com/movies/movie-news/chris-hansen-robert-pattinson-primetime-review-1236710231/",
-            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/Chris-Hansen-getty-H-2026.png?w=1296&h=730&crop=1",
-            "publishedAt": "2026-09-26T02:42:11Z",
-            "content": "Former To Catch a Predator host Chris Hansen was interviewed on his podcast Friday to give his unfiltered reaction to A24‘s unauthorized, dramatized film about parts of his life, Primetime, which he … [+3929 chars]"
-        },
-        {
-            "source": {
-                "id": "mashable",
-                "name": "Mashable"
-            },
-            "author": "Mashable Team",
-            "title": "NYT Connections hints today: Meanings for each word for Sept. 25, 2026 - Mashable",
-            "description": "Looking for a spoiler-free way to find a connection? We have you covered.",
-            "url": "https://mashable.com/entertainment/nyt-connections-hints-meanings-september-25-2026",
-            "urlToImage": "https://helios-i.mashable.com/imagery/articles/02vH4Rew5OniUKa8JkdkF5x/hero-image.fill.size_1200x675.v1790175319.jpg",
-            "publishedAt": "2026-09-26T02:15:30Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "usa-today",
-                "name": "USA Today"
-            },
-            "author": "Liza Esquibias",
-            "title": "Owner of rehab where Presley Gerber died had license denied, drug arrests - USA Today",
-            "description": "Details are emerging about the criminal past of the owner of the rehabilitation facility where Presley Gerber died from a suspected overdose.",
-            "url": "https://www.usatoday.com/story/entertainment/celebrities/2026/09/25/presley-gerber-death-rehab-owner-criminal-past-drug-arrests/91943468007/",
-            "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/09/25/USAT/91944421007-getty-images-907721056.jpg?crop=3709,2086,x0,y274&width=3200&height=1800&format=pjpg&auto=webp",
-            "publishedAt": "2026-09-26T02:05:00Z",
-            "content": "Details are emerging about the controversial past of the owner of the rehabilitation facility where Presley Gerber died.\r\nThe 27-year-old son of supermodel Cindy Crawford and businessman Rande Gerber… [+4533 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Tom McKay",
-            "title": "All the Major Social Media Networks Are Reportedly Refusing Ads for ‘Musk’ - gizmodo.com",
-            "description": "YouTube, TikTok, and Meta's Facebook and Instagram all seem to be either chickening out or taking Elon Musk's side.",
-            "url": "https://gizmodo.com/all-the-major-social-media-networks-are-reportedly-refusing-ads-for-musk-2000817770",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/09/GettyImages-2281034153-1200x675.jpg",
-            "publishedAt": "2026-09-26T01:59:37Z",
-            "content": "All of the major social media platforms are refusing to run ads for the upcoming Musk documentary, which hits theaters Oct. 9, according to The Hollywood Reporter.\r\nGoogle-owned YouTube and Meta’s Fa… [+3058 chars]"
-        },
-        {
-            "source": {
-                "id": "usa-today",
-                "name": "USA Today"
-            },
-            "author": "Anthony Robledo, Liza Esquibias",
-            "title": "Presley Gerber cremated after death at treatment center: Report - usatoday.com",
-            "description": "Presley Gerber's body has been cremated in the Los Angeles area days after the model died at 27 in a rehabilitation center, according to TMZ.",
-            "url": "https://www.usatoday.com/story/entertainment/celebrities/2026/09/25/presley-gerber-cremated-death-update/91945756007/",
-            "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/09/25/USAT/91944421007-getty-images-907721056.jpg?crop=3709,2086,x0,y274&width=3200&height=1800&format=pjpg&auto=webp",
-            "publishedAt": "2026-09-26T01:36:00Z",
-            "content": "Presley Gerber's body has been cremated in the Los Angeles area days after the model died at 27 in a rehabilitation center, according to TMZ.\r\nThe son of supermodel Cindy Crawford and businessman Ran… [+2651 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Variety"
-            },
-            "author": "Rebecca Rubin",
-            "title": "Scarlett Johansson, Adam Driver Movie 'Paper Tiger' Opens NYFF - Variety",
-            "description": "\"Paper Tiger,\" a crime drama starring Scarlett Johansson, Adam Driver and Miles Teller, opened the New York Film Festival.",
-            "url": "https://variety.com/2026/film/festivals/scarlett-johansson-paper-tiger-new-york-film-festival-premiere-adam-driver-1236872284/",
-            "urlToImage": "https://variety.com/wp-content/uploads/2026/09/GettyImages-2297163246.jpg?w=1000&h=563&crop=1",
-            "publishedAt": "2026-09-26T01:16:00Z",
-            "content": "A very jet-lagged Scarlett Johansson reunited with co-stars Adam Driver and Miles Teller for the New York Film Festival premiere of “Paper Tiger,” which kicked off the festival’s 64th edition.\r\n“I’m … [+3246 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "MovieWeb"
-            },
-            "author": "Daniel Bibby",
-            "title": "Star Trek Finally Introduces 'The Expanse' Icon's Long-Awaited Character - MovieWeb",
-            "description": "Thomas Jane was announced as Dr. Leonard \"Bones McCoy\" in 2025, and we just got our first nod to the character in 'Strange New Worlds.' Read on.",
-            "url": "https://movieweb.com/star-trek-thomas-jane-bones-reference/",
-            "urlToImage": "https://static0.moviewebimages.com/wordpress/wp-content/uploads/2026/09/movieweb-featured-image-template-2026-09-23t125931-265.jpg?w=1600&h=900&fit=crop",
-            "publishedAt": "2026-09-26T01:00:00Z",
-            "content": "Warning! Spoilers ahead for Star Trek: Strange New Worlds Season 4, Episode 10, \"Tomorrow's Enterprise.\"The Expanse quite clearly takes a lot of influence from the Star Trek franchise, and now the de… [+3463 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Rolling Stone"
-            },
-            "author": "Charisma Madarang",
-            "title": "Ovrkast Speaks Out Against Outkast’s Lawsuit, Says He Never Intended to ‘Confuse Fans’ - yahoo.com",
-            "description": "In a statement to Rolling Stone, the rapper-producer responds to accusations that he agreed to change his name and later failed to follow through on his prom...",
-            "url": "https://www.rollingstone.com/music/music-news/outkast-ovrkast-speaks-out-trademark-infringement-lawsuit-1235632244/",
-            "urlToImage": "https://s.yimg.com/lo/mysterio/api/49fd6b37415c3c8043b0464bcd956624ab663cace27ccf49f8bc41bbdf2f2001/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Frollingstone.com%2F904854cea71ba81f054c11e81cd37313.jpg",
-            "publishedAt": "2026-09-26T00:58:00Z",
-            "content": "California rapper and producer Ovrkast is pushing back against a lawsuit filed by influential hip-hop duo Outkast. The complaint accuses the rising artist of unlawfully using a \"nearly identical\" sta… [+2501 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Ringside News"
-            },
-            "author": "Steve Carrier",
-            "title": "Spoiler: Men’s Money in the Bank Qualifying Outcome for 9/25 Smackdown Revealed - Ringside News",
-            "description": "CM Punk is currently scheduled to qualify for the Men’s Money in the Bank Ladder Match on Friday night. The September 25, 2026 episode of SmackDown will",
-            "url": "https://www.ringsidenews.com/spoiler-mens-money-bank-qualifying-outcome-925-smackdown-revealed/",
-            "urlToImage": "https://www.ringsidenews.com/wp-content/uploads/2025/06/possible-spoiler-on-winner-of-womens-wwe-money-in-the-bank-ladder-match-revealed-12.jpg",
-            "publishedAt": "2026-09-26T00:56:52Z",
-            "content": "CM Punk is currently scheduled to qualify for the Mens Money in the Bank Ladder Match on Friday night. The September 25, 2026 episode of SmackDown will see Punk face Finn Bálor and GUNTHER in a tripl… [+808 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Page Six"
-            },
-            "author": "Carson Blackwelder, Lanae Brody",
-            "title": "Taylor Swift unveils never-before-seen Travis Kelce home footage in ‘Cleveland!’ lyric video - Page Six",
-            "description": "The couple, who married July 3, shared a rare look inside their romance in the clip.",
-            "url": "https://pagesix.com/2026/09/25/entertainment/taylor-swift-unveils-new-travis-kelce-home-footage-in-cleveland-lyric-video/",
-            "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2026/09/142554088.jpg?quality=75&strip=all&w=1200",
-            "publishedAt": "2026-09-26T00:33:00Z",
-            "content": "Taylor Swift let fans inside her and Travis Kelce’s personal world with the release of a lyric video for “Cleveland!” one of the new songs off her “The Life of a Showgirl: The Encore” album.\r\nThe vis… [+3844 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Vulture"
-            },
-            "author": "Jen Chaney",
-            "title": "American Horror Story: 13 Premiere Recap: We’re in Club Hell - Vulture",
-            "description": "‘AHS’ is so intent on maintaining a sense of mystery as it assembles familiar faces from past seasons that it’s damn near impossible to get a sense of what’s at stake in the borderline-incomprehensible season ‘13.’",
-            "url": "http://www.vulture.com/article/american-horror-story-13-recap-premiere-episodes-explained.html",
-            "urlToImage": "https://pyxis.nymag.com/v1/imgs/02e/fe2/6e88d517b0cd1048705072e7fa70262534-AHS-PENTHOUSE-ep1303-00257-r.1x.rsocial.w1200.jpg",
-            "publishedAt": "2026-09-26T00:06:43Z",
-            "content": "This piece contains spoilers for the first three episodes of American Horror Storys 13th season, which premiered September 24.\r\nPerhaps its time for Ryan Murphy to give up on the horror genre. A week… [+7415 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Vulture"
-            },
-            "author": "Claudia Rosenbaum",
-            "title": "What’s Going on With Dolly Parton’s Estate and Bryan Seaver? - Vulture",
-            "description": "Dolly Parton’s nephew announced her death to the world less than a month ago. Now, the self-proclaimed “mercenary’ is banned from the properties.",
-            "url": "http://www.vulture.com/article/dolly-parton-estate-lawsuit-bryan-seaver-explained.html",
-            "urlToImage": "https://pyxis.nymag.com/v1/imgs/543/5b4/e23b0c1e64ebcf853e573042b49cf68333-dolly-estate.1x.rsocial.w1200.jpg",
-            "publishedAt": "2026-09-25T23:27:06Z",
-            "content": "Its only been a month since Dolly Partons death following a brief battle with cancer, and both the nation and the world mourned her passing. Parton touched us all with her upbeat spirit, her personal… [+5876 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Cartoon Brew"
-            },
-            "author": null,
-            "title": "A New 20% Federal Tax Credit Would Require Most Animation Work To Stay In The U.S. To Qualify - Cartoon Brew",
-            "description": "The bipartisan proposal would cover eligible U.S. labor costs and could be combined with states' local production incentives.",
-            "url": "https://www.cartoonbrew.com/business/federal-film-tax-credit-animation-us-work-requirement-267079.html",
-            "urlToImage": "https://www.cartoonbrew.com/wp-content/uploads/2026/06/Hexed-3.jpg",
-            "publishedAt": "2026-09-25T23:22:01Z",
-            "content": "The Motion Picture, Television, and Entertainment Revitalization Act, A bipartisan bill introduced Thursday, would give film and TV productions a federal tax credit worth 20% of eligible U.S. wages. … [+1465 chars]"
-        },
-        {
-            "source": {
-                "id": "cbs-news",
-                "name": "CBS News"
-            },
-            "author": "Mika  Edwards",
-            "title": "How to watch CBS LA's MTV Video Music Awards Red Carpet Special - cbsnews.com",
-            "description": "The MTV Video Music Awards are back in Los Angeles and CBS LA is celebrating ahead of the big event with a live red carpet special starting at 3 p.m. on Sunday.",
-            "url": "https://www.cbsnews.com/losangeles/news/how-to-watch-cbs-la-mtv-vma-red-carpet/",
-            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/09/25/082a8cc4-146c-4abb-9664-b0243af8b575/thumbnail/1200x630/81413053f20d6160dbd657e61e8b44c3/thumbnail-vmas-red-carpet-special-1.png",
-            "publishedAt": "2026-09-25T23:12:40Z",
-            "content": "The MTV Video Music Awards are returning to Los Angeles and CBS LA is celebrating in style.\r\nCBA LA: MTV Video Music Awards Red Carpet Special will capture the stars as they arrive with Kalyna Astrin… [+1671 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Awful Announcing"
-            },
-            "author": "Sean Keeley",
-            "title": "‘Friday Night Lights,’ ‘Ted Lasso’ on New York Times’ 100 best TV shows of the 21st century - Awful Announcing",
-            "description": "\"Friday Night Lights,\" \"Ted Lasso,\" and \"Eastbound & Down\" are among the sports shows to make the NYT's 100 best TV shows of the 21st century.",
-            "url": "https://awfulannouncing.com/tv/friday-night-lights-ted-lasso-new-york-times-100-best-tv-shows-21st-century.html",
-            "urlToImage": "https://cdn1.thecomeback.com/wp-content/uploads/sites/94/2026/09/FNL.jpg",
-            "publishedAt": "2026-09-25T23:06:22Z",
-            "content": "The New York Times brought together “more than 500 influential stars, showrunners, and other notable names in the world of TV” to put together the definitive list of the 100 best TV shows of the 21st… [+4036 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Deadline"
-            },
-            "author": "Anthony D'Alessandro",
-            "title": "‘Avengers Endgame: Encore’ Assembles Weekend Where Four Films Are Grossing $20M+ Apiece – Box Office Update - Deadline",
-            "description": "A rich weekend at the box office is in store with movies for every demo in 'Primetime', 'Avengers: Endgame: Encore', 'Forgotten Island' and 'Heart of the Beast'",
-            "url": "http://deadline.com/2026/09/box-office-avengers-endgame-primetime-heart-of-the-beast-1237111302/",
-            "urlToImage": "https://deadline.com/wp-content/uploads/2026/09/Avengers-Endgame-Encore-Resident-Evil-Heart-of-the-Beast-Forgotten-Island-and-Primetime.jpg?w=1024",
-            "publishedAt": "2026-09-25T22:52:00Z",
-            "content": "FRIDAY PM: If a Nor’easter doesn’t shut down the power in the Northeast, four films are looking at doing over $20M each in what is another fantastic sign for moviegoing in a year that’s racing to $10… [+10411 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Vulture"
-            },
-            "author": "Bethy Squires",
-            "title": "Tom Holland Has His Dance Partners for Fred Astaire Biopic - Vulture",
-            "description": "Everything Tom Holland does in the upcoming Fred Astaire biopic, Sabrina Carpenter will have to do backwards and in heels. She and Margaret Qualley have joined the film as Ginger Rogers and Adele Astaire, respectively.",
-            "url": "http://www.vulture.com/article/tom-holland-fred-astaire-biopic-cast.html",
-            "urlToImage": "https://pyxis.nymag.com/v1/imgs/937/41a/948f90f6bb71e027e1df24688cf5cc8eaf-astair-biopic.1x.rsocial.w1200.jpg",
-            "publishedAt": "2026-09-25T22:32:09Z",
-            "content": "Everything Tom Holland does in the upcoming Fred Astaire biopic, Sabrina Carpenter will have to do backwards and in heels. Carpenter has been announced as Ginger Rogers in the new film from Paddingto… [+1742 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNBC"
-            },
-            "author": "Sarah Whitten",
-            "title": "Here's exactly what Paramount promised Hollywood to land WBD — and why some are still skeptical - CNBC",
-            "description": "Paramount CEO David Ellison's antitrust settlement eased some theatrical concerns, but questions remain about what happens when the five-year agreement ends.",
-            "url": "https://www.cnbc.com/2026/09/25/paramount-hollywood-promises.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108366218-1790089325194-gettyimages-2296039391-boivin-photoill260922_npJvq.jpeg?v=1790089357&w=1920&h=1080",
-            "publishedAt": "2026-09-25T22:31:32Z",
-            "content": "David Ellison, CEO of Paramount Skydance, speaks during the Paramount Pictures presentation at CinemaCon, the official convention of Cinema United, in Las Vegas, Nevada, April 16, 2026.\r\nA new movie … [+8625 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Entertainment Weekly"
-            },
-            "author": "https://www.facebook.com/entertainmentweekly",
-            "title": "Nathan Fielder’s Elizabeth Holmes documentary gets an R rating for an eyebrow-raising reason - Entertainment Weekly",
-            "description": "Nathan Fielder’s Elizabeth Holmes documentary ‘You Can See Everything’ has received an R rating from the Motion Picture Association for language and graphic nudity.",
-            "url": "https://ew.com/nathan-fielder-elizabeth-holmes-documentary-r-rating-12141015",
-            "urlToImage": "https://ew.com/thmb/fK2ZgK2A0k73b37m9blPEnTxFC4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/You-Can-See-Everything-Elizabeth-Holmes-092526-ccd2ab28bd8c4e449de0de5cfee0a502.jpg",
-            "publishedAt": "2026-09-25T22:25:34Z",
-            "content": "Nathan Fielders upcoming documentary You Can See Everythingjust might live up to its name.\r\nThe film, focused on Elizabeth Holmes final weeks at home before being sent off to prison and directed by F… [+3336 chars]"
-        },
-        {
-            "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
-            },
-            "author": "Kimberlee Kruesi",
-            "title": "It’s officially Dolly Parton Day, with parades, pink lights and book drives - AP News",
-            "description": "Communities worldwide are dedicating Friday to honoring Dolly Parton. The day falls on Sept. 25, a wink at her hit song “9 to 5.” Parton, who died of cancer last month at age 80, left a legacy as a singer-songwriter, actor, philanthropist and entrepreneur. In…",
-            "url": "https://apnews.com/article/dolly-parton-day-925-1741a56d5a32ed562c465352ee9e2f40",
-            "urlToImage": "https://dims.apnews.com/dims4/default/aa72331/2147483647/strip/true/crop/2000x1333+0+92/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fc7%2Fbb%2F7440b7341b1b588f48ea070e8e49%2Fdcf28df493f64e67ad2bf2113963ff86",
-            "publishedAt": "2026-09-25T22:22:00Z",
-            "content": "Pour yourself a cup of ambition. Its Dolly Parton Day.\r\nAcross the world, communities are dedicating Friday to honoring the beloved country singer. The day is falling on Sept. 25, a wink at Partons h… [+4002 chars]"
-        },
-        {
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "author": null,
-            "title": "Ted Nugent proves he still lives up to Motor City Madman moniker as he poses with massive buck - Fox News",
-            "description": "Ted Nugent's massive buck photo stunned social media fans, but his choice of camouflage Crocs with no socks stole the show this hunting season.",
-            "url": "https://www.foxnews.com/outkick-sports/ted-nugent-proves-still-lives-motor-city-madman-moniker-poses-massive-buck",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/ted-nugent-concert-cedar-park-texas.jpg",
-            "publishedAt": "2026-09-25T22:10:31Z",
-            "content": "Ted Nugent is something of a modern-day Renaissance Man.\r\nThe one they call Uncle Ted is a rock god, a conservationist, an unabashed conservative voice and a hell of a hunter to boot.\r\nAnd nowhere wa… [+1825 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Page Six"
-            },
-            "author": "Nate Grant",
-            "title": "Ree Drummond’s son allegedly ‘grabbed’ woman by neck, ‘threw’ her dog against wall a year before assault arrest - Page Six",
-            "description": "Disturbing allegations from multiple women have come to light following the latest arrest of the “Pioneer Woman” star’s son.",
-            "url": "https://pagesix.com/2026/09/25/celebrity-news/ree-drummonds-son-allegedly-grabbed-woman-threw-dog-against-wall-a-year-before-arrest/",
-            "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2026/09/142521854.jpg?quality=75&strip=all&w=1200",
-            "publishedAt": "2026-09-25T22:05:00Z",
-            "content": "Ree Drummonds adopted son allegedly grabbed a woman by the neck and threw her dog against a wall more than a year before he was arrested last week on drug and assault charges.\r\nJamar Goff, 23, was th… [+3838 chars]"
         }
     ]
 }

@@ -1,7 +1,59 @@
 {
     "status": "ok",
-    "totalResults": 272,
+    "totalResults": 267,
     "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "What's really going on in lymphatic drainage beauty videos? - BBC",
+            "description": "Fans of these massages claim they \"depuff\" and \"define\" their stomach - but what's actually happening to their bodies?",
+            "url": "https://www.bbc.com/news/articles/ck1l6zvr9gdgo",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2b95/live/e1924f10-bdad-11f1-bc2e-018d645d8d21.jpg",
+            "publishedAt": "2026-10-01T23:49:21Z",
+            "content": "The technique is a form of lymphatic drainage massage, adapted from a medical treatment and shared as a beauty trend. Celebrity fans include Maya Jama, who shares her clinic sessions, and actress Hai… [+53 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "KOMO News"
+            },
+            "author": "Lynnanne Nguyen, KOMO News Reporter",
+            "title": "Bats found inside Puyallup elementary school; health officials recommend treatment - KOMO",
+            "description": "The Puyallup School District is taking steps to address a bat infestation at Edgerton Elementary School after at least eight bats have been found in the buildin",
+            "url": "https://komonews.com/news/local/puyallup-school-district-edgerton-elementary-school-eight-bats-pep-post-exposure-prophylaxis-diseases-human-contact-tacoma-pierce-county-health-department",
+            "urlToImage": "https://komonews.com/resources/media2/16x9/1091/1320/0x65/90/14ea7654-3b61-4e60-8dfc-aac80d6e4d10-1.png",
+            "publishedAt": "2026-10-01T23:01:44Z",
+            "content": "PUYALLUP, Wash. The Puyallup School District is taking steps to address a bat infestation at Edgerton Elementary School after at least eight bats have been found in the building in recent weeks.\r\nSo … [+2878 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Newser"
+            },
+            "author": "Bob Cronin",
+            "title": "Chewing Tobacco's Toll: 251K - Newser",
+            "description": "Study finds high use concentrated in India and South Asia",
+            "url": "https://www.newser.com/story/397417/researchers-estimate-global-toll-of-chewing-tobacco.html",
+            "urlToImage": "https://cdn.newser.com/image/1715342-12-20261001163918.jpeg",
+            "publishedAt": "2026-10-01T21:15:00Z",
+            "content": "The habit is concentrated in South Asia, where about one in five men and one in 10 women chew; India alone accounts for 105 million users and about 104,000 of the deaths. Stroke was the leading cause… [+410 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Real Simple"
+            },
+            "author": "https://www.facebook.com/realsimple/",
+            "title": "7 Breakfast Foods With Even More Protein Than Eggs to Add to Your Morning Rotation - Real Simple",
+            "description": "Eating protein at breakfast is one of the best ways to begin your morning. Eggs are an obvious choice, but thankfully, there are several choices for when you need variety.",
+            "url": "https://www.realsimple.com/breakfast-foods-with-more-protein-than-eggs-12135326",
+            "urlToImage": "https://www.realsimple.com/thmb/p5nlzpsYERu2vuAbxoCCbYqWoK4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/SteelCutOats-6fd4b88e90fb464a9eb4cb8ae5ba94e5.jpg",
+            "publishedAt": "2026-10-01T19:30:00Z",
+            "content": "<ul><li>Kickstart your day with protein-rich alternatives like almond butter and smoked salmon to stay energized and curb cravings.</li><li>Try teff porridge or sprouted tofu scramble for a nutritiou… [+3550 chars]"
+        },
         {
             "source": {
                 "id": "the-washington-post",
@@ -95,6 +147,32 @@
         },
         {
             "source": {
+                "id": null,
+                "name": "Medscape"
+            },
+            "author": null,
+            "title": "1 in 9 Older Cannabis Users in the US Have CUD - Medscape",
+            "description": "About 1 in 9 older US adults who use cannabis have cannabis use disorder, a study shows.",
+            "url": "https://www.medscape.com/viewarticle/cannabis-use-disorder-affects-1-9-older-us-adults-who-use-2026a10010ri",
+            "urlToImage": "https://img.medscapestatic.com/vim/live/professional_assets/medscape/images/thumbnail_library/dt-260818-marijuana-joint-800x450.jpg",
+            "publishedAt": "2026-10-01T14:15:03Z",
+            "content": "TOPLINE\r\nNearly 9% of US adults aged 65 years or older reported using cannabis in the past year, and among them, about 1 in 9 met the diagnostic criteria for cannabis use disorder (CUD), a study show… [+4161 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Science Daily"
+            },
+            "author": null,
+            "title": "This diet may slow brain aging by 2.5 years - ScienceDaily",
+            "description": "People who followed the MIND diet more closely showed slower brain shrinkage and less grey matter loss over time, with the strongest differences equivalent to about 2.5 years of delayed brain aging. Berries and poultry were linked with healthier brain changes…",
+            "url": "https://www.sciencedaily.com/releases/2026/09/260930225503.htm",
+            "urlToImage": "https://www.sciencedaily.com/images/1920/human-brain-fresh-fruit-healthy-food.webp",
+            "publishedAt": "2026-10-01T14:03:04Z",
+            "content": "A diet that combines elements of the Mediterranean diet with an eating plan designed to lower blood pressure may help slow some of the structural changes that occur as the brain ages, according to re… [+6227 chars]"
+        },
+        {
+            "source": {
                 "id": "al-jazeera-english",
                 "name": "Al Jazeera English"
             },
@@ -105,6 +183,19 @@
             "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-02-19T132728Z_48495823_RC2WOJAK4G8U_RTRMADP_3_ZIMBABWE-AIDS-1790858715.jpg?resize=1920%2C1440",
             "publishedAt": "2026-10-01T13:56:46Z",
             "content": "A medicine injected just twice a year could transform the fight against HIV.\r\nIn a 2024 clinical trial involving more than 2,000 young women in South Africa and Uganda, no participants who received l… [+6912 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PEOPLE"
+            },
+            "author": "Kayla Grant",
+            "title": "Boy, 13, Diagnosed with Rare Genetic Disease Has to Consume Raw Cornstarch to Survive (Exclusive) - Yahoo",
+            "description": "While Jen McGowan describes her son as a “really happy baby,” she admits to PEOPLE that his younger years were “intense”",
+            "url": "https://people.com/boy-13-with-rare-genetic-disease-has-to-consume-cornstarch-to-survive-exclusive-12150221",
+            "urlToImage": "https://s.yimg.com/lo/mysterio/api/3577e20f029c6fdf50862bd0d462269fbe90233384644ebb800cfe898d470e3c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F9b51dc00065471335cc937f2de77d700.jpg",
+            "publishedAt": "2026-10-01T13:54:11Z",
+            "content": "NEED TO KNOW\r\n<ul><li>One Ohio-based mom couldn't imagine how \"intense\" her son's life would be during his first few years\r\n</li><li>Jen McGowan's son Trey, now 13, was diagnosed with glycogen storag… [+4913 chars]"
         },
         {
             "source": {
@@ -590,6 +681,19 @@
         {
             "source": {
                 "id": null,
+                "name": "News-Medical.Net"
+            },
+            "author": null,
+            "title": "Wearable AI forecasts prolonged sitting in women with chronic pelvic pain disorders - News-Medical",
+            "description": "Researchers at the Icahn School of Medicine at Mount Sinai have developed an artificial intelligence (AI) approach using data from wearable devices that can forecast upcoming periods of prolonged sitting in women with chronic pelvic pain disorders.",
+            "url": "https://www.news-medical.net/news/20260930/Wearable-AI-forecasts-prolonged-sitting-in-women-with-chronic-pelvic-pain-disorders.aspx",
+            "urlToImage": "https://www.news-medical.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg",
+            "publishedAt": "2026-09-30T17:25:00Z",
+            "content": "Researchers at the Icahn School of Medicine at Mount Sinai have developed an artificial intelligence (AI) approach using data from wearable devices that can forecast upcoming periods of prolonged sit… [+5800 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "PhillyVoice.com"
             },
             "author": null,
@@ -651,6 +755,19 @@
             "urlToImage": null,
             "publishedAt": "2026-09-30T16:12:55Z",
             "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Conversation Africa"
+            },
+            "author": "Sonia Miri Hedberg",
+            "title": "Covid fatigue linked to reduced brain blood flow - The Conversation",
+            "description": "Everyday activities can require enormous effort for people living with post-COVID fatigue. This study examines the brain mechanisms that may contribute to fatigue.",
+            "url": "https://theconversation.com/covid-fatigue-linked-to-reduced-brain-blood-flow-292285",
+            "urlToImage": "https://images.theconversation.com/files/762812/original/file-20260929-50-3dtmjb.jpg?ixlib=rb-4.1.1&rect=0%2C586%2C4898%2C2449&q=45&auto=format&w=1356&h=668&fit=crop",
+            "publishedAt": "2026-09-30T15:53:39Z",
+            "content": "Playing with your children or meeting a friend for coffee are everyday activities that many people move between without giving much thought to how much mental or physical energy they take.\r\nFor many … [+4294 chars]"
         },
         {
             "source": {
@@ -2360,6 +2477,19 @@
                 "id": null,
                 "name": "News-Medical.Net"
             },
+            "author": "Tarun Sai Lomte",
+            "title": "A survey of 371,000 adults links heart disease to eating whole fruit less often - News-Medical",
+            "description": "In a survey analysis of 371,038 US adults, those reporting high blood pressure, high cholesterol, a heart attack, or coronary heart disease ate whole fruit slightly less often than those without the respective conditions. After adjustment, 100% fruit-juice co…",
+            "url": "https://www.news-medical.net/news/20260928/A-survey-of-371000-adults-links-heart-disease-to-eating-whole-fruit-less-often.aspx",
+            "urlToImage": "https://www.news-medical.net/images/news/ImageForNews_847713_1790568767727216.jpg",
+            "publishedAt": "2026-09-28T04:14:00Z",
+            "content": "A survey of more than 370,000 US adults compares whole fruit and juice habits across cardiovascular diagnoses, with a closer look at which differences persist after adjustment.\r\nStudy: Examining the … [+6305 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "News-Medical.Net"
+            },
             "author": null,
             "title": "Low-dose radiation shows lasting benefits in patients with knee osteoarthritis - News-Medical",
             "description": "Low-dose radiation therapy may do more than relieve pain from early knee osteoarthritis, with a long-term analysis suggesting it could also influence how the disease progresses.",
@@ -3342,201 +3472,6 @@
             "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/d619/live/bc583b10-b81c-11f1-b19f-05e2dfdadad2.jpg",
             "publishedAt": "2026-09-26T06:19:54Z",
             "content": "Leprosy is a chronic infectious disease, attacking the skin, nerves and mucous membranes. This eventually leads to white patches, numbness, muscular weakness and paralysis."
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Eatingwell.com"
-            },
-            "author": "https://www.facebook.com/EatingWell/",
-            "title": "This Nightly Habit Could Be Changing the Structure of Your Heart, New Study Says - EatingWell",
-            "description": "Nighttime light exposure may alter heart structure and function, suggests a new study. Learn how exposure at night impacts heart health and tips to reduce risk.",
-            "url": "https://www.eatingwell.com/nightly-light-exposure-heart-study-12141492",
-            "urlToImage": "https://www.eatingwell.com/thmb/Py5ezFWR77lWa4igeRIgPIEKTUI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/This-Nightly-Habit-Could-Be-Changing-the-Structure-of-Your-Heart-New-Study-Says-4cd26a78ecf145fe80ac9736d40b01ca.jpg",
-            "publishedAt": "2026-09-26T03:50:55Z",
-            "content": "Youve likely heard that scrolling on your phone before bed isnt good for sleep. But a new study suggests the light emitted from your phone may be reshaping the structure of your heart and reducing it… [+5552 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "New York Post"
-            },
-            "author": "Daniel Cody",
-            "title": "Woman bitten by possibly rabid coyote on Westchester hiking trail - New York Post",
-            "description": "All animal bites or contacts with animals suspected of having rabies must be reported to the Westchester County Department of Health at (914) 813-5000.",
-            "url": "https://nypost.com/2026/09/25/us-news/woman-bitten-by-possibly-rabid-coyote-on-westchester-hiking-trail/",
-            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/09/news-comp-16.jpg?quality=75&strip=all&w=1200",
-            "publishedAt": "2026-09-26T02:43:00Z",
-            "content": "A woman was bitten by a possibly rabid coyote on a hiking trail in Westchester County on Wednesday — and now officials are urging residents to be on the lookout and stay vigilant. \r\nThe attack unfold… [+2300 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "KOLD"
-            },
-            "author": "Payton May",
-            "title": "University of Arizona students warned about new street drug cychlorphine - KOLD",
-            "description": "The opioid has been linked to deadly overdoses in California and Nevada in recent weeks.",
-            "url": "https://www.kold.com/2026/09/26/university-arizona-students-warned-about-new-street-drug-cychlorphine/",
-            "urlToImage": "https://gray-kold-prod.gtv-cdn.com/resizer/v2/YKHOMNHZONDFFBEZIAMT5CSOCU.jpg?auth=2124e723bb34598a0a3d81938ff28d3b1a055cf0e3f480643907f29153221c30&width=1200&height=600&smart=true",
-            "publishedAt": "2026-09-26T02:17:00Z",
-            "content": "TUCSON, Ariz. (13 News) - Health officials at the University of Arizona are warning students about cychlorphine, a new synthetic opioid recently found in Californias drug supply. \r\nThe drug is more p… [+2479 chars]"
-        },
-        {
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "author": null,
-            "title": "Doctor reveals '10-year rule' for evaluating brain fog and dementia symptoms - Fox News",
-            "description": "A UCLA neurology professor's 10-year self-assessment helps women determine if memory loss stems from estrogen changes during perimenopause or dementia.",
-            "url": "https://www.foxnews.com/health/doctor-reveals-10-year-rule-evaluating-brain-fog-dementia-symptoms",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/woman-brain-fog.jpg",
-            "publishedAt": "2026-09-26T02:10:03Z",
-            "content": "Losing a train of thought, struggling to recall once-familiar words, or forgetting the reason for walking into a room can leave older adults wondering if they are experiencing early signs of Alzheime… [+4099 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "ScienceAlert"
-            },
-            "author": "Carly Cassella",
-            "title": "Major Study Reveals The Number of Whole Grain Servings You Need to Lower Heart Risks - ScienceAlert",
-            "description": "Whole grains are an essential part of a healthy diet, rich in fiber, carbohydrates, and nutrients.",
-            "url": "https://www.sciencealert.com/major-study-reveals-the-number-of-whole-grain-servings-you-need-to-lower-heart-risks",
-            "urlToImage": "https://www.sciencealert.com/images/2026/09/GettyImages-1159879809-1-2560x1440-1.jpg",
-            "publishedAt": "2026-09-26T02:02:24Z",
-            "content": "Whole grains are an essential part of a healthy diet, rich in fiber, carbohydrates, and nutrients.\r\nYet many people do not get enough on their plates. \r\nA major systematic review of 87 randomized tri… [+4254 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Boredpanda.com"
-            },
-            "author": "Indrė Lukošiūtė",
-            "title": "75 People Who Clearly Won The Genetic Lottery In The Most Unexpected Ways - boredpanda.com",
-            "description": "No two bodies are the same. Even if you have an identical twin, you’ll eventually develop different scars or freckles. And some people have particularly unique bodies thanks to being born with or developing a rare medical condition.",
-            "url": "https://www.boredpanda.com/interesting-human-body-abnormalities/",
-            "urlToImage": "https://static.boredpanda.com/blog/wp-content/uploads/2026/09/interesting-human-body-abnormalities-fb21.jpg",
-            "publishedAt": "2026-09-26T02:01:03Z",
-            "content": "Growing up, I never appreciated my unique features. I was the only kid in class with red hair. I hated how often people would comment on my freckles, and it didn’t help that I had a unique name too. … [+579 chars]"
-        },
-        {
-            "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
-            "author": "Alex DeLuca",
-            "title": "Florida counties declare emergency over ‘wildly unusual’ dengue outbreak - The Washington Post",
-            "description": "Mosquito-borne disease has infected hundreds statewide and killed one woman in Tampa.",
-            "url": "https://www.washingtonpost.com/nation/2026/09/25/florida-counties-declare-emergency-over-wildly-unusual-dengue-outbreak/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/JEOXP7RBUGF5S3L56DDLS26EYE.jpg&w=1440",
-            "publishedAt": "2026-09-26T01:39:56Z",
-            "content": "Three Florida counties have declared states of emergency as a growing outbreak of dengue has infected hundreds across the state this year.\r\nHillsborough and Pinellas counties declared states of emerg… [+213 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Outside"
-            },
-            "author": "Jim Cotton",
-            "title": "Peptides: Huge Promises, Unproven Hype - Outside Magazine",
-            "description": "What cyclists need to know about peptides like BPC-157 as officials move toward legitimizing drugs that claim to supercharge recovery and wellness.",
-            "url": "https://velo.outsideonline.com/road/road-training/peptide-guide-for-cyclists/#article",
-            "urlToImage": "https://velo-cdn.outsideonline.com/wp-content/uploads/2026/09/peptides.jpg",
-            "publishedAt": "2026-09-26T01:36:56Z",
-            "content": "Updated September 25, 2026 07:20AM\r\nWhat if you could recover from your bike workouts as fast as Wolverine, the self-healing super-mutant who plays antihero of the Marvel Universe?\r\nThats the carrot … [+13343 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CBS News 8"
-            },
-            "author": "cbs8.com",
-            "title": "West Nile virus cases in San Diego county hit 10-year high — how to protect yourself - cbs8.com",
-            "description": null,
-            "url": "https://www.cbs8.com/article/news/health/west-nile-virus-cases-san-diego-county-10-year-high-protect/509-52fdb73c-60dd-4d58-bc2f-8ab7f129df8f",
-            "urlToImage": null,
-            "publishedAt": "2026-09-26T01:23:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "FOX 31 Denver"
-            },
-            "author": "Vicente Arenas",
-            "title": "Warnings go out about a new drug said to be 10 times more potent than Fentanyl - KDVR",
-            "description": "A social media post circulating among students at Colorado State University is warning of a deadly new illegal drug called cychlorphine.",
-            "url": "https://kdvr.com/news/local/warnings-go-out-about-a-new-drug-said-to-be-10-times-more-potent-than-fentanyl/",
-            "urlToImage": "https://kdvr.com/wp-content/uploads/sites/11/2026/05/AP21119723253276-e1773268809667.jpg?w=1280",
-            "publishedAt": "2026-09-26T00:20:01Z",
-            "content": "DENVER (KDVR) A social media post circulating among students at Colorado State University is warning of a deadly new illegal drug called cychlorphine.\r\nThe DEA’s Rocky Mountain Division, which has sp… [+2423 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "WTOP"
-            },
-            "author": null,
-            "title": "New guidance could help doctors correctly diagnose more heart attacks in women - WTOP News",
-            "description": "New guidance for diagnosing heart attacks tells doctors to account for a key difference between women and men — levels of a protein in heart muscle cells.",
-            "url": "https://wtop.com/national/2026/09/web-article-new-heart-attack-guidance-could-help-doctors-catch-cases-they-may-have-missed-in-women/",
-            "urlToImage": "https://wtop.com/wp-content/uploads/2026/09/GettyImages-2272849517.jpg",
-            "publishedAt": "2026-09-26T00:04:14Z",
-            "content": "New guidance for diagnosing heart attacks tells doctors to account for a key difference between women and men levels of a protein in heart muscle cells. \r\nThe change could help some women get the rig… [+2962 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "NBC Southern California"
-            },
-            "author": "Charisse Gibson",
-            "title": "Mosquitoes are biting you more in Southern California this year. Here's why - NBC Los Angeles",
-            "description": "The elevated mosquito activity comes as Los Angeles County reports the highest number of West Nile virus infections in nearly a decade.",
-            "url": "https://www.nbclosangeles.com/news/local/mosquito-southern-california-warm-humid-weather/3947522/",
-            "urlToImage": "https://media.nbclosangeles.com/2019/09/mosquito-bite.jpg?quality=85&strip=all&resize=1200%2C675",
-            "publishedAt": "2026-09-25T23:59:19Z",
-            "content": "No, it's not just your imagination: Mosquitoes are biting more this year, health officials said Friday.\r\nA combination of warm temperatures and unusually humid conditions has led to increased mosquit… [+1905 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Verywellhealth.com"
-            },
-            "author": "https://www.facebook.com/verywell",
-            "title": "5 Ways to Get Rid of Microplastics In Your Body - Verywell Health",
-            "description": "While the human body can naturally clear some microplastic particles, there is no clinically validated method for deliberately removing microplastics from the body, leaving prevention as the strongest-supported approach.",
-            "url": "https://www.verywellhealth.com/how-to-get-rid-of-microplastics-in-your-body-12074706",
-            "urlToImage": "https://www.verywellhealth.com/thmb/K90cdPNb6UbPHGoeOKemSU-P-uM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1387503282-83d35d6aac9a4f18b30011e6da555708.jpg",
-            "publishedAt": "2026-09-25T23:17:35Z",
-            "content": "<li>Roslan NS, Lee YY, Ibrahim YS, et al. Detection of microplastics in human tissues and organs: A scoping review. J Glob Health. 2024;14:04179. doi:10.7189/jogh.14.04179\r\n</li><li>Alotaishan S, Ahm… [+2816 chars]"
-        },
-        {
-            "source": {
-                "id": "al-jazeera-english",
-                "name": "Al Jazeera English"
-            },
-            "author": "Al Jazeera Staff",
-            "title": "DR Congo’s Ebola outbreak spreads to two new health zones, WHO says - Al Jazeera",
-            "description": "Health workers struggle as new Ebola cases are found in border regions of South Ubangi and Haut-Uele.",
-            "url": "https://www.aljazeera.com/news/2026/9/25/dr-congos-ebola-outbreak-spreads-to-two-new-health-zones-who-says",
-            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6ab6e4f3-1790371059.jpg?resize=1920%2C1440",
-            "publishedAt": "2026-09-25T22:24:26Z",
-            "content": "The Ebola virus caused by the Bundibugyo strain has spread to two new health zones in the Democratic Republic of the Congo, according to the World Health Organization (WHO).\r\nNew cases were found in … [+3147 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "KELOLAND.com"
-            },
-            "author": "Perry Groten",
-            "title": "Brandon pancreatic cancer patient, praises new drug - KELOLAND.com",
-            "description": "BRANDON, SD (KELO) — A benefit taking place next month will help a Brandon family facing a serious medical challenge. Back in June, doctors diagnosed Sean Swenson with pancreatic cancer. The father of four has started a promising new treatment that’s just bee…",
-            "url": "https://www.keloland.com/news/local-news/brandon-pancreatic-cancer-patient-praises-new-drug/",
-            "urlToImage": "https://www.keloland.com/wp-content/uploads/sites/103/2026/09/Brandon-pancreatic-cancer-patient-praises-new-drug.jpg?w=1280",
-            "publishedAt": "2026-09-25T22:07:51Z",
-            "content": "BRANDON, SD (KELO) — A benefit taking place next month will help a Brandon family facing a serious medical challenge.\r\nBack in June, doctors diagnosed Sean Swenson with pancreatic cancer.\r\nThe father… [+2873 chars]"
         }
     ]
 }
