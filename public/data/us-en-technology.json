@@ -1,7 +1,293 @@
 {
     "status": "ok",
-    "totalResults": 428,
+    "totalResults": 444,
     "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "PCMag.com"
+            },
+            "author": "Kelsey Fogarty",
+            "title": "We Found the 154 Best Live Prime Day Tech Deals From Apple, Dell, HP, Samsung, Sony, and More - PCMag",
+            "description": "Amazon's Big Deal Days is happening right now, and here at PCMag Deals, we're tracking down the very best tech deals on top-rated products with the deepest discounts just for you.",
+            "url": "https://www.pcmag.com/news/best-tech-deals-sales-prime-day-2026-day-1",
+            "urlToImage": "https://i.pcmag.com/imagery/articles/01EMPWPs8M1RfyaNwQOPHeJ-1.fit_lim.size_1200x630.v1791291359.png",
+            "publishedAt": "2026-10-06T14:29:02Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Henry T. Casey",
+            "title": "I review AirPods, MacBooks and more. Here are the 14 best Amazon Prime Day Apple deals - CNN",
+            "description": "Our tech reviewer has tested tons of Apple gear and is separating the wheat from the chaff when it comes to Amazon’s October Prime Day deals.",
+            "url": "https://www.cnn.com/cnn-underscored/deals/best-amazon-prime-day-apple-deals-2026-10-06",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/macbook-air-pbdd-2.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2026-10-06T14:12:00Z",
+            "content": "Want more deals? Visit CNN Underscoreds Guide to Prime Big Deal Days for wall-to-wall coverage of the best discounts to be found during Amazons annual fall sale.\r\nYou wait months for Apple Prime Day … [+6801 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Kotaku"
+            },
+            "author": "Zack Zwiezen",
+            "title": "GameStop Is Now Selling Used PS5 Pros For $1400 - Kotaku",
+            "description": "That's about $500 more than a new PlayStation 5 Pro",
+            "url": "https://kotaku.com/gamestop-is-now-selling-used-ps5-pros-for-1400-2000740923",
+            "urlToImage": "https://kotaku.com/app/uploads/2024/11/3f20ff633940fef6470c433bd33d10a3-1200x675.jpg",
+            "publishedAt": "2026-10-06T14:00:46Z",
+            "content": "It’s getting more expensive and annoying to play and enjoy video games in 2026. Case in point, GameStop is now selling used PlayStation 5 Pro consoles for $1400 as the sought-after machines become ha… [+2533 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Warhammer-community.com"
+            },
+            "author": null,
+            "title": "Try the new demo for Warhammer Survivors now! - Warhammer Community",
+            "description": "Bring bullet heaven to the worlds of Warhammer this November.",
+            "url": "https://www.warhammer-community.com/articles/m5cfelii/try-the-new-demo-for-warhammer-survivors-now",
+            "urlToImage": "https://assets.warhammer-community.com/articles/0-2026/october/wc-05-10/whsurvivors-oct06-2-share-mlxzmlrj5b.jpg",
+            "publishedAt": "2026-10-06T13:59:08Z",
+            "content": "© Copyright Games Workshop Limited 2026. GW, Games Workshop, Citadel, White Dwarf, Space Marine, 40K, Warhammer, Warhammer 40,000, the Aquila Double-headed Eagle logo, Warhammer Age of Sigmar, Battle… [+1391 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5Mac"
+            },
+            "author": "Ryan Christoffel",
+            "title": "Leaks reveal new Apple TV 4K and HomePod features coming next week - 9to5Mac",
+            "description": "Leaks in the latest Apple software reveal several new Apple TV and HomePod features expected to be unveiled.",
+            "url": "https://9to5mac.com/2026/10/06/leaks-reveal-new-apple-tv-4k-and-homepod-features-coming-next-week/",
+            "urlToImage": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-tv-homepod-mini-siri-ai.jpg?quality=82&strip=all&resize=1200,628",
+            "publishedAt": "2026-10-06T13:57:00Z",
+            "content": "Apple is launching new products next week, with Apple TV 4K and HomePod models rumored to be among them. And leaks in the latest Apple software reveal several new Apple TV and HomePod features expect… [+2458 chars]"
+        },
+        {
+            "source": {
+                "id": "ign",
+                "name": "IGN"
+            },
+            "author": "Logan Plant",
+            "title": "Nintendo Switch Sports Resort Appears To Solve All of Switch Sports’ Shortcomings | IGN Preview - IGN",
+            "description": "I’m stunned at how excited I am for Nintendo Switch Sports Resort. I plan to 100% this game, which is not something I would have said two weeks ago. I’m still not entirely thrilled with the sports lineup – I would trade Table Tennis and Volleyball for things …",
+            "url": "https://www.ign.com/articles/nintendo-switch-sports-resort-appears-to-solve-all-of-switch-sports-shortcomings-ign-preview",
+            "urlToImage": "https://assets-prd.ignimgs.com/2026/10/06/ns2-nintendoswitchsportsresort-scrn-14-1791266095527.png?width=1280&format=jpg&auto=webp&quality=80",
+            "publishedAt": "2026-10-06T13:00:00Z",
+            "content": "Key Preview Takeaways:\r\n<ul><li>Nintendo is bundling Nintendo Switch Sports Resort with Switch 2s this holiday season.</li><li>Wuhu Island is really fun to explore in a relaxed, non-competitive atmos… [+9726 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "DC Rainmaker"
+            },
+            "author": "Ray Maker",
+            "title": "Huge Amazon Prime Big Deals Sports Tech Tracker! - DC Rainmaker",
+            "description": "Here's your complete Amazon Prime Days 2026 Sports Tech Gear Guide, covering 100+ sports tech product deals!",
+            "url": "https://www.dcrainmaker.com/2026/10/huge-amazon-prime-big-deals-sports-tech-list.html",
+            "urlToImage": "https://media.dcrainmaker.com/images/2026/10/WhatTobuySkipv2.jpg",
+            "publishedAt": "2026-10-06T12:14:12Z",
+            "content": "Amazon’s running its Prime Big Deal days today and tomorrow (6th and 7th), which includes a decent chunk of sports tech deals – including on some newly released products (like the Apple Watch Ultra 4… [+11772 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5Mac"
+            },
+            "author": "Ben Lovejoy",
+            "title": "See for yourself the difference the wider aperture of the iPhone 18 Pro makes - 9to5Mac",
+            "description": "Alongside a variable aperture lens, the main camera of the iPhone 18 Pro also opens up to a wider aperture...",
+            "url": "https://9to5mac.com/2026/10/06/see-for-yourself-the-difference-the-wider-aperture-of-the-iphone-18-pro-makes/",
+            "urlToImage": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Heres-the-difference-the-wider-aperture-of-the-iPhone-18-Pro-makes-in-real-life-photos.jpg?quality=82&strip=all&resize=1200,628",
+            "publishedAt": "2026-10-06T11:51:00Z",
+            "content": "Alongside a variable aperture lens, the main camera of the iPhone 18 Pro also opens up to a wider aperture than its predecessors. Apple has been promoting this as enabling a shallower depth of field … [+4460 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Kasey Caminiti",
+            "title": "Today's biggest TV deal? $2,000 off a 100-inch Hisense TV (yes, really) - USA Today",
+            "description": "Prime Big Deal Days brings major savings on Hisense U7SG MiniLED TVs, with discounts ranging from $650 to $2,000 off. Shop every size from 55 inches to 100 inches.",
+            "url": "https://www.usatoday.com/story/shopping/deals/prime-day/2026/10/06/hisense-amazon-prime-day-tv-deals/92013372007/",
+            "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/09/30/USAT/92013807007-hisensehero.png?crop=1999,1124,x0,y0&width=1999&height=1124&format=pjpg&auto=webp",
+            "publishedAt": "2026-10-06T11:43:00Z",
+            "content": "Amazon is taking up to $2,000 off Hisense U7SG MiniLED TVs for Prime Big Deal Days\r\nIf you've been waiting for an excuse to go really big with your TV, this might be it.\r\nDuring Amazon's Prime Big De… [+2495 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Brad Bourque",
+            "title": "The Pixel 11 Pro and Pro XL phones are $250 off - The Verge",
+            "description": "Google’s Pixel 11 Pro and Pro XL are discounted to regular Pixel 11 prices during Amazon’s October Prime Day.",
+            "url": "https://www.theverge.com/gadgets/1003856/pixel-11-pro-xl-amazon-prime-day-deal-sale",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Pixel-11-Pro-HiLight-using-HiLight-Studio-Rainbow.jpg?quality=90&strip=all&crop=0%2C10.730155461286%2C100%2C78.539689077427&w=1200",
+            "publishedAt": "2026-10-06T11:30:00Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Pro now costs less than the non-Pro did at launch.\r\nThe Pro now costs less than the non-Pro did at launch.\r\nby\r\nBrad BourqueClose\r\nPosts from this author wil… [+2248 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Financial Times"
+            },
+            "author": "Andrew Hill",
+            "title": "FT and Standard Chartered Book of the Year Award 2026 — the shortlist - Financial Times",
+            "description": "Contenders include titles on weight-loss drugs, AI weaponry and forecasting",
+            "url": "https://www.ft.com/content/d0b2bf57-56c9-4d49-b721-611fc11df7a4?syn-25a6b1a6=1",
+            "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fac88194c-1455-4513-98dc-81ba19629def.jpg?source=next-article&fit=scale-down&quality=highest&width=700&dpr=1",
+            "publishedAt": "2026-10-06T11:20:49Z",
+            "content": "The profound disruptive challenges posed by AI dominate the shortlist of this years Financial Times and Standard Chartered Business Book of the Year Award.\r\nThree of the six finalists tackle the risk… [+2791 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Eurogamer.net"
+            },
+            "author": "Robert Purchese",
+            "title": "CD Projekt Red outlines which Witcher 3 Remastered fixes are coming next, but there's still division about the changes - Eurogamer.net",
+            "description": "PS5 performance improvements are among the top priority issues CDPR is working on fixing for The Witcher 3 - Remastered edition.",
+            "url": "https://www.eurogamer.net/cd-projekt-red-witcher-3-bugs-issues-remastered-ps5",
+            "urlToImage": "https://assetsio.gnwcdn.com/geralt-witcher-3-remastered.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+            "publishedAt": "2026-10-06T11:01:33Z",
+            "content": "CD Projekt Red has let The Witcher 3 community know its work isn't done patching the newly-released Remastered edition of the game.\r\nIn a post on X, CDPR specified a few areas of the game that are st… [+2732 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "TechSpot"
+            },
+            "author": "Steven Walton",
+            "title": "Gears of War: E-Day GPU Benchmark: 44 GPUs Tested - TechSpot",
+            "description": "We tested 44 GPUs in Gears of War: E-Day at 1080p, 1440p, and 4K to see what it takes to run the game well, how 8GB cards hold up, and whether upscaling makes Ultra settings practical.",
+            "url": "https://www.techspot.com/review/3182-gears-of-war-e-day-benchmarks/",
+            "urlToImage": "https://www.techspot.com/articles-info/3182/images/2026-10-05-image-8.jpg",
+            "publishedAt": "2026-10-06T10:17:00Z",
+            "content": "Gears of War: E-Day is the latest blockbuster entry in Microsoft's long-running shooter franchise. And if you want to play it but your GPU isn't quite up to the task, or you're wondering what the bes… [+17380 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "GameSpot"
+            },
+            "author": "Darryn Bonthuys",
+            "title": "Star Wars: Galactic Racer Is Free To Play Now, If You Know Where To Look - GameSpot",
+            "description": "Dive into one of the best racing games of the years for free, if you're an Amazon Prime member.",
+            "url": "https://www.gamespot.com/articles/star-wars-galactic-racer-is-free-to-play-now-if-you-know-where-to-look/",
+            "urlToImage": "https://www.gamespot.com/wp-content/uploads/2026/09/fanatical-star-wars-galactic-racer-pre-order-deal.jpg",
+            "publishedAt": "2026-10-06T09:31:41Z",
+            "content": "GameSpot may receive revenue from affiliate and advertising partnerships for sharing this content and from purchases through links.\r\nStar Wars: Galactic Racer is finally out, and so far, it might jus… [+2189 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Eurogamer.net"
+            },
+            "author": "Connor Makar",
+            "title": "Supermassive Games suffers layoffs as more than 70 developers seem to have left the company this week - Eurogamer.net",
+            "description": "According to a LinkedIn post by Supermassive's IT and facilities director, over 70 developers have been laid off as of this week.",
+            "url": "https://www.eurogamer.net/supermassive-games-layoffs-70",
+            "urlToImage": "https://assetsio.gnwcdn.com/directive-8020-header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+            "publishedAt": "2026-10-06T09:05:20Z",
+            "content": "Supermassive Games - the developer behind games such as Directive 8020 and the original Until Dawn - seems to have lost over 70 staff today as part of widespread layoffs at the company.\r\nSupermassive… [+1667 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Push Square"
+            },
+            "author": "Sammy Barker",
+            "title": "October 2026 PS Plus Essential Games Available to Download Now - Push Square",
+            "description": "You can download until 2nd November",
+            "url": "https://www.pushsquare.com/news/2026/10/october-2026-ps-plus-essential-games-available-to-download-now",
+            "urlToImage": "https://images.pushsquare.com/86e09f7af6247/1280x720.jpg",
+            "publishedAt": "2026-10-06T09:03:50Z",
+            "content": "Image: Push Square\r\nRight on time, another batch of PS Plus Essential games have been added to Sonys service, which are yours to claim and keep for as long as you remain a member.\r\nOctober 2026s sele… [+1094 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Eurogamer.net"
+            },
+            "author": "Sherif Saed",
+            "title": "\"This is Call of Duty's definitive extraction shooter experience\" - Infinity Ward details the new DMZ mode in Modern Warfare 4 - Eurogamer.net",
+            "description": "Infinity Ward has unveiled ambitious plans for Call of Duty: Modern Warfare 4's extraction mode, DMZ.",
+            "url": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-dmz-reveal",
+            "urlToImage": "https://assetsio.gnwcdn.com/modern-warfare-4-dmz-screen-2-crop.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+            "publishedAt": "2026-10-06T08:57:36Z",
+            "content": "Call of Duty: Modern Warfare 4 studio Infinity Ward is betting big on DMZ - the game's extraction shooter mode - becoming another major pillar of the series. In a wide-ranging blog post and developer… [+3447 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Thomas Ricker",
+            "title": "This remote-controlled wagon is silly but so very useful - The Verge",
+            "description": "BougeRV’s DuneRover wagon is so useful in sand and on hills that you’ll look past the absurdity of the disco lights and remote control.",
+            "url": "https://www.theverge.com/tech/1004820/this-remote-controlled-wagon-is-silly-but-useful",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_5043.jpeg?quality=90&strip=all&crop=0%2C25.737652705061%2C100%2C69.808027923211&w=1200",
+            "publishedAt": "2026-10-06T08:00:00Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nBougeRVs DuneRover is so good on hills and sand that youll forgive the disco lights.\r\nIf you buy something from a link, The Verge may earn a commission. See our … [+8013 chars]"
+        },
+        {
+            "source": {
+                "id": "ign",
+                "name": "IGN"
+            },
+            "author": "Robert Anderson",
+            "title": "2026’s Biggest Blockbuster Games Just Received Their First Major Discounts in Amazon’s Prime Sale, but These 48-Hour Deals Won’t Last Long - IGN",
+            "description": "Amazon's latest Prime Day sale features massive discounts on PS5, Switch 2, and Xbox titles, including deals on 2026's biggest games like The Blood of Dawnwalker, Star Wars: Zero Company, Pragmata, LEGO Batman, and more.",
+            "url": "https://www.ign.com/articles/best-video-game-deals-october-prime-day-2026",
+            "urlToImage": "https://assets-prd.ignimgs.com/2026/10/05/amazon-prime-day-october-big-deal-days-best-gaming-deals-xbox-ps5-switch-2-1791210391708.png?width=1280&format=jpg&auto=webp&quality=80",
+            "publishedAt": "2026-10-06T07:21:17Z",
+            "content": "Amazon's Prime Big Deal Days sale is now live, and there are a slew of excellent gaming deals to check out as part of the limited-time offerings. These are exclusive to Prime members, with the deals … [+8952 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Internet"
+            },
+            "author": "The Hacker News",
+            "title": "ClickFix Smuggles Payloads Through Browser Cache to Bypass Windows Run Limits - The Hacker News",
+            "description": "Microsoft observed ClickFix attacks using browser cache smuggling to execute cached VBScript and launch a credential-targeting malware chain.",
+            "url": "https://thehackernews.com/2026/10/clickfix-smuggles-payloads-through.html",
+            "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8Vjgif5jASBMNSuYjBnVZcm9vGO378mJ7VTFTNo9HRROtViKbP_Nm0F0vf626be5n4cwnfDdqgfWVzjKrKboh0BnbM8ALWzt-W7kNq4PSc_TOUbNlwps6sCQgfNyK5DhXk3FHZCuJSo8D2eMOm4r89VmhNa6l5gPpadRZSgTuB_N2yPZlwj0voYddOoVr/s1600/clickfix.jpg",
+            "publishedAt": "2026-10-06T05:22:00Z",
+            "content": "A new type of ClickFix attack is using compromised websites to trick users into executing a malicious payload cached in a web browser's cache.\r\n\"Instead of downloading and executing remote payloads l… [+8828 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "HODINKEE"
+            },
+            "author": "Masaharu Wada",
+            "title": "Introducing: The Seiko Panda Watch That Stole The Show In 2024 Is Finally Here - Hodinkee",
+            "description": "One of the standout creations from Seiko's 2024 power design project—an irresistibly charming chronograph designed to look like an actual panda—has officially entered production.",
+            "url": "https://www.hodinkee.com/articles/the-seiko-panda-watch-that-stole-the-show-in-2024-is-finally-here",
+            "urlToImage": "https://hodinkee.imgix.net/uploads/images/2103fe4e-211a-4712-a594-8278f8b28e18/SeikoWatchesHero.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=1200&h=630&fit=crop",
+            "publishedAt": "2026-10-06T03:00:00Z",
+            "content": "Not every change made its way from concept to production unchanged, however. One revision, in particular, left me with mixed feelings. On the exhibition model, the text at six o'clock read \"PANDAGRAP… [+228 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MacRumors"
+            },
+            "author": "Joe Rossignol",
+            "title": "Apple Announces iPhone Duo Apps Can Now Be Submitted to App Store - MacRumors",
+            "description": "Apple today announced that apps optimized for the iPhone Duo can now be submitted for App Store approval, ahead of the foldable device launching on...",
+            "url": "https://www.macrumors.com/2026/10/05/apple-opens-iphone-duo-app-submissions/",
+            "urlToImage": "https://images.macrumors.com/t/cYI8fp3ZE4xtcXTUOfYrbQ7W6zA=/1960x/article-new/2026/10/iPhone-Duo-Slack.jpg",
+            "publishedAt": "2026-10-06T02:15:00Z",
+            "content": "Apple today announced that apps optimized for the iPhone Duo can now be submitted for App Store approval, ahead of the foldable device launching on Friday, October 23.\r\nWhile existing App Store apps … [+323 chars]"
+        },
         {
             "source": {
                 "id": null,
@@ -17,6 +303,32 @@
         },
         {
             "source": {
+                "id": null,
+                "name": "Lifehacker.com"
+            },
+            "author": "Tim Mulkerin",
+            "title": "Today's NYT Strands Hints (and Answer) for Monday, October 5, 2026 - Lifehacker",
+            "description": "Here are some hints to help you win NYT Strands #946.",
+            "url": "https://lifehacker.com/entertainment/strands-nyt-hint-today-oh-well-too-bad-such-a-shame-october-5-2026",
+            "urlToImage": "https://lifehacker.com/imagery/articles/01M3WZQP1TXDRXVVTVBZ9BK4J6/hero-image.fill.size_1200x675.jpg",
+            "publishedAt": "2026-10-06T01:46:04Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gematsu"
+            },
+            "author": "Sal Romano",
+            "title": "Switch 2 Japanese-Language System ‘Choose-Your-Game Bundle’ launches November 12 in Japan - gematsu.com",
+            "description": "Nintendo will release the Switch 2 Japanese-Language System (Japan Only) Choose-Your-Game Bundle on November 12 in Japan for 63,980 yen, the company announced.",
+            "url": "https://www.gematsu.com/2026/10/switch-2-japanese-language-system-choose-your-game-bundle-launches-november-12-in-japan",
+            "urlToImage": "https://www.gematsu.com/wp-content/uploads/2026/10/Switch-2-Bundle-Japan_10-05-26.jpg",
+            "publishedAt": "2026-10-06T01:25:09Z",
+            "content": null
+        },
+        {
+            "source": {
                 "id": "mashable",
                 "name": "Mashable"
             },
@@ -26,6 +338,19 @@
             "url": "https://mashable.com/entertainment/strands-nyt-hint-october-5-2026",
             "urlToImage": "https://helios-i.mashable.com/imagery/articles/04W7UoSz8fYRtfjEJ1OjAbi/hero-image.fill.size_1200x675.v1790882691.jpg",
             "publishedAt": "2026-10-06T00:08:40Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "TheStreet"
+            },
+            "author": "thestreet.com",
+            "title": "Microsoft cutting off a best-seller with no extension on Oct. 13 - thestreet.com",
+            "description": null,
+            "url": "https://www.thestreet.com/technology/microsoft-ending-support-for-a-beloved-best-seller-on-oct-13",
+            "urlToImage": null,
+            "publishedAt": "2026-10-06T00:01:00Z",
             "content": null
         },
         {
@@ -109,6 +434,32 @@
         {
             "source": {
                 "id": null,
+                "name": "Aftermath.site"
+            },
+            "author": "Nicole Carpenter",
+            "title": "Ninja Theory Laying Off Employees Ahead Of Possible Closure - Aftermath",
+            "description": "Microsoft announced it would close Ninja Theory after a divestiture deal fell through",
+            "url": "https://aftermath.site/ninja-theory-layoffs-closure-xbox-game-studios/",
+            "urlToImage": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/10/senua.jpg",
+            "publishedAt": "2026-10-05T20:41:06Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Chrome Unboxed"
+            },
+            "author": "Robby Payne",
+            "title": "The Googlebook era is here: some first impressions of the hardware and a whole new OS - Chrome Unboxed",
+            "description": "Today is the day. After months of tracking code commits, dissecting leaks, and getting that unforgettable first taste at Google’s media showcase in New York City, Googlebooks are officially landing on doorsteps and retail shelves. Our review units were quite …",
+            "url": "https://chromeunboxed.com/the-googlebook-era-is-here-some-first-impressions-of-the-hardware-and-a-whole-new-os/",
+            "urlToImage": "https://chromeunboxed.com/wp-content/uploads/2026/10/GooglebookArrivesThoughtsDayOne.webp",
+            "publishedAt": "2026-10-05T20:30:26Z",
+            "content": "Support our independent tech coverage. Chrome Unboxed is written by real people, for real peoplenot search algorithms. Join Chrome Unboxed Plus for just $2 a month to get an ad-free experience, acces… [+5083 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "Xbox.com"
             },
             "author": "Joe Skrebels, XBOX Wire Editor-in-Chief",
@@ -147,6 +498,19 @@
         },
         {
             "source": {
+                "id": null,
+                "name": "Android Police"
+            },
+            "author": "Chethan Rao",
+            "title": "Samsung's Galaxy SmartTag 3 works with way more Android phones than anyone realized - Android Police",
+            "description": "No longer exclusive to Galaxy and iOS devices.",
+            "url": "https://www.androidpolice.com/samsung-galaxy-smarttag-3-tracker-extended-compatibility/",
+            "urlToImage": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/09/samsung-smarttag-trackers-in-black-and-white.png?w=1600&h=900&fit=crop",
+            "publishedAt": "2026-10-05T19:54:25Z",
+            "content": "Samsung's older smart trackers have been limited to its own Galaxy smartphones and tablets. The company changed that with the Galaxy SmartTag 3 last week, extending compatibility to iOS devices. Whil… [+2256 chars]"
+        },
+        {
+            "source": {
                 "id": "ars-technica",
                 "name": "Ars Technica"
             },
@@ -156,6 +520,32 @@
             "url": "https://arstechnica.com/apple/2026/10/command-line-tool-quickly-removes-apple-intelligence-from-macos-27/",
             "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/Screenshot-2026-03-03-at-10.30.27-AM-1152x648.jpeg",
             "publishedAt": "2026-10-05T19:14:44Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Vikings.com"
+            },
+            "author": null,
+            "title": "Kevin O'Connell on Injury Updates, Impact of the Defensive Line & T.J. Hockenson's Game vs. Dolphins - Vikings.com",
+            "description": "<p>Minnesota Vikings Head Coach Kevin O'Connell addressed the media at TCO Performance Center ahead of the Week 5 matchup against the New Orleans Saints.</p>",
+            "url": "https://www.vikings.com/video/kevin-oconnell-injury-updates-defensive-line-tj-hockenson",
+            "urlToImage": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/vikings/etrawstxxainwwpvz6pz",
+            "publishedAt": "2026-10-05T19:07:29Z",
+            "content": "Minnesota Vikings CB Byron Murphy Jr, CB Isaiah Rodgers, DL Levi Drake Rodriguez, FB Max Bredeson and WR Tai Felton addressed the media from the TCO Performance Center on Wednesday, Sept. 30."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Overclock3d.net"
+            },
+            "author": "Mark Campbell",
+            "title": "Windows 11 26H2 update quietly shipped with vital RAM improvements - OC3D",
+            "description": "Windows 11 is now using more RAM, delivering notable performance improvements for low RAM PCs. Great news for low-end laptop users.",
+            "url": "https://overclock3d.net/news/software/windows-11-26h2-update-quietly-shipped-with-vital-ram-improvements/",
+            "urlToImage": "https://media.overclock3d.net/2026/10/Windows-11-Getting-Faster.jpg",
+            "publishedAt": "2026-10-05T19:01:06Z",
             "content": null
         },
         {
@@ -186,6 +576,19 @@
         },
         {
             "source": {
+                "id": null,
+                "name": "9to5Mac"
+            },
+            "author": "Zac Hall",
+            "title": "Upgrade to Apple Watch Series 12 or Ultra 4? Here’s how to get the most out of it - 9to5Mac",
+            "description": "Upgrade to a new Apple Watch Series 12 or Ultra 4? Apple Watch Series 12 and Ultra 4 bring upgraded...",
+            "url": "https://9to5mac.com/2026/10/05/upgrade-to-apple-watch-series-12-or-ultra-4-heres-how-to-get-the-most-out-of-it/",
+            "urlToImage": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/ultra-4-siri-modular-apple-watch.webp?resize=1200,628",
+            "publishedAt": "2026-10-05T18:35:00Z",
+            "content": "Upgrade to a new Apple Watch Series 12 or Ultra 4? Apple Watch Series 12 and Ultra 4 bring upgraded performance and new health sensing features.\r\nStill, they can feel like the same watch in day-to-da… [+2873 chars]"
+        },
+        {
+            "source": {
                 "id": "fox-news",
                 "name": "Fox News"
             },
@@ -196,6 +599,19 @@
             "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/man-working-on-laptop.jpg",
             "publishedAt": "2026-10-05T18:30:45Z",
             "content": "A new piece of Windows malware is giving cybercriminals a lot of ways to cause trouble from one infected PC. It can steal passwords, grab browser cookies, route internet traffic through your computer… [+12179 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5Mac"
+            },
+            "author": "Zac Hall",
+            "title": "Apple releases third iOS 27.2 developer beta for iPhone - 9to5Mac",
+            "description": "Apple has released the third iOS 27.2 developer beta for iPhone. The update follows the release of iOS 27 to...",
+            "url": "https://9to5mac.com/2026/10/05/apple-releases-third-ios-27-2-developer-beta-for-iphone/",
+            "urlToImage": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iOS-27.2-b3.jpg?quality=82&strip=all&resize=1200,628",
+            "publishedAt": "2026-10-05T18:18:00Z",
+            "content": "Apple has released the third iOS 27.2 developer beta for iPhone. The update follows the release of iOS 27 to everyone. It also leaps over iOS 27.1, which Apple has shown as an iPhone Duo-focused rele… [+1374 chars]"
         },
         {
             "source": {
@@ -291,6 +707,19 @@
         {
             "source": {
                 "id": null,
+                "name": "Draftsim.com"
+            },
+            "author": "Timothy Zaccagnino",
+            "title": "God Packs And Other Major Changes Coming to MTG Boosters in 2027 - Draftsim",
+            "description": "Play Boosters and Collector Boosters are getting a little bit of a makeover in 2027 and beyond, and Magic's bringing back the elusive God Pack!",
+            "url": "https://draftsim.com/mtg-2027-booster-pack-changes/",
+            "urlToImage": "https://draftsim.com/wp-content/uploads/2026/10/Purphoros-God-of-the-Forge-Illustration-by-Eric-Deschamps.png",
+            "publishedAt": "2026-10-05T16:46:58Z",
+            "content": "Last updated on October 5, 2026\r\nPurphoros, God of the Forge | Illustration by Eric Deschamps\r\nWe're getting our first major booster pack update since Play Boosters were introduced in 2024, and Colle… [+3924 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "9to5google.com"
             },
             "author": "Abner Li",
@@ -313,6 +742,32 @@
             "urlToImage": "https://www.videogameschronicle.com/files/2026/06/senua.jpg",
             "publishedAt": "2026-10-05T16:30:00Z",
             "content": "A number of developers from Hellblade studio Ninja Theory have started announcing that they are either being laid off or face redundancy.\r\nLast month Xboxenacted the second wave of planned cuts as pa… [+2377 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Eurogamer.net"
+            },
+            "author": "Robert Purchese",
+            "title": "The upcoming D&D interpretation of World of Warcraft sounds great, but don't expect it to work like the MMO does - Eurogamer.net",
+            "description": "World of Warcraft is being given the Dungeons & Dragons treatment in a massive new book. But D&D: WoW works quite differently to the MMO.",
+            "url": "https://www.eurogamer.net/dungeons-and-dragons-dnd-world-of-warcraft-wow-book",
+            "urlToImage": "https://assetsio.gnwcdn.com/sylvanas-wow-d%26d-book.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+            "publishedAt": "2026-10-05T16:25:19Z",
+            "content": "So many of the questions in a press briefing for the upcoming Dungeons &amp; Dragons: World of Warcraft book revolved around whether the 52-year-old tabletop game would bend out of shape to work like… [+4567 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Windows Central"
+            },
+            "author": "Zac Bowden",
+            "title": "What to expect at Microsoft's special Windows & Surface event on October 7: Surface Laptop Ultra and RTX Spark revealed, new agentic OS capabilities, and more - Windows Central",
+            "description": "It's not often that Microsoft holds dedicated Windows & Surface events, so all eyes are on its October 7 keynote to deliver something truly meaningful.",
+            "url": "https://www.windowscentral.com/microsoft/windows-11/what-to-expect-at-microsofts-special-windows-and-surface-event-on-october-7-surface-laptop-ultra-and-rtx-spark-revealed-new-agentic-os-capabilities-and-more",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/obrUnsxVfd6fSbXxbuctfW-2560-80.jpg",
+            "publishedAt": "2026-10-05T16:10:51Z",
+            "content": "Microsoft is holding a special event in San Francisco on October 7, and is remaining tight-lipped about what will be discussed. The company has confirmed that Windows, RTX Spark, and Surface are on a… [+7774 chars]"
         },
         {
             "source": {
@@ -811,6 +1266,19 @@
         {
             "source": {
                 "id": null,
+                "name": "Android Authority"
+            },
+            "author": null,
+            "title": "Google is downgrading Gemini for users on budget plans - Android Authority",
+            "description": "Google will soon start limiting access to specific Gemini models for users on its free and lowst-paying tier.",
+            "url": "https://www.androidauthority.com/google-gemini-free-ai-plus-usage-limits-3719012/",
+            "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2026/09/gemini-logo-november-2025-2-1000w-562h.jpg",
+            "publishedAt": "2026-10-05T10:03:00Z",
+            "content": "<ul><li>Google has announced plans to limit access to newer models for non-paying and AI Plus subscribers.</li><li>Google says free users will only be able to access Gemini 3.1-Flash-Lite anymore, wh… [+1968 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "Stratechery.com"
             },
             "author": null,
@@ -875,6 +1343,19 @@
         },
         {
             "source": {
+                "id": "buzzfeed",
+                "name": "Buzzfeed"
+            },
+            "author": "Jeremy Hayes",
+            "title": "25 Rare Vintage Photos That Never Made It Into Any Of Your History Textbooks - buzzfeed.com",
+            "description": "We all still think about you, Blockbuster...",
+            "url": "https://www.buzzfeed.com/jeremyhayes/way-back-photos-to-baffle-gen-z",
+            "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2026-09/25/16/subbuzz/I4yMVW7Ji.jpg?crop=4950:2592;0,361%26downsize=1250:*",
+            "publishedAt": "2026-10-05T09:31:05Z",
+            "content": null
+        },
+        {
+            "source": {
                 "id": null,
                 "name": "Android Authority"
             },
@@ -885,6 +1366,19 @@
             "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2026/10/Amazon-Kindle-with-page-turn-case.jpeg",
             "publishedAt": "2026-10-05T09:30:00Z",
             "content": "To say that Amazon has had a rough year with the Kindle would be an understatement. Between sunsetting older e-reader models, making it harder to download purchased Kindle books, and introducing a se… [+7952 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Eurogamer.net"
+            },
+            "author": "Connor Makar",
+            "title": "RuneScape creator Jagex in hot water over generative AI use in recent trailer - Eurogamer.net",
+            "description": "RuneFest was held over the weekend, and while there were multiple exciting announcements from the British MMO developer, one trailer has turned fans sour.",
+            "url": "https://www.eurogamer.net/runescape-dragon-slayer-2-trailer-generative-ai",
+            "urlToImage": "https://assetsio.gnwcdn.com/runescape-dragon-slayer-2-ai.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+            "publishedAt": "2026-10-05T09:28:10Z",
+            "content": "RuneScape creator Jagex recently hosted its annual convention RuneFest, a hub for community events and new reveals for the British developer's many games. Sadly, one of those reveals has spoilt the f… [+3040 chars]"
         },
         {
             "source": {
@@ -976,6 +1470,19 @@
             "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2026/09/google-pixel-11-pro-lock-screen-face-unlock-scaled.jpg",
             "publishedAt": "2026-10-05T07:30:00Z",
             "content": "<ul><li>Weve uncovered a new lock screen customization page for Pixel owners in the Wallpaper &amp; Style app.</li><li>The page is mostly blank right now but includes buttons for tweaking wallpapers,… [+2170 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "GSMArena.com"
+            },
+            "author": "Siddharth",
+            "title": "Here's your first look at Google's next fitness tracker, the Fitbit Edge - GSMArena.com news - GSMArena.com",
+            "description": "It is said to launch later this month with a 7 day battery life. Back in August, Google Australia accidentally revealed an upcoming Fitbit device in...",
+            "url": "https://www.gsmarena.com/heres_your_first_look_at_googles_next_fitness_tracker_the_fitbit_edge-news-74895.php",
+            "urlToImage": "https://fdn.gsmarena.com/imgroot/news/26/10/google-fitbit-edge-leak/-952x498w6/gsmarena_00.jpg",
+            "publishedAt": "2026-10-05T06:05:02Z",
+            "content": "Back in August, Google Australia accidentally revealed an upcoming Fitbit device in official promo images during the Pixel 11 series launch. Now, a new report has revealed the design and key features… [+1253 chars]"
         },
         {
             "source": {
@@ -5266,305 +5773,6 @@
             "urlToImage": "https://kotaku.com/app/uploads/2026/05/star-fox-4.jpg",
             "publishedAt": "2026-09-30T13:12:43Z",
             "content": "Star Fox for the Switch 2 just got a surprise update that adds new stages and features for battle mode, as well as some significant tweaks to other parts of the game. It’s nothing as drastic as a com… [+1464 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Pokemon.com"
-            },
-            "author": null,
-            "title": "Pokémon Legends: Z-A – Nintendo Switch 2 Edition + Mega Dimension Bundle Coming Soon - Pokemon.com",
-            "description": "The Pokémon Legends: Z-A – Nintendo Switch 2 Edition + Mega Dimension bundle is coming soon.",
-            "url": "https://www.pokemon.com/us/news/pokemon-legends-z-a-nintendo-switch-2-edition-mega-dimension-bundle-coming-soon",
-            "urlToImage": "https://mcdn.pokemon.com/pokemon-prod/image/upload/c_limit,w_1920/f_auto/v1/live/pcom-cms/static-assets/cms3/us/img/video-games/tiles/pokemon-legends-z-a/bundle/announce/pokemon-legends-z-a-169-us.png",
-            "publishedAt": "2026-09-30T13:07:30Z",
-            "content": "In Pokémon Legends: Z-A, you explore Lumiose City, working together with your friends at Hotel Z to tackle all sorts of incidents that crop up involving people and Pokémon. The adventure continues in… [+1138 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gematsu"
-            },
-            "author": "Sal Romano",
-            "title": "Grasshopper Manufacture splits from NetEase Games - Gematsu",
-            "description": "Grasshopper Manufacture has split from now-former parent company NetEase Games, the company announced. NetEase Games acquired the developer from previous parent company GungHo Online Entertainment …",
-            "url": "https://www.gematsu.com/2026/09/grasshopper-manufacture-splits-from-netease-games",
-            "urlToImage": "https://www.gematsu.com/wp-content/uploads/2026/09/Grasshopper-Independent_09-30-26.jpg",
-            "publishedAt": "2026-09-30T13:06:46Z",
-            "content": "Here is a message from Grasshopper Manufacture representative director and CEO Goichi Suda on the studio’s newfound independence:This past February, Grasshopper Manufacture released its latest title,… [+1557 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Stevie Bonifield",
-            "title": "Amazon’s new Fire TV Stick 4K can pull power directly from your TV - The Verge",
-            "description": "Amazon launched a new Fire TV Stick 4K with support for direct power from TVs and a slimmer design, along with a redesigned Fire TV remote.",
-            "url": "https://www.theverge.com/streaming/1002597/amazon-fire-tv-stick-4k-direct-power",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/fire-tv-stick-4k_ftv-remote_hero_1920x1080.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-            "publishedAt": "2026-09-30T13:00:16Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nAmazons also launching a redesigned Fire TV remote with a new shape and clickier controls.\r\nAmazons also launching a redesigned Fire TV remote with a new shape a… [+2854 chars]"
-        },
-        {
-            "source": {
-                "id": "bloomberg",
-                "name": "Bloomberg"
-            },
-            "author": "Chris Welch",
-            "title": "Amazon Debuts Faster Fire TV Stick 4K With Sleeker Remote - Bloomberg.com",
-            "description": "Amazon.com Inc. announced a faster, slimmer Fire TV Stick 4K streaming device alongside a revamped remote control and upgrades to Alexa+ for the living room.",
-            "url": "https://www.bloomberg.com/news/articles/2026-09-30/amazon-debuts-new-fire-tv-stick-4k-with-sleeker-remote-control",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iwihEDrg1S9M/v1/1200x846.jpg",
-            "publishedAt": "2026-09-30T13:00:14Z",
-            "content": "Amazon.com Inc. announced a faster, slimmer Fire TV Stick 4K streaming device alongside a revamped remote control and upgrades to Alexa+ for the living room. \r\nThe new product is priced at $59.99 and… [+140 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "John Higgins",
-            "title": "The Sonos Ace Ultra are the headphones Sonos should have made the first time - The Verge",
-            "description": "﻿With better sound, better ANC, and Wi-Fi audio streaming, the Ace Ultra are finally worthy of the Sonos name.",
-            "url": "https://www.theverge.com/tech/1002122/sonos-ace-ultra-headphones-review",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268780_Sonos_Ace_Ultra_P_JHiggins_6.jpg?quality=90&strip=all&crop=0%2C10.737425760868%2C100%2C78.525148478264&w=1200",
-            "publishedAt": "2026-09-30T13:00:00Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nWith better sound, better ANC, and Wi-Fi audio streaming, the Ace Ultra are finally worthy of the Sonos name.\r\nIf you buy something from a Verge link, Vox Media … [+9654 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Videocardz.com"
-            },
-            "author": null,
-            "title": "Borderless Gaming adds DLSS 5 Neural Rendering without modifying game files - VideoCardz.com",
-            "description": "Borderless Gaming can now apply DLSS 5 Neural Rendering without replacing game DLLs or modifying game files. The quantized BGFX effect can run on GPUs including the RTX 3090.",
-            "url": "https://videocardz.com/newz/borderless-gaming-adds-dlss-5-neural-rendering-without-modifying-game-files",
-            "urlToImage": "https://cdn.videocardz.com/1/2026/09/BORDERLESS-GAMING.webp",
-            "publishedAt": "2026-09-30T12:51:51Z",
-            "content": "Borderless Gaming, which is a paid tool on Steam, has added support for an unofficial implementation of NVIDIA DLSS 5 Neural Rendering.\r\n© Borderless Gaming\r\nUnlike many of the DLSS 5 experiments we … [+4007 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "GSMArena.com"
-            },
-            "author": "Peter",
-            "title": "The new Samsung SmartTag3 supports iOS, it's also smaller and its battery lasts longer - GSMArena.com news - GSMArena.com",
-            "description": "This is the first generation that supports both Androids and iPhones. New wireless tech also offers Compass View from three times longer the distance than the previous tag.",
-            "url": "https://www.gsmarena.com/the_new_samsung_smarttag3_supports_ios_its_also_smaller_and_its_battery_lasts_longer-news-74835.php",
-            "urlToImage": "https://fdn.gsmarena.com/imgroot/news/26/09/samsung-smarttag3-official/-952x498w6/gsmarena_000.jpg",
-            "publishedAt": "2026-09-30T12:15:02Z",
-            "content": "The Samsung SmartTag2 is three years old now and was due for an upgrade. This is the first generation that is cross-platform it works with both Android and iOS devices. Its also smaller and lighter, … [+3146 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "AppleInsider"
-            },
-            "author": "William Gallagher",
-            "title": "Refreshed HomePod mini, Apple TV and new HomeHub coming on October 13 - AppleInsider",
-            "description": "A new report claims that Apple is planning October 13 for the unveiling of a trio of home products, including the much-awaited HomeHub or HomePod.",
-            "url": "https://appleinsider.com/articles/26/09/30/refreshed-homepod-mini-apple-tv-and-new-homehub-coming-on-october-13",
-            "urlToImage": "https://media.appleinsider.com/gallery/68698-144700-66929-140539-Apple-HomeHub-xl-xl.jpg",
-            "publishedAt": "2026-09-30T12:06:30Z",
-            "content": "Mockup of how Apple's Home Hub might look\r\nA new report claims that Apple is planning October 13 for the unveiling of a trio of home products, including the much-awaited HomeHub or HomePod.\r\nIt's alr… [+4178 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNET"
-            },
-            "author": "Abrar Al-Heeti",
-            "title": "The iPhone Duo Isn’t for Everyone. It Doesn’t Need to Be - CNET",
-            "description": "Commentary: Apple's $1,999 foldable isn't meant to be a crowd pleaser. It's an option for people who want something different – and can afford it.",
-            "url": "https://www.cnet.com/tech/mobile/iphone-duo-isnt-for-everyone/",
-            "urlToImage": "https://www.cnet.com/wp-content/uploads/sites/2/iPhone-Duo-still-17.jpg",
-            "publishedAt": "2026-09-30T12:00:16Z",
-            "content": "The iPhone Duo‘s launch has sparked a duality of opinion: Is it worth upgrading to Apple’s new foldable phone?\r\nThe conversation around the $1,999 device, which becomes available Oct. 23, is everywhe… [+8153 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "9to5google.com"
-            },
-            "author": "Ben Schoon",
-            "title": "Samsung Galaxy Tab S12 series goes official from $1,199 with Photoshop pre-installed - 9to5Google",
-            "description": "Samsung is today officially launching its new Galaxy Tab S12 series with the Tab S12+ and Tab S12 Ultra delivering...",
-            "url": "http://9to5google.com/2026/09/30/samsung-galaxy-tab-s12-official/",
-            "urlToImage": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/galaxy-tab-s12-ultra-1.jpg?quality=82&strip=all&resize=1200,628",
-            "publishedAt": "2026-09-30T12:00:00Z",
-            "content": "Samsung is today officially launching its new Galaxy Tab S12 series with the Tab S12+ and Tab S12 Ultra delivering big displays, powerful specs, and some new software tricks too.\r\nAvailable starting … [+2401 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Dominic Preston",
-            "title": "Samsung gives its two-year-old Galaxy Tab S Plus an overhaul - The Verge",
-            "description": "The Galaxy Tab S12 Plus and Tab S12 Ultra are launching together, though the larger Ultra is getting a smaller update.",
-            "url": "https://www.theverge.com/tech/1002533/samsung-galaxy-tab-s12-plus-ultra-android-tablets-specs-price",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/samsung-galaxy-tab-s12-plus-ultra-hero.jpg?quality=90&strip=all&crop=0%2C10.741906587151%2C100%2C78.516186825698&w=1200",
-            "publishedAt": "2026-09-30T12:00:00Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Galaxy Tab S12 Plus gets a big update, though the Tab S12 Ultra is a more modest refresh.\r\nThe Galaxy Tab S12 Plus gets a big update, though the Tab S12 Ultr… [+3215 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gamingbible.com"
-            },
-            "author": "Richard Breslin",
-            "title": "Halo: Combat Evolved is now playable for free in your browser, complete with 128-player multiplayer - GAMINGbible",
-            "description": "Somehow it supports up to 128 players in multiplayer 👀",
-            "url": "https://www.gamingbible.com/news/platform/pc/halo-combat-evolved-free-browser-128-player-multiplayer-505300-20260930",
-            "urlToImage": "https://resizer.ladbiblegroup.com/ogimage/v3/assets/bltbc1876152fcd9f07/blt537e52d0a1ea9c39/6abce29c04be85ba176f8972/halo-combat-evolved-anniversary-300932026.jpg",
-            "publishedAt": "2026-09-30T12:00:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Notebookcheck.net"
-            },
-            "author": "Anil Ganti",
-            "title": "Samsung launches two flagship tablets with 120 Hz AMOLED screens and Dimensity 9500 - Notebookcheck",
-            "description": "Samsung has unveiled its flagship Galaxy Tab S12 Ultra and Galaxy Tab S12+ tablets. Both are powered by the MediaTek Dimensity 9500 and run Android 17 with One UI 9.",
-            "url": "https://www.notebookcheck.net/Samsung-launches-two-flagship-tablets-with-120-Hz-AMOLED-screens-and-Dimensity-9500.1411964.0.html",
-            "urlToImage": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Samsung-Galaxy-Tab-S12-series-header68.jpg",
-            "publishedAt": "2026-09-30T12:00:00Z",
-            "content": "Samsung has officially introduced the Galaxy Tab S12 series, consisting of the Galaxy Tab S12 Ultra and Galaxy Tab S12+, with the regular Galaxy Tab S12 getting sidelined again. Both tablets stick to… [+2285 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Windows Central"
-            },
-            "author": "Sean Endicott",
-            "title": "Microsoft just launched native Linux container support on Windows 11 - Windows Central",
-            "description": "Microsoft just added native Linux container management directly into Windows Subsystem for Linux",
-            "url": "https://www.windowscentral.com/microsoft/windows-11/microsoft-just-cut-out-the-middleman-for-running-linux-tools-on-windows-11",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/DgAzb6iednSKudBfjB3EgD-2560-80.jpg",
-            "publishedAt": "2026-09-30T11:45:51Z",
-            "content": "Developers can now jump into their workflows faster on Windows 11. Microsoft has made WSL Containers generally available, reducing the setup and management required to run Linux containers through th… [+1997 chars]"
-        },
-        {
-            "source": {
-                "id": "ars-technica",
-                "name": "Ars Technica"
-            },
-            "author": "Dan Goodin",
-            "title": "Cloudflare plans to issue quantum-safe TLS certificates - Ars Technica",
-            "description": "The move will be part of a major overhaul of the ecosystem for website authentication.",
-            "url": "https://arstechnica.com/security/2026/09/cloudflare-plans-to-issue-quantum-safe-tls-certificates/",
-            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/https-1152x648.jpg",
-            "publishedAt": "2026-09-30T11:15:14Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Tom Warren",
-            "title": "Apple’s “HomePad” will reportedly launch on October 13th - theverge.com",
-            "description": "Apple will reportedly launch a new smart home hub, HomePod mini, and Apple TV next month. All three devices will showcase Siri AI.",
-            "url": "https://www.theverge.com/news/1002563/apple-smart-home-hub-homepad-rumor-launch-date",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK071_APPLE_H.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-09-30T11:11:24Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe long-rumored smart home hub will reportedly be revealed alongside a new HomePod mini and Apple TV.\r\nThe long-rumored smart home hub will reportedly be reveal… [+2869 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "9to5Mac"
-            },
-            "author": "Ben Lovejoy",
-            "title": "Apple’s HomePad smart home hub launching on Oct 13 with iMac G4 design – Bloomberg - 9to5Mac",
-            "description": "Apple’s long-awaited smart home hub, which we’ve been referring to as the HomePad, is set to launch on October 13,...",
-            "url": "https://9to5mac.com/2026/09/30/apples-homepad-smart-home-hub-launching-on-oct-13-bloomberg/",
-            "urlToImage": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Apples-HomePad-smart-home-hub-reportedly-launching-on-Oct-13.webp?resize=1200,628",
-            "publishedAt": "2026-09-30T10:52:00Z",
-            "content": "Apples long-awaited smart home hub, which weve been referring to as the HomePad, is set to launch on October 13, according to Bloomberg.\r\nThe device is said to feature a 6-inch display and a design i… [+1670 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Wccftech"
-            },
-            "author": "Francesco De Meo",
-            "title": "The Witcher 3 Remastered Crushes GPUs With Path Tracing, but Free Mod Claws Back Up to 30% Performance - Wccftech",
-            "description": "",
-            "url": "https://wccftech.com/the-witcher-3-remastered-path-tracing-optimization-30-performance/",
-            "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2026/09/The-Witcher-3-Optimized-Path-Tracing.jpg",
-            "publishedAt": "2026-09-30T10:07:36Z",
-            "content": "Following its surprise announcement during this year's gamescom Opening Night Live, The Witcher 3 Remastered is now available on PC, PlayStation 5, Xbox Series X|S, and Nintendo Switch 2. While the n… [+2570 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gamingbible.com"
-            },
-            "author": "Richard Breslin",
-            "title": "GTA 6 just confirmed 12 new features, and GOTY hype is getting serious - GAMINGbible",
-            "description": "GTA 6 has confirmed 12 new gameplay features, and they could make it even more impressive 👀",
-            "url": "https://www.gamingbible.com/news/gta-6-12-new-features-gameplay-goty-549636-20260930",
-            "urlToImage": "https://resizer.ladbiblegroup.com/ogimage/v3/assets/bltbc1876152fcd9f07/blt72fcad94ab604450/6abcd0dc6497f8fdef809f2a/gta-6-game-informer-screenshot-1.jpg",
-            "publishedAt": "2026-09-30T09:30:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Warhammer-community.com"
-            },
-            "author": null,
-            "title": "Warhammer 40,000 – Balance Update: Emboldened Astartes - Warhammer Community",
-            "description": "Heretics and Loyalists alike are receiving a suite of updates in time for the release of Codex: Space Marines.",
-            "url": "https://www.warhammer-community.com/articles/rylbvfnv/warhammer-40000-balance-update-emboldened-astartes",
-            "urlToImage": "https://assets.warhammer-community.com/articles/0-2026/september/wc28-09/40k_smbalance-sep09-2-share-cmhjoc2oe9.jpg",
-            "publishedAt": "2026-09-30T09:29:22Z",
-            "content": "© Copyright Games Workshop Limited 2026. GW, Games Workshop, Citadel, White Dwarf, Space Marine, 40K, Warhammer, Warhammer 40,000, the Aquila Double-headed Eagle logo, Warhammer Age of Sigmar, Battle… [+1391 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Video Games Chronicle"
-            },
-            "author": "Andy Robinson",
-            "title": "Halo’s former creative director urges Activision to hire laid off Bungie, Halo Studios devs - Video Games Chronicle",
-            "description": "Frank O'Connor shares advice to Activision for how the Halo series could go forward",
-            "url": "https://www.videogameschronicle.com/news/halos-former-creative-director-urges-activision-to-hire-laid-off-bungie-halo-studios-devs/",
-            "urlToImage": "https://www.videogameschronicle.com/files/2026/09/haloactivisionvgc.jpg",
-            "publishedAt": "2026-09-30T09:04:05Z",
-            "content": "Halos former creative director has urged Activision to hire former Bungie and Halo Studios staff to build the next game in the series, which he says should maintain the shooters sandbox DNA.\r\nThe Hal… [+2250 chars]"
-        },
-        {
-            "source": {
-                "id": "ign",
-                "name": "IGN"
-            },
-            "author": "Wesley Yin-Poole",
-            "title": "Massive Deadlock Update Gives Valve's MOBA Hero Shooter a Shot in the Arm - IGN",
-            "description": "Valve has issued a huge update to its in-development MOBA hero shooter Deadlock, propelling it to the top of Steam’s most-played games chart.",
-            "url": "https://www.ign.com/articles/huge-deadlock-update-propels-valves-moba-hero-shooter-to-the-top-of-the-steam-charts-smashes-peak-concurrent-player-record",
-            "urlToImage": "https://assets-prd.ignimgs.com/2026/09/30/times-square-05-1790757839019.jpg?width=1280&format=jpg&auto=webp&quality=80",
-            "publishedAt": "2026-09-30T08:49:18Z",
-            "content": "Valve has issued a huge update to its in-development MOBA hero shooter Deadlock, propelling it to the top of Steams most-played games chart.\r\nThe update significantly updated the map, added six new h… [+2192 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Tom's Guide"
-            },
-            "author": "Kaycee Hill",
-            "title": "The hidden iOS 27 feature that stops scammers from stealing your money - Tom's Guide",
-            "description": "Learn how to find iOS 27’s anti-scam shield in your iPhone settings to block fraudsters in real time without compromising your privacy.",
-            "url": "https://www.tomsguide.com/phones/ios-27-has-a-hidden-anti-scam-setting-heres-why-every-iphone-user-should-turn-it-on",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/qCqRx69EK98Yt86UK3KgVA-2000-80.jpg",
-            "publishedAt": "2026-09-30T06:00:00Z",
-            "content": null
         }
     ]
 }

@@ -1,7 +1,306 @@
 {
     "status": "ok",
-    "totalResults": 420,
+    "totalResults": 425,
     "articles": [
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Adam Reiss, Matt Lavietes, Maggie Vespa",
+            "title": "Cornell faculty senate introduces no-confidence resolution over handling of alleged 2024 sexual assault - NBC News",
+            "description": "ITHACA, N.Y. — Cornell University faculty introduced a resolution declaring a no-confidence vote in the university administration’s handling of the alleged 2024 sexual assault at a fraternity house.",
+            "url": "https://www.nbcnews.com/news/us-news/cornell-faculty-senate-introduces-no-confidence-resolution-handling-al-rcna601824",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261006-cornell-mb-0915-ee8e0d.jpg",
+            "publishedAt": "2026-10-06T14:20:23Z",
+            "content": "ITHACA, N.Y. Cornell University faculty introduced a resolution declaring a no-confidence vote in the university administrations handling of the alleged 2024 sexual assault at a fraternity house.\r\nTh… [+3816 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Henry T. Casey",
+            "title": "I review AirPods, MacBooks and more. Here are the 14 best Amazon Prime Day Apple deals - CNN",
+            "description": "Our tech reviewer has tested tons of Apple gear and is separating the wheat from the chaff when it comes to Amazon’s October Prime Day deals.",
+            "url": "https://www.cnn.com/cnn-underscored/deals/best-amazon-prime-day-apple-deals-2026-10-06",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/macbook-air-pbdd-2.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2026-10-06T14:12:00Z",
+            "content": "Want more deals? Visit CNN Underscoreds Guide to Prime Big Deal Days for wall-to-wall coverage of the best discounts to be found during Amazons annual fall sale.\r\nYou wait months for Apple Prime Day … [+6801 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NBCSports.com"
+            },
+            "author": "Josh Alper",
+            "title": "Report: \"Outside chance\" Lamar Jackson plays in Week 5 - NBC Sports",
+            "description": "Tyler Huntley would start for the Ravens if Jackson is out.",
+            "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-outside-chance-lamar-jackson-plays-in-week-5",
+            "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/d1284f5/2147483647/strip/true/crop/6000x3375+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ff3%2F11%2Fcbad566846f78351d300516502fc%2F2298237593.jpg",
+            "publishedAt": "2026-10-06T13:15:38Z",
+            "content": "Signs continue to point toward Ravens quarterback Lamar Jackson missing Sunday nights game in Atlanta. \r\nPFT reported that Jackson was considered week-to-week after injuring his ankle in Baltimores W… [+621 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "Lindsay Whitehurst",
+            "title": "Alito says Supreme Court can’t stem emergency appeals and voices concern over Trump’s rhetoric - AP News",
+            "description": "Some of President Donald Trump's rhetoric about members of the Supreme Court isn't sitting well with one of his favorite justices. Samuel Alito tells The Associated Press that personal criticisms from the president and his administration may undermine public …",
+            "url": "https://apnews.com/article/alito-supreme-court-trump-emergency-docket-book-6d9bee292b228c2624377f628eb38760",
+            "urlToImage": "https://dims.apnews.com/dims4/default/fa3155c/2147483647/strip/true/crop/5444x3627+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fce%2F39%2F7eeaa0bcad1eefcaf820f9084100%2F61c1999c19814c31a3cf1a7ef93361a2",
+            "publishedAt": "2026-10-06T13:06:00Z",
+            "content": "WASHINGTON (AP) Supreme Court Justice Samuel Alito says the escalating volume of emergency appeals before the court isnt a good thing, but he adds theres little the court can do to change the traject… [+5884 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Science Daily"
+            },
+            "author": null,
+            "title": "Goodbye joint replacements? Stanford scientists found a way to regrow cartilage and stop arthritis - ScienceDaily",
+            "description": "Scientists have found a surprising way to regrow damaged knee cartilage by blocking a protein that becomes more abundant with age. In old mice, the treatment restored naturally lost cartilage and also helped prevent osteoarthritis after ACL-like knee injuries…",
+            "url": "https://www.sciencedaily.com/releases/2026/10/261005011249.htm",
+            "urlToImage": "https://www.sciencedaily.com/images/1920/knee-joint-arthritis-cartilage-injury.webp",
+            "publishedAt": "2026-10-06T13:05:35Z",
+            "content": "Scientists have identified a way to restore cartilage in aging knee joints, at least in mice, by blocking a protein whose levels rise with age. The approach not only reversed naturally occurring cart… [+11434 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Reuters",
+            "title": "Paramount completes $110B Warner Bros. merger to form Skydance - NBC News",
+            "description": "Paramount Skydance completed its $110 billion ​takeover of Warner Bros Discovery and handing CEO David ‌Ellison control of an entertainment powerhouse.",
+            "url": "https://www.nbcnews.com/business/media/paramount-warner-bros-skydance-closes-rcna601833",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261006-warner-brothers-mn-0850-9bef74.jpg",
+            "publishedAt": "2026-10-06T12:54:17Z",
+            "content": "Paramount Skydance on Tuesday completed its blockbuster $110 billion takeover of Warner Bros Discovery creating a Hollywood heavyweight called Skydance and handing CEO David Ellison control of one of… [+2561 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Sam Meredith",
+            "title": "Russia’s neighbor backs push to lift ban on nuclear weapons, prompting outcry from Moscow - CNBC",
+            "description": "Lithuania is seeking to bolster its security amid growing concerns over Russia.",
+            "url": "https://www.cnbc.com/2026/10/06/russia-ukraine-lithuania-trump-nato.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108373128-1791284032604-gettyimages-2259854967-20260204ppel3246_20260204.jpeg?v=1791286450&w=1920&h=1080",
+            "publishedAt": "2026-10-06T12:04:46Z",
+            "content": "The Kremlin on Tuesday warned a preliminary decision by Lithuanian lawmakers to lift a constitutional ban on hosting nuclear weapons and the potential deployment of a NATO military base in the countr… [+1644 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hollywood Reporter"
+            },
+            "author": "Steven Zeitchik",
+            "title": "Now It’s Clear Why Amazon Didn’t Want to Release ‘Artificial’: It’s Withering AF - The Hollywood Reporter",
+            "description": "Luca Guadagnino’s new film skewers OpenAI's Sam Altman and almost anyone who ever aligned with him. It’s also largely accurate.",
+            "url": "http://www.hollywoodreporter.com/movies/movie-news/what-artifical-is-about-altman-garfield-1236723194/",
+            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/artificalnyff.jpg?w=1440&h=810&crop=1",
+            "publishedAt": "2026-10-06T12:00:46Z",
+            "content": "“Aggressive technocapitalism wins, safety dies” is a long name for a movie and a short logline for a film, yet the phrase might accurately be used for both when it comes to Artificial.\r\nLuca Guadagni… [+11284 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Kasey Caminiti",
+            "title": "Today's biggest TV deal? $2,000 off a 100-inch Hisense TV (yes, really) - USA Today",
+            "description": "Prime Big Deal Days brings major savings on Hisense U7SG MiniLED TVs, with discounts ranging from $650 to $2,000 off. Shop every size from 55 inches to 100 inches.",
+            "url": "https://www.usatoday.com/story/shopping/deals/prime-day/2026/10/06/hisense-amazon-prime-day-tv-deals/92013372007/",
+            "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/09/30/USAT/92013807007-hisensehero.png?crop=1999,1124,x0,y0&width=1999&height=1124&format=pjpg&auto=webp",
+            "publishedAt": "2026-10-06T11:43:00Z",
+            "content": "Amazon is taking up to $2,000 off Hisense U7SG MiniLED TVs for Prime Big Deal Days\r\nIf you've been waiting for an excuse to go really big with your TV, this might be it.\r\nDuring Amazon's Prime Big De… [+2495 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": null,
+            "title": "OpenAI, Anthropic, Meta, Google stop short of AI safety guarantee - Fox News",
+            "description": "OpenAI, Anthropic, Meta and Google representatives stopped short of guaranteeing their AI agents will always obey safeguards during a New York City Council hearing.",
+            "url": "https://www.foxnews.com/live-news/ai-super-intelligence-safety-10-06",
+            "urlToImage": "https://assets.foxnews.com/liveblog/fn/prod/images/2026/10/882a73524af575625083f2d2ee52394e.jpg",
+            "publishedAt": "2026-10-06T11:21:00Z",
+            "content": "The American Hospital Association is pushing back on a Blue Cross Blue Shield Association report that linked hospitals growing use of artificial intelligence-enabled documentation tools to higher hea… [+2249 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "California leaders hit back after Trump says Iran can 'take out' LA and San Diego - BBC",
+            "description": "The US president said rising gas prices were a \"small price to pay for keeping the world safe\" at an election rally in Nebraska.",
+            "url": "https://www.bbc.com/news/articles/c6r7yn8pknyxo",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6e38/live/ca132f80-c177-11f1-bed0-05ebd781c53c.jpg",
+            "publishedAt": "2026-10-06T11:13:27Z",
+            "content": "San Diego, located 17 miles (27km) from the border with Mexico, is the eighth largest city in the US and is home to Naval Base San Diego, the home port of the US Navy's Pacific Fleet, and Naval Amphi… [+75 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Edward Segarra",
+            "title": "Disney star Christy Carlson Romano talks new book, stage moms, more - USA Today",
+            "description": "Christy Carlson Romano unpacks her Hollywood upbringing in \"Once Upon a Trainwreck.\" The Disney star chats with USA TODAY about the compelling memoir.",
+            "url": "https://www.usatoday.com/story/entertainment/books/2026/10/06/christy-carlson-romano-book-interview-once-upon-a-trainwreck-disney/91998643007/",
+            "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/09/30/USAT/92016491007-226062823-hr-1.jpg?crop=1643,924,x0,y863&width=1643&height=924&format=pjpg&auto=webp",
+            "publishedAt": "2026-10-06T11:01:00Z",
+            "content": "Christy Carlson Romano knows how to play a role, but finding herself has proven to be her greatest performance.\r\nThe Emmy-nominated actress and Disney Channel alum looks back on her turbulent upbring… [+5871 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Cameron Faulkner",
+            "title": "The best October Prime Day tech deals we found - The Verge",
+            "description": "Amazon Prime Big Deal Days is here through October 8th at 3AM ET, and we’ve found nearly 100 tech deals we think Verge readers will love.",
+            "url": "https://www.theverge.com/gadgets/996983/best-october-prime-day-deal-sale-tech",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268775_October_Prime_Day_DAY_1_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-10-06T10:55:05Z",
+            "content": "100 deals and counting<ul><li></li><li></li><li></li></ul>\r\nSome of the years best discounts on Kindles, MacBooks, smartwatches, TVs, and much more.\r\nSome of the years best discounts on Kindles, MacB… [+2124 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Teslarati"
+            },
+            "author": "Gene",
+            "title": "SpaceX just locked up a NASA record no other U.S. spacecraft can touch - Teslarati",
+            "description": "SpaceX's Crew-13 Dragon reached the ISS in under eight hours, and NASA confirmed a record.",
+            "url": "https://www.teslarati.com/spacex-just-locked-up-a-nasa-record-no-other-u-s-spacecraft-can-touch/",
+            "urlToImage": "https://www.teslarati.com/wp-content/uploads/2025/06/spacex-dragon-axiom-ax-4-mission-iss--1000x600.jpg",
+            "publishedAt": "2026-10-06T10:46:40Z",
+            "content": "Elon Musk has acknowledged that early discussions with Taiwan Semiconductor Manufacturing Company (TSMC) could bring the company into his ambitious Terafab semiconductor project, signaling a possible… [+2291 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera Staff",
+            "title": "Fort Hood shooter to be executed by firing squad: All to know - Al Jazeera",
+            "description": "The US Army is averse to capital punishment and has not carried out an execution in decades.",
+            "url": "https://www.aljazeera.com/news/2026/10/6/fort-hood-shooter-to-be-executed-by-firing-squad-all-to-know",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/10/AFP__20101115__Was3545141__v1001__HighRes__FilesUsShootingCrime-1791281952.jpg?resize=1200%2C675",
+            "publishedAt": "2026-10-06T10:30:58Z",
+            "content": "United States President Donald Trump has approved the death by firing squad of Nidal Malik Hasan, a former army officer convicted of carrying out a 2009 mass shooting at Fort Hood, an army base in Te… [+4554 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": null,
+            "title": "Lionel Messi prepares for his final match for Argentina - AP News",
+            "description": "Expect lots of tears when Lionel Messi plays his last game for Argentina. The friendly against Benin in Buenos Aires on Tuesday has been dubbed “The Night That No One Wants to End.” The 39-year-old soccer icon announced his international retirement in the wee…",
+            "url": "https://apnews.com/article/lionel-messi-last-match-argentina-fcb7298f993c07edd6c28b9ebd008613",
+            "urlToImage": "https://dims.apnews.com/dims4/default/c3fa3a0/2147483647/strip/true/crop/3057x2037+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F9c%2Ff5%2Fe4ed79952913aae84a9a060ea65a%2F15322d288ef8438898561d2a92371c4f",
+            "publishedAt": "2026-10-06T10:28:00Z",
+            "content": "BUENOS AIRES, Argentina (AP) Expect lots of tears when Lionel Messi plays a farewell game for Argentina on Tuesday.\r\nThe friendly against Benin in Buenos Aires has been dubbed The Night That No One W… [+1498 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Forbes",
+            "title": "WHO Comments On Russian Plague Lab Death As Trump Expresses Concern - Forbes",
+            "description": null,
+            "url": "https://www.forbes.com/sites/siladityaray/2026/10/06/who-reacts-to-russian-plague-lab-death-as-trump-offers-help/",
+            "urlToImage": null,
+            "publishedAt": "2026-10-06T09:36:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Abcnews.com"
+            },
+            "author": "ABC News - Breaking News, Latest News and Videos",
+            "title": "Kilmar Abrego Garcia returns to federal court to continue fighting deportation case - ABC News - Breaking News, Latest News and Videos",
+            "description": null,
+            "url": "https://abcnews.com/US/kilmar-abrego-garcia-returns-federal-court-continue-fighting/story?id\\\\u003d137006272",
+            "urlToImage": null,
+            "publishedAt": "2026-10-06T09:30:32Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": "Catherine Sweeney",
+            "title": "'We could all hear her breathing': Witnessing the failed execution of Christa Pike - NPR",
+            "description": "Catherine Sweeney was in the witness room when Tennessee attempted to execute Christa Pike on Sept. 30. An attempted execution in May had also failed. Here's what Sweeney saw and heard.",
+            "url": "https://www.npr.org/2026/10/06/nx-s1-5991669/failed-execution-christa-pike-tennessee-reporter-witness",
+            "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4457x2507+0+232/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa0%2F9f%2Fc7d5542a49389ecd43645d75afea%2Fap26274095205700.jpg",
+            "publishedAt": "2026-10-06T09:00:00Z",
+            "content": "Last week, I was one of the seven media witnesses who observed Tennessee fail to execute convicted murderer Christa Pike, the first woman to face the death penalty in the state in almost 200 years.\r\n… [+11586 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": "Domenico Montanaro",
+            "title": "Democrats’ advantage is clear with less than a month to go in the midterm elections - NPR",
+            "description": "President Trump is facing low approval ratings, and voters are blaming him for rising costs. Republicans are likely to pay the price at the ballot box next month.",
+            "url": "https://www.npr.org/2026/10/06/nx-s1-5989694/midterm-elections-control-congress",
+            "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5861x3297+0+305/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F11%2F43%2Fabee069348fea33d852ee5964995%2Fgettyimages-2296831934.jpg",
+            "publishedAt": "2026-10-06T09:00:00Z",
+            "content": "President Trump was elected in 2024, in large measure, with a mandate to bring down prices. But that hasn't happened. Instead, Trump is facing record-low approval ratings, and voters are blaming him … [+7641 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Todd Gillespie",
+            "title": "Wall Street Eyes Record Bonuses as Profit Heads Past $90 Billion - Yahoo Finance",
+            "description": "A blockbuster year for New York’s trading and investment-banking firms is poised to deliver record earnings for the industry, with profit on pace to exceed $...",
+            "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-eyes-record-bonuses-090000733.html",
+            "urlToImage": "https://s.yimg.com/lo/mysterio/api/00dc1a3b757b6cee2da16deca1473226df341002a533c35c7aa7ccd358cebf0c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbloomberg_holding_pen_162%2F8f832fb1dfbab0864dac8277bf339dbd.jpg",
+            "publishedAt": "2026-10-06T09:00:00Z",
+            "content": "(Bloomberg) -- A blockbuster year for New York's trading and investment-banking firms is poised to deliver record earnings for the industry, with profit on pace to exceed $90 billion, and bonuses exp… [+2028 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "Melissa Hogenboom",
+            "title": "Blood sugar spikes are not necessarily bad for you - BBC",
+            "description": "It's trendy to be concerned about blood sugar spikes, but these can be a normal response to eating. Here's when you don't need to worry.",
+            "url": "https://www.bbc.com/future/article/20261002-do-non-diabetics-need-to-measure-their-blood-sugar",
+            "urlToImage": "https://ychef.files.bbci.co.uk/624x351/p0pf406n.jpg",
+            "publishedAt": "2026-10-06T08:39:43Z",
+            "content": "In fact, authors, podcasters and wellness influencers have been selling the idea that we all need to check for blood sugar spikes and avoid them. According to this extreme view, we allow significant … [+205 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Matt Schudel",
+            "title": "Jim Bakker, disgraced televangelist who went to prison, dies at 86 - The Washington Post",
+            "description": "With his wife, Tammy Faye, he presided over the multimillion-dollar PTL empire before his fall in the 1980s after sex and fraud scandals.",
+            "url": "https://www.washingtonpost.com/obituaries/2026/10/06/jim-bakker-disgraced-televangelist-dies-xx/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/IKG2FUFQHEI6VGFVE6NGI6NB4Q.jpg&w=1440",
+            "publishedAt": "2026-10-06T07:15:37Z",
+            "content": "Jim Bakker, a televangelist who once led a multimillion-dollar religious empire with his wife, Tammy Faye, before a sex sandal tarnished his reputation and a conviction for fraud and conspiracy sent … [+45 chars]"
+        },
         {
             "source": {
                 "id": null,
@@ -118,6 +417,19 @@
             "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1006%2Fr1726626_1024x576_16%2D9.jpg",
             "publishedAt": "2026-10-06T00:38:00Z",
             "content": "Oct 5, 2026, 08:38 PM ET\r\nCLEVELAND -- The White Sox are returning to Chicago one win from advancing to the American League Championship Series for the first time in 21 years.\r\nBraden Montgomery line… [+4591 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Conversation Africa"
+            },
+            "author": "Geraint Lewis, Luke Barnes, Miroslav Filipovic",
+            "title": "Where are the best places for life in the cosmos? A universe in a supercomputer yields the answer - The Conversation",
+            "description": "Turns out the Milky Way is as good as it gets.",
+            "url": "https://theconversation.com/where-are-the-best-places-for-life-in-the-cosmos-a-universe-in-a-supercomputer-yields-the-answer-292608",
+            "urlToImage": "https://images.theconversation.com/files/761880/original/file-20260924-50-s0q0p5.png?ixlib=rb-4.1.1&rect=0%2C34%2C2516%2C1258&q=45&auto=format&w=1356&h=668&fit=crop",
+            "publishedAt": "2026-10-06T00:24:00Z",
+            "content": "Earth seems like a troubled place right now, but at least our cosmic surroundings appear peaceful. But this is not universally true, as explosions, collisions and other dangers lurk in other places a… [+4792 chars]"
         },
         {
             "source": {
@@ -248,6 +560,19 @@
             "urlToImage": "https://images.barrons.com/im-98903948/social",
             "publishedAt": "2026-10-05T20:21:00Z",
             "content": "Shares are rapidly becoming the way to play AI growth, safety, and the proliferation of open source large language models."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Live Science"
+            },
+            "author": "Jamie Carter",
+            "title": "The moon and Jupiter are about to do something that won't happen again for 11 years - Live Science",
+            "description": "Skywatchers in the U.S. and eastern Canada can see a rare lunar occultation of Jupiter early on Oct. 6. Here are the exact times to see the giant planet vanish and reappear.",
+            "url": "https://www.livescience.com/space/jupiter/set-your-alarm-jupiter-will-disappear-behind-the-crescent-moon-in-a-once-in-a-decade-alignment-tomorrow",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/F6Lkjb9WZGRbJYzhwmTGgX-2000-80.jpg",
+            "publishedAt": "2026-10-05T20:20:56Z",
+            "content": null
         },
         {
             "source": {
@@ -592,6 +917,19 @@
                 "id": null,
                 "name": "BBC News"
             },
+            "author": "David Cox",
+            "title": "'The spine just wants to move': How to strengthen your neck - BBC",
+            "description": "The modern world is a challenging place for necks. These five exercises will help you cope.",
+            "url": "https://www.bbc.com/future/article/20261001-five-exercises-to-help-reduce-neck-pain",
+            "urlToImage": "https://ychef.files.bbci.co.uk/624x351/p0pdkg93.jpg",
+            "publishedAt": "2026-10-05T09:12:24Z",
+            "content": "Pre-industrial scholars would spend many hours poring over manuscripts. But Ghosh has noted from depictions in paintings that they tended to read and write on lecterns or desks angled at around 45 de… [+401 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
             "author": null,
             "title": "Why has Spain's PM called a snap election? - BBC",
             "description": "A series of measures to tackle the housing crisis were defeated in parliament on Friday",
@@ -638,6 +976,19 @@
             "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4500x2531+0+235/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F7a%2Fe1%2Fda37862044928eb2578776ed65da%2F09-29-2026-jimena-peck-denver-editorial-photographer-1531.jpg",
             "publishedAt": "2026-10-05T09:00:00Z",
             "content": "A new Supreme Court term begins Monday with arguments in a blockbuster case about the reach of state power.\r\nBoulder, Colo., is suing two big energy companies, arguing they deceived people about the … [+6441 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "GSMArena.com"
+            },
+            "author": "Siddharth",
+            "title": "Here's your first look at Google's next fitness tracker, the Fitbit Edge - GSMArena.com news - GSMArena.com",
+            "description": "It is said to launch later this month with a 7 day battery life. Back in August, Google Australia accidentally revealed an upcoming Fitbit device in...",
+            "url": "https://www.gsmarena.com/heres_your_first_look_at_googles_next_fitness_tracker_the_fitbit_edge-news-74895.php",
+            "urlToImage": "https://fdn.gsmarena.com/imgroot/news/26/10/google-fitbit-edge-leak/-952x498w6/gsmarena_00.jpg",
+            "publishedAt": "2026-10-05T06:05:02Z",
+            "content": "Back in August, Google Australia accidentally revealed an upcoming Fitbit device in official promo images during the Pixel 11 series launch. Now, a new report has revealed the design and key features… [+1253 chars]"
         },
         {
             "source": {
@@ -5175,292 +5526,6 @@
             "urlToImage": "https://hackaday.com/wp-content/uploads/2026/09/RomanTelescope.jpg",
             "publishedAt": "2026-09-30T14:00:00Z",
             "content": "Contemplate the events that might end a space mission, and you might picture something dramatic: detonation on the pad, a dead guidance system, or micrometeoroids shattering delicate solar panels. Mo… [+7332 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "WPVI-TV"
-            },
-            "author": "6abc Digital Staff",
-            "title": "CDC updates measles death toll to 2 in 2026 - 6abc Philadelphia",
-            "description": "Pennsylvania has reported four deaths related to measles this year, but those were not initially included in the CDC's death tally.",
-            "url": "https://6abc.com/post/cdc-updates-measles-death-toll-2-2026/19891630/",
-            "urlToImage": "https://cdn.abcotvs.com/dip/images/19887263_092926-wpvi-pa-measles-6a-vo-video-vid.jpg?w=1600",
-            "publishedAt": "2026-09-30T13:08:03Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Cassandra Negley",
-            "title": "Caitlin Clark keeps Fever's season alive with fiery, historic performance in Game 2 vs. Aces: 'She was the catalyst' - Yahoo Sports",
-            "description": "Caitlin Clark said the Fever's mantra in Game 2 was \"don't be soft.\" Mission accomplished.",
-            "url": "https://sports.yahoo.com/wnba/article/caitlin-clark-fevers-season-alive-with-fiery-historic-performance-in-game-2-vs-aces-she-was-the-catalyst-041228167.html",
-            "urlToImage": "https://s.yimg.com/lo/mysterio/api/2536d6ee3515224874381ed2d6b7b2c42368345f66c19e6e521f89893be57899/lightyear_networkapi/resizefill_w1200_h630%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-09%2F164c88a3-c08e-4db1-9602-185760d66782",
-            "publishedAt": "2026-09-30T13:06:22Z",
-            "content": "INDIANAPOLIS The scenes 48 hours and 1,849 miles apart were stark. In the first, a morose Caitlin Clark covered her face with a towel draped over her head, her words sharp and direct in attacking a p… [+6710 chars]"
-        },
-        {
-            "source": {
-                "id": "the-hill",
-                "name": "The Hill"
-            },
-            "author": "Ryan Mancini",
-            "title": "Raskin rips Schmitt questioning of Jack Smith: ‘He’s basically disgraced himself’ - The Hill",
-            "description": "Rep. Jamie Raskin (D-Md.) on Tuesday blasted Sen. Eric Schmitt (R-Mo.) after he and his staff appeared to confuse one basketball team for another when questioning former special counsel Jack Smith about his attendance at a game. Schmitt earlier Tuesday asked …",
-            "url": "https://thehill.com/homenews/house/6119619-jamie-raskin-eric-schmitt-basketball-mix-up-jack-smith-hearing-criticism/",
-            "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2026/09/Raskin_Schmitt_gn_093026.png?w=1280",
-            "publishedAt": "2026-09-30T12:35:00Z",
-            "content": "Rep. Jamie Raskin (D-Md.) on Tuesday blasted Sen. Eric Schmitt (R-Mo.) after he and his staff appeared to confuse one basketball team for another when questioning former special counsel Jack Smith ab… [+2871 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "AppleInsider"
-            },
-            "author": "William Gallagher",
-            "title": "Refreshed HomePod mini, Apple TV and new HomeHub coming on October 13 - AppleInsider",
-            "description": "A new report claims that Apple is planning October 13 for the unveiling of a trio of home products, including the much-awaited HomeHub or HomePod.",
-            "url": "https://appleinsider.com/articles/26/09/30/refreshed-homepod-mini-apple-tv-and-new-homehub-coming-on-october-13",
-            "urlToImage": "https://media.appleinsider.com/gallery/68698-144700-66929-140539-Apple-HomeHub-xl-xl.jpg",
-            "publishedAt": "2026-09-30T12:06:30Z",
-            "content": "Mockup of how Apple's Home Hub might look\r\nA new report claims that Apple is planning October 13 for the unveiling of a trio of home products, including the much-awaited HomeHub or HomePod.\r\nIt's alr… [+4178 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "9to5google.com"
-            },
-            "author": "Ben Schoon",
-            "title": "Samsung Galaxy Tab S12 series goes official from $1,199 with Photoshop pre-installed - 9to5Google",
-            "description": "Samsung is today officially launching its new Galaxy Tab S12 series with the Tab S12+ and Tab S12 Ultra delivering...",
-            "url": "http://9to5google.com/2026/09/30/samsung-galaxy-tab-s12-official/",
-            "urlToImage": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/galaxy-tab-s12-ultra-1.jpg?quality=82&strip=all&resize=1200,628",
-            "publishedAt": "2026-09-30T12:00:00Z",
-            "content": "Samsung is today officially launching its new Galaxy Tab S12 series with the Tab S12+ and Tab S12 Ultra delivering big displays, powerful specs, and some new software tricks too.\r\nAvailable starting … [+2401 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Investor's Business Daily"
-            },
-            "author": null,
-            "title": "This Stock, Up Almost 70%, May Have Found Cancer's Holy 'Grail' - Investor's Business Daily",
-            "description": "Grail stock has catapulted, reaching a record high, as the FDA mulls its contender in the cancer detection market.",
-            "url": "https://www.investors.com/news/technology/grail-stock-galleri-fda-advisory-committee-meeting-approval/",
-            "urlToImage": "https://www.investors.com/wp-content/uploads/2019/11/stock-blood-03-adobe.jpg",
-            "publishedAt": "2026-09-30T12:00:00Z",
-            "content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. … [+1064 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Financial Times"
-            },
-            "author": null,
-            "title": "Russia threatens nuclear strikes on Nato countries over Kaliningrad - Financial Times",
-            "description": "Kremlin accuses western defence alliance of preparing to blockade Russian exclave on Baltic Sea",
-            "url": "https://www.ft.com/content/1bb7ec8d-7252-4fa3-8c4a-81fa5b6906a2?syn-25a6b1a6\\\\u003d1",
-            "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fa4ad00c0-b1df-4008-9448-b540c4d5a896.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
-            "publishedAt": "2026-09-30T11:35:42Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "the-wall-street-journal",
-                "name": "The Wall Street Journal"
-            },
-            "author": "Deborah Acosta",
-            "title": "Ken Griffin Is Making the Largest Donation to Higher Education in U.S. History - WSJ",
-            "description": "Citadel CEO’s gift will launch a Carnegie Mellon University campus in Miami",
-            "url": "https://www.wsj.com/us-news/education/ken-griffin-is-making-the-largest-donation-to-higher-education-in-u-s-history-aea22b0a",
-            "urlToImage": "https://images.wsj.net/im-17873149/social",
-            "publishedAt": "2026-09-30T11:25:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "NPR"
-            },
-            "author": "Brittney Melton",
-            "title": "U.S. forces exit Iraq amid Iran war. And, SCOTUS revives Trump deportation policy - NPR",
-            "description": "The U.S. has withdrawn its final troops from Iraq, leaving its defense future uncertain. And, the Supreme Court has sided for now with the Trump administration on third-country deportations.",
-            "url": "https://www.npr.org/2026/09/30/g-s1-145604/up-first-newsletter-iraq-us-troops-scotus-deportations-trump-ai",
-            "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x3375+0+313/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F4c%2F57%2Fbf5fb6714747859e293114dddcc3%2Fgettyimages-2297194981.jpg",
-            "publishedAt": "2026-09-30T11:13:17Z",
-            "content": "Good morning. You're reading the Up First newsletter. Subscribe here to get it delivered to your inbox, and listen to the Up First podcast for all the news you need to start your day.\r\nToday's top st… [+5158 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Tom Warren",
-            "title": "Apple’s “HomePad” will reportedly launch on October 13th - theverge.com",
-            "description": "Apple will reportedly launch a new smart home hub, HomePod mini, and Apple TV next month. All three devices will showcase Siri AI.",
-            "url": "https://www.theverge.com/news/1002563/apple-smart-home-hub-homepad-rumor-launch-date",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK071_APPLE_H.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-09-30T11:11:24Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe long-rumored smart home hub will reportedly be revealed alongside a new HomePod mini and Apple TV.\r\nThe long-rumored smart home hub will reportedly be reveal… [+2869 chars]"
-        },
-        {
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "author": null,
-            "title": "Iran loses grip on Strait of Hormuz as US as Tehran calls on Americans to vote out Trump - Fox News",
-            "description": "Iran's economy remains crippled by sanctions and a U.S. blockade, leaving Tehran with few options now that its control over the Strait of Hormuz has slipped.",
-            "url": "https://www.foxnews.com/live-news/iran-war-news-trump-oil-september-30",
-            "urlToImage": "https://assets.foxnews.com/liveblog/fn/prod/images/2026/09/f85ef488b5b03b74fbd6af79ff0968d6.jpg",
-            "publishedAt": "2026-09-30T10:59:08Z",
-            "content": "Iranian security forces have stepped up their presence in Tehran and other cities, with motorcycle patrols, checkpoints and forces positioned across major urban areas as authorities brace for possibl… [+1599 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "POLITICO.eu"
-            },
-            "author": "Camille Gijs",
-            "title": "A new Bolsonaro could pull Brazil away from Europe — and toward Trump - politico.eu",
-            "description": "Brussels has spent years rebuilding ties with Brasília. Brazil’s knife-edge election could change the equation.",
-            "url": "https://www.politico.eu/article/a-new-bolsonaro-could-pull-brazil-away-from-europe-and-toward-trump/",
-            "urlToImage": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/09/30/GettyImages-2296930864-scaled.jpg",
-            "publishedAt": "2026-09-30T10:59:00Z",
-            "content": "After more than 25 years of talks, the trade deal between the EU and the Mercosur bloc provisionally took effect in May.\r\nBut full approval is on hold after European lawmakers voted to refer the deal… [+1263 chars]"
-        },
-        {
-            "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
-            "author": "Erica Sloan",
-            "title": "This leg condition that’s overlooked in women can raise heart attack, stroke risk - The Washington Post",
-            "description": "Women with peripheral artery disease are less likely than men to receive a timely diagnosis or recommended care, which can further jeopardize cardiovascular health.",
-            "url": "https://www.washingtonpost.com/wellness/2026/09/30/this-leg-condition-overlooked-women-can-raise-heart-attack-stroke-risk/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GM4XAEJCJNFR3LPZ5LR7MU56FU_size-normalized.jpg&w=1440",
-            "publishedAt": "2026-09-30T10:32:41Z",
-            "content": "When you think of cardiovascular disease, you might envision plaque a sticky, waxy substance that builds up in the arteries leading to the heart, where it can cause a heart attack. But arteries run t… [+210 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "NPR"
-            },
-            "author": "Geoff Brumfiel",
-            "title": "A startup wants to build a massive nuclear-powered data center on public land in Utah - NPR",
-            "description": "Valar Atomics wants to place over 450 reactors on more than 9,500 acres in Utah to power a huge data center project.",
-            "url": "https://www.npr.org/2026/09/30/nx-s1-5983482/valar-atomic-nuclear-data-center-project-beehive-utah",
-            "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3813x2145+0+239/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fc4%2F8d%2Fdfada92447689b6490f5d6f578de%2Fap26050704729644.jpg",
-            "publishedAt": "2026-09-30T09:01:00Z",
-            "content": "A startup whose founder has vowed to \"make nuclear great again\" is planning to place hundreds of reactors on federal land in Utah, according to documents reviewed exclusively by NPR.\r\nValar Atomics i… [+5488 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": null,
-            "title": "US actor Chad Lowe 'heartbroken' after death of daughter Fiona aged 13 - BBC",
-            "description": "Lowe and his wife Kim Painter announce the death of their daughter, who \"was the light of our lives\".",
-            "url": "https://www.bbc.com/news/articles/c3x2z9k1zdn4o",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8a27/live/37eb2f00-bcad-11f1-a3e9-bbda6f9b9e25.jpg",
-            "publishedAt": "2026-09-30T08:59:38Z",
-            "content": "US actor Chad Lowe and his wife, producer Kim Painter, have said they are \"deeply heartbroken\" following the death of their \"beloved\" 13-year-old daughter Fiona."
-        },
-        {
-            "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
-            },
-            "author": "Qassim Abdul-zahra",
-            "title": "The US military says its withdrawal of troops from Iraq is complete - AP News",
-            "description": "The U.S. military says it has completed the withdrawal of its troops from Iraq, ending a 12-year mission to fight the Islamic State group. Pentagon spokesperson Sean Parnell said in a statement on Wednesday that U.S. troops and equipment had completed an “ord…",
-            "url": "https://apnews.com/article/iraq-us-withdrawal-militias-disarmament-kurds-a097a39f3d1a3515adc2ba3298a6816f",
-            "urlToImage": "https://dims.apnews.com/dims4/default/2d48885/2147483647/strip/true/crop/4287x2857+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F4e%2F03%2F896fb76b3758c134a9c9d7993b08%2Fd03b415f779143f195f9fbf299a36a7e",
-            "publishedAt": "2026-09-30T08:28:00Z",
-            "content": "BAGHDAD (AP) The U.S. military announced on Wednesday that it has completed the withdrawal of all American troops from Iraq, ending a 12-year mission to fight the Islamic State group. The last U.S. t… [+4971 chars]"
-        },
-        {
-            "source": {
-                "id": "al-jazeera-english",
-                "name": "Al Jazeera English"
-            },
-            "author": null,
-            "title": "Gentle giant Backpack wins Alaska’s Fat Bear Week - Al Jazeera",
-            "description": "The contest celebrates the resilience of the 2,200 brown bears that live in the preserve on the Alaska Peninsula.",
-            "url": "https://www.aljazeera.com/news/2026/9/30/gentle-giant-backpack-declared-the-winner-of-alaskas-fat-bear-week",
-            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/09/AP26272568956074-1790746757.jpg?resize=1920%2C1440",
-            "publishedAt": "2026-09-30T07:09:58Z",
-            "content": "After a week of fierce competition, Backpack emerged victorious as Fat Bear Week champion, the heftiest bear in Alaskas Katmai National Park and Preserve.\r\nThe nonprofit running the longstanding cont… [+3726 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "NPR"
-            },
-            "author": "The Associated Press",
-            "title": "Trump says top tech firms have signed accord to 'self-police' AI development - NPR",
-            "description": "President Trump on Tuesday said that he and a large group of leaders of artificial intelligence companies had signed a voluntary accord that will include internal and external reviews.",
-            "url": "https://www.npr.org/2026/09/30/nx-s1-5985699/trump-self-police-ai-development",
-            "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5457x3070+0+284/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3b%2F43%2F40604dd94db38e8430dc71dbe138%2Fap26272734335711.jpg",
-            "publishedAt": "2026-09-30T06:54:43Z",
-            "content": "WASHINGTON President Donald Trump on Tuesday said that he and a large group of leaders of artificial intelligence companies had signed a voluntary accord that will include internal and external revie… [+6288 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNBC"
-            },
-            "author": "Sawdah Bhaimiya",
-            "title": "Pressure on U.S. Treasurys eases after 30-year yield hits highest level since 2002 - CNBC",
-            "description": "Treasury yields were lower on Wednesday following the release of much lighter-than-expected U.S. inflation data.",
-            "url": "https://www.cnbc.com/2026/09/30/treasury-yields-bonds-selloff.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108363128-17894885332026-09-15t160320z_883427878_rc2pjnai9xue_rtrmadp_0_usa-stocks.jpeg?v=1789488721&w=1920&h=1080",
-            "publishedAt": "2026-09-30T06:46:19Z",
-            "content": "Treasury yields were lower on Wednesday following the release of much lighter-than-expected U.S. inflation data. \r\nThe 30-year Treasury bond was last nearly 3 basis points lower at 5.567%, after risi… [+1058 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "MLB.com"
-            },
-            "author": "Bryan Hoch, Ian Browne",
-            "title": "Red Sox-Yankees AL Wild Card Series Game 2 FAQ (8 ET, NBC/Peacock) - MLB.com",
-            "description": "NEW YORK -- The Yankees came off the field brimming with confidence after the first game of the American League Wild Card Series, and with good reason. Cam Schlittler shoved, Ben Rice drove in six runs, and the Red Sox never seemed able to punch back.\nSo even…",
-            "url": "https://www.mlb.com/news/red-sox-vs-yankees-al-wild-card-series-game-2-starting-lineups-pitching-matchup-2026",
-            "urlToImage": "https://img.mlbstatic.com/mlb-images/image/upload/t_2x1/t_w1536/v1790739065/mlb/reofzru2r9xg0k5akiek.jpg",
-            "publishedAt": "2026-09-30T06:39:46Z",
-            "content": "NEW YORK -- The Yankees came off the field brimming with confidence after the first game of the American League Wild Card Series, and with good reason. Cam Schlittler shoved, Ben Rice drove in six ru… [+6899 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "MLB.com"
-            },
-            "author": "Will Leitch",
-            "title": "Top storyline for each Wild Card Series Game 2 - MLB.com",
-            "description": "Whew! What a first day of playoff baseball that was on Tuesday. We had a clutch comeback in Georgia, a Pope-endorsed White Sox win in Houston, two Massachusetts natives dominating the Red Sox in the Bronx and a Michael King no-hit bid in San Diego.",
-            "url": "https://www.mlb.com/news/top-storyline-for-each-mlb-wild-card-series-game-2-2026",
-            "urlToImage": "https://img.mlbstatic.com/mlb-images/image/upload/t_2x1/t_w1536/mlb/b6if5gihmjfdhl1mon8c.jpg",
-            "publishedAt": "2026-09-30T06:29:30Z",
-            "content": "Whew! What a first day of playoff baseball that was on Tuesday. We had a clutch comeback in Georgia, a Pope-endorsed White Sox win in Houston, two Massachusetts natives dominating the Red Sox in the … [+4972 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Lex Harvey",
-            "title": "RAF Fairford: Suspect in alleged plot against British base called police before arrest, UK media report - CNN",
-            "description": "One of the suspects in the alleged plot targeting a UK airbase used by the US military called the police shortly before they were arrested, multiple UK media outlets have reported.",
-            "url": "https://www.cnn.com/2026/09/30/uk/suspect-police-terrorism-uk-base-fairford-intl-hnk",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/2026-09-28t062716z-271215523-rc26snacd1f4-rtrmadp-3-britain-usa-fairford.JPG?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2026-09-30T06:14:20Z",
-            "content": "One of the suspects in the alleged plot targeting a UK airbase used by the US military called the police shortly before they were arrested, multiple British media outlets have reported.\r\nThe five men… [+2601 chars]"
         }
     ]
 }
