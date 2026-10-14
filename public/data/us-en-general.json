@@ -1,7 +1,254 @@
 {
     "status": "ok",
-    "totalResults": 459,
+    "totalResults": 451,
     "articles": [
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Alayna Treene",
+            "title": "Trump debates calling off livestream of firing squad execution after learning Fort Hood shooter was paralyzed - CNN",
+            "description": "President Donald Trump and his advisers are debating whether to call off plans to livestream the firing squad execution of the Fort Hood shooter, with Trump having remarked privately that he did not initially know that Nidal Hasan was paralyzed from the waist…",
+            "url": "https://www.cnn.com/2026/10/13/politics/trump-fort-hood-shooter-livestream-execution",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2299376005.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2026-10-13T21:08:35Z",
+            "content": "President Donald Trump and his advisers are debating whether to call off plans to livestream the firing squad execution of the Fort Hood shooter, with Trump having remarked privately that he did not … [+3286 chars]"
+        },
+        {
+            "source": {
+                "id": "espn",
+                "name": "ESPN"
+            },
+            "author": null,
+            "title": "Atlético 2-0 Man United (Oct 13, 2026) Game Analysis - ESPN",
+            "description": "Expert recap and game analysis of the Atlético Madrid vs. Manchester United Uefa Champions League game from October 13, 2026 on ESPN.",
+            "url": "https://www.espn.com/soccer/report/_/gameId/401915412",
+            "urlToImage": "https://s.secure.espncdn.com/stitcher/sports/soccer/uefa.champions/events/401915412.png?templateId=espn.com.share.1",
+            "publishedAt": "2026-10-13T21:06:53Z",
+            "content": "Manchester United's winless run extended to a fifth match as Michael Carrick's side made a nightmare start and lost Leny Yoro to a red card in Tuesday's 2-0 Champions League defeat at Atlético Madrid… [+3438 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says - BBC",
+            "description": "Pope Leo had successful surgery to remove a lower lobe of his right lung, the Vatican said.",
+            "url": "https://www.bbc.com/news/articles/ck1wvd9dvv22o",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/ccec/live/9e543840-c71b-11f1-bc2e-018d645d8d21.jpg",
+            "publishedAt": "2026-10-13T20:46:06Z",
+            "content": "\"I was in St Peter's Square when he made the announcement, and I felt really awful,\" said Elsa, who was also present. \"I was really taken aback,\" she said, explaining that when Pope Leo was elected s… [+50 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Dareh Gregorian",
+            "title": "Kimberly Guilfoyle, U.S. ambassador to Greece, resigns amid misconduct allegations - NBC News",
+            "description": "Guilfoyle, a former Fox News personality, was a top Trump campaign surrogate.",
+            "url": "https://www.nbcnews.com/politics/trump-administration/trump-kimberly-guilfoyle-resign-ambassador-greece-rcna603034",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261013-Kimberly-Guilfoyle-ch-1005-75b985.jpg",
+            "publishedAt": "2026-10-13T20:45:09Z",
+            "content": "U.S. Ambassador to Greece Kimberly Guilfoyle, once a top campaign surrogate for President Donald Trump, has resigned at the behest of the White House amid a misconduct probe.\r\nServing as the United S… [+4458 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Fox Business"
+            },
+            "author": "Brittany Miller",
+            "title": "Bank of America hit with $1.2B in penalties over money laundering compliance failures - Fox Business",
+            "description": "The Treasury Department announced approximately $1.21 billion in penalties against Bank of America over failures to investigate suspicious transactions and comply with U.S. sanctions laws",
+            "url": "https://www.foxbusiness.com/economy/bank-america-hit-1-2b-penalties-money-laundering-compliance-failures",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/08/0/0/bank-of-america-charlotte-headquarters.jpg?ve=1&tl=1",
+            "publishedAt": "2026-10-13T20:16:00Z",
+            "content": "The Treasury Department announced approximately $1.21 billion in penalties against Bank of America over longstanding anti-money laundering failures and U.S. sanctions violations.\r\nRegulators found th… [+4015 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": null,
+            "title": "Drone attack sinks ship off Bulgaria’s Black Sea coast, PM says - Al Jazeera",
+            "description": "Two ships were hit in the attack, including the Ukrainian-owned Chelsea 3, which sustained damage.",
+            "url": "https://www.aljazeera.com/news/2026/10/13/drone-attack-sinks-ship-off-bulgarias-black-sea-coast-pm-says",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6acdd402-1791874050.jpg?resize=1200%2C675",
+            "publishedAt": "2026-10-13T20:01:36Z",
+            "content": "Two ships have been hit in drone attacks off Bulgarias Black Sea coast, with one of them sinking, Prime Minister Rumen Radev said.\r\nThe Ukrainian-owned Chelsea 3, which was sailing under a Maltese fl… [+2293 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": null,
+            "title": "DR Congo Ebola cases pass 9,000 as efforts to curb transmission falter - Al Jazeera",
+            "description": "The Bundibugyo strain fuels deadliest Ebola outbreak in DRC’s history as health workers face mistrust from communities.",
+            "url": "https://www.aljazeera.com/news/2026/10/13/dr-congo-ebola-cases-pass-9000-as-efforts-to-curb-transmission-falter",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/10/ap_6ace7cf13598e-1791917297.jpg?resize=1920%2C1440",
+            "publishedAt": "2026-10-13T19:41:58Z",
+            "content": "Confirmed Ebola cases have surpassed 9,000 in the Democratic Republic of the Congo (DRC) outbreak, according to Health Ministry data, as efforts to stifle transmission falter.\r\nThe ministry reported … [+1990 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "WSJ",
+            "title": "Exclusive | Justice Department Threatens Probe of American Bar Association on Law School Rules - WSJ",
+            "description": null,
+            "url": "https://www.wsj.com/us-news/education/justice-department-threatens-probe-of-american-bar-association-on-law-school-rules-8bcafd7b",
+            "urlToImage": null,
+            "publishedAt": "2026-10-13T19:41:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": "Elissa Nadworny",
+            "title": "Cornell University bans frat parties, vows to address 'disturbing' campus culture - NPR",
+            "description": "In a letter, Cornell's president apologized for what happened to the student who alleges she was raped by several men at a fraternity house in 2024 and promised 'meaningful action.'",
+            "url": "https://www.npr.org/2026/10/13/nx-s1-6000347/cornell-rape-ban-fraternity-parties",
+            "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5712x3213+0+170/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F87%2F07%2F9512d958454eb0e49b33a5d2576c%2Fimg-6476.jpg",
+            "publishedAt": "2026-10-13T19:23:57Z",
+            "content": "Cornell University has banned parties and social events at fraternities for the rest of the school year and will bring sexual assault investigators into its police unit, in response to a former stude… [+4584 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MarketWatch"
+            },
+            "author": "MarketWatch",
+            "title": "Bank earnings: Higher rates haven't hurt consumer spending or AI financing, yet - MarketWatch",
+            "description": null,
+            "url": "https://www.marketwatch.com/livecoverage/banks-jpmorgan-goldman-wellsfargo-citigroup-earnings",
+            "urlToImage": null,
+            "publishedAt": "2026-10-13T19:22:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hollywood Reporter"
+            },
+            "author": "Chris Gardner",
+            "title": "Selma Blair Pleads Not Guilty to Assault Charges Following Violent Outburst on Delta Flight - The Hollywood Reporter",
+            "description": "New details emerged late Monday about what allegedly occurred on board the flight and in the aftermath when Blair was detained at JFK and transported to a local hospital.",
+            "url": "http://www.hollywoodreporter.com/news/general-news/selma-blair-assault-charges-alleged-violent-outburst-delta-1236728939/",
+            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/GettyImages-2299996096-H-2026.jpg?w=1296&h=730&crop=1",
+            "publishedAt": "2026-10-13T19:11:28Z",
+            "content": "Selma Blair pleaded not guilty to two counts of assault at a Monday evening court appearance in Queens, New York less than 24 hours after the actress was arrested at John F. Kennedy International Air… [+5819 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Forbes",
+            "title": "Katie Zacharia Ridiculed For Rocky First White House Press Briefing—Amid Questions About Law Background - Forbes",
+            "description": null,
+            "url": "https://www.forbes.com/sites/saradorn/2026/10/13/new-white-house-press-secretary-katie-zacharia-cites-stint-in-china-when-asked-about-her-law-career/",
+            "urlToImage": null,
+            "publishedAt": "2026-10-13T19:08:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Variety"
+            },
+            "author": "Selome Hailu",
+            "title": "‘Girls’ Shocker: Lena Dunham Sets Revival at HBO With Allison Williams, Zosia Mamet, Jemima Kirke Returning - Variety",
+            "description": "HBO is reviving 'Girls,' with Lena Dunham, Allison Williams, Zosia Mamet, Jemima Kirke and Andrew Rannells returning.",
+            "url": "https://variety.com/2026/tv/news/girls-revival-lena-dunham-allison-williams-zosia-mamet-hbo-1236909362/",
+            "urlToImage": "https://variety.com/wp-content/uploads/2025/07/GIRLS_S1-BENCH_GROUP-Seliger-Mark-HBO-e1752081243518.jpg?w=1000&h=563&crop=1",
+            "publishedAt": "2026-10-13T19:00:00Z",
+            "content": "A voice of a generation has returned. \r\nHBO has greenlit a revival of “Girls,” Lena Dunham‘s beloved and controversial mid-aughts dramedy. The series will return for a limited, five-episode run with … [+5971 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Gerry Shih, Mohamad El Chamaa, Suzan Haidamous",
+            "title": "As Houthis strike Riyadh, Saudi Arabia confronts the costs of U.S. war on Iran - The Washington Post",
+            "description": "Deadly attacks by Yemen’s rebels have left Saudi leader Mohammed bin Salman juggling security risks and the kingdom’s economic ambitions.",
+            "url": "https://www.washingtonpost.com/world/2026/10/13/saudi-arabia-faces-grave-question-fight-houthis-win-or-push-peace/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/UZ5324YD3G5BHY7TL42XXEOTBQ.JPG&w=1440",
+            "publishedAt": "2026-10-13T18:39:31Z",
+            "content": "For weeks, Saudi Arabia has touted the presence of boldface-name business leaders, from JPMorgan Chase CEO Jamie Dimon to Blackrocks Larry Fink, at lavish investment conferences in Riyadh that showca… [+59 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Deadline"
+            },
+            "author": "Dessi Gomez",
+            "title": "'Narnia: The Magician's Nephew' Trailer Teases Aslan, Jadis & More - Deadline",
+            "description": "The first trailer for Greta Gerwig's 'Narnia: The Magician's Newphew' has arrived, plunging viewers into a retelling of C.S. Lewis' first book.",
+            "url": "http://deadline.com/2026/10/narnia-magicians-nephew-trailer-aslan-jadis-greta-gerwig-1237155940/",
+            "urlToImage": "https://deadline.com/wp-content/uploads/2026/10/Screenshot-2026-10-13-at-11.20.35-AM-e1791915879804.png?w=1024",
+            "publishedAt": "2026-10-13T18:30:00Z",
+            "content": "The first trailer for the Greta Gerwig-directed adaptation of Narnia: The Magician’s Nephew has arrived, plunging viewers into a modernized retelling of C.S. Lewis’ first book in The Chronicles of Na… [+2775 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": null,
+            "title": "French supermarkets face millions in losses after cyberattack hits refrigerators nationwide - Fox News",
+            "description": "Hackers targeted Danfoss refrigerator controls across French supermarkets, forcing chains like Carrefour and Monoprix to discard massive food stocks.",
+            "url": "https://www.foxnews.com/tech/french-supermarkets-face-millions-losses-cyberattack-hits-refrigerators-nationwide",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/France_grocery2.jpg",
+            "publishedAt": "2026-10-13T17:54:04Z",
+            "content": "A cyberattack in France forced multiple grocery stores to discard large amounts of temperature-sensitive product after hackers turned the heat up on food refrigerators in hundreds of stores across at… [+3915 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "Lisa Mascaro",
+            "title": "Trump’s diesel deal with Putin draws criticism from a frustrated Congress - AP News",
+            "description": "The deal that President Donald Trump reached with Russian President Vladimir Putin to import tons of Russian diesel is drawing concern from Congress. The Republican president struck the deal as a way to ease sky-high diesel prices at the pumps for Americans a…",
+            "url": "https://apnews.com/article/trump-russian-diesel-putin-congress-ukraine-963624ed2ed30ae4a0259ffd1880fefa",
+            "urlToImage": "https://dims.apnews.com/dims4/default/225a98a/2147483647/strip/true/crop/8291x5525+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F82%2F60%2F323458298f07732de2fc2dd8242a%2Fc3ee342c93754b2691dd7f7f2e481185",
+            "publishedAt": "2026-10-13T17:13:00Z",
+            "content": "WASHINGTON (AP) The House speaker stood before Donald Trump during his first term at the White House and pointed a finger, declaring that with this president, All roads lead to Putin.\r\nThe stark asse… [+7211 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "MI5 chief warns against overstating Russian interference in Brexit vote - BBC",
+            "description": "It comes after Andy Burnham said Moscow had tried to interfere in the 2016 referendum.",
+            "url": "https://www.bbc.com/news/articles/cky83q49e4w0o",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0b01/live/7a54b2f0-c723-11f1-b881-4391ac746e04.jpg",
+            "publishedAt": "2026-10-13T17:06:18Z",
+            "content": "Meanwhile, former Prime Minister Boris Johnson said that in 2016, when he became foreign secretary, the security services had told him \"there was no evidence of any successful interference in the 201… [+43 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Space.com"
+            },
+            "author": "Josh Dinner",
+            "title": "SpaceX rocket launch creates incredible 'space jellyfish' visible throughout US East Coast (photos) - Space",
+            "description": "\"My mind jumped between two thoughts: that is just beautiful beyond belief, and it is the end of the world.”",
+            "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-rocket-launch-creates-incredible-space-jellyfish-visible-throughout-us-east-coast-photos",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/DCthR6gMWzwdMWmkUid6eV-2560-80.jpg",
+            "publishedAt": "2026-10-13T17:02:48Z",
+            "content": null
+        },
         {
             "source": {
                 "id": null,
@@ -17,6 +264,19 @@
         },
         {
             "source": {
+                "id": "nfl-news",
+                "name": "NFL News"
+            },
+            "author": "Nick Shook",
+            "title": "NFL Power Rankings, Week 6: Vikings, Patriots enter top 10; Eagles, Saints in free fall - NFL.com",
+            "description": "Where do the resurgent Patriots land after a statement-making win? How far down do the floundering Eagles fall? Check out the entire pecking order of Nick Shook's Power Rankings, 1-32, entering Week 6.",
+            "url": "https://www.nfl.com/news/nfl-power-rankings-week-6-2026-nfl-season",
+            "urlToImage": "https://static.www.nfl.com/image/upload/t_editorial_landscape_12_desktop/league/ooscitfrhijbngrbu5uc",
+            "publishedAt": "2026-10-13T16:16:19Z",
+            "content": "Five weeks into the 2026 NFL campaign, three teams remain undefeated and three squads have yet to log a win. Not sure many folks envisioned the Vikings being 5-0 or the Chargers being 0-5, but here w… [+582 chars]"
+        },
+        {
+            "source": {
                 "id": "the-washington-post",
                 "name": "The Washington Post"
             },
@@ -27,6 +287,19 @@
             "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RFEP2OOPCZFFU3S2TSPOJXVRQ4_size-normalized.JPG&w=1440",
             "publishedAt": "2026-10-13T16:00:00Z",
             "content": "A brutish attacker violently throws Pamela Voorhees, played by Linda Cardellini, into a set of closet doors, shattering them and knocking her, momentarily dazed, to the floor of her home in the upcom… [+39 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "MI5 tackling more state threats than during Cold War, warns intelligence chief - BBC",
+            "description": "Sir Ken McCallum says operations to tackle terrorism and state threats are now roughly of an \"equal scale\".",
+            "url": "https://www.bbc.com/news/articles/c60rl5vwpk02o",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7572/live/20ee0d90-c702-11f1-9a39-31b474234113.jpg",
+            "publishedAt": "2026-10-13T15:52:15Z",
+            "content": "Hybrid warfare or hybrid attacks are loose terms which tend to describe non-military methods, for example cyber-attacks, sabotage or misinformation, designed to exert pressure and destabilise an adve… [+5 chars]"
         },
         {
             "source": {
@@ -66,6 +339,19 @@
             "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/10/13/3491357c-4e0c-42a7-8a3c-57405e2319d9/thumbnail/1200x630/f2205e2304dadb3f568fe8edb103c676/houthi-fighters-2298427984.jpg",
             "publishedAt": "2026-10-13T14:55:47Z",
             "content": "Yemen's Houthi rebels have morphed over the last decade from being a little-known group in northwest Yemen, to Iran's most potent ally in the region and a central opponent of the United States and it… [+8932 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "David K. Li",
+            "title": "Bryan Cranston mourns ‘Breaking Bad’ co-star RJ Mitte: ‘My sweet son’ - NBC News",
+            "description": "The pair had been planning to get together for lunch before Mitte’s death by suicide, and Cranston lamented their inability to make that happen.",
+            "url": "https://www.nbcnews.com/pop-culture/pop-culture-news/bryan-cranston-mourns-breaking-bad-co-star-rj-mitte-sweet-son-rcna603187",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/2601013-rj-mitte-breaking-bad-mb-1104-5bec17.jpg",
+            "publishedAt": "2026-10-13T14:55:33Z",
+            "content": "Emmy-winning actor Bryan Cranston on Monday lamented the death of Breaking Bad co-star RJ Mitte, calling the late actor and disability advocate my sweet son. \r\nCranston, 70, said he was in deep despa… [+2070 chars]"
         },
         {
             "source": {
@@ -248,19 +534,6 @@
             "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/still-23063959-2101530-still.jpg?c=16x9&q=w_800,c_fill",
             "publishedAt": "2026-10-13T12:26:00Z",
             "content": "CiCi Nelson was in line to ride the Goliath roller coaster at Six Flags Over Georgia when a cart pulled up with an empty seat and other riders in hysterics.\r\nNelson told CNN that as the cart pulled b… [+998 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": null,
-            "title": "MI5 tackling more state threats than during Cold War, warns intelligence chief - BBC",
-            "description": "Sir Ken McCallum says more is being done to tackle state threats than since the Cold War - and warns AI could be used to develop drones and potentially bioweapons.",
-            "url": "https://www.bbc.com/news/articles/c60rl5vwpk02o",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7572/live/20ee0d90-c702-11f1-9a39-31b474234113.jpg",
-            "publishedAt": "2026-10-13T12:00:47Z",
-            "content": "He continued: \"With its traditional covert footprint eviscerated by almost 1,000 expulsions since the invasion, the Kremlin's global toolkit is weak. So we see them scrambling to pay criminals to do … [+14 chars]"
         },
         {
             "source": {
@@ -4762,6 +5035,19 @@
         },
         {
             "source": {
+                "id": null,
+                "name": "Science.org"
+            },
+            "author": null,
+            "title": "A DNA Typewriter records the cell lineage history of a mouse, from zygote to late organogenesis - Science | AAAS",
+            "description": "Mammalian biology unfolds over time, within tissues and organs opaque to our eyes and instruments. We applied DNA Typewriter, a sequential molecular recorder, to record the cell lineage of a mouse over nearly two weeks of development. From one embryo, we ...",
+            "url": "https://www.science.org/doi/10.1126/science.ael0508",
+            "urlToImage": "https://www.science.org/cms/asset/94589914-b0b4-45b2-92fc-8057a88d9cc0/science.ael0508-keyimage.gif",
+            "publishedAt": "2026-10-08T18:58:01Z",
+            "content": "eLetters is a forum for ongoing peer review. eLetters are not edited, proofread, or indexed, but they are screened. eLetters should provide substantive and scholarly commentary on the article. Neithe… [+506 chars]"
+        },
+        {
+            "source": {
                 "id": "cbs-news",
                 "name": "CBS News"
             },
@@ -5578,396 +5864,6 @@
             "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261005-presiident-trump-vsb-2203-59f5f4.jpg",
             "publishedAt": "2026-10-07T21:48:00Z",
             "content": "The Democratic National Committee sued the Trump administration Wednesday over its taxpayer-funded advertisements that portray President Donald Trump in a favorable light, alleging the adsviolate fed… [+4164 chars]"
-        },
-        {
-            "source": {
-                "id": "usa-today",
-                "name": "USA Today"
-            },
-            "author": "Mary Walrath-Holdridge",
-            "title": "This state wants to ban these popular kitchen countertops - USA Today",
-            "description": "The ban would be the first of its kind in the United States. Here's what to know.",
-            "url": "https://www.usatoday.com/story/news/nation/2026/10/07/quartz-countertop-lung-disease-silicosis-california-ban/92138584007/",
-            "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/10/07/USAT/92141958007-getty-images-1384044356.jpg?crop=2120,1193,x0,y0&width=2120&height=1193&format=pjpg&auto=webp",
-            "publishedAt": "2026-10-07T21:30:00Z",
-            "content": "California is on track to become the first state to ban a popular countertop material amid a growing number of lung disease cases.\r\nQuartz countertops, a common alternative to natural stone like marb… [+5067 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Financial Times"
-            },
-            "author": null,
-            "title": "Trump considers ‘terminating’ campaign advisers over Balkans trip - Financial Times",
-            "description": "President says Chris LaCivita and James Blair guiding pro-Russian party less than a month before midterms could be a ‘conflict’",
-            "url": "https://www.ft.com/content/ea58254a-947e-4e87-86d2-95ffbd8a1c9d?syn-25a6b1a6\\\\u003d1",
-            "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fc7e5c3b1-024e-4d78-b9f6-9289e9bb8522.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
-            "publishedAt": "2026-10-07T21:24:58Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Hollywood Reporter"
-            },
-            "author": "Tony Maglio",
-            "title": "HBO Max and Paramount+ Will Be One, But What Happens to Discovery+? - The Hollywood Reporter",
-            "description": "No one is talking about Skydance's other streamer.",
-            "url": "http://www.hollywoodreporter.com/business/business-news/discovery-plus-future-under-skydance-1236723587/",
-            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/Wizard-Crew-3-H-2026.jpg?w=1296&h=730&crop=1",
-            "publishedAt": "2026-10-07T21:21:47Z",
-            "content": "On Tuesday, Skydance chairman and CEO David Ellison informed reporters of his intention to combine HBO Max and Paramount+ into one streaming app. That’s the “longterm” plan, at least. “It’ll take a p… [+5653 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Terrence O'Brien",
-            "title": "Teenage Engineering’s CEO says it’ll stop making synths - The Verge",
-            "description": "The end could be nigh for Teenage Engineering’s iconic OP-1 according to a Highsnobiety interview.",
-            "url": "https://www.theverge.com/gadgets/1007489/teengage-engineering-stop-making-synths",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/257534_Teenage_Engineering_OP-XY_TOBrien_0007.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-10-07T21:19:54Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe end could be nigh for the iconic OP-1 according to a Highsnobiety interview.\r\nThe end could be nigh for the iconic OP-1 according to a Highsnobiety interview… [+2290 chars]"
-        },
-        {
-            "source": {
-                "id": "politico",
-                "name": "Politico"
-            },
-            "author": "Josh Gerstein",
-            "title": "Trump’s SCOTUS succession dilemma: His favorite justices are also the court’s oldest - Politico",
-            "description": "Speculation about Justice Samuel Alito's plans has increased in recent months ahead of the midterms.",
-            "url": "https://www.politico.com/news/2026/10/07/supreme-court-justice-samuel-alito-retirement-donald-trump",
-            "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F84%2Fa006b5c5b54f86%2Fbcf2c1248e8c93cc-5170x3447.jpg",
-            "publishedAt": "2026-10-07T21:01:00Z",
-            "content": "When it comes to potential appointments to the Supreme Court, President Donald Trump is in a bind. The two justices whove proven most loyal to him and his agenda just happen to be the courts oldest m… [+665 chars]"
-        },
-        {
-            "source": {
-                "id": "nbc-news",
-                "name": "NBC News"
-            },
-            "author": "The Politics Desk",
-            "title": "Trump’s Texas two-step: From the Politics Desk - NBC News",
-            "description": "Welcome to From the Politics Desk, a daily newsletter that brings you the NBC News Politics team’s latest reporting and analysis from the White House, Capitol Hill and the campaign trail.",
-            "url": "https://www.nbcnews.com/politics/politics-news/trumps-texas-two-step-politics-desk-rcna602127",
-            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261007-trump-ch-1446-3a60ba.jpg",
-            "publishedAt": "2026-10-07T21:00:00Z",
-            "content": "Welcome to From the Politics Desk, a daily newsletter that brings you the NBC News Politics teams latest reporting and analysis from the White House, Capitol Hill and the campaign trail.\r\nIn todays e… [+6681 chars]"
-        },
-        {
-            "source": {
-                "id": "the-hill",
-                "name": "The Hill"
-            },
-            "author": "Rebecca Beitsch",
-            "title": "DNC sues to block Trump administration from using government funds for political ads - The Hill",
-            "description": "The Democratic National Committee (DNC) on Wednesday sued the Trump administration, claiming it misused congressional appropriations in using government funding to run new ads featuring the president. “The Trump Administration is using taxpayer dollars to air…",
-            "url": "https://thehill.com/homenews/6135004-dnc-sues-trump-political-ads-government-funds/",
-            "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2026/04/Democrats_050126_Parnes_AP_Allison-Robbert.jpg?w=1280",
-            "publishedAt": "2026-10-07T21:00:00Z",
-            "content": "Skip to content\r\nThe Democratic National Committee (DNC) on Wednesday sued the Trump administration, claiming it misused congressional appropriations in using government funding to run new ads featur… [+3685 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "PennLive"
-            },
-            "author": "PennLive.com",
-            "title": "Popular actress splits from musician boyfriend after saying he ‘healed’ her - PennLive.com",
-            "description": null,
-            "url": "https://www.pennlive.com/entertainment/2026/10/popular-actress-splits-from-musician-boyfriend-after-saying-he-healed-her.html",
-            "urlToImage": null,
-            "publishedAt": "2026-10-07T20:51:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Deadline"
-            },
-            "author": "Jill Goldsmith",
-            "title": "Skydance Stock Struggles In First Days Of Trading - Deadline",
-            "description": "Skydance shares closed down about 7% in day two of trading after a dip Tuesday in a rocky NYSE debut for the merged company.",
-            "url": "http://deadline.com/2026/10/skydance-stock-strugges-in-first-days-of-trading-1237149245/",
-            "urlToImage": "https://deadline.com/wp-content/uploads/2025/05/GettyImages-1202524072.jpg?w=1024",
-            "publishedAt": "2026-10-07T20:40:00Z",
-            "content": "Skydance shares closed down about 7% in day two of trading Wednesday after a dip the day before, a second down session in a rocky NYSE debut for the merged company as investors started to weigh in.\r\n… [+3864 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNBC"
-            },
-            "author": "Laya Neelakandan",
-            "title": "Lululemon poaches Athleta CEO as new chief product officer - CNBC",
-            "description": "Lululemon announced Wednesday that Athleta CEO Maggie Gauger is joining the company as its chief product officer, a newly created role.",
-            "url": "https://www.cnbc.com/2026/10/07/lululemon-athleta-ceo-maggie-gauger-chief-product-officer.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108335663-1784152010295-gettyimages-2285645602-RETAIL_SALES.jpeg?v=1791409187&w=1920&h=1080",
-            "publishedAt": "2026-10-07T20:39:39Z",
-            "content": "Lululemonannounced Wednesday that Athleta CEO Maggie Gauger is joining the company as president and chief product officer, effective later this month.\r\nThe move marks the latest shake-up among the to… [+1841 chars]"
-        },
-        {
-            "source": {
-                "id": "techcrunch",
-                "name": "TechCrunch"
-            },
-            "author": "Julie Bort",
-            "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11 - TechCrunch",
-            "description": "Microsoft revealed the specs and price for its Surface Laptop Ultra, AI PCs that run on Nvidia chips that are designed to run AI models and agents.",
-            "url": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
-            "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/10/Microsoft-Surface-Laptop-Ultra.png?resize=1200,677",
-            "publishedAt": "2026-10-07T20:22:37Z",
-            "content": "Back in June, Nvidia announced that it had secured agreements with Microsoft and a host of other PC makers to develop AI- and agent-ready PCs for Windows based on its RTX Spark chip, but details on t… [+2532 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "KTLA Los Angeles"
-            },
-            "author": "Iman Palm",
-            "title": "California could ban quartz countertop production amid health concerns - KTLA",
-            "description": "California could become the first state to ban the production or installation of man-made quartz amid cases of a deadly lung disease among workers who cut the material for kitchen countertops, according to a report from The New York Times. According to the pu…",
-            "url": "https://ktla.com/news/california/california-engineered-quartz-ban/",
-            "urlToImage": "https://ktla.com/wp-content/uploads/sites/4/2026/10/GettyImages-912489154.jpg?w=1280",
-            "publishedAt": "2026-10-07T20:13:44Z",
-            "content": "California could become the first state to ban the production or installation of man-made quartz amid cases of a deadly lung disease among workers who cut the material for kitchen countertops, accord… [+4396 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "12news.com KPNX"
-            },
-            "author": "12News",
-            "title": "Arizona congressional candidate says she was attacked, sexually assaulted while fixing campaign signs - 12News",
-            "description": null,
-            "url": "https://www.12news.com/article/news/local/arizona/bernadette-greene-placentia-raped-in-phoenix-sheriff-report/75-98c6aeb1-d6b4-4fdd-a2ce-82213a92c955",
-            "urlToImage": null,
-            "publishedAt": "2026-10-07T20:11:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CBS Sports"
-            },
-            "author": "Zachary Pereles",
-            "title": "2026 NFL trade deadline: Three more players Eagles could shop after dealing Cam Jurgens - CBS Sports",
-            "description": "A franchise icon could be a popular target",
-            "url": "https://www.cbssports.com/nfl/news/2026-nfl-trade-deadline-eagles-who-could-be-dealt/",
-            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2026/10/07/7cf72475-c2bf-48c3-98ef-4599ebbd6635/thumbnail/1200x675/d1694a7ed7fd8012be3324a6b971b182/dallas-goedert-eagles.jpg",
-            "publishedAt": "2026-10-07T20:06:00Z",
-            "content": "Twenty months ago, the Philadelphia Eagles were on top of the football world, having annihilated the Kansas City Chiefs 40-22 in a Super Bowl LIX beatdown that wasn't even as close as that one-sided … [+5216 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Evan Perez, Hannah Rabinowitz, Kara Scannell, Jennifer Hansler",
-            "title": "Exclusive: Nicolás Maduro and his wife expected to face new charges over alleged torture of Americans - CNN",
-            "description": "Prosecutors in New York are expected to bring new charges against former Venezuelan President Nicolás Maduro and his wife Cilia Flores over the alleged torture of Americans who were held in Venezuelan government custody in recent years, according to multiple …",
-            "url": "https://www.cnn.com/2026/10/07/politics/maduro-face-new-torture-charges",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/211017100330-nicolas-maduro-10-15-2021.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2026-10-07T20:05:19Z",
-            "content": "Prosecutors in New York are expected to bring new charges against former Venezuelan President Nicolás Maduro and his wife Cilia Flores over the alleged torture of Americans who were held in Venezuela… [+2872 chars]"
-        },
-        {
-            "source": {
-                "id": "ars-technica",
-                "name": "Ars Technica"
-            },
-            "author": "Beth Mole",
-            "title": "PA measles outbreak tops 1,000 cases, largest since disease was eliminated - Ars Technica",
-            "description": "Pennsylvania reported 1,066 outbreak-linked cases on Wednesday.",
-            "url": "https://arstechnica.com/health/2026/10/pa-measles-outbreak-tops-1000-cases-largest-since-disease-was-eliminated/",
-            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2020/05/misinfoTOP-1152x648.jpg",
-            "publishedAt": "2026-10-07T20:01:14Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
-            },
-            "author": "Melanie Lidman",
-            "title": "Israelis mourn Oct. 7 attack as Palestinians in Gaza languish in ruins of the war it sparked - AP News",
-            "description": "Israelis have gathered at intersections, bomb shelters and the site of a music festival that Hamas-led militants overran on Oct. 7, 2023. The attack killed 1,200 people, saw 251 taken hostage, sparked the war in Gaza, and led to a spiral of conflicts across t…",
-            "url": "https://apnews.com/article/israel-palestinians-oct-7-war-gaza-anniversary-da70839eab71a77db31237fe79142ead",
-            "urlToImage": "https://dims.apnews.com/dims4/default/6903df8/2147483647/strip/true/crop/5616x3742+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ff5%2F99%2Fb0d4af474da281f1ddf4ecf56bd4%2Fap26280136486373.jpg",
-            "publishedAt": "2026-10-07T20:00:00Z",
-            "content": "REIM, Israel (AP) On a field where music festival revelers were gunned down by Hamas-led militants three years ago, Israelis on Wednesday embraced and wept for those lost in an attack that plunged th… [+6803 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "NPR"
-            },
-            "author": "Ari Daniel",
-            "title": "This surprising mammal fossil is giving scientists something to chew on - NPR",
-            "description": "It's likely you've already chewed and swallowed some tasty morsel today. But when did that ability emerge? New evidence points to at least the middle Jurassic, back when dinosaurs still reigned.",
-            "url": "https://www.npr.org/2026/10/07/nx-s1-5991361/fossil-mammal-platypus-chew-swallow-suckle-earliest",
-            "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3584x2016+148+0/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb0%2Fa1%2Fe2f3a3574356abf38f3545bfa159%2Fspecimen.jpeg",
-            "publishedAt": "2026-10-07T19:59:16Z",
-            "content": "Over the years, a section of the Inner Mongolia region of China has coughed up heaps of remarkable fossils, ranging from feathered dinosaurs to flying reptiles.\r\n\"To say it's [a] hot spot is actually… [+5156 chars]"
-        },
-        {
-            "source": {
-                "id": "bleacher-report",
-                "name": "Bleacher Report"
-            },
-            "author": "Timothy Rapp",
-            "title": "Stephen A. Smith Apologizes for Lane Johnson Retirement Comments on Mental Health - Bleacher Report",
-            "description": "ESPN personality Stephen A. Smith apologized Wednesday for his criticism of Lane Johnson's decision to retire this week after suggesting that the Philadelphia Eagles' tackle retired due to the team's struggles this season rather than the \"personal and family …",
-            "url": "https://bleacherreport.com/articles/25507880-stephen-smith-apologizes-lane-johnson-retirement-comments-mental-health",
-            "urlToImage": "https://gsp-image-cdn.wmsports.io/cms/prod/bleacher-report/getty_images/2026-10/2297778748_large_cropped.jpg?w=1120&h=630",
-            "publishedAt": "2026-10-07T19:49:35Z",
-            "content": "ESPN personality Stephen A. Smith apologized Wednesday for his criticism of Lane Johnson's decision to retire this week after suggesting that the Philadelphia Eagles' tackle retired due to the team's… [+2392 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "WRAL.com"
-            },
-            "author": "Ally Kadlubar, WRAL reporter",
-            "title": "Three years after Oct.7, Chapel Hill native Keith Siegel and his wife reflect on survival and hope - WRAL",
-            "description": "Chapel Hill native Keith Siegel and his wife, Aviva, speak out exactly three years after Hamas militants kidnapped them and dozens of others, killing 1,200 people.",
-            "url": "https://www.wral.com/news/local/three-years-after-oct-7-chapel-hill-native-keith-siegel-and-his-wife-reflect-on-survival-and-hope-october-2026/",
-            "urlToImage": "https://images.wral.com/3a8faa4d-5941-5e34-9699-3978ed5ed91b?w=1200&h=630&height=630",
-            "publishedAt": "2026-10-07T19:34:12Z",
-            "content": "Sadness, sorrow, and gratitude...a mixture of heavy emotions describes how Chapel Hill native Keith Siegel and his wife, Aviva, are feeling exactly three years after Hamas militants kidnapped them an… [+2822 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "NPR"
-            },
-            "author": "Rachel Treisman",
-            "title": "Trump approved the military's 1st firing squad execution since WWII. Why now? - NPR",
-            "description": "The Pentagon says Nidal Hasan will be executed by firing squad in December at Fort Hood, where he killed 13 people in 2009. The announcement came days after a botched lethal injection in Tennessee.",
-            "url": "https://www.npr.org/2026/10/07/nx-s1-5993539/firing-squad-execution-nidal-hasan-fort-hood",
-            "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x1688+0+311/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F50%2Faf%2Fd3818918478c8a44efa8c3138215%2Fgettyimages-93016453.jpg",
-            "publishedAt": "2026-10-07T19:08:48Z",
-            "content": "President Trump has approved the execution by firing squad of Nidal Hasan, the former U.S. Army psychiatrist who killed 13 people in a shooting rampage at Fort Hood, Texas, in 2009.\r\nIt would be the … [+8144 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Cheryl Eddy",
-            "title": "Mike Flanagan Addresses Some of Those ‘Carrie’ Twists - Gizmodo",
-            "description": "The creator of Prime Video's new Stephen King series discusses the notable changes he made.",
-            "url": "https://gizmodo.com/mike-flanagan-addresses-some-of-those-carrie-twists-2000823188",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/09/Carrie_and_Margaret_White-1200x675.jpg",
-            "publishedAt": "2026-10-07T19:00:27Z",
-            "content": "Mike Flanagan‘s Carrie has finally arrived, and fans can now shift from anticipation to picking apart every little aspect of the new Stephen King adaptation. io9 definitely had some questions after w… [+3245 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "POLITICO.eu"
-            },
-            "author": "Victor Goury-Laffont",
-            "title": "French PM tries to defuse anger over schools, fuel and agriculture in sweeping speech - POLITICO.eu",
-            "description": "With students protesting and fuel prices adding to pressure on households, Lecornu pledged new measures to address France’s mounting polycrisis.",
-            "url": "https://www.politico.eu/article/france-prime-minister-sebastien-lecornu-schools-fuel-agriculture-speech/",
-            "urlToImage": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/10/07/GettyImages-2298460682-scaled.jpg",
-            "publishedAt": "2026-10-07T18:50:59Z",
-            "content": "On Tuesday, between 256,000 people, according to police, and 450,000, according to organizers, joined demonstrations across France. Unions, teachers and left-wing political parties took to the street… [+1074 chars]"
-        },
-        {
-            "source": {
-                "id": "techcrunch",
-                "name": "TechCrunch"
-            },
-            "author": "Rebecca Bellan",
-            "title": "ChatGPT for Teens keeps teens talking, even during mental health crises - TechCrunch",
-            "description": "ChatGPT’s teen safeguards are meant to protect vulnerable users, but new testing found the chatbot continues encouraging engagement during crises and potentially encourages unhealthy relationships with the AI itself.",
-            "url": "https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/",
-            "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2268195606.jpg?w=1024",
-            "publishedAt": "2026-10-07T18:15:28Z",
-            "content": "Common Sense Media, a nonprofit that provides age-based ratings and reviews of media and tech for families, has labeled ChatGPT for Teens an unacceptable risk.\r\nThe rating comes as chatbots like Open… [+6143 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Microsoft.com"
-            },
-            "author": "Lisa Brown Jaloza",
-            "title": "Bringing local models and sandboxed tools to Windows and GitHub Copilot - Microsoft",
-            "description": "Coming soon, GitHub Copilot will determine when a task is best handled by on-device intelligence and when it should leverage cloud-scale models.",
-            "url": "https://commandline.microsoft.com/local-models-sandboxed-tools-github-windows/",
-            "urlToImage": "https://commandline.microsoft.com/wp-content/uploads/2026/10/LigthHeader_02-1-scaled.png",
-            "publishedAt": "2026-10-07T18:11:56Z",
-            "content": "When leveraging agents, developers need both choice and control. They need technologies that offer clear boundaries for their agents and make it easy to choose the model with the right speed, perform… [+11008 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "NPR"
-            },
-            "author": "Willa Rubin",
-            "title": "Why Trump just loosened the rules on 'dyed diesel' — normally a farm fuel - NPR",
-            "description": "Trump is temporarily allowing this fuel to be used on highways, although it's typically just for off-road farm and construction vehicles. Could that lower the price of diesel?",
-            "url": "https://www.npr.org/2026/10/07/nx-s1-5992963/dyed-diesel-fuel-price-farmers-trucks",
-            "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4768x2682+3+0/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F01%2F1f%2F940c27f04fa28cd524c6d3f4bbbf%2Ftractor-getty.jpg",
-            "publishedAt": "2026-10-07T18:00:31Z",
-            "content": "Stay up to date with our \r\nUp First\r\n newsletter, sent every weekday morning.\r\nLess than a month before the midterms, the price of fuel is becoming a powerful election issue\r\n.\r\nThis week, President … [+5832 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Lauren Feiner",
-            "title": "What The Social Reckoning gets right — and wrong - The Verge",
-            "description": "Aaron Sorkin’s “Social Reckoning” film is based on the true story of Facebook whistleblower Frances Haugen’s leaks to Wall Street Journal reporter Jeff Horwitz.",
-            "url": "https://www.theverge.com/policy/1007069/aaron-sorkin-social-reckoning-real-life",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2298597150.jpg?quality=90&strip=all&crop=0%2C10.740836125969%2C100%2C78.518327748063&w=1200",
-            "publishedAt": "2026-10-07T17:53:48Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nWhat The Social Reckoning gets right and wrong\r\nSpoiler alert: The Facebook Files are still more interesting than Aaron Sorkins new thriller.\r\nby\r\nLauren FeinerC… [+14381 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Abcnews.com"
-            },
-            "author": "ABC News - Breaking News, Latest News and Videos",
-            "title": "Expert tips for parents to prepare as flu season begins - ABC News - Breaking News, Latest News and Videos",
-            "description": null,
-            "url": "https://abcnews.com/GMA/Wellness/expert-tips-parents-prepare-flu-season-begins/story?id\\\\u003d137028378",
-            "urlToImage": null,
-            "publishedAt": "2026-10-07T17:19:37Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "espn",
-                "name": "ESPN"
-            },
-            "author": "Jamison Hensley",
-            "title": "Ravens acquire center Cam Jurgens in trade with Eagles - ESPN",
-            "description": "The Ravens have acquired two-time Pro Bowl center Cam Jurgens in a trade with the Eagles.",
-            "url": "https://www.espn.com/nfl/story/_/id/50126306/ravens-acquire-center-cam-jurgens-trade-eagles",
-            "urlToImage": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1007%2Fr1727427_1296x729_16%2D9.jpg",
-            "publishedAt": "2026-10-07T17:17:00Z",
-            "content": "OWINGS MILLS, Md. -- The Baltimore Ravens traded with the Philadelphia Eagles for two-time Pro Bowl center Cam Jurgens on Wednesday, filling a desperate need at that position for Baltimore.\r\nThe Rave… [+2646 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Live Science"
-            },
-            "author": "Harry Baker",
-            "title": "1,000-mile-long cloud that forms and vanishes on Mars every day obeys 'exotic physics' never seen on Earth - Live Science",
-            "description": "New simulations suggest that the perplexing Arsia Mons Elongated Cloud (AMEC) repeatedly emerges in the Red Planet's skies thanks to a never-before-seen meteorological process.",
-            "url": "https://www.livescience.com/space/mars/1-000-mile-long-cloud-that-forms-and-vanishes-on-mars-every-day-obeys-exotic-physics-never-seen-on-earth",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/kmKNmyUJt8dPY3CiiQtsqH-2400-80.jpg",
-            "publishedAt": "2026-10-07T17:08:09Z",
-            "content": null
         }
     ]
 }

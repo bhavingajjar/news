@@ -1,7 +1,280 @@
 {
     "status": "ok",
-    "totalResults": 573,
+    "totalResults": 572,
     "articles": [
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Doha Madani",
+            "title": "Dolly Parton’s nephew responds to restraining order, denies threatening violence - NBC News",
+            "description": "Bryan Seaver, Parton’s nephew and former head of security, says the messages submitted to the court were out of context in regard to a payment dispute.",
+            "url": "https://www.nbcnews.com/news/us-news/dolly-partons-nephew-responds-restraining-order-denies-threatening-vio-rcna603237",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260922-dolly-parton-bryan-seaver-mb-1420-359ebd.jpg",
+            "publishedAt": "2026-10-13T20:53:29Z",
+            "content": "Dolly Partons nephew denied accusations that he threatened to use violence and destroy his aunts legacy, telling the court the messages were taken out of context from a specific business dispute, acc… [+5497 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Reality Tea"
+            },
+            "author": "Meenakshi Sengupta",
+            "title": "Jessica Lange Slams ‘American Horror Story’ for Being ‘Too Cheap’ - Yahoo",
+            "description": "Jessica Lange has called out FX for failing to provide transportation for the American Horror Story cast during the show’s early seasons. The 77-year-old Osc...",
+            "url": "https://www.realitytea.com/2026/10/13/jessica-lange-american-horror-story-cheap-cast-rides/",
+            "urlToImage": "https://s.yimg.com/lo/mysterio/api/9cbb6fcae23b3328ddfa3e5d40f629ae245081041db209a5d2931e3b48e2ba35/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freality_tea_694%2Faca136c86ec62d80b831f70e09efecb4.png",
+            "publishedAt": "2026-10-13T20:42:41Z",
+            "content": "Jessica Lange has called out FX for failing to provide transportation for the American Horror Story cast during the show's early seasons. The 77-year-old Oscar winner, who has returned for Season 13,… [+1551 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Page Six"
+            },
+            "author": "Audrey Rock",
+            "title": "Amy Robach and T.J. Holmes marry in private Arkansas ceremony - Page Six",
+            "description": "Robach and Holmes announced their engagement in October 2025.",
+            "url": "https://pagesix.com/2026/10/13/celebrity-news/amy-robach-and-t-j-holmes-marry-in-private-arkansas-ceremony/",
+            "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2026/10/143622504.jpg?quality=75&strip=all&w=1200",
+            "publishedAt": "2026-10-13T20:34:00Z",
+            "content": "Amy Robach and T.J. Holmes have finally tied the knot nearly four years after their romance scandal rocked “GMA3.”\r\nAccording to a registered marriage license obtained by People on Tuesday, the coupl… [+4355 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": null,
+            "title": "Bella Hadid flaunts toned figure in red bikini, cowboy boots for 30th birthday - Fox News",
+            "description": "Bella Hadid shared photos of a personalized birthday bikini featuring her name and age, paired with cowboy boots at a lakeside Tennessee retreat.",
+            "url": "https://www.foxnews.com/entertainment/bella-hadid-flaunts-toned-figure-red-bikini-cowboy-boots-30th-birthday",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/bella-hadid-chopard-happy-diamonds-event.jpg",
+            "publishedAt": "2026-10-13T19:37:59Z",
+            "content": "Bella Hadid is celebrating a new decade with a bikini made just for her.\r\nThe supermodel, who turned 30 on Oct. 9, marked the milestone with a series of Instagram photos showing off a personalized re… [+3287 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PEOPLE"
+            },
+            "author": "Natasha Dye",
+            "title": "Taylor Swift Cozies Up to Husband Travis Kelce in Newly Released Footage from ‘Patient Zero’ Filming - Yahoo",
+            "description": "Kelce and Swift tied the knot on July 3 at Madison Square Garden",
+            "url": "https://people.com/taylor-swift-cozies-up-husband-travis-kelce-in-newly-released-footage-from-patient-zero-filming-12172118",
+            "urlToImage": "https://s.yimg.com/lo/mysterio/api/1afc9458d4a207a73c81f16bdd5b46180020ba28b5654ff02ae390a83ed01c4b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F3e9afcc8e48bb1a35baeb22aacac5f5e.jpg",
+            "publishedAt": "2026-10-13T19:27:46Z",
+            "content": "NEED TO KNOW\r\n<ul><li>Travis Kelce made a cameo in Taylor Swift's behind-the-scenes footage from the set of her \"Patient Zero\" music video\r\n</li><li>The Chiefs star was spotted with his arms on Swift… [+2273 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Variety"
+            },
+            "author": "Chris Willman",
+            "title": "Joni Mitchell Sworn In as a U.S. Citizen, Capping ‘a Journey That Began 62 Years Ago’ - Variety",
+            "description": "Joni Mitchell was pictured smiling as she was sworn in as a U.S, citizen, more than six decades after first moving to the United States.",
+            "url": "https://variety.com/2026/music/news/joni-mitchell-american-citizen-sworn-in-1236910447/",
+            "urlToImage": "https://variety.com/wp-content/uploads/2026/10/Screenshot-2026-10-13-at-11.41.15-AM.png?w=1000&h=563&crop=1",
+            "publishedAt": "2026-10-13T19:14:00Z",
+            "content": "When the New York Times ran a list of the greatest living American songwriters earlier this year, the ranking was greeted with a lot of reader flack for not including Joni Mitchell. The newspaper’s e… [+1351 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hollywood Reporter"
+            },
+            "author": "Chris Gardner",
+            "title": "Selma Blair Pleads Not Guilty to Assault Charges Following Violent Outburst on Delta Flight - The Hollywood Reporter",
+            "description": "New details emerged late Monday about what allegedly occurred on board the flight and in the aftermath when Blair was detained at JFK and transported to a local hospital.",
+            "url": "http://www.hollywoodreporter.com/news/general-news/selma-blair-assault-charges-alleged-violent-outburst-delta-1236728939/",
+            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/GettyImages-2299996096-H-2026.jpg?w=1296&h=730&crop=1",
+            "publishedAt": "2026-10-13T19:11:28Z",
+            "content": "Selma Blair pleaded not guilty to two counts of assault at a Monday evening court appearance in Queens, New York less than 24 hours after the actress was arrested at John F. Kennedy International Air… [+5819 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Variety"
+            },
+            "author": "Selome Hailu",
+            "title": "‘Girls’ Shocker: Lena Dunham Sets Revival at HBO With Allison Williams, Zosia Mamet, Jemima Kirke Returning - Variety",
+            "description": "HBO is reviving 'Girls,' with Lena Dunham, Allison Williams, Zosia Mamet, Jemima Kirke and Andrew Rannells returning.",
+            "url": "https://variety.com/2026/tv/news/girls-revival-lena-dunham-allison-williams-zosia-mamet-hbo-1236909362/",
+            "urlToImage": "https://variety.com/wp-content/uploads/2025/07/GIRLS_S1-BENCH_GROUP-Seliger-Mark-HBO-e1752081243518.jpg?w=1000&h=563&crop=1",
+            "publishedAt": "2026-10-13T19:00:00Z",
+            "content": "A voice of a generation has returned. \r\nHBO has greenlit a revival of “Girls,” Lena Dunham‘s beloved and controversial mid-aughts dramedy. The series will return for a limited, five-episode run with … [+5971 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Duane \"Keffe D\" Davis sentenced in rapper Tupac Shakur's murder - BBC",
+            "description": "Davis was found guilty last month over his role in the late rap superstar's death in a drive-by shooting in 1996.",
+            "url": "https://www.bbc.com/news/articles/c60rln2jvv2zo",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/37f6/live/8c0f8020-c73b-11f1-a64c-550be9e3c66b.jpg",
+            "publishedAt": "2026-10-13T18:54:17Z",
+            "content": "Shakur's sister, Sekyiwa Shakur, told the court: \"The loss of Tupac, for a long time, crippled my family.\""
+        },
+        {
+            "source": {
+                "id": "ign",
+                "name": "IGN"
+            },
+            "author": "Chris Reed",
+            "title": "The Odyssey 4K Blu-ray Is Up for Preorder at Amazon, Including a $300 Collector’s Edition - IGN",
+            "description": "Preorders are live for Christopher Nolan's The Odyssey, including a limited-edition steelbook edition, as well as a $300 collector's giftset.",
+            "url": "https://www.ign.com/articles/the-odyssey-christopher-nolan-where-to-buy",
+            "urlToImage": "https://assets-prd.ignimgs.com/2026/10/13/odyssey-blogroll-1791916369961.png?width=1280&format=jpg&auto=webp&quality=80",
+            "publishedAt": "2026-10-13T18:54:05Z",
+            "content": "Christopher Nolans The Odyssey is now available for preorder on 4K UHD Blu-ray at a handful of retailers. Its set to release November 17, and is available in a number of editions. First off, there's … [+6307 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Deadline"
+            },
+            "author": "Dessi Gomez",
+            "title": "'Narnia: The Magician's Nephew' Trailer Teases Aslan, Jadis & More - Deadline",
+            "description": "The first trailer for Greta Gerwig's 'Narnia: The Magician's Newphew' has arrived, plunging viewers into a retelling of C.S. Lewis' first book.",
+            "url": "http://deadline.com/2026/10/narnia-magicians-nephew-trailer-aslan-jadis-greta-gerwig-1237155940/",
+            "urlToImage": "https://deadline.com/wp-content/uploads/2026/10/Screenshot-2026-10-13-at-11.20.35-AM-e1791915879804.png?w=1024",
+            "publishedAt": "2026-10-13T18:30:00Z",
+            "content": "The first trailer for the Greta Gerwig-directed adaptation of Narnia: The Magician’s Nephew has arrived, plunging viewers into a modernized retelling of C.S. Lewis’ first book in The Chronicles of Na… [+2775 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hollywood Reporter"
+            },
+            "author": "Etan Vlessing",
+            "title": "Reese Witherspoon’s Hello Sunshine Breaks Away From Candle Media - The Hollywood Reporter",
+            "description": "The star inks a deal to join a Mediawan ecosystem that includes Chernin Entertainment and Plan B Entertainment.",
+            "url": "http://www.hollywoodreporter.com/business/business-news/reese-witherspoon-mediawan-hello-sunshine-1236728974/",
+            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2026/04/GettyImages-2234576796.jpg?crop=0px%2C352px%2C6000px%2C3357px&resize=1440%2C810",
+            "publishedAt": "2026-10-13T18:09:59Z",
+            "content": "Reese Witherspoon and European studio Mediawan have teamed up to buy Hello Sunshine back from Candle Media.\r\nTerms of the deal were not disclosed, but the agreement unites Hello Sunshine with Mediawa… [+3912 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Christopher Cann, Taijuan Moorman",
+            "title": "Art of Play raises price of controversial bird in Kelly Clarkson feud | Exclusive - USA Today",
+            "description": "Art of Play has increased the price of the singing Molly bird at the center of its social media rift with Kelly Clarkson.",
+            "url": "https://www.usatoday.com/story/entertainment/music/2026/10/13/kelly-clarkson-art-of-play-controversy-store-reaction-molly-bird/92232370007/",
+            "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/10/13/USAT/92232766007-kelly-clarkson-controversy.png?crop=1919,1079,x0,y0&width=1919&height=1079&format=pjpg&auto=webp",
+            "publishedAt": "2026-10-13T17:43:00Z",
+            "content": "BROOKLYN, N.Y. Amid an ongoing dispute with Kelly Clarkson, New York City specialty store Art of Play has been met with both backlash and support and it's firing back with a significant price increas… [+5176 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": "Terry Gross",
+            "title": "Writer Yiyun Li lost both of her sons. When words fell short, she turned to music - NPR",
+            "description": "Li won a Pulitzer for her memoir about the suicides of her two sons. In her new novel, <em>Music Against the Night</em>, she writes about two young prodigies in the late 18th and early 19th centuries.",
+            "url": "https://www.npr.org/2026/10/13/nx-s1-6000124/yiyun-li-music-against-the-night",
+            "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/750x422+0+105/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe3%2F23%2Fea5a754d4a5ba207acd1f62ff6c6%2Fyiyun-li-credit-hannah-yoon-1200.jpg",
+            "publishedAt": "2026-10-13T17:41:07Z",
+            "content": "If you or someone you know may be considering suicide or is in crisis, call or text 988 to reach the Suicide &amp; Crisis Lifeline.\r\nWriter Yiyun Li does not talk about \"grief\" or the \"grieving proce… [+5671 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "InStyle"
+            },
+            "author": "Juliana Ukiomogbe",
+            "title": "Kate Gosselin’s Son Collin, 22, Claims She Took a Shocking Amount of Money From Him and His 7 Siblings - Yahoo News Singapore",
+            "description": "The ‘Jon & Kate Plus 8’ star got candid in a new interview.",
+            "url": "https://www.instyle.com/kate-gosselin-son-collin-says-mom-took-money-from-him-siblings-12171854",
+            "urlToImage": "https://s.yimg.com/lo/mysterio/api/097d1d8df3076717ca7f6fddda97ba39f47c520411e6259d2bf97f4b711edf63/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finstyle_846%2F693ea77473f62f9bbeddeacaab2daf2f.jpg",
+            "publishedAt": "2026-10-13T17:28:26Z",
+            "content": "The Gist\r\n<ul><li>Collin Gosselin says his mom, Kate Gosselin, took over $100,000 from him and his siblings.\r\n</li><li>\"What I've seen so far is documentation that my mom has taken money from a colle… [+2393 chars]"
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MS Now"
+            },
+            "author": "Erum Salam",
+            "title": "Kacey Musgraves bites back at Kristi Noem after Talarico concert appearance - MS NOW",
+            "description": "The Grammy Award-winning country musician wished the former homeland security secretary would let sleeping dogs lie.",
+            "url": "https://www.ms.now/news/kacey-musgraves-kristi-noem-dog-talarico-concert",
+            "urlToImage": "https://www.ms.now/wp-content/uploads/2026/10/261013-kacey-musgraves-hits-back-at-kristi-noem-james-talarico-concert-appearance-zz.webp?crop=0px,0px,2500px,1313px&w=1200&h=630",
+            "publishedAt": "2026-10-13T17:24:35Z",
+            "content": "Country music singer Kacey Musgraves took aim at Kristi Noem on Monday night after the former homeland security secretary publicly criticized her for meeting with Texas Democratic Senate nominee Jame… [+1719 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Consequence.net"
+            },
+            "author": "Alex Krinsky",
+            "title": "Matchbox Twenty Announce 30th Anniversary Tour in 2027 - Consequence of Sound",
+            "description": "Matchbox Twenty have announced a 52-date North American tour celebrating their 30th anniversary, with support from The All-American Rejects, The Wallflowers, David Gray, O.A.R., Matt Nathanson, and The Lucky.",
+            "url": "https://consequence.net/2026/10/matchbox-twenty-announce-30th-anniversary-tour-in-2027/",
+            "urlToImage": "https://consequence.net/wp-content/uploads/2026/10/matchbox-twenty-30th-anni-tour.jpg",
+            "publishedAt": "2026-10-13T17:00:02Z",
+            "content": "Matchbox Twenty are taking 30 years of hits back on the road. The band has announced an extensive North American anniversary tour for 2027, featuring rotating support from The All-American Rejects, T… [+4096 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Deadline"
+            },
+            "author": "Matt Grobar",
+            "title": "'Miami Vice '85' Cast: Haley Lu Richardson Latest To Join (EXCLUSIVE) - Deadline",
+            "description": "'Miami Vice '85,' the Universal film based on the classic crime drama series, has added Haley Lu Richardson to its cast.",
+            "url": "http://deadline.com/2026/10/miami-vice-85-cast-haley-lu-richardson-1237154984/",
+            "urlToImage": "https://deadline.com/wp-content/uploads/2026/10/GettyImages-1247516339.jpg?w=1024",
+            "publishedAt": "2026-10-13T17:00:00Z",
+            "content": "EXCLUSIVE:Haley Lu Richardson, the actress known for her work in The White Lotus Season 2, Ponies and more, has joined the cast of Universal Pictures‘ Miami Vice ’85.\r\nNo word on the role she will pl… [+1718 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Deadline"
+            },
+            "author": "Rosy Cordero",
+            "title": "Mark Harmon & Michael Weatherly To Reunite On ‘NCIS: Origins’ - Deadline",
+            "description": "After a decade apart, Mark Harmon and Michael Weatherly's 'NCIS' characters will reunite on an upcoming 'NCIS: Origins' episode.",
+            "url": "http://deadline.com/2026/10/mark-harmon-michael-weatherly-ncis-origins-reunion-1237155702/",
+            "urlToImage": "https://deadline.com/wp-content/uploads/2026/10/MHMW3245384_NCOR_S3_0855b2.jpg?w=1024",
+            "publishedAt": "2026-10-13T17:00:00Z",
+            "content": "A major NCISreunion has been set for this fall.\r\nMark Harmon and Michael Weatherly‘s franchise characters will meet again after a decade on CBS‘ NCIS: Origins, where Harmon is appearing for a season-… [+1641 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Deadline"
+            },
+            "author": "Peter White",
+            "title": "Sam Levinson Signs Overall Deal With Amazon - Deadline",
+            "description": "He will develop and produce series for Prime Video and the studio as part of the pact.",
+            "url": "http://deadline.com/2026/10/sam-levinson-overall-deal-amazon-1237155806/",
+            "urlToImage": "https://deadline.com/wp-content/uploads/2026/10/SL-Updated-Headshot_Credit-Anderson_Sam05-1500.jpg?w=1024",
+            "publishedAt": "2026-10-13T17:00:00Z",
+            "content": "Euphoria creator Sam Levinson is on the move.\r\nLevinson has struck an overall television deal with Amazon MGM Studios. He will develop and produce series for Prime Video and the studio as part of the… [+1667 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Variety"
+            },
+            "author": "Jazz Tangcay",
+            "title": "Lucian Piane, ‘RuPaul’s Drag Race’ Music Producer, Dies at 46 - Variety",
+            "description": "Lucian Piane, \"RuPaul's Drag Race' music producer and songwriter, died on Monday. He was 46.",
+            "url": "https://variety.com/2026/tv/news/lucian-piane-deadrupaul-drag-race-music-producer-1236910171/",
+            "urlToImage": "https://variety.com/wp-content/uploads/2026/10/GettyImages-463830818.jpg?w=1000&h=563&crop=1",
+            "publishedAt": "2026-10-13T16:17:00Z",
+            "content": "Lucian Piane, a music producer on “RuPaul’s Drag Race” has died. He was 46.\r\nAccording to Los Angeles County Medical Examiner records, Piane died on Monday after reportedly being struck by a car in G… [+1668 chars]"
+        },
         {
             "source": {
                 "id": "the-washington-post",
@@ -27,6 +300,19 @@
             "urlToImage": "https://deadline.com/wp-content/uploads/2026/03/Himesh-Patel-and-Danielle-Deadwyler.jpg?w=1024",
             "publishedAt": "2026-10-13T16:00:00Z",
             "content": "Ryan Coogler‘s long-gestatingThe X-Filesreboot, starring Emmy nominee Himesh Patel (The Odyssey, Station Eleven) and Danielle Deadwyler (The Bell Jar, The Chaperones), has been ordered to series at H… [+2769 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Variety"
+            },
+            "author": "Ethan Shanfeld",
+            "title": "'X-Files' Reboot From Ryan Coogler Picked Up to Series at Hulu - Variety",
+            "description": "Ryan Coogler's 'X-Files' project starring Danielle Deadwyler and Himesh Patel has been picked up to series by Hulu.",
+            "url": "https://variety.com/2026/tv/news/x-files-reboot-ryan-coogler-series-hulu-1236910160/",
+            "urlToImage": "https://variety.com/wp-content/uploads/2025/12/Ryan-Coogler-Variety-Directors-on-Directors.jpg?crop=0px%2C331px%2C1200px%2C674px&resize=1000%2C563",
+            "publishedAt": "2026-10-13T16:00:00Z",
+            "content": "Ryan Coogler‘s “X-Files” reboot has been picked up to series by Hulu.\r\nA reimagining of the 1990s sci-fi drama, the show will star Danielle Deadwyler and Himesh Patel as “two highly decorated but vas… [+2170 chars]"
         },
         {
             "source": {
@@ -56,6 +342,19 @@
         },
         {
             "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "David K. Li",
+            "title": "Bryan Cranston mourns ‘Breaking Bad’ co-star RJ Mitte: ‘My sweet son’ - NBC News",
+            "description": "The pair had been planning to get together for lunch before Mitte’s death by suicide, and Cranston lamented their inability to make that happen.",
+            "url": "https://www.nbcnews.com/pop-culture/pop-culture-news/bryan-cranston-mourns-breaking-bad-co-star-rj-mitte-sweet-son-rcna603187",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/2601013-rj-mitte-breaking-bad-mb-1104-5bec17.jpg",
+            "publishedAt": "2026-10-13T14:55:33Z",
+            "content": "Emmy-winning actor Bryan Cranston on Monday lamented the death of Breaking Bad co-star RJ Mitte, calling the late actor and disability advocate my sweet son. \r\nCranston, 70, said he was in deep despa… [+2070 chars]"
+        },
+        {
+            "source": {
                 "id": null,
                 "name": "Variety"
             },
@@ -82,6 +381,19 @@
         },
         {
             "source": {
+                "id": null,
+                "name": "Rolling Stone"
+            },
+            "author": "Jon Blistein",
+            "title": "Larry David Saw O.J. Simpson at a Country Club the Day Nicole Brown Simpson Was Killed - Rolling Stone",
+            "description": "Larry David crossed paths with O.J. Simpson at a country club the day Nicole Brown and Ron Goldman were killed, according to a new biography.",
+            "url": "http://www.rollingstone.com/tv-movies/tv-movie-news/larry-david-oj-simpson-nicole-brown-simpson-1235641211/",
+            "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2026/10/larry-david-oj-simpson-anecdote.jpg?w=1600&h=900&crop=1",
+            "publishedAt": "2026-10-13T14:19:57Z",
+            "content": "Larry David has built one of the greatest careers in comedy out of his own hyperfixations, particular neuroses, and the surreal situations these often lead him into. Reading Blake J. Harris’ upcoming… [+2190 chars]"
+        },
+        {
+            "source": {
                 "id": "the-washington-post",
                 "name": "The Washington Post"
             },
@@ -95,6 +407,45 @@
         },
         {
             "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": null,
+            "title": "Sean 'Diddy' Combs hospitalized with head injury while behind bars: report - Fox News",
+            "description": "Sean \"Diddy\" Combs was reportedly rushed from FCI Fort Dix to a hospital for a head injury, though his team says they are working to confirm details.",
+            "url": "https://www.foxnews.com/entertainment/sean-diddy-combs-hospitalized-head-injury-behind-bars-report",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/07/sean-diddy-combs-invest-fest-atlanta.jpg",
+            "publishedAt": "2026-10-13T14:08:21Z",
+            "content": "Sean \"Diddy\" Combs was allegedly rushed from prison with a medical emergency, TMZ reported.\r\nThe outlet indicated Diddy, 56, was transported to a nearby hospital to treat a head injury. It remains un… [+3208 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "KTLA Los Angeles"
+            },
+            "author": "Tony Kurzweil",
+            "title": "Man sought after suspicious bags found near Disneyland entrance - KTLA",
+            "description": "Police are searching for a man after two suspicious items were left near the bus roundabout leading to a Disneyland entrance Monday night. The packages were reported around 9:30 p.m. near a fence at the Disneyland east entrance roundabout, Anaheim Police Depa…",
+            "url": "https://ktla.com/news/orange-county/disneyland-suspicious-packages-anaheim-police-search/",
+            "urlToImage": "https://ktla.com/wp-content/uploads/sites/4/2026/10/disneyland-suspicious-package.jpg?w=1280",
+            "publishedAt": "2026-10-13T13:56:34Z",
+            "content": "Police are searching for a man after two suspicious items were left near the bus roundabout leading to a Disneyland entrance Monday night.\r\nThe packages were reported around 9:30 p.m. near a fence at… [+1351 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Rogerebert.com"
+            },
+            "author": null,
+            "title": "NYFF 2026: \"Artificial\" and Closing Thoughts - Roger Ebert",
+            "description": "Closing thoughts on this year' NYFF, including a review of one of its best films.",
+            "url": "https://www.rogerebert.com/festivals/nyff-2026-artificial-and-closing-thoughts",
+            "urlToImage": "https://www.rogerebert.com/wp-content/uploads/2026/10/Artificial_Full-Width-6000-x-4000-px-768x432.webp",
+            "publishedAt": "2026-10-13T13:24:50Z",
+            "content": "Brilliant. And scary.\r\nThat was my instant reply to a text from a friend the morning after we saw the world premiere of Luca Guadagninos Artificial at the New York Film Festival. The NYFF hasn’t been… [+8152 chars]"
+        },
+        {
+            "source": {
                 "id": "cnn",
                 "name": "CNN"
             },
@@ -105,6 +456,32 @@
             "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/001-lbn-20250828-0439-carlaoset-r2.jpg?c=16x9&q=w_800,c_fill",
             "publishedAt": "2026-10-13T13:07:28Z",
             "content": "In Christopher Nolans take on The Odyssey, there are several nail-biting scenes in which Trojan soldiers face off against much larger foes, including a towering cyclops and an army of behemoth soldie… [+7354 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Broadway World"
+            },
+            "author": "Nicole Rosky",
+            "title": "THREE DAYS OF RAIN Will Open on Broadway at the Longacre Theatre; Creative Team Announced - BroadwayWorld",
+            "description": "BroadwayWorld has just learned that Richard Greenberg’s acclaimed Pulitzer Prize finalist THREE DAYS OF RAIN will begin performances on Saturday, January…",
+            "url": "https://www.broadwayworld.com/article/THREE-DAYS-OF-RAIN-Will-Open-on-Broadway-at-the-Longacre-Theatre-Creative-Team-Announced-20261013",
+            "urlToImage": "https://cloudimages2.broadwayworld.com/columnpiccloud/THREE-DAYS-OF-RAIN-Will-Open-on-Broadway-at-the-Longacre-Theatre-Creative-Team-Announced-1791826591.jpg?format=jpeg&quality=80&width=1200",
+            "publishedAt": "2026-10-13T13:00:23Z",
+            "content": "BroadwayWorld has just learned that Richard  Greenberg’s acclaimed Pulitzer Prize finalist THREE DAYS OF RAINwill begin performances on Saturday, January 30, 2027, and officially open Monday, March 1… [+18887 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "IndieWire"
+            },
+            "author": "Emily Maskell",
+            "title": "Jacob Tierney Created the Smash Hit Series ‘Heated Rivalry’ — Then He Wrote a Book About It - IndieWire",
+            "description": "The TV creator tells IndieWire about his scriptwriting process, breaks down key scenes, and chats deleted moments in book \"I’ll Believe in Anything.\"",
+            "url": "https://www.indiewire.com/features/interviews/jacob-tierney-heated-rivalry-book-1235220301/",
+            "urlToImage": "https://www.indiewire.com/wp-content/uploads/2026/10/GettyImages-2248296279.jpg?w=650",
+            "publishedAt": "2026-10-13T13:00:00Z",
+            "content": "Jacob Tierney is a very busy man; he’s just moved into a new setup, his lunch delivery is missing, and he is about to enter months of production on one of the year’s most beloved shows, “Heated Rival… [+9130 chars]"
         },
         {
             "source": {
@@ -199,6 +576,19 @@
         },
         {
             "source": {
+                "id": "mashable",
+                "name": "Mashable"
+            },
+            "author": "Sam Haysom",
+            "title": "Jimmy Kimmel responds to Trump calling him a 'loser' - Mashable",
+            "description": "\"That's what bothers him?\"",
+            "url": "https://mashable.com/entertainment/jimmy-kimmel-responds-trump-loser",
+            "urlToImage": "https://helios-i.mashable.com/imagery/videos/04JyixjayCFXhj9W8GN35Pm/hero-image.fill.size_1200x675.v1791885089.jpg",
+            "publishedAt": "2026-10-13T10:00:16Z",
+            "content": null
+        },
+        {
+            "source": {
                 "id": null,
                 "name": "Deadline"
             },
@@ -261,6 +651,19 @@
             "urlToImage": "https://cst.brightspotcdn.com/dims4/default/2145dbd/2147483647/strip/true/crop/870x497+0+67/resize/1461x834!/quality/90/?url=https%3A%2F%2Fchorus-production-cst-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fac%2Ffd%2F790f04b15195427014757adc0272%2Fgeorgia-nicols.jpg",
             "publishedAt": "2026-10-13T05:01:00Z",
             "content": "Moon alert\r\nCaution! Avoid shopping (except food and gas) and important decisions from 3:15 a.m. to 8:15 p.m. Chicago time. After that, the moon moves from Scorpio into Sagittarius.\r\nAries (March 21-… [+3654 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Just Jared"
+            },
+            "author": "AJ Pitts",
+            "title": "Halle Berry’s Son Wants to Testify at Custody Hearings, His Dad Olivier Martinez Says - Just Jared",
+            "description": "Halle Berry's son Maceo, 13, is ready to testify in court, according to his father. New court documents in the former couple's case say that the",
+            "url": "https://www.justjared.com/2026/10/13/halle-berrys-son-wants-to-testify-at-custody-hearings-his-dad-olivier-martinez-says/",
+            "urlToImage": "https://www.justjared.com/wp-content/uploads/2026/10/halle-son-court.jpg",
+            "publishedAt": "2026-10-13T04:44:03Z",
+            "content": "Credit: Getty\r\nHalle Berrys son Maceo, 13, is ready to testify in court, according to his father. \r\nNew court documents in the former couples case say that the 60-year-old actress and ex-husband Oliv… [+3726 chars]"
         },
         {
             "source": {
@@ -499,6 +902,19 @@
         {
             "source": {
                 "id": null,
+                "name": "Fox Business"
+            },
+            "author": "Sophia Compton",
+            "title": "Man used AI songs and 10,000 bots to collect $8M in fraudulent music royalties, prosecutors say - Fox Business",
+            "description": "The scheme used AI-generated music and up to 10,000 bot accounts at a time to rack up millions of dollars in fraudulent streaming royalties.",
+            "url": "https://www.foxbusiness.com/technology/man-used-ai-songs-10000-bots-collect-8m-fraudulent-music-royalties-prosecutors-say",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/10/0/0/airpod-and-music-app.jpg?ve=1&tl=1",
+            "publishedAt": "2026-10-12T22:35:00Z",
+            "content": "A North Carolina man was sentenced to 18 months in prison after prosecutors said he used AI, or super intelligence, to create music and thousands of bots to fraudulently collect more than $8 million … [+2930 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "Variety"
             },
             "author": "Zack Sharf",
@@ -651,6 +1067,19 @@
             "urlToImage": "https://www.slashfilm.com/img/gallery/other-mommys-box-office-success-proves-one-thing-about-horror-movies/l-intro-1791832142.jpg",
             "publishedAt": "2026-10-12T20:00:00Z",
             "content": "It was another big weekend for horror at the box office, as Blumhouse and Universal's \"Other Mommy\" easily took the number one spot on the charts in its debut. Rob Savage, who made his horror breakou… [+1615 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Page Six"
+            },
+            "author": "Brian Sunday",
+            "title": "Celebs frolick on beach to celebrate Jennifer Meyer’s wedding to billionaire Geoff Ogunlesi - Page Six",
+            "description": "From Leonardo DiCaprio to Kate Hudson, see all the stars in Hawaii.",
+            "url": "https://pagesix.com/2026/10/12/photos/all-the-celebrities-in-hawaii-for-jennifer-meyers-wedding/",
+            "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2026/10/hawaii-copy.jpg?quality=90&strip=all&w=1200",
+            "publishedAt": "2026-10-12T20:00:00Z",
+            "content": null
         },
         {
             "source": {
@@ -1574,6 +2003,19 @@
             "urlToImage": "https://static.the-independent.com/2026/10/11/16/37/ScreenShot-Tool-20261011125454.png?trim=11,0,28,0&width=1200&height=800&crop=1200:800",
             "publishedAt": "2026-10-12T06:55:00Z",
             "content": "Shane Gillis is in hot water for multiple reasons after his divisive return to Saturday Night Live this weekend.\r\nThe comedian, 38, raised eyebrows when he accidentally blurted out f*** in a Dr. Seus… [+2697 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Latenighter.com"
+            },
+            "author": "Jed Rosenzweig",
+            "title": "John Oliver Declares War on ‘Liberty Biberty’—And Wants the Internet’s Help - LateNighter",
+            "description": "John Oliver has a plan to rid the world of Liberty Biberty—and it involves turning the internet’s thirstiest impulses against Liberty Mutual.",
+            "url": "https://latenighter.com/news/john-oliver-liberty-biberty-internet-help/",
+            "urlToImage": "https://latenighter.com/wp-content/uploads/2026/10/johnoliverbiberty1500.png",
+            "publishedAt": "2026-10-12T06:53:44Z",
+            "content": "John Oliver welcomed his new “business daddy” Sunday night in perhaps the most Last Week Tonight way possible: by ending his show with a series of increasingly sexualized drawings of Liberty Mutuals … [+1957 chars]"
         },
         {
             "source": {
@@ -6995,461 +7437,6 @@
             "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2026/10/144149146.jpg?quality=75&strip=all&w=1200",
             "publishedAt": "2026-10-07T22:26:00Z",
             "content": "Britney Spears gushed over a “family outing” with sons Sean and Jayden Federline to Dolly Parton’s theme park, Dollywood.\r\nThe “Stronger” songstress took to Instagram on Tuesday with a photo of herse… [+4528 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Deadline"
-            },
-            "author": "Anthony D'Alessandro",
-            "title": "'You Can See Everything' Presales No. 2 to 'Doomsday' At Alamo Drafthouse - Deadline",
-            "description": "Presales are so good at Alamo Drafthouse for A24 Elizabeth Holmes documentary 'You Can See Everything,' it's no. 2 behind 'Avengers: Doomsday'.",
-            "url": "http://deadline.com/2026/10/you-can-see-everything-avengers-doomsday-presales-alamo-1237149411/",
-            "urlToImage": "https://deadline.com/wp-content/uploads/2026/09/You-Can-See-Everything.jpg?w=1024",
-            "publishedAt": "2026-10-07T21:28:00Z",
-            "content": "EXCLUSIVE: You Can See Everything, A24‘s documentary about fallen Theranos founder Elizabeth Holmes and her days before going to federal prison, is a hot ticket at Alamo Drafthouse.\r\nSo hot that pres… [+1687 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "TheWrap"
-            },
-            "author": "Sharon Waxman and Adam Chitwood",
-            "title": "Tom Cruise’s ‘Digger’ Will Lose $250 Million | Exclusive - TheWrap",
-            "description": "Tom Cruise's climate change comedy Digger will lose $250 million after a disastrous opening weekend box office of just $8 million.",
-            "url": "https://www.thewrap.com/creative-content/movies/digger-tom-cruise-lose-250-million/",
-            "urlToImage": "https://www.thewrap.com/wp-content/uploads/2026/09/DiggerTomCruise.jpg",
-            "publishedAt": "2026-10-07T21:23:19Z",
-            "content": "Digger, the quirky, end-of-the-world satire starring Tom Cruise, is poised to lose a stunning $250 million by the end of its run, TheWrap has learned, even when factoring in post-theatrical revenue. … [+2744 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Hollywood Reporter"
-            },
-            "author": "Tony Maglio",
-            "title": "HBO Max and Paramount+ Will Be One, But What Happens to Discovery+? - The Hollywood Reporter",
-            "description": "No one is talking about Skydance's other streamer.",
-            "url": "http://www.hollywoodreporter.com/business/business-news/discovery-plus-future-under-skydance-1236723587/",
-            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/Wizard-Crew-3-H-2026.jpg?w=1296&h=730&crop=1",
-            "publishedAt": "2026-10-07T21:21:47Z",
-            "content": "On Tuesday, Skydance chairman and CEO David Ellison informed reporters of his intention to combine HBO Max and Paramount+ into one streaming app. That’s the “longterm” plan, at least. “It’ll take a p… [+5653 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Page Six"
-            },
-            "author": "Nicki Gostin",
-            "title": "Michael Douglas reveals whether wife Catherine Zeta-Jones has read his racy memoir — and if he has any regrets - Page Six",
-            "description": "The Oscar winner exclusively spoke to Page Six about “One Helluva Ride,” out now.",
-            "url": "https://pagesix.com/2026/10/07/celebrity-news/michael-douglas-reveals-whether-wife-catherine-zeta-jones-has-read-his-racy-memoir/",
-            "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2026/10/144142473.jpg?quality=75&strip=all&w=1200",
-            "publishedAt": "2026-10-07T20:58:00Z",
-            "content": "Michael Douglas is hoping Catherine Zeta-Jones will be “very understanding” of his racy new memoir.\r\nIn an exclusive interview with Page Six, the actor, 82, revealed that his wife, 57, has yet to fin… [+2727 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "PennLive"
-            },
-            "author": "PennLive.com",
-            "title": "Popular actress splits from musician boyfriend after saying he ‘healed’ her - PennLive.com",
-            "description": null,
-            "url": "https://www.pennlive.com/entertainment/2026/10/popular-actress-splits-from-musician-boyfriend-after-saying-he-healed-her.html",
-            "urlToImage": null,
-            "publishedAt": "2026-10-07T20:51:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The A.V. Club"
-            },
-            "author": null,
-            "title": "The Hunting Wives lands season 3 renewal before season 2 premiere - A.V. Club",
-            "description": "The Hunting Wives lands season 3 renewal before season 2 premiere",
-            "url": "https://www.avclub.com/the-hunting-wives-renewed-season-3",
-            "urlToImage": "https://www.avclub.com/wp-content/uploads/2026/10/07/the-hunting-wives-season-2-brittany-snow-featured.jpg",
-            "publishedAt": "2026-10-07T20:45:00Z",
-            "content": "Netflix must feel really confident in The Hunting Wives, because the streamer just renewed the thriller series for season three ahead of the season two premiere on November 26. Netflix isn’t known fo… [+1696 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Entertainment Weekly"
-            },
-            "author": "https://www.facebook.com/entertainmentweekly",
-            "title": "Minka Kelly and Imagine Dragons frontman Dan Reynolds split after 4 years together - Entertainment Weekly",
-            "description": "Minka Kelly and Imagine Dragons singer Dan Reynolds have reportedly ended their relationship after four years together.",
-            "url": "https://ew.com/minka-kelly-imagine-dragons-frontman-dan-reynolds-split-12163350",
-            "urlToImage": "https://ew.com/thmb/KXo_UtbB5R4MwKeJY00wvbJyxYc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Minka-Kelly-and-Dan-Reynolds-111925-366b9bfcaf194bc780ce9cbc4073d98b.jpg",
-            "publishedAt": "2026-10-07T20:44:08Z",
-            "content": "Minka Kelly and Dan Reynolds have reportedly called it quits.\r\nThe Ransom Canyon actress and Imagine Dragons frontman ended their relationship after four years together, according to Entertainment We… [+2491 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Louder"
-            },
-            "author": "Fraser Lewry",
-            "title": "Aerosmith to return for two all-star nights in Hollywood - Louder",
-            "description": "California, Dream On: Aerosmith & Friends will take place over two nights at the Hollywood Bowl - and it looks like Joey Kramer is back",
-            "url": "https://www.loudersound.com/bands-artists/aerosmith-to-return-for-two-all-star-nights-in-hollywood",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/iCaWtRqGZ5VkLfeVwKGpPC-1280-80.jpg",
-            "publishedAt": "2026-10-07T20:43:21Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Deadline"
-            },
-            "author": "Jill Goldsmith",
-            "title": "Skydance Stock Struggles In First Days Of Trading - Deadline",
-            "description": "Skydance shares closed down about 7% in day two of trading after a dip Tuesday in a rocky NYSE debut for the merged company.",
-            "url": "http://deadline.com/2026/10/skydance-stock-strugges-in-first-days-of-trading-1237149245/",
-            "urlToImage": "https://deadline.com/wp-content/uploads/2025/05/GettyImages-1202524072.jpg?w=1024",
-            "publishedAt": "2026-10-07T20:40:00Z",
-            "content": "Skydance shares closed down about 7% in day two of trading Wednesday after a dip the day before, a second down session in a rocky NYSE debut for the merged company as investors started to weigh in.\r\n… [+3864 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "wdwnt.com"
-            },
-            "author": "Shannen Ace",
-            "title": "BREAKING: Disney Believe Cruise Ship Homeport Announced - WDW News Today",
-            "description": "Disney Cruise Line announced the homeport for their next ship, Disney Believe, which will launch in 2027.",
-            "url": "https://wdwnt.com/2026/10/breaking-disney-believe-cruise-ship-homeport-announced/",
-            "urlToImage": "https://r2-media.wdwnt.com/2026/08/disney-believe-2.jpg",
-            "publishedAt": "2026-10-07T20:35:05Z",
-            "content": "This post is sponsored by Be Our Guest Vacations. We receive compensation for promoting their services.\r\nDisney Cruise Line announced the homeport for their next ship, Disney Believe, which will laun… [+1594 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Cut"
-            },
-            "author": "Cathy Horyn",
-            "title": "Louis Vuitton’s Bubble - The Cut",
-            "description": "For the past few years, Nicolas Ghesquière’s collections have existed remarkably and often maddeningly in a world of their own.",
-            "url": "http://www.thecut.com/article/cathy-horyn-fashion-review-louis-vuitton.html",
-            "urlToImage": "https://pyxis.nymag.com/v1/imgs/0d4/f2c/3c8647ab88682e5dc72da7fa12f5ecf3b2-cathy-reviews-lede.1x.rsocial.w1200.jpg",
-            "publishedAt": "2026-10-07T20:17:16Z",
-            "content": "Tuesday, the last day of the Paris collections, and people surged past the Louvre pyramid dressed for a cocktail party. They were guests of Louis Vuitton. Some joined the line to have their picture t… [+3608 chars]"
-        },
-        {
-            "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
-            },
-            "author": "Maria Sherman",
-            "title": "Grammy-nominated R&B singer Freddie Jackson, known for '80s hits like 'You Are My Lady,' dies at 70 - AP News",
-            "description": "Grammy-nominated R&B singer Freddie Jackson, known for hits like “Rock Me Tonight” and “You Are My Lady,” has died at 70. His family confirmed he died Monday through a statement on Instagram. Jackson was born and raised in Harlem, where he learned all about s…",
-            "url": "https://apnews.com/article/freddie-jackson-dies-obit-a83a9d8c7164fd73b99f15fbb97b02eb",
-            "urlToImage": "https://dims.apnews.com/dims4/default/cd82f42/2147483647/strip/true/crop/3319x2212+0+1383/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F0a%2Fd2%2Fa5031ea0f576bda6476ad02c57e9%2F200583ecf27f462986f452b495cff837",
-            "publishedAt": "2026-10-07T20:16:00Z",
-            "content": "Grammy-nominated R&amp;B singer Freddie Jackson, known for his smooth 80s hits Rock Me Tonight (For Old Times Sake) and You Are My Lady, has died. He was 70.\r\nA statement shared by his family on his … [+2483 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Deadline"
-            },
-            "author": "Anthony D'Alessandro",
-            "title": "‘Other Mommy’ To Cook Up $20M Opening, ‘Social Reckoning’ Won’t Have Many Friends – U.S. Box Office Preview - Deadline",
-            "description": "The U.S. weekend box office will see 'Other Mommy' opening to No. 1 with around $20 million, while 'The Social Reckoning' is expected to tank.",
-            "url": "http://deadline.com/2026/10/box-office-other-mommy-social-reckoning-projection-1237149247/",
-            "urlToImage": "https://deadline.com/wp-content/uploads/2026/10/Other-Mommy-The-Social-Reckoning.jpg?w=1000",
-            "publishedAt": "2026-10-07T20:10:00Z",
-            "content": "With potential MLB playoff games this weekend in addition to the NFL in full swing, the majors have booked the upcoming box office weekend adequately without any mega-tentpole fare, instead offering … [+4761 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Hollywood Reporter"
-            },
-            "author": "Seth Abramovitch",
-            "title": "The “Rape of Christ” Scene from 1971’s ‘The Devils’ Is Back. Is the World Finally Ready? - The Hollywood Reporter",
-            "description": "How footage feared destroyed was recovered and restored to Ken Russell’s notorious film, more than half a century after censors demanded its removal.",
-            "url": "http://www.hollywoodreporter.com/movies/movie-features/devils-rape-of-christ-ken-russell-warner-bros-clockwork-1236724719/",
-            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/rev-1-2_-_KR71_-_CANNES_KEY_SET_-_FULL_RES_High_Res_JPEG-H-2026.jpg?w=1296&h=730&crop=1",
-            "publishedAt": "2026-10-07T19:54:46Z",
-            "content": "It was so shocking that censors demanded it be removed in its entirety. Its director later feared the footage had been destroyed.\r\nNow Warner Bros. has restored the notorious “Rape of Christ” sequenc… [+8475 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "STYLECASTER"
-            },
-            "author": "Allison DeGrushe",
-            "title": "Jeff Bezos’ Ex-Wife Still Seemingly Can’t Escape Him Despite Reunion with Her ‘First Love’ - StyleCaster",
-            "description": "What's going on now?",
-            "url": "http://stylecaster.com/entertainment/celebrity-news/1234954196/mackenzie-scott-book-amazon/",
-            "urlToImage": "https://stylecaster.com/wp-content/uploads/2025/06/Jeff-Bezos-Mackenzie-Scott.jpg?w=650",
-            "publishedAt": "2026-10-07T19:38:29Z",
-            "content": "MacKenzie Scott and Jeff Bezos finalized their divorce years ago, yet they can’t escape each other. In fact, Scott’s latest book, Last Days in Two Nations (A History in Eighteen Minds), has sparked m… [+1998 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "PEOPLE"
-            },
-            "author": "Liam Quinn, Danielle Bacher",
-            "title": "Diddy’s Prison Release Pushed Back After Report Claims He Was Drinking Cognac, Getting Massages and Nude Photos (Exclusive) - Yahoo News UK",
-            "description": "Combs’ release date is now listed as March 2, 2028",
-            "url": "https://people.com/diddy-prison-release-pushed-back-after-report-he-had-contraband-items-exclusive-12163128",
-            "urlToImage": "https://s.yimg.com/lo/mysterio/api/a0c32fcd011fbcd191b9fb0e1efa6937aa998965f2c40aec90ead442e42c6baf/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F93c32639f5d92ff3cceb24cd04780030.jpg",
-            "publishedAt": "2026-10-07T19:17:42Z",
-            "content": "NEED TO KNOW\r\n<ul><li>Sean \"Diddy\" Combs' release date has been moved back to March 2, 2028\r\n</li><li>Previously, the music mogul was scheduled to get out of prison in January\r\n</li><li>The move come… [+2252 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "InStyle"
-            },
-            "author": "https://www.facebook.com/InStyle",
-            "title": "Joe Manganiello Claims Ex-Wife Sofía Vergara Disregarded Him During This Painful Time in His Life - InStyle",
-            "description": "Joe Manganiello claims that his ex-wife Sofía Vergara wasn’t there for him in his time of need. Read an excerpt from his upcoming memoir here.",
-            "url": "https://www.instyle.com/joe-manganiello-claims-sofia-vergara-ridiculed-him-painful-time-life-12163116",
-            "urlToImage": "https://www.instyle.com/thmb/eGIpyveaapGiFevIw6FMwQivAJg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Joe-Manganiello-Sofia-Vergara-Lead-f7b3216a2f4046b1ab9cb63a86c3703c.jpg",
-            "publishedAt": "2026-10-07T19:15:42Z",
-            "content": "Joe Manganiello opens up about the breakdown of his marriage to Sofía Vergara in his new memoir Bloodlines, out October 13. The actor, 49, explains how his autoimmune condition affected their relatio… [+1973 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Rolling Stone"
-            },
-            "author": "Andy Greene",
-            "title": "Aerosmith Announce Two L.A. Comeback Concerts With All-Star Guests - Rolling Stone",
-            "description": "Three years after calling off their farewell tour, Aerosmith have announced comeback shows at the Hollywood Bowl where they'll be joined by guests.",
-            "url": "http://www.rollingstone.com/music/music-news/aerosmith-comeback-concerts-1235637458/",
-            "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2026/10/aerosmith-comeback-shows.jpg?w=1600&h=900&crop=1",
-            "publishedAt": "2026-10-07T19:13:36Z",
-            "content": "Three years after cancelling their farewell due to frontman Steven Tyler’s larynx injury, Aerosmith have announced two comeback shows at L.A.’s Hollywood Bowl on October 29 and November 1 where they’… [+3105 chars]"
-        },
-        {
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "author": null,
-            "title": "Dolly Parton’s nephew erupted in profanity-laced tirade in emails days before her death - Fox News",
-            "description": "Bryan Seaver's expletive-filled emails about Nashville hotel security surfaced in court documents filed just days before Dolly Parton's death.",
-            "url": "https://www.foxnews.com/entertainment/dolly-partons-nephew-erupted-profanity-laced-tirade-emails-days-before-her-death",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/dolly-parton-bryan-seaver.jpg",
-            "publishedAt": "2026-10-07T19:04:56Z",
-            "content": "Dolly Partons nephew unleashed an expletive-filled tirade in an email exchange involving the country music legend just days before her death as tensions over security services boiled over, according … [+6223 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Cheryl Eddy",
-            "title": "Mike Flanagan Addresses Some of Those ‘Carrie’ Twists - Gizmodo",
-            "description": "The creator of Prime Video's new Stephen King series discusses the notable changes he made.",
-            "url": "https://gizmodo.com/mike-flanagan-addresses-some-of-those-carrie-twists-2000823188",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/09/Carrie_and_Margaret_White-1200x675.jpg",
-            "publishedAt": "2026-10-07T19:00:27Z",
-            "content": "Mike Flanagan‘s Carrie has finally arrived, and fans can now shift from anticipation to picking apart every little aspect of the new Stephen King adaptation. io9 definitely had some questions after w… [+3245 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Variety"
-            },
-            "author": "Isabelle Farina",
-            "title": "‘Elsbeth’ Season 4 Adds Uzo Aduba, Tyne Daly and Christine Ebersole (EXCLUSIVE) - Variety",
-            "description": "Uzo Aduba, Tyne Daly and Christine Ebersole have joined Season 4 of 'Elsbeth.'",
-            "url": "https://variety.com/2026/tv/news/elsbeth-season-4-uzo-aduba-tyne-daly-christine-ebersole-1236903431/",
-            "urlToImage": "https://variety.com/wp-content/uploads/2026/10/split-3-split-a-1000x667-4.jpg?w=1000&h=563&crop=1",
-            "publishedAt": "2026-10-07T19:00:00Z",
-            "content": "“Elsbeth” has added Uzo Aduba, Tyne Daly and Christine Ebersole to the Season 4 cast. Ebersole will have a recurring role as Elsbeth’s mother in the CBS crime drama, while Aduba and Daly will each gu… [+1560 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Page Six"
-            },
-            "author": "Leah Bitsky",
-            "title": "The truth behind Meghan Markle and Prince Harry’s rumored plans to apologize to Prince William, Kate Middleton - Page Six",
-            "description": "The Daily Express reported that Harry and the As Ever founder were planning to “express their regrets” and “eat humble pie.”",
-            "url": "https://pagesix.com/2026/10/07/royal-family/the-truth-behind-meghan-markle-and-prince-harrys-rumored-plans-to-apologize-to-prince-william-kate-middleton/",
-            "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2026/10/144120699.jpg?quality=75&strip=all&w=1200",
-            "publishedAt": "2026-10-07T18:48:00Z",
-            "content": "Meghan Markle and Prince Harry arent planning to apologize to Prince William and Kate Middleton over their bombshell 2021 Oprah Winfrey interview despite reports claiming otherwise.\r\n“It is total rub… [+5303 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Deadline"
-            },
-            "author": "Greg Evans",
-            "title": "Frank G. Mancuso Sr. Dies: Former Head Of Paramount Pictures & MGM Was 93 - Deadline",
-            "description": "Frank G. Mancuso, Sr., the former head of both Paramount Pictures and Metro-Goldwyn-Mayer, died of cancer October 1, in Los Angeles. He was 93.",
-            "url": "http://deadline.com/2026/10/frank-mancuso-sr-dead-1237149258/",
-            "urlToImage": "https://deadline.com/wp-content/uploads/2026/10/Frank-G.-Mancuso-Sr.jpg?w=1024",
-            "publishedAt": "2026-10-07T18:40:00Z",
-            "content": "Frank G. Mancuso Sr., the former film studio executive who headed both Paramount Pictures and Metro-Goldwyn-Mayer during the 1980s and ’90s, overseeing the release of such major box office hits as To… [+3242 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Rolling Stone"
-            },
-            "author": "Larisha Paul",
-            "title": "‘Ted Lasso’ Closes Out Season 4 With Special Brandi Carlile Theme Song - Rolling Stone",
-            "description": "Hear Brandi Carlile sing the 'Ted Lasso' theme song for Season Four of the Apple TV series.",
-            "url": "http://www.rollingstone.com/music/music-news/brandi-carlile-ted-lasso-theme-song-1235638871/",
-            "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2026/10/brandi-ted-lasso.jpg?crop=0px%2C0px%2C1800px%2C1014px&resize=1600%2C900",
-            "publishedAt": "2026-10-07T18:16:46Z",
-            "content": "Ted Lassofinale season is upon us again. The 10th and final episode of the Apple TV series’ fourth season premiered Wednesday, Oct. 7, with a special guest appearance tucked into the opening theme so… [+1576 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "InStyle"
-            },
-            "author": "https://www.facebook.com/InStyle",
-            "title": "Joe Manganiello Disputes Ex-Wife Sofia Vergara’s Reason for Their Divorce - InStyle",
-            "description": "In his new memoir ‘Bloodlines’ and in a new interview with ‘People,’ Joe Manganiello is sharing his side of the story as to why he and ex-wife Sofia Vergara split in 2023 after eight years of marriage. After their breakup, Vergara said it was because Manganie…",
-            "url": "https://www.instyle.com/joe-manganiello-disputes-sofia-vergara-reason-divorce-12163041",
-            "urlToImage": "https://www.instyle.com/thmb/7zsnomNTvnLPkdBm39V_J6mGImk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/JoeSofiaSocial-3929da8b22f844839f8f3ee52f197dd2.jpg",
-            "publishedAt": "2026-10-07T18:16:36Z",
-            "content": "Joe Manganiello is days away from the release of his new memoir, Bloodlines, and in it hes sharing his side of the story of why he and ex-wife Sofia Vergara split in 2023.\r\nJoe Manganiello and Sofia … [+2679 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "PennLive"
-            },
-            "author": "PennLive.com",
-            "title": "Megyn Kelly slams beloved pop star for speaking out on Cornell rape case: ‘Shut up and stick to singing’ - PennLive.com",
-            "description": null,
-            "url": "https://www.pennlive.com/entertainment/2026/10/megyn-kelly-slams-beloved-pop-star-for-speaking-out-on-cornell-rape-case-shut-up-and-stick-to-singing.html",
-            "urlToImage": null,
-            "publishedAt": "2026-10-07T18:01:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "ars-technica",
-                "name": "Ars Technica"
-            },
-            "author": "Ashley Belanger",
-            "title": "Fraudster jailed for using 10K bots and AI songs to outstream Taylor Swift - Ars Technica",
-            "description": "Man gets 18 months for AI scheme stealing $8M in music streaming royalties.",
-            "url": "https://arstechnica.com/tech-policy/2026/10/outstreaming-taylor-swift-is-easy-with-10k-bots-and-ai-songs-fraudster-admits/",
-            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2297466143-1024x648.jpg",
-            "publishedAt": "2026-10-07T17:57:39Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Lauren Feiner",
-            "title": "What The Social Reckoning gets right — and wrong - The Verge",
-            "description": "Aaron Sorkin’s “Social Reckoning” film is based on the true story of Facebook whistleblower Frances Haugen’s leaks to Wall Street Journal reporter Jeff Horwitz.",
-            "url": "https://www.theverge.com/policy/1007069/aaron-sorkin-social-reckoning-real-life",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2298597150.jpg?quality=90&strip=all&crop=0%2C10.740836125969%2C100%2C78.518327748063&w=1200",
-            "publishedAt": "2026-10-07T17:53:48Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nWhat The Social Reckoning gets right and wrong\r\nSpoiler alert: The Facebook Files are still more interesting than Aaron Sorkins new thriller.\r\nby\r\nLauren FeinerC… [+14381 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "InStyle"
-            },
-            "author": "https://www.facebook.com/InStyle",
-            "title": "Ben Affleck Says Exes Jennifer Garner and Jennifer Lopez Are Both “Amazing” at This One Thing - InStyle",
-            "description": "Ben Affleck gave a rare quote about his exes, Jennifer Garner and Jennifer Lopez, in a new interview with ‘Variety.’ Read on for why he thinks they’re both “amazing” at this one thing here.",
-            "url": "https://www.instyle.com/ben-affleck-jennifer-garner-jennifer-lopez-amazing-rare-quote-12162927",
-            "urlToImage": "https://www.instyle.com/thmb/96o27ZoIJQ6FroWULgvM_DjoD8E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/100726-affleck-jennifer-news-soc-0466117c3172439b986e5d669914226a.jpg",
-            "publishedAt": "2026-10-07T17:53:16Z",
-            "content": "Ben Affleck has nothing but love for Jennifer Garner and Jennifer Lopez. The Gone Girl star praised both of his ex-wives in new rare comments.\r\nThe 54-year-old actor sat down with Variety to discuss … [+2522 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Pitchfork"
-            },
-            "author": "Kiana Mickles",
-            "title": "Man Sentenced to Prison for Bot Streams of AI Songs - Pitchfork",
-            "description": "Mike Smith is the first person to face federal charges for music streaming fraud",
-            "url": "https://pitchfork.com/story/man-sentenced-to-prison-for-bot-streams-of-ai-songs/",
-            "urlToImage": "https://media.pitchfork.com/photos/6ac674103d647beb7017731a/16:9/w_1280,c_limit/GettyImages-594350392.jpg",
-            "publishedAt": "2026-10-07T17:46:36Z",
-            "content": "A North Carolina man has been sentenced to 18 months in prison for collecting millions in royalties from bot streams of AI-generated songs, reportsRolling Stone. He is the first person to face federa… [+1685 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "TVLine"
-            },
-            "author": "Ryan Schwartz",
-            "title": "Ted Lasso Co-Creator/Star Brendan Hunt Breaks Down Game-Changing Season 4 Finale — And Its Many New Beginnings - TVLine",
-            "description": "TVLine talks with Ted Lasso co-creator/star Brendan Hunt about the Season 4 finale — Ted's new role, Roy's big move, Rebecca's future, and a potential Season 5.",
-            "url": "https://www.tvline.com/2280285/ted-lasso-season-4-finale-brendan-hunt-interview-season-5-cast/",
-            "urlToImage": "https://www.tvline.com/img/gallery/ted-lasso-season-4-finale-brendan-hunt-interview-season-5-cast/l-intro-1791404267.jpg",
-            "publishedAt": "2026-10-07T17:33:46Z",
-            "content": "TVLINE | The finale ultimately keeps Ted at Richmond, but in a very different role: He and Beard are now assistants to Alice. What made that the right next step for Ted, rather than, say, having him … [+11768 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Entertainment Weekly"
-            },
-            "author": "https://www.facebook.com/entertainmentweekly",
-            "title": "Mia Goth files for divorce from Shia LaBeouf - Entertainment Weekly",
-            "description": "Mia Goth has filed for divorce from Shia LaBeouf. The ‘Nymphomaniac’ costars quietly separated in 2025.",
-            "url": "https://ew.com/mia-goth-files-for-divorce-from-shia-labeouf-12162975",
-            "urlToImage": "https://ew.com/thmb/9YSCds5mWCX7s5Ha6ZwOmklJU80=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Shia-LaBeouf-and-Mia-Goth-021926-a3a5af1cf887401f8923a7bc6f92dd73.jpg",
-            "publishedAt": "2026-10-07T17:26:56Z",
-            "content": "Mia Goth is officially ending her marriage to Shia LaBeouf.\r\nThe Pearl star filed for divorce from the Transformers actor, according to court documents reviewed by TMZ. The outlet reported that Goth … [+2105 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Variety"
-            },
-            "author": "Antonio Ferme",
-            "title": "Andrew Garfield Stopped Using ChatGPT as a ‘Fancy Google’ After Playing Sam Altman in ‘Artificial’: ‘I Got a Bit Scared’ and ‘Mistrusting of the Technology’ - Variety",
-            "description": "Andrew Garfield says he stopped using ChatGPT as a ‘fancy Google’ after playing Sam Altman in Luca Guadagnino’s ‘Artificial.’",
-            "url": "https://variety.com/2026/film/news/andrew-garfield-chatgpt-sam-altman-artificial-1236904494/",
-            "urlToImage": "https://variety.com/wp-content/uploads/2026/10/GettyImages-2298757545.jpg?w=1000&h=563&crop=1",
-            "publishedAt": "2026-10-07T17:23:00Z",
-            "content": "Andrew Garfield was once one of ChatGPT’s 1.2 billion users. That was before he played OpenAI CEO Sam Altman in Luca Guadagnino’s “Artificial,” which centers on the company’s origin story and Altman’… [+2935 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Vulture"
-            },
-            "author": "Eric Vilas-Boas",
-            "title": "HBO Max and Paramount+ Are Combining … Eventually - Vulture",
-            "description": "David Ellison’s Skydance company has announced that HBO Max and Paramount+ “will unify into a single service over time.” Here we go again.",
-            "url": "http://www.vulture.com/article/hbo-max-and-paramount-are-combining-eventually.html",
-            "urlToImage": "https://pyxis.nymag.com/v1/imgs/a2b/587/54caa36ba68479dbffcb917f84cb30fbd1-2up-hbo-paramount.1x.rsocial.w1200.jpg",
-            "publishedAt": "2026-10-07T17:22:42Z",
-            "content": "David Ellison is wasting no time setting his suddenly much larger media companys streaming agenda. The nepo CEOs combined Paramount and Warner Bros. Discovery\r\n Skydance has officially announced that… [+2301 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Vulture"
-            },
-            "author": "Maggie Fremont",
-            "title": "Dancing With the Stars Recap: Heartbreaker - Vulture",
-            "description": "‘DWTS’ is more popularity contest than anything else, and good dancers going home ahead of popular stars happens every single season, but knowing that doesn’t make this week’s elimination any easier to stomach.",
-            "url": "http://www.vulture.com/article/dancing-with-the-stars-recap-season-35-episode-5-mariah-carey-night.html",
-            "urlToImage": "https://pyxis.nymag.com/v1/imgs/ddb/1de/69cf85bc6151492df2e8152193e4bb2272-dwts-week5-recap.1x.rsocial.w1200.jpg",
-            "publishedAt": "2026-10-07T17:02:30Z",
-            "content": "Silly me; here I thought that, although I am still reeling from last weeks tragic elimination of Taylor Hanson and Britt Stewart, Id be able to begin the healing process with another round of dances … [+11617 chars]"
         }
     ]
 }

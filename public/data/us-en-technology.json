@@ -5,6 +5,123 @@
         {
             "source": {
                 "id": null,
+                "name": "9to5Mac"
+            },
+            "author": "Ryan Christoffel",
+            "title": "iOS 27.2 adds new app icon for Apple Music, more design updates - 9to5Mac",
+            "description": "iOS 27.2 beta 4 debuted today for developers, and the update includes a new app icon for Apple Music alongside other design updates.",
+            "url": "https://9to5mac.com/2026/10/13/ios-27-2-adds-new-app-icon-for-apple-music-more-design-updates/",
+            "urlToImage": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/ios-27-2-apple-music-app-icon-new.jpg?quality=82&strip=all&resize=1200,628",
+            "publishedAt": "2026-10-13T19:06:00Z",
+            "content": "iOS 27.2 beta 4 debuted today for developers, and the update includes a new app icon for Apple Music alongside other design updates in the Music app.\r\nApple appears in the midst of a gradual branding… [+1085 chars]"
+        },
+        {
+            "source": {
+                "id": "mashable",
+                "name": "Mashable"
+            },
+            "author": "Alex Perry",
+            "title": "'GTA 6' Cyberleek release update: New leaks, development build, and roadmap of what might be next - Mashable",
+            "description": "Maybe don't watch these videos on your work device.",
+            "url": "https://mashable.com/entertainment/gta-grand-theft-auto-6-cyberleek-update-roadmap",
+            "urlToImage": "https://helios-i.mashable.com/imagery/articles/04w8NbExi6k1Ad70IRonOCy/hero-image.fill.size_1200x675.v1791902347.jpg",
+            "publishedAt": "2026-10-13T19:00:41Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "GamesIndustry.biz"
+            },
+            "author": "Jon Hicks",
+            "title": "Xbox announces Xbox Labs, a new initiative to trial emerging ideas and \"new technology\" - GamesIndustry.biz",
+            "description": "New business unit is charged with testing new projects and judging them by user feedback",
+            "url": "https://www.gamesindustry.biz/xbox-announces-xbox-labs-a-new-initiative-to-trial-emerging-ideas-and-new-technology",
+            "urlToImage": "https://assetsio.gnwcdn.com/XBOX-LABS.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+            "publishedAt": "2026-10-13T19:00:00Z",
+            "content": "Xbox CEO Asha Sharma has announced the creation of Xbox Labs, a new team within the organisation to \"turn emerging ideas into things our players and developers can experience.\" The unit is a \"a small… [+3746 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5Mac"
+            },
+            "author": "Zac Hall",
+            "title": "iOS 27.2 beta 4 no longer includes Apple’s overhauled Health app - 9to5Mac",
+            "description": "An overhauled Apple Health app is coming, but it looks like iOS 27.2 won’t include it. Apple first announced the...",
+            "url": "https://9to5mac.com/2026/10/13/ios-27-2-beta-4-no-longer-includes-apples-overhauled-health-app/",
+            "urlToImage": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-health-app-ios-27-2.jpg?quality=82&strip=all&resize=1200,628",
+            "publishedAt": "2026-10-13T18:57:00Z",
+            "content": "An overhauled Apple Health app is coming, but it looks like iOS 27.2 won’t include it.\r\nApple first announced the upgraded Health app in September. The company still says to expect it to launch later… [+949 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "GSMArena.com"
+            },
+            "author": "Siddharth",
+            "title": "Apple's HomePod mini 2 is here with Siri AI, new colors and improved sound - GSMArena.com news - GSMArena.com",
+            "description": "The smart speaker is priced at $149. Alongside the new Apple HomeView, upgraded Apple TV 4K, and Apple Home Collection, the company also unveiled the...",
+            "url": "https://www.gsmarena.com/apples_homepod_mini_2_is_here_with_siri_ai_new_colors_and_improved_sound-news-75028.php",
+            "urlToImage": "https://fdn.gsmarena.com/imgroot/news/26/10/homepod-mini-2-ofic/-952x498w6/gsmarena_00.jpg",
+            "publishedAt": "2026-10-13T18:31:02Z",
+            "content": "Alongside the new Apple HomeView, upgraded Apple TV 4K, and Apple Home Collection, the company also unveiled the HomePod mini 2. The updated smart speaker brings Siri AI, a new Sound Glow feature, su… [+1145 chars]"
+        },
+        {
+            "source": {
+                "id": "mashable",
+                "name": "Mashable"
+            },
+            "author": "Alex Perry",
+            "title": "Report indicates 'GTA 6' launching on PC in early 2027 - Mashable",
+            "description": "That's sooner than expected.",
+            "url": "https://mashable.com/entertainment/gta-grand-theft-auto-6-pc-release-date-2027",
+            "urlToImage": "https://helios-i.mashable.com/imagery/articles/06NKE1tzh92fGx33tsu7JcM/hero-image.fill.size_1200x675.v1791903132.jpg",
+            "publishedAt": "2026-10-13T18:23:45Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ZME Science"
+            },
+            "author": "Mihai Andrei",
+            "title": "AI Designs Computer Chips We Can’t Understand — But They Seem to Work Really Well - ZME Science",
+            "description": "Can we trust systems we don’t fully understand?",
+            "url": "https://www.zmescience.com/science/computer-chips-made-by-ai-rep/",
+            "urlToImage": "https://cdn.zmescience.com/wp-content/uploads/2025/01/ai-slashes-cost-and-ti.jpg",
+            "publishedAt": "2026-10-13T17:52:46Z",
+            "content": "The AI design features unusual and efficient, circuitry patterns. Credit: Emir Ali Karahan, Princeton University.\r\nEngineers usually design wireless chips using familiar patterns and templates, refin… [+9311 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Sarah Perez",
+            "title": "Google Play now lets anyone build private, vibe-coded apps that run on Android - TechCrunch",
+            "description": "Google is making it easier to build and use personal Android apps created with AI, without having to make them available to everyone on the Play Store.",
+            "url": "https://techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/10/PersonalApps_desktop_16x9_Static.png?resize=1200,675",
+            "publishedAt": "2026-10-13T17:00:00Z",
+            "content": "Your vibe-coded applications can now be easily run on Android smartphones without having to first go public on the Google Play Store, the tech giant announced on Tuesday. A new feature will allow use… [+3429 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Insider-gaming.com"
+            },
+            "author": "Mike Straw",
+            "title": "EXCLUSIVE: EA Sports College Football’s Future in Jeopardy, Sources Fear - Insider Gaming",
+            "description": "EA Sports College Football faces rising NIL costs and monetization concerns, with sources fearing the franchise's future moving forward.",
+            "url": "https://insider-gaming.com/ea-sports-college-football-future/",
+            "urlToImage": "https://insider-gaming.com/wp-content/uploads/2026/10/CFB27Screen.jpg",
+            "publishedAt": "2026-10-13T16:17:15Z",
+            "content": "EA Sports College Football’s future is facing questions just two years after the franchise’s hugely successful return. In 2024, EA Sports released College Football 25, bringing college football video… [+5837 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "Eurogamer.net"
             },
             "author": "Robert Purchese",
@@ -18,6 +135,58 @@
         {
             "source": {
                 "id": null,
+                "name": "9to5google.com"
+            },
+            "author": "Ben Schoon",
+            "title": "Samsung's first Android XR glasses leak in 25 styles alongside 9-hour battery, specs [Gallery] - 9to5Google",
+            "description": "Samsung’s first Android XR glasses are right around the corner and, ahead of launch, another leak reveals every style you’ll...",
+            "url": "http://9to5google.com/2026/10/13/samsung-android-xr-glasses-styles-specs-battery-life-leak/",
+            "urlToImage": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/warby-parker-android-xr-glasses-1.jpg?quality=82&strip=all&resize=1200,628",
+            "publishedAt": "2026-10-13T15:15:00Z",
+            "content": "Samsung’s first Android XR glasses are right around the corner and, ahead of launch, another leak reveals every style you’ll be able to buy. \r\nSammyGuruuncovered a bunch of new details around Samsung… [+1810 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Nintendo Life"
+            },
+            "author": "Ollie Reynolds",
+            "title": "Mini Review: Resident Evil 3 (Switch 2) - An Impressive Port Of A Subpar Remake - Nintendo Life",
+            "description": "Stars don't shine",
+            "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/resident-evil-3",
+            "urlToImage": "https://images.nintendolife.com/bffb3d223dff4/1280x720.jpg",
+            "publishedAt": "2026-10-13T15:05:00Z",
+            "content": "<ol></ol>\r\nIts generally accepted that Resident Evil 3 is the worst of the series modern remakes. While RE2 and 4 both expanded upon their respective originals, RE3 made several cutbacks to environme… [+2732 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Kotaku"
+            },
+            "author": "Zack Zwiezen",
+            "title": "Grand Theft Auto's Iconic Cover Design Only Exists Because Of 9/11 And Was Created At The Last Minute - Kotaku",
+            "description": "The franchise's famous cover layout was apparently designed in about 48 hours",
+            "url": "https://kotaku.com/grand-theft-autos-iconic-cover-design-only-exists-because-of-9-11-and-was-created-at-the-last-minute-2000745275",
+            "urlToImage": "https://kotaku.com/app/uploads/2021/08/fcb603184aa3735278eb9cf71b79b6e0.jpg",
+            "publishedAt": "2026-10-13T15:00:02Z",
+            "content": "One of the Grand Theft Auto series’ most famous features is its enduring use of segmented covers featuring cartoon drawings of characters and vehicles from that particular installment. This all start… [+2891 chars]"
+        },
+        {
+            "source": {
+                "id": "ign",
+                "name": "IGN"
+            },
+            "author": "Jacqueline Thomas",
+            "title": "Nvidia RTX 5090 Reportedly Dead, but It's So Expensive That It Doesn't Really Matter - IGN",
+            "description": "While the RTX 5090 was already hard enough to get at a reasonable price, new leaks suggest that Nvidia is flat-out discontinuing its flagship graphics card.",
+            "url": "https://www.ign.com/articles/nvidia-rtx-5090-reportedly-dead-but-its-so-expensive-that-it-doesnt-really-matter",
+            "urlToImage": "https://assets-prd.ignimgs.com/2026/03/23/jensen-gpu-1774306276198.png?width=1280&format=jpg&auto=webp&quality=80",
+            "publishedAt": "2026-10-13T14:35:24Z",
+            "content": "While the RTX 5090 was already hard enough to get at a reasonable price, new leaks suggest that Nvidia is flat-out discontinuing its flagship graphics card. \r\nGPU leaker zed__wang on X/Twitter posted… [+3138 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "Forbes"
             },
             "author": "Paul Tassi",
@@ -27,6 +196,19 @@
             "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6ace3cffded87bfe5846428b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
             "publishedAt": "2026-10-13T14:19:41Z",
             "content": "I do not find it terribly amusing that Rockstar is one of the only third-party AAA (AAAA?) developers to release Grand Theft Auto 6 only on console without a PC companion release, but according to a … [+2688 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Xbox.com"
+            },
+            "author": "Danielle Partis, XBOX Wire Editor",
+            "title": "Your Raw Fury Backlog on XBOX Is About to Get a Lot Bigger - XBOX Wire",
+            "description": "We hope you’ve cleared some space in your backlog, because there are a lot of Raw Fury games heading your way on XBOX. From getting lost with friends in the mysterious depths of Deep Dish Dungeon, to collecting and fusing monsters in Cassette Beasts 2002, sol…",
+            "url": "https://news.xbox.com/en-us/2026/10/13/raw-fury-publisher-xbox-update/",
+            "urlToImage": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/Header_RawFury-8a776ffeffcaeac0831e.jpg",
+            "publishedAt": "2026-10-13T14:05:36Z",
+            "content": "We hope youve cleared some space in your backlog, because there are a lot of Raw Fury games heading your way on XBOX. From getting lost with friends in the mysterious depths of Deep Dish Dungeon, to … [+6110 chars]"
         },
         {
             "source": {
@@ -56,6 +238,32 @@
         },
         {
             "source": {
+                "id": "polygon",
+                "name": "Polygon"
+            },
+            "author": "Willa Rowe",
+            "title": "Sony Reveals Gorgeous New Playstation 5 Hardware - Polygon.com",
+            "description": "Sony has unveiled a sleek Midnight Black PlayStation 5, but it's exclusive to Japan",
+            "url": "https://www.polygon.com/playstation-5-midnight-black-japan-exclusive-console-controller-revealed/",
+            "urlToImage": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/midnight-black-ps5-2.jpg?w=1600&h=900&fit=crop",
+            "publishedAt": "2026-10-13T13:50:46Z",
+            "content": "The PlayStation 5 (and its accessories) is no stranger to limited editions. Just this year, Sony released a Wolverine-themed take on the console, as well as Marathon-themed and Grand Theft Auto 6them… [+2158 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Lauren Forristal",
+            "title": "Apple’s new smart home line-up includes a smart lock, thermostat and video doorbells - TechCrunch",
+            "description": "The new devices work with HomeView, the company's new smart home hub which can be used to control accessories and interact with apps.",
+            "url": "https://techcrunch.com/2026/10/13/apples-new-smart-home-line-up-includes-a-smart-lock-thermostat-and-video-doorbells/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/10/Apple-Home-Collection-lineup-261013_big.jpg.large_2x.jpg?w=1200",
+            "publishedAt": "2026-10-13T13:37:19Z",
+            "content": "Apple is getting serious about the smart home space. The company on Tuesday showed off its new Apple Home Collection, which includes a new smart deadbolt lock, video doorbell, thermostat, temperature… [+1902 chars]"
+        },
+        {
+            "source": {
                 "id": null,
                 "name": "CNBC"
             },
@@ -79,6 +287,19 @@
             "urlToImage": "https://images.macrumors.com/t/UcSy9N5pMnd8EOdTu-JSw5jhTgw=/1960x/article-new/2026/10/apple-home-collection.jpg",
             "publishedAt": "2026-10-13T13:32:48Z",
             "content": "Apple today debuted the \"Apple Home Collection,\" an accessory lineup it developed with LG Electronics and Schneider Electric. The collection includes cameras, thermostats, temperature sensors, and a … [+2397 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Techpowerup.com"
+            },
+            "author": null,
+            "title": "NVIDIA Unveils \"Preset C \"DLSS Frame Generation with up to 35% Faster Generation - TechPowerUp",
+            "description": "NVIDIA has updated its DLSS Frame Generation algorithm to be faster and more efficient. In the latest NVIDIA App beta update, rolling out today, the company introduced \"Preset C,\" the fastest Performance Mode for DLSS Frame Generation. NVIDIA demonstrates tha…",
+            "url": "https://www.techpowerup.com/353670/nvidia-unveils-preset-c-dlss-frame-generation-with-up-to-35-faster-generation",
+            "urlToImage": "https://www.techpowerup.com/img/cY0oFaC2JOwVldSW.jpg",
+            "publishedAt": "2026-10-13T13:17:16Z",
+            "content": "Today, via a new NVIDIA app beta update, were introducing a new faster Performance Mode for Frame Generation, for GeForce RTX 40 Series and GeForce RTX 50 Series GPUs, and RTX Spark laptops.DLSS Mult… [+704 chars]"
         },
         {
             "source": {
@@ -131,6 +352,32 @@
             "urlToImage": "https://mcdn.pokemon.com/pokemon-prod/image/upload/c_limit,w_1920/f_auto/v1/live/pcom-cms/static-assets/cms3/us/img/merchandise/tiles/2026/pokemon-beats-pill/pokemon-beats-pill-169.png",
             "publishedAt": "2026-10-13T13:04:13Z",
             "content": "Unleash the energy of your favorite music with the new Pokémon × Beats Pill Wireless Bluetooth® Speaker. Available Thursday, October 15, 2026, at 8:00 a.m. PDT at apple.com, this special edition spea… [+607 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jennifer Pattison Tuohy",
+            "title": "The new Apple TV 4K has built-in microphones so you can talk to Siri AI - The Verge",
+            "description": "The fourth-gen streaming box also gets a surround-sound upgrade and the ability to find your Siri remote.",
+            "url": "https://www.theverge.com/tech/1009663/apple-tv-4k-siri-ai-microphones-4th-gen-announced",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Apple-TV-4K.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+            "publishedAt": "2026-10-13T13:00:00Z",
+            "content": "<ul><li></li><li></li></ul>\r\nThe fourth-gen streaming box also gets a surround-sound upgrade and the ability to find your Siri remote.\r\nThe fourth-gen streaming box also gets a surround-sound upgrade… [+4626 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Timeextension.com"
+            },
+            "author": "Kris Moyse",
+            "title": "Entertainment Software Association Requests U.S. Trade Investigate Anbernic's 'Superfake' Handheld Emulator Market - Time Extension",
+            "description": "Pocket-sized Politics",
+            "url": "https://www.timeextension.com/news/2026/10/entertainment-software-association-requests-u-s-trade-investigate-anbernics-superfake-handheld-emulator-market",
+            "urlToImage": "https://images.timeextension.com/cb4e8f13bfeb2/1280x720.jpg",
+            "publishedAt": "2026-10-13T13:00:00Z",
+            "content": "Image: Damien McFerran / Time Extension\r\nThe Entertainment Software Association (ESA) has requested that U.S. trade representatives scrutinise the handheld emulation market. The story was initially s… [+2905 chars]"
         },
         {
             "source": {
@@ -213,6 +460,19 @@
         {
             "source": {
                 "id": null,
+                "name": "GameRant"
+            },
+            "author": "Joshua Duckworth",
+            "title": "Rockstar Officially Comments on GTA 6's Release Date - GameRant",
+            "description": "With just over a month until release, Rockstar is confident in GTA 6's release date.",
+            "url": "https://gamerant.com/gta-6-release-date-rockstar-statement-on-time/",
+            "urlToImage": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/ultimate_edition_safehouse_vehicles_01.jpg?w=1600&h=900&fit=crop",
+            "publishedAt": "2026-10-13T11:00:14Z",
+            "content": "Rockstar Games has given players plenty of reasons to be excited about Grand Theft Auto 6, from its sprawling Vice City to its increasingly detailed look at everyday life across Leonida, and it's les… [+2889 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "Eurogamer.net"
             },
             "author": "Robert Purchese",
@@ -222,6 +482,19 @@
             "urlToImage": "https://assetsio.gnwcdn.com/xbox-showcase-2026-sharma.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
             "publishedAt": "2026-10-13T10:37:22Z",
             "content": "UPDATE 4.20PM BST: Eurogamer understands that this meeting took place and the transcription is correct, with the exception of the word \"revive\". The transcript should read: \"We will not survive if we… [+2702 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Android Authority"
+            },
+            "author": null,
+            "title": "Survey shows Google's recent Gemini downgrade isn't going down well - Android Authority",
+            "description": "According to a reader poll, Google's downgrade of Gemini perks for free and AI Plus tiers is upsetting plenty of its users.",
+            "url": "https://www.androidauthority.com/google-gemini-downgrade-poll-results-3722506/",
+            "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2026/09/Gemini-app-asking-_Whats-the-vibe-Shimul__-on-Google-Pixel-11.jpg",
+            "publishedAt": "2026-10-13T10:32:00Z",
+            "content": "Earlier this month, Google announced plans to limit access to its newer AI models to those who dont subscribe to its AI services or pay for the base AI Plus tier. The latter, a $4.99/month demand, wi… [+3045 chars]"
         },
         {
             "source": {
@@ -274,6 +547,19 @@
             "urlToImage": "https://cdn.videocardz.com/1/2026/10/ONEXPLAYER-SUPER-X-PRO-MAX-495.webp",
             "publishedAt": "2026-10-13T07:03:37Z",
             "content": "ONEXPLAYER has previewed the Super X Pro, a new version of its gaming tablet powered by AMD’s Ryzen AI Max+ PRO 495 processor. The company claims this is the first 2-in-1 PC to feature AMD’s latest f… [+1836 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gameinformer.com"
+            },
+            "author": "Charles Harte",
+            "title": "Castlevania: Belmont's Curse Review: Worthy of the Whip - Game Informer",
+            "description": "Castlevania: Belmont's Curse (Xbox Series X/S) Review – 9.25/10: Castlevania is back, and between Rose Belmont and Evil Empire, it's in great hands. - Game Informer",
+            "url": "https://gameinformer.com/review/castlevania-belmonts-curse/worthy-of-the-whip",
+            "urlToImage": "https://gameinformer.com/sites/default/files/styles/og_image/public/2026/10/12/958d147f/Castlevania_%20Belmont%E2%80%99s%20Curse%20-%20Announcement%20Trailer%20_%20PS5%20Games%201-19%20screenshot.jpg.webp",
+            "publishedAt": "2026-10-13T07:01:00Z",
+            "content": "Castlevania has been a dormant franchise for years, but Belmont's Curse revives the series with fiery passion. There are hundreds of indies inspired by Konami's gothic vampire-hunting games, putting … [+4404 chars]"
         },
         {
             "source": {
@@ -551,6 +837,19 @@
         {
             "source": {
                 "id": null,
+                "name": "GamesIndustry.biz"
+            },
+            "author": "Vikki Blake",
+            "title": "Dragon Quest creator Yuji Horii releases game he says he made with AI in about 30 minutes - GamesIndustry.biz",
+            "description": "Yuji Horii, the creator of Dragon Quest, says he has produced a new game using AI in about 30 minutes.",
+            "url": "https://www.gamesindustry.biz/dragon-quest-creator-yuji-horii-releases-game-he-says-he-made-with-ai-in-about-30-minutes",
+            "urlToImage": "https://assetsio.gnwcdn.com/Screenshot-2026-10-12-at-19.25.58.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+            "publishedAt": "2026-10-12T18:49:25Z",
+            "content": "Yuji Horii, the creator of Dragon Quest, says he has produced a new game using AI in about 30 minutes.\r\nHorii shared the game, a text-based police interrogation game, in a post on X/Twitter. He said … [+1374 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "Gear Patrol"
             },
             "author": "Tucker Bowe",
@@ -746,6 +1045,19 @@
         {
             "source": {
                 "id": null,
+                "name": "9to5google.com"
+            },
+            "author": "Andrew Romero",
+            "title": "Samsung is now rolling out Android 17 to these older Galaxy devices in the US - 9to5Google",
+            "description": "Samsung’s One UI 9 update is now available for the Galaxy S24 and Z Fold/Flip 6, a month after the...",
+            "url": "http://9to5google.com/2026/10/12/one-ui-9-update-available-galaxy-s24-z-fold-6-flip-6/",
+            "urlToImage": "https://9to5google.com/wp-content/uploads/sites/4/2024/09/Samsung-Galaxy-S24-Ultra-3.jpg?quality=82&strip=all&resize=1200,628",
+            "publishedAt": "2026-10-12T16:07:00Z",
+            "content": "Samsung’s One UI 9 update is now available for the Galaxy S24 and Z Fold/Flip 6, a month after the official rollout was initiated.\r\nSamsung announced that One UI 9 is officially rolling out to device… [+1627 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "Videocardz.com"
             },
             "author": null,
@@ -836,6 +1148,19 @@
         },
         {
             "source": {
+                "id": null,
+                "name": "Digitalfoundry.net"
+            },
+            "author": "William Judd",
+            "title": "Review: Dragon's Dogma 2 On Switch 2: The First \"Impossible Port\" for the New Generation? - Digital Foundry",
+            "description": "An impressive outing for a demanding game - but frame pacing needs fixing.",
+            "url": "https://www.digitalfoundry.net/reviews/dragons-dogma-2-on-switch-2-the-first-impossible-port-for-the-new-generation",
+            "urlToImage": "https://images.digitalfoundry.net/7a61a90815d62/1280x720.jpg",
+            "publishedAt": "2026-10-12T15:00:00Z",
+            "content": "This week's DF Direct covers Oliver's Dragon's Dogma 2 Switch 2 impressions as the first topic of the week - starting three minutes in.\r\nDragon's Dogma 2 was one of the most punishing recent games on… [+3981 chars]"
+        },
+        {
+            "source": {
                 "id": "nbc-news",
                 "name": "NBC News"
             },
@@ -846,6 +1171,19 @@
             "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261009-vibration-plate-oo-main-44121d.jpg",
             "publishedAt": "2026-10-12T14:55:50Z",
             "content": "The latest viral fitness trend is literally buzzy. Vibration plates are all over TikTok, with devotees saying they help tone and strengthen muscles. Never heard of them? A vibration plate, also known… [+6919 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5Mac"
+            },
+            "author": "Ryan Christoffel",
+            "title": "Apple has reportedly increased its iPhone Duo orders by 30% - 9to5Mac",
+            "description": "A new report indicates Apple is anticipating much higher demand for iPhone Duo than initially expected, despite pre-orders not starting yet.",
+            "url": "https://9to5mac.com/2026/10/12/apple-has-reportedly-increased-its-iphone-duo-orders-by-30/",
+            "urlToImage": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo-night-sky-front-back.jpg?quality=82&strip=all&resize=1200,628",
+            "publishedAt": "2026-10-12T14:53:00Z",
+            "content": "A new report by Securities Times in China indicates Apple is now anticipating much higher demand for iPhone Duo than initially expected, despite pre-orders not starting until later this week.\r\nApple … [+1252 chars]"
         },
         {
             "source": {
@@ -1078,7 +1416,7 @@
             "description": "Gears of War: E-Day's high Xbox player count makes it the second-biggest game to launch on Xbox in 2026, behind only Forza Horizon 6.",
             "url": "https://www.trueachievements.com/news/gears-of-war-e-day-xbox-player-count",
             "urlToImage": "https://www.trueachievements.com/imgs/179284/gears-of-war-e-day-xbox-player-count.jpg",
-            "publishedAt": "2026-10-12T12:52:15Z",
+            "publishedAt": "2026-10-12T12:52:18Z",
             "content": "Gears of War: E-Day has topped this week's Top 40 Xbox chart news that shouldn't surprise anybody, especially after last week's chart showed that players were so eager to hunt down Gears of War: E-Da… [+3083 chars]"
         },
         {
@@ -5045,344 +5383,6 @@
             "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/greatwave-1152x648.webp",
             "publishedAt": "2026-10-07T21:56:42Z",
             "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Variety"
-            },
-            "author": "Jennifer Maas",
-            "title": "PlayStation to Launch New Crunchyroll Anime Hub for PS5 - Variety",
-            "description": "Sony's PlayStation will launch a new Crunchyroll anime hub within its PlayStation 5 gaming console's home screen next year.",
-            "url": "https://variety.com/2026/gaming/news/playstation-ps5-new-crunchyroll-anime-hub-1236904550/",
-            "urlToImage": "https://variety.com/wp-content/uploads/2023/11/GettyImages-1236466459.jpg?w=1000&h=563&crop=1",
-            "publishedAt": "2026-10-07T21:30:00Z",
-            "content": "Sony’s PlayStation will launch a new Crunchyroll anime hub within its PlayStation 5 gaming console’s home screen next year to more closely align the company’s anime projects and anime-inspired games.… [+1716 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Terrence O'Brien",
-            "title": "Teenage Engineering’s CEO says it’ll stop making synths - The Verge",
-            "description": "The end could be nigh for Teenage Engineering’s iconic OP-1 according to a Highsnobiety interview.",
-            "url": "https://www.theverge.com/gadgets/1007489/teengage-engineering-stop-making-synths",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/257534_Teenage_Engineering_OP-XY_TOBrien_0007.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-10-07T21:19:54Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe end could be nigh for the iconic OP-1 according to a Highsnobiety interview.\r\nThe end could be nigh for the iconic OP-1 according to a Highsnobiety interview… [+2290 chars]"
-        },
-        {
-            "source": {
-                "id": "ign",
-                "name": "IGN"
-            },
-            "author": "Virginia Glaze",
-            "title": "Castlevania: Belmont’s Curse Players Discover Secret Weapon That References Iconic Fighting Game Characters - IGN",
-            "description": "The developers of Castlevania: Belmont’s Curse are wearing their love of fighting games on their sleeves, as eagle-eyed fans have spotted some unmistakable references to classic fighting game characters in its demo.",
-            "url": "https://www.ign.com/articles/castlevania-belmonts-curse-demo-hides-fighting-game-easter-eggs-behind-secret-weapon",
-            "urlToImage": "https://assets-prd.ignimgs.com/2026/10/07/belmonts-curse-references-fighting-games-1791407357044.jpg?width=1280&format=jpg&auto=webp&quality=80",
-            "publishedAt": "2026-10-07T21:14:12Z",
-            "content": "The developers of Castlevania: Belmonts Curse are wearing their love of fighting games on their sleeves, as eagle-eyed fans have spotted some unmistakable references to classic fighting game characte… [+3326 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Kotaku"
-            },
-            "author": "Kenneth Shepard",
-            "title": "Rockstar, Does GTA 6’s Jason Show Full Hog Or Not? - Kotaku",
-            "description": "I know I’ll see him naked, but just how naked?",
-            "url": "https://kotaku.com/grand-theft-auto-6-gta6-jason-naked-nude-shower-scene-2000742015",
-            "urlToImage": "https://kotaku.com/app/uploads/2026/10/jason-gta6.jpg",
-            "publishedAt": "2026-10-07T21:10:48Z",
-            "content": "This morning, IGN posted a lengthy interview with Rockstar about Grand Theft Auto 6, and while Im sure there was a lot of valuable information in there for people who are excited about next months op… [+3230 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Mit.edu"
-            },
-            "author": "Janine Liberty | Department of Aeronautics and Astronautics",
-            "title": "Margaret Hamilton, computing pioneer who led software development for the Apollo program, dies at 90 - MIT News",
-            "description": "Margaret H. Hamilton, a profoundly influential computer scientist best known for leading the software engineering team at MIT’s Instrumentation Lab during NASA’s Apollo program, died at age 90.",
-            "url": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007",
-            "urlToImage": "https://news.mit.edu/sites/default/files/images/202610/margaret-hamilton-portrait-toan-trinh-mit-technology-review-A1_1.png",
-            "publishedAt": "2026-10-07T20:55:00Z",
-            "content": "Defensive programming and priority-driven software take humans to the moon\r\nHamilton discovered a talent for leadership, as well as a keen instinct for problem-solving and critical thinking that woul… [+5337 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Antonio G. Di Benedetto",
-            "title": "Android’s physical navigation buttons are back on Googlebooks, but not the way you think - The Verge",
-            "description": "An oldie but a goodie — and kind of a necessity-die.",
-            "url": "https://www.theverge.com/tech/1007409/androids-physical-navigation-buttons-are-back-on-googlebooks-but-not-the-way-you-think",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268755_Googlebook_home_buttons_ADiBenedetto_0001.jpg?quality=90&strip=all&crop=0%2C10.75214828329%2C100%2C78.49570343342&w=1200",
-            "publishedAt": "2026-10-07T20:44:34Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nAn oldie but a goodie and kind of a necessity-die.\r\nAn oldie but a goodie and kind of a necessity-die.\r\nby\r\nAntonio G. Di BenedettoClose\r\nPosts from this author … [+2595 chars]"
-        },
-        {
-            "source": {
-                "id": "techcrunch",
-                "name": "TechCrunch"
-            },
-            "author": "Julie Bort",
-            "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11 - TechCrunch",
-            "description": "Microsoft revealed the specs and price for its Surface Laptop Ultra, AI PCs that run on Nvidia chips that are designed to run AI models and agents.",
-            "url": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
-            "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/10/Microsoft-Surface-Laptop-Ultra.png?resize=1200,677",
-            "publishedAt": "2026-10-07T20:22:37Z",
-            "content": "Back in June, Nvidia announced that it had secured agreements with Microsoft and a host of other PC makers to develop AI- and agent-ready PCs for Windows based on its RTX Spark chip, but details on t… [+2532 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "9to5Toys"
-            },
-            "author": "Karthik Iyer",
-            "title": "Amazon Anker fall Prime Day sale now live at up to 50% off! Deals on chargers, power banks, Qi2.2 gear, more from just $10 - 9to5Toys",
-            "description": "As part of Amazon’s ongoing fall Prime Day sale, Anker’s official storefront is now offering a huge selection of deals...",
-            "url": "http://9to5toys.com/2026/10/07/amazon-anker-fall-prime-day-sale-now-live-at-up-to-50-off/",
-            "urlToImage": "https://9to5toys.com/wp-content/uploads/sites/5/2026/10/Anker-fall-Prime-Day-2026.jpg?quality=82&strip=all&resize=1200,628",
-            "publishedAt": "2026-10-07T19:55:00Z",
-            "content": "As part of Amazons ongoing fall Prime Day sale, Ankers official storefront is now offering a huge selection of deals on chargers, power banks, charging stations, and plenty of other everyday accessor… [+4973 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gematsu"
-            },
-            "author": "Sal Romano",
-            "title": "Sonic Racing: CrossWorlds DLC ‘Avatar Legends Pack’ launches October 14 - Gematsu",
-            "description": "Sonic Racing: CrossWorlds downloadable content “Avatar Legends Pack” will launch on October 14, SEGA announced. It is also available as part of the $29.99 Season Pass.",
-            "url": "https://www.gematsu.com/2026/10/sonic-racing-crossworlds-dlc-avatar-legends-pack-launches-october-14",
-            "urlToImage": "https://www.gematsu.com/wp-content/uploads/2026/10/Sonic-Racing-Avatar-Legends_10-07-26.jpg",
-            "publishedAt": "2026-10-07T19:40:03Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Theregister.com"
-            },
-            "author": "Jessica Lyons",
-            "title": "Attackers hijacked top-level domains, minted fake security certs for Google and other orgs - The Register",
-            "description": "Trusted brand impersonation without the usual browser certificate warnings spells trouble",
-            "url": "https://www.theregister.com/security/2026/10/07/attackers-hijacked-top-level-domains-minted-fake-security-certs-for-google-and-other-orgs/5301718",
-            "urlToImage": "https://image.theregister.com/255227.jpg?imageId=255227&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-            "publishedAt": "2026-10-07T19:38:06Z",
-            "content": "Imagine going to a Google website at its correct URL, only to be redirected to a crim's illegitimate copy. Attackers hijacked top-level domains, allowing them to alter DNS records and mint fraudulent… [+2834 chars]"
-        },
-        {
-            "source": {
-                "id": "ign",
-                "name": "IGN"
-            },
-            "author": "Cade Onder",
-            "title": "Call of Duty Eports Commentator Reveals He's Dating Co-Commentator's Ex-Wife, Resigns from CDL - IGN",
-            "description": "A prominent Call of Duty esports commentator has opted to resign from his role after pursuing a romantic relationship with his co-commentator's ex-wife.",
-            "url": "https://www.ign.com/articles/call-of-duty-e-sports-commentator-resigns-after-pursuing-relationship-with-co-commentators-ex-wife",
-            "urlToImage": "https://assets-prd.ignimgs.com/2026/08/20/mw4-mp-1787240916718.jpg?width=1280&format=jpg&auto=webp&quality=80",
-            "publishedAt": "2026-10-07T19:18:21Z",
-            "content": "A prominent Call of Duty esports commentator has opted to resign from his role after pursuing a romantic relationship with his co-commentator's ex-wife.\r\nIn what is one of the most unique stories of … [+1643 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Minecraft.net"
-            },
-            "author": "Silva Kuusniemi",
-            "title": "Pre-order Minecraft for Nintendo Switch™ 2 today! - Minecraft",
-            "description": "Minecraft for Nintendo Switch™ 2 launches October 27, and pre-orders are available now for the Standard Edition, Deluxe Collection, Ultimate Collection, and physical retail version. All editions include the Super Mario™ Mash-Up Pack with Vibrant Visuals, whil…",
-            "url": "https://www.minecraft.net/en-us/article/pre-order-minecraft-for-nintendo-switch-2",
-            "urlToImage": "https://www.minecraft.net/content/dam/minecraftnet/games/minecraft/article-pictures/MinecraftVanilla_Switch2_NetBlog_1170x500.jpg",
-            "publishedAt": "2026-10-07T19:07:33Z",
-            "content": "Minecrafters! (Its me again, your designated town crier.) I come bearing excellent news: Pre-orders are now available for Minecraft for Nintendo Switch 2 - launching October 27th! \r\nBut wait (I yell … [+1024 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Antonio G. Di Benedetto",
-            "title": "The first Nvidia RTX Spark laptops cost up to $7,000 - The Verge",
-            "description": "Prices start much lower, but 128GB of unified memory is going to really cost you.",
-            "url": "https://www.theverge.com/gadgets/1007040/nvidias-powerful-rtx-spark-laptops-can-cost-up-to-7000",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/surfacelaptopultra1.jpg?quality=90&strip=all&crop=0%2C10.462709848801%2C100%2C79.074580302398&w=1200",
-            "publishedAt": "2026-10-07T19:05:52Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nPrices start much lower, but 128GB of unified memory is going to really cost you.\r\nPrices start much lower, but 128GB of unified memory is going to really cost y… [+3377 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Cut"
-            },
-            "author": "Chinea Rodriguez",
-            "title": "57 Best Last-Minute Home and Tech October Prime Day Deals - The Cut",
-            "description": "Today is your last chance to save on the best October Prime Day home and tech deals from Bose, Boll & Branch, Hatch, and more editor-approved brands.",
-            "url": "http://www.thecut.com/article/best-october-prime-day-home-and-tech-deals-2026.html",
-            "urlToImage": "https://pyxis.nymag.com/v1/imgs/230/c99/71bb658f27a85d80b26e91b9566d142b2b-prime-day-lede-.1x.rsocial.w1200.jpg",
-            "publishedAt": "2026-10-07T18:57:00Z",
-            "content": "Prime Day round two (a.k.a. October Prime Day) is almost over today is your last day to take full advantage of the deals you might have missed earlier this year. As always, if youre not sure where to… [+3603 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "New York Post"
-            },
-            "author": "Sheetal Banchariya",
-            "title": "Mark Zuckerberg’s sister’s secret passion caught on camera at San Francisco tech week - New York Post",
-            "description": "The tech billionaire’s sister, who serves as a general partner at Long Journey Ventures, often plays techno and electronic sets.",
-            "url": "https://nypost.com/2026/10/07/us-news/mark-zuckerbergs-sister-arielle-reveals-shes-been-a-secret-dj-since-2018/",
-            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/10/144130773.jpg?quality=75&strip=all&w=1200",
-            "publishedAt": "2026-10-07T18:55:00Z",
-            "content": "She’s the real queen of tech-no.\r\nMeta CEO Mark Zuckerberg‘s youngest sister Arielle, 37, revealed Tuesday she has been a secret DJ since 2018.\r\nShe spoke out after a video of her performing a set du… [+2275 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Internet"
-            },
-            "author": "The Hacker News",
-            "title": "Attackers Hijack .gh, .sl, and .as Registries to Obtain Certificates for Google Domains - The Hacker News",
-            "description": "Attackers hijacked .gh, .sl, and .as registries and obtained 12 unauthorized certificates for Google and YouTube domains.",
-            "url": "https://thehackernews.com/2026/10/attackers-hijack-gh-sl-and-as.html",
-            "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlqu6e-ijwp1hAEuYyfUUL9hV5kwu0cIe1cMibzayov0GdV2FkSpwvF10YKcxLyw1AUNdKF54RV9o3bfeshwWIWdda1AvgNm4iu6t9F16pb1jOVDQRXBoRjw2uueD4Ov7oEzjPJV7pXgK1U-MzkkqRKgHqP207GG2pqtkRQ09IVZ94HvSlBVArvu7tkNE/s1600/google-tls.jpg",
-            "publishedAt": "2026-10-07T18:48:00Z",
-            "content": "Attackers compromised three country-code top-level domains (ccTLDs) and obtained unauthorized HTTPS certificates for several Google domains, Google said on October 6.\r\nGoogle's own systems were not b… [+8764 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Techpowerup.com"
-            },
-            "author": null,
-            "title": "ASUS Announces Availability of Its ProArt RTX Spark Windows PCs - TechPowerUp",
-            "description": "ASUS today announced the global launch of the new ProArt P16 and P14 laptops, along with the compact ProArt GR1X mini PC, all powered by NVIDIA RTX Spark. Purpose-built for creators, AI developers and workflow builders, these systems boast high-capacity unifi…",
-            "url": "https://www.techpowerup.com/353475/asus-announces-availability-of-its-proart-rtx-spark-windows-pcs",
-            "urlToImage": "https://www.techpowerup.com/img/xP1fPRj6CQeqyeUD.jpg",
-            "publishedAt": "2026-10-07T18:47:20Z",
-            "content": "ASUS today announced the global launch of the new ProArt P16 and P14 laptops, along with the compact ProArt GR1X mini PC, all powered by NVIDIA RTX Spark. Purpose-built for creators, AI developers an… [+9616 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Digitalfoundry.net"
-            },
-            "author": "Richard Leadbetter",
-            "title": "DF's STAR WARS: Galactic Racer Development Doc Is Now Live - Digital Foundry",
-            "description": "Our most ambitious behind-the-scenes video yet.",
-            "url": "https://www.digitalfoundry.net/news/2026/10/dfs-star-wars-galactic-racer-development-doc-is-now-live",
-            "urlToImage": "https://images.digitalfoundry.net/cf81af2ecf2da/1280x720.jpg",
-            "publishedAt": "2026-10-07T18:35:00Z",
-            "content": "John Linneman presents our deep dive into STAR WARS: Galactic Racer.\r\nToday on Digital Foundry, we're proud to publish a very special documentary video on Fuse Games' STAR WARS: Galactic Racer. It's … [+1312 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Kotaku"
-            },
-            "author": "Kenneth Shepard",
-            "title": "Call Of Duty Commentator Leaves The League After Revealing He’s Dating His Co-Commentator’s Ex-Wife - Kotaku",
-            "description": "Maven and MerK had commentated together for years",
-            "url": "https://kotaku.com/call-of-duty-merk-maven-league-ex-wife-divorce-dating-2000741968",
-            "urlToImage": "https://kotaku.com/app/uploads/2026/10/callofdutyleague.jpg",
-            "publishedAt": "2026-10-07T18:30:52Z",
-            "content": "Sometimes something happens in the real world that reminds you that dramatic soap operas and absurd sitcoms aren’t as outrageous as they seem. Call of Duty fans are seeing this firsthand, as long-tim… [+1886 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "GSMArena.com"
-            },
-            "author": "Peter",
-            "title": "Amazon US Prime Deals: the Google Pixel 11 Pro is $250 off - GSMArena.com news - GSMArena.com",
-            "description": "The $1,100 MSRP for a 256GB Pixel 11 Pro was overly ambitious - with this price cut, even the 512GB model (which has 16GB of RAM) is under $1,000.",
-            "url": "https://www.gsmarena.com/amazon_us_prime_deals_the_google_pixel_11_pro_is_250_off-news-74941.php",
-            "urlToImage": "https://fdn.gsmarena.com/imgroot/news/26/10/deals-us-pixel-11-pro/-952x498w6/gsmarena_000.jpg",
-            "publishedAt": "2026-10-07T18:12:03Z",
-            "content": "With a launch price of $1,100, the Google Pixel 11 Pro wasnt a viable contender in the 6.3 flagship category, even though in the US market there arent even that many models that fit in this category … [+2104 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Windows Central"
-            },
-            "author": "Sean Endicott",
-            "title": "Windows Search is becoming the fastest way to control your PC - Windows Central",
-            "description": "Microsoft unveiled a new Search experience for Windows 11 that can perform thousands of actions from the Taskbar. It can adjust settings, interact with Copilot, and help manage your PC.",
-            "url": "https://www.windowscentral.com/microsoft/windows-11/windows-11s-new-search-experience-is-about-more-than-finding-files-thousands-of-actions-are-now-at-your-fingertips-right-from-the-taskbar",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/gPLTsCtspUHKVrvfHWFqJa-2560-80.jpg",
-            "publishedAt": "2026-10-07T17:48:25Z",
-            "content": "This piece has been updated with additional information from Microsoft's blog. We will continue to add more details as they become available.\r\nMicrosoft just unveiled the new Windows Search experienc… [+2260 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "9to5google.com"
-            },
-            "author": "Abner Li",
-            "title": "Pixel 11 series still not on Android 17 QPR1 with October update - 9to5Google",
-            "description": "With yesterday's October 2026 update, the Pixel 11, 11 Pro, 11 Pro XL, and 11 Pro Fold are not yet running Android 17 QPR1.",
-            "url": "http://9to5google.com/2026/10/07/pixel-11-no-android-17-qpr1/",
-            "urlToImage": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/Pixel-11-color-family-1.jpg?quality=82&strip=all&resize=1200,628",
-            "publishedAt": "2026-10-07T17:35:00Z",
-            "content": "With yesterday’s October 2026 update, the Pixel 11 series is not yet running Android 17 QPR1.\r\nThe Pixel 11, 11 Pro, 11 Pro XL, and 11 Pro Fold launched in August with the base Android 17 release. In… [+1343 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Kotaku"
-            },
-            "author": "Zack Zwiezen",
-            "title": "Gears Of War Boss Dodges Question About Future Layoffs, Promises Next Game Will Come Sooner - Kotaku",
-            "description": "Gears of War: E-Day is good, but will The Coalition get a chance to make more games before Xbox starts making cuts?",
-            "url": "https://kotaku.com/gears-of-war-boss-dodges-question-about-future-layoffs-promises-next-game-in-series-will-come-sooner-2000741936",
-            "urlToImage": "https://kotaku.com/app/uploads/2026/07/thumb-1920-679351-1200x675.jpg",
-            "publishedAt": "2026-10-07T17:30:35Z",
-            "content": "Xbox is currently in the middle of its big corporate “reset,” which has involved the company shuffling around franchises and teams while it continues to lay off workers. And while this has all been h… [+1704 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "MacRumors"
-            },
-            "author": "Mitchel Broussard",
-            "title": "Get AirPods Pro 3 for $179, Apple Watch for $199, and More Before Prime Day Ends Today - MacRumors",
-            "description": "Amazon Prime Big Deal Days is coming to a close later today, so we're quickly recapping all of the best Apple and Apple-related deals that are...",
-            "url": "https://www.macrumors.com/2026/10/07/prime-day-ends-today-october-26/",
-            "urlToImage": "https://images.macrumors.com/t/bpf068NEVnDrf7S6J0MTaKoeZJE=/2500x/article-new/2025/10/Prime-Big-Deal-Days-25-Red-and-Green.jpg",
-            "publishedAt": "2026-10-07T17:10:25Z",
-            "content": "Amazon Prime Big Deal Days is coming to a close later today, so we're quickly recapping all of the best Apple and Apple-related deals that are still live on Amazon right now. Since many of these prod… [+4051 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "9to5google.com"
-            },
-            "author": "Will Sattelberg",
-            "title": "Google starts rolling out its upgraded Pixel screen savers to the Pixel 9 - 9to5Google",
-            "description": "When Google added Pixelsnap to the Pixel 10 series, it wasn’t just building in support for all kinds of magnetic...",
-            "url": "http://9to5google.com/2026/10/07/google-starts-rolling-out-its-upgraded-pixel-screen-savers-to-the-pixel-9/",
-            "urlToImage": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/google-pixel-11-pro-fold-new-screen-saver-charge.jpg?quality=82&strip=all&resize=1200,628",
-            "publishedAt": "2026-10-07T17:04:00Z",
-            "content": "When Google added Pixelsnap to the Pixel 10 series, it wasn’t just building in support for all kinds of magnetic accessories it was also adding in some excellent software functionality, like upgraded… [+1390 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gamefile.news"
-            },
-            "author": "Stephen Totilo",
-            "title": "Some furloughed Star Wars Zero Company developers are returning to work, studio says - Game File | Stephen Totilo",
-            "description": "Bit Reactor breaks its silence with good news (for some)",
-            "url": "https://www.gamefile.news/p/star-wars-zero-company-furloughs-update",
-            "urlToImage": "https://substackcdn.com/image/fetch/$s_!g1o8!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff09be2b9-f83c-4310-80d8-95b83f8d4c54_1920x1080.jpeg",
-            "publishedAt": "2026-10-07T17:03:57Z",
-            "content": "Bit Reactor, the Maryland based company, behind this summers well-received tactical combat game Star Wars Zero Company says that more of its team is returning to work after being furloughed ahead of … [+2308 chars]"
         }
     ]
 }
