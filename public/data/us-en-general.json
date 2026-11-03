@@ -1,7 +1,293 @@
 {
     "status": "ok",
-    "totalResults": 431,
+    "totalResults": 416,
     "articles": [
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Jonathan Edwards",
+            "title": "Paul Anka, Andy Garcia, Barbara Mandrell will get Kennedy Center Honors - The Washington Post",
+            "description": "The Kennedy Center Honors will go to Paul Anka, Barbara Mandrell, David Foster, Andy Garcia and David Mamet as the ceremony moves off-campus.",
+            "url": "https://www.washingtonpost.com/style/2026/11/02/paul-anka-andy-garcia-barbara-mandrell-will-get-kennedy-center-honors/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NQ7XCGBKBBOKLSUYIXV536B4QY_size-normalized.JPG&w=1440",
+            "publishedAt": "2026-11-02T22:35:44Z",
+            "content": "The Kennedy Center on Monday announced five honorees for its marquee annual celebration, including singer Paul Anka and playwright David Mamet, who have publicly praised President Donald Trump, as he… [+34 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Salvador Rizzo",
+            "title": "Judge dismisses case against former FBI agents in Hunter Biden laptop investigation - The Washington Post",
+            "description": "The judge said the Justice Department’s effort “cannot be described as anything other than weaponization.”",
+            "url": "https://www.washingtonpost.com/national-security/2026/11/02/judge-dismisses-charges-against-fbi-agents-hunter-biden-laptop-investigation/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/SMGQNTQTOENO6YPPL2OJNHEZW4.jpg&w=1440",
+            "publishedAt": "2026-11-02T22:12:23Z",
+            "content": "A federal magistrate judge on Monday dismissed a criminal case against two former FBI officials who were accused of lying to Congress in 2023 about their knowledge of Hunter Bidens laptop,the latest … [+100 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5Mac"
+            },
+            "author": "Ryan Christoffel",
+            "title": "John Ternus addresses iPhone Duo supply constraints, display issue - 9to5Mac",
+            "description": "Apple CEO John Ternus spoke to Reuters about iPhone Duo supply constraints and also the units that have been returned for display issues.",
+            "url": "https://9to5mac.com/2026/11/02/john-ternus-addresses-iphone-duo-supply-constraints-display-issue/",
+            "urlToImage": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/john-ternus-iphone-duo-introduction.jpg?quality=82&strip=all&resize=1200,628",
+            "publishedAt": "2026-11-02T21:47:00Z",
+            "content": "Today Apple reported record Q4 earnings, which beat Wall Street expectations overall. And in an interview with Reuters, CEO John Ternus addressed current iPhone Duo supply constraints and also refere… [+1454 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Forbes",
+            "title": "20-Year-Old Co-Pilot Died In Florida Learjet Crash That Killed 9, Family Says - Forbes",
+            "description": null,
+            "url": "https://www.forbes.com/sites/zacharyfolk/2026/11/02/20-year-old-co-pilot-died-in-florida-learjet-crash-that-killed-9-family-says/",
+            "urlToImage": null,
+            "publishedAt": "2026-11-02T21:42:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Beth Mole",
+            "title": "Third person dies of bird flu since virus started jumping to livestock - Ars Technica",
+            "description": "The threat is still considered to be low, but the virus continues to spread.",
+            "url": "https://arstechnica.com/health/2026/11/third-person-dies-of-bird-flu-since-virus-started-jumping-to-livestock/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/02/GettyImages-2190742287-1152x648.jpg",
+            "publishedAt": "2026-11-02T21:21:43Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Deadline"
+            },
+            "author": "Denise Petski",
+            "title": "'Ellen DeGeneres Show' EP Matthew Wright Dies In \"Unfathomable Tragedy\" - Deadline",
+            "description": "Ellen DeGeneres is mourning the death of Matthew Wright, who worked as an executive producer on The Ellen DeGeneres Show for 16 years.",
+            "url": "http://deadline.com/2026/11/ellen-degeneres-matthew-wright-ep-1237211547/",
+            "urlToImage": "https://deadline.com/wp-content/uploads/2026/11/Matthew-Wright.png?w=1024",
+            "publishedAt": "2026-11-02T20:24:00Z",
+            "content": "Ellen DeGeneres is mourning the loss of Matthew Wright, who worked as an executive producer on The Ellen DeGeneres Show for 16 years and appeared frequently on the show. Wright died Friday, October 3… [+2757 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Francesca Ebel",
+            "title": "Ukrainian and Russian emergency alert apps send false warnings after hacks - The Washington Post",
+            "description": "Ukrainians received warnings of radiation, chemical attacks and street fighting. Hours later, Russian authorities reported a “massive cyberattack” on their own app.",
+            "url": "https://www.washingtonpost.com/world/2026/11/02/ukrainian-russian-emergency-alert-apps-send-false-warnings-after-hacks/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NWYSEED3MD5TNXX3SR6EFR2OOY_size-normalized.jpg&w=1440",
+            "publishedAt": "2026-11-02T20:22:08Z",
+            "content": "KYIV Russia and Ukraine both said their emergency alert apps were hacked late Sunday night, when false alarms including a nuclear warning were issued to residents, sparking confusion.\r\nShortly before… [+248 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Financial Times"
+            },
+            "author": null,
+            "title": "The midterm races to watch as Americans deliver their verdict on Donald Trump - Financial Times",
+            "description": "Will a Democratic ‘blue wave’ sweep Congress away from Republicans — and render the president a lame duck?",
+            "url": "https://www.ft.com/content/1626b14d-524f-4d2a-94d1-860ae4a68692?syn-25a6b1a6\\\\u003d1",
+            "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fb005b081-dd94-4f2b-bed3-20b3cc1aa508.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+            "publishedAt": "2026-11-02T20:12:26Z",
+            "content": "Then $75 per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial."
+        },
+        {
+            "source": {
+                "id": "espn",
+                "name": "ESPN"
+            },
+            "author": "Jamison Hensley",
+            "title": "Record-setting deal? Trade? A look at Lamar Jackson's cloudy future with Ravens - ESPN",
+            "description": "It's possible that Jackson's final snap with the Ravens ended with injury Sunday night.",
+            "url": "https://www.espn.com/nfl/story/_/id/50359850/look-lamar-jackson-cloudy-future-baltimore-ravens",
+            "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1102%2Fr1740144_1296x729_16%2D9.jpg",
+            "publishedAt": "2026-11-02T19:28:00Z",
+            "content": "ORCHARD PARK, N.Y. -- Baltimore Ravens quarterback Lamar Jackson walked off the field while looking in disbelief at his misshapen and battered right thumb, a stunning turn of events that has become t… [+3819 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Prosecutors hint at retrial for Lindsay Clancy on murder charges - BBC",
+            "description": "Judge William Sullivan said if the case is headed to a retrial, that could happen as soon as March 2027.",
+            "url": "https://www.bbc.com/news/articles/cjly0rgk34y2o",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/72a8/live/8b822d30-d6f2-11f1-8f53-6322e2737253.jpg",
+            "publishedAt": "2026-11-02T19:23:07Z",
+            "content": "Much of Monday's conversations in court focused on the one holdout juror, also known as Juror Doe, and the defence's investigation into him. Juror Doe disagreed with the other jurors, who appeared to… [+105 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": null,
+            "title": "An aging 1.5-ton space telescope is plunging back to Earth. NASA has calculated the risk of harm to people. - CBS News",
+            "description": "The Swift Observatory is barely clinging to space after a failed rescue effort left it tottering lower and lower.",
+            "url": "https://www.cbsnews.com/news/nasa-telescope-swift-observatory-plunging-back-to-earth/",
+            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/02/fbcc0008-f8f4-459d-b34b-3af63b2fbd9b/thumbnail/1200x630/37d6f9be233f356b1a623629316a25f2/swift-cq5dam-thumbnail-319-319.png",
+            "publishedAt": "2026-11-02T19:00:07Z",
+            "content": "An aging NASA telescope is barely clinging to space after a failed rescue effort left it tottering lower and lower. The space agency said Monday it predicts the Swift Observatory will likely come cra… [+3093 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Mary Walrath-Holdridge",
+            "title": "Blood pressure medication recalled nationwide. See the affected drug - USA Today",
+            "description": "The recalled medication may not work like it's supposed to, according to the FDA.",
+            "url": "https://www.usatoday.com/story/money/consumer-protection/recalls-alerts/2026/11/02/blood-pressure-medication-recalled/92563231007/",
+            "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/11/02/USAT/92566774007-getty-images-92407491.jpg?crop=3596,2023,x0,y0&width=3200&height=1801&format=pjpg&auto=webp",
+            "publishedAt": "2026-11-02T18:37:00Z",
+            "content": "If you have high blood pressure, check your medicine cabinet: More than 3,700 bottles of blood pressure pills have been recalled nationwide.\r\nMacleods Pharmaceuticals first recalled the tablets on Oc… [+1953 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Amy B Wang, Erin Cox",
+            "title": "El-Sayed campaign reports $2.4 million fundraising day as Stevens endorses GOP rival - The Washington Post",
+            "description": "The shocking decision by Rep. Haley Stevens (D-Michigan) to endorse Republican Mike Rogers instead of Abdul El-Sayed, the Democratic nominee, triggered denunciations by Democratic leaders across the country.",
+            "url": "https://www.washingtonpost.com/politics/2026/11/02/el-sayed-campaign-reports-24-million-fundraising-day-stevens-endorses-gop-rival/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KTPQB4ZU3JTGGL6ZIQUN3AVLKY_size-normalized.jpg&w=1440",
+            "publishedAt": "2026-11-02T18:32:17Z",
+            "content": "The campaign for Abdul El-Sayed, the Democratic nominee for Senate in Michigan, reported it raised $2.4 million on Sunday after a shocking last-minute decision by El-Sayeds former primary rival to en… [+28 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WLWT Cincinnati"
+            },
+            "author": "Annie Jennemann, Damali Ramirez",
+            "title": "2026 Midterm Election: How many people have voted early in the US? - WLWT",
+            "description": "With one day left, early voting in 23 states has already surpassed 2022 levels — including Texas, Delaware, Georgia and North Carolina.",
+            "url": "https://www.wlwt.com/article/2026-midterm-election-early-voting-map/74296734",
+            "urlToImage": "https://kubrick.htvapps.com/htv-prod/images/d7bcc54e-9171-404c-b6a9-f6d1f3dc6d71.png?crop=1.00xw%3A1.00xh%3B0%2C0&resize=1200%3A*",
+            "publishedAt": "2026-11-02T18:11:00Z",
+            "content": "WASHINGTONEarly voting has ended in many states, with more wrapping up Monday ahead of the 2026 midterm election.\r\nVoters will decide control of the Senate and the House of Representatives, along wit… [+3191 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Stevie Bonifield",
+            "title": "Apple’s ‘Ultra’ smart home robot might have to wait until 2028 - The Verge",
+            "description": "The Information reports Apple’s rumored smart home robot could be called HomeView Ultra, but is also facing delays that could push its launch back until 2028.",
+            "url": "https://www.theverge.com/tech/1024496/apple-homeview-ultra-robot-rumor-delay",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK071_APPLE_H.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-11-02T17:06:10Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe HomeView-like tabletop robot could cost over $1,000, reports The Information.\r\nThe HomeView-like tabletop robot could cost over $1,000, reports The Informati… [+2509 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5google.com"
+            },
+            "author": "Andrew Romero",
+            "title": "Privacy Display on Galaxy S27 Pro and S27 Ultra looks more promising in latest leak - 9to5Google",
+            "description": "A new leak strengthens a previous rumor that the Galaxy S27 Pro and Galaxy S27 Ultra will get an improved...",
+            "url": "http://9to5google.com/2026/11/02/galaxy-s27-privacy-display-improved-brightness/",
+            "urlToImage": "https://9to5google.com/wp-content/uploads/sites/4/2026/02/galaxy-s26-ultra-privacy-display-17.jpg?quality=82&strip=all&resize=1200,628",
+            "publishedAt": "2026-11-02T16:44:00Z",
+            "content": "A new leak strengthens a previous rumor that the Galaxy S27 Pro and Galaxy S27 Ultra will get an improved version of Samsung’s Privacy Display, used on this year’s flagship.\r\nWe don’t expect Samsung … [+1280 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Frank Schwab",
+            "title": "NFL Monday Night Football preview: Bears and Seahawks battle with new trade acquisitions on both sides - Yahoo Sports",
+            "description": "The Bears offense vs. the Seahawks defense is a tremendous matchup.",
+            "url": "https://sports.yahoo.com/nfl/article/nfl-monday-night-football-preview-bears-and-seahawks-battle-with-new-trade-acquisitions-on-both-sides-164309964.html",
+            "urlToImage": "https://s.yimg.com/lo/mysterio/api/67ad381f9ea84175fe4b1319631804777f636b3b6bf1b0ec6420999bb12cbf08/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2F3a13b999-decc-4793-b61c-a21b6268f94f",
+            "publishedAt": "2026-11-02T16:43:09Z",
+            "content": "The Chicago Bears and Seattle Seahawks didn't wait for the trade deadline to make major moves.\r\nThe Seahawks decided to fix their run game by beefing up the offensive line. They traded for guard Quen… [+4835 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Detroit News"
+            },
+            "author": "Nolan Bianchi, Richard Silva",
+            "title": "Lions' Jack Campbell hospitalized with neck injury | Live updates - The Detroit News",
+            "description": "Lions linebacker and captain Jack Campbell was motionless on the field Sunday for several minutes after making a tackle vs. the Vikings.",
+            "url": "https://www.detroitnews.com/story/sports/nfl/lions/2026/11/02/jack-campbell-detroit-lions-news-today-neck-injury-live-updates-minnesota-vikings--live/92558348007/",
+            "urlToImage": "https://www.detroitnews.com/gcdn/authoring/authoring-images/2026/11/01/PDTN/92554004007-20261101-rblionsvikings-2151.jpg?crop=3397,1912,x2,y228&width=3200&height=1802&format=pjpg&auto=webp",
+            "publishedAt": "2026-11-02T16:36:00Z",
+            "content": "12:59 pm ETShare this update\r\nMSU's Pat Fitzgerald reacts to Campbell's injury\r\nRichard Silva\r\nMichigan State coach Pat Fitzgerald doesn't know Jack Campbell personally, but he remembers what it was … [+10250 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "The Associated Press",
+            "title": "Iran has a 2-day plan to reopen strait, resume nuclear talks with US, and other Mideast news - AP News",
+            "description": "Officials tell The Associated Press that Israeli Prime Minister Benjamin Netanyahu wants the Trump administration to carry out new strikes on Iran. They say that U.S. President Donald Trump has yet to commit to another round strikes. Iran says it has a two-da…",
+            "url": "https://apnews.com/article/mideast-news-november-2-2026-8722c8b5a9deb228e7a188d4760ea8ed",
+            "urlToImage": "https://dims.apnews.com/dims4/default/c80533b/2147483647/strip/true/crop/4898x3265+0+0/resize/1200x800!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F36%2F70%2Ff123c083043c49d38ca808081784%2Fdd7da006e68e414381c0dae1b08a6458",
+            "publishedAt": "2026-11-02T16:10:00Z",
+            "content": "Israeli Prime Minister Benjamin Netanyahu is urging the Trump administration to carry out another wave of strikes on Iran, officials told The Associated Press. \r\nIran said Monday it had a two-day pla… [+5729 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Kif Leswing",
+            "title": "Apple earnings live updates: New CEO John Ternus faces first Wall Street test - CNBC",
+            "description": "Follow Apple Q4 2026 earnings live for revenue, EPS, iPhone sales, China performance, AI updates, holiday guidance and AAPL stock reaction.",
+            "url": "https://www.cnbc.com/2026/11/02/apple-aapl-q4-2026-earnings-live-updates.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108475925-1793211754814-gettyimages-2302414749-_24a1213_yjobienl.jpeg?v=1793211775&w=1920&h=1080",
+            "publishedAt": "2026-11-02T16:05:00Z",
+            "content": "Apple investors and customers are still getting to know Ternus, but since he took over for Tim Cook on Sept. 1, the new CEO has embraced his new role as the face of the iPhone company.\r\nTernus' first… [+1063 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Mary  Cunningham",
+            "title": "Binance customers withdraw more than $4.6 billion after crypto heist - CBS News",
+            "description": "Binance said the net outflow from the cryptocurrency exchange represents just 2.1% of its total holdings.",
+            "url": "https://www.cbsnews.com/news/binance-customers-withdraw-billions-crypto-hack/",
+            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/02/f81b6a6a-d081-4721-8a36-71d80c19a358/thumbnail/1200x630/e8088f51ef064581c810a66c473598e3/gettyimages-2302659470.jpg",
+            "publishedAt": "2026-11-02T16:01:00Z",
+            "content": "Binance customers withdrew more than $4.6 billion from the cryptocurrency exchange after it suffered what security experts said was the largest digital coin theft ever.\r\nIn a post on social media, Bi… [+1728 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Ramy  Inocencio",
+            "title": "Englishman Karl Bushby returns home after 28 years walking 30,000 miles around the world - CBS News",
+            "description": "Karl Bushby began what came to be known as his \"Goliath Expedition\" in Chile on Nov. 1, 1998.",
+            "url": "https://www.cbsnews.com/news/englishman-karl-bushby-returns-home-walking-goliath-expedition/",
+            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/02/3b94826e-da4d-43f3-bfb8-b3f273aecd12/thumbnail/1200x630/811f16fbfebc2fc72ff1fb1e42831b6a/gettyimages-2302713244.jpg",
+            "publishedAt": "2026-11-02T14:50:00Z",
+            "content": "Hull, England - For 28 years and one day, Karl Bushby took the long way home on an epic odyssey of human endurance back to northern England.\r\nHis adventure was made even more difficult - physically a… [+4525 chars]"
+        },
         {
             "source": {
                 "id": null,
@@ -43,6 +329,32 @@
         },
         {
             "source": {
+                "id": "the-hill",
+                "name": "The Hill"
+            },
+            "author": "Caroline Vakil",
+            "title": "Texas, Alaska, Maine Senate races flip blue on DDHQ map - The Hill",
+            "description": "Decision Desk HQ (DDHQ) is forecasting Senate races in Texas, Alaska and Maine will flip toward Democrats on Tuesday, enough to put the party in a prime position of winning back the upper chamber.  DDHQ forecasts that Democrats James Talarico in Texas and Mar…",
+            "url": "https://thehill.com/homenews/6188072-ddhq-senate-forecast-texas-alaska-maine/",
+            "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2026/10/AP26261579308574-e1793391793516.jpg?w=1280",
+            "publishedAt": "2026-11-02T13:25:00Z",
+            "content": "Skip to content\r\nDecision Desk HQ (DDHQ) is forecasting Senate races in Texas, Alaska and Maine will flip toward Democrats on Tuesday, enough to put the party in a prime position of winning back the … [+2148 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Newser"
+            },
+            "author": "Arden Dier",
+            "title": "NASA Invites You to Join Mission to Saturn Moon - Newser",
+            "description": "Public can add names to microchip aboard Dragonfly rotorcraft until Jan. 15",
+            "url": "https://www.newser.com/story/399208/nasa-invites-you-to-join-mission-to-saturn-moon.html",
+            "urlToImage": "https://cdn.newser.com/image/1721649-12-20261102071903.jpeg",
+            "publishedAt": "2026-11-02T12:48:00Z",
+            "content": "Your name could hitch a ride to one of the solar system's most intriguing worlds. NASA is inviting the public to add their names to a microchip that will fly aboard Dragonfly, an eight-rotor drone sl… [+296 chars]"
+        },
+        {
+            "source": {
                 "id": null,
                 "name": "BBC News"
             },
@@ -66,19 +378,6 @@
             "urlToImage": "https://variety.com/wp-content/uploads/2026/11/GettyImages-2302677891.jpg?w=1000&h=563&crop=1",
             "publishedAt": "2026-11-02T12:29:00Z",
             "content": "Russell Brand’s lawyer has told the jury there is “no evidence” that the comedian is “some kind of psychopath who rapes people and thinks it’s normal” in his closing argument.\r\n“The fact he behaved n… [+3770 chars]"
-        },
-        {
-            "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
-            },
-            "author": "The Associated Press",
-            "title": "Iran has a 2-day plan to reopen Strait, resume nuclear talks with US, and other Mideast news - AP News",
-            "description": "Iran said it had a two-day plan to reopen the Strait of Hormuz and resume nuclear talks with the United States, if Washington meets its demands. Iran’s foreign ministry spokesperson, Esmail Baghaei, said Monday that the plan remained the basis for negotiation…",
-            "url": "https://apnews.com/article/mideast-news-november-2-2026-8722c8b5a9deb228e7a188d4760ea8ed",
-            "urlToImage": "https://dims.apnews.com/dims4/default/cc04ab2/2147483647/strip/true/crop/6000x4000+0+0/resize/1200x800!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F53%2F87%2Fc6f1d4d9fcf226e55c0db814b53e%2Fa0c69cab2d2341bb8b0288201da85f96",
-            "publishedAt": "2026-11-02T12:22:00Z",
-            "content": "Iran said Monday it had a two-day plan to reopen the Strait of Hormuz and resume nuclear talks with the United States, shortening a process originally expected to take seven days. \r\nThe U.N. migratio… [+5579 chars]"
         },
         {
             "source": {
@@ -5110,500 +5409,6 @@
             "urlToImage": "https://image.cnbcfm.com/api/v1/image/108333293-1783682220679-gettyimages-2283571654-SKOREA_SK_HYNIX.jpeg?v=1783682246&w=1920&h=1080",
             "publishedAt": "2026-10-27T23:34:59Z",
             "content": "South Korean chipmaker SK Hynix shares closed 10.89% higher on Wednesday after the company reported record quarterly profit that sharply beating estimates, and announced over $25 billion in dividends… [+4177 chars]"
-        },
-        {
-            "source": {
-                "id": "ars-technica",
-                "name": "Ars Technica"
-            },
-            "author": "Samuel Axon",
-            "title": "Apple refreshes the iMac, entry-level MacBook Pro with the M6 chip - Ars Technica",
-            "description": "Additionally, the N1 chip brings Wi-Fi 7 and Bluetooth 6.",
-            "url": "https://arstechnica.com/apple/2026/10/apple-refreshes-the-imac-entry-level-macbook-pro-with-the-m6-chip/",
-            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/M6-iMac-1152x648.jpg",
-            "publishedAt": "2026-10-27T22:37:30Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "WABC-TV"
-            },
-            "author": null,
-            "title": "Flu survivor shares near-death experience as doctors urge vaccination ahead of early flu season - ABC7 New York",
-            "description": "After a 116-day hospitalization that nearly cost him his life, an East Northport man is sharing his near-death experience with the flu.",
-            "url": "https://abc7ny.com/post/flu-survivor-shares-death-experience-doctors-urge-vaccination-ahead-early-season/19986136/",
-            "urlToImage": "https://cdn.abcotvs.com/dip/images/19987200_102726-wabc-sager-flu-survivor-430pm.jpg?w=1600",
-            "publishedAt": "2026-10-27T22:35:35Z",
-            "content": "EAST NORTHPORT, N.Y. (WABC) -- What Frank Bosco thought was a routine cold turned into a life-threatening battle with the flu that left him hospitalized for months and serves as a stark reminder of t… [+2634 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": null,
-            "title": "King acknowledges 'suffering of the past' as Caribbean tour begins - BBC",
-            "description": "The King is on a nine-day tour that will take him to three countries, including the Bahamas, Guyana and Antigua and Barbuda.",
-            "url": "https://www.bbc.com/news/articles/cmwyv8ld22z1o",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/f0e4/live/7d77ba00-d249-11f1-8ba3-9fd3e261415f.jpg",
-            "publishedAt": "2026-10-27T22:34:02Z",
-            "content": "For the King, the spokesperson added, the \"tour is both a new journey but also the continuance of a lifelong one, in which he has sought to engage, understand and educate about the most shameful aspe… [+16 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": null,
-            "title": "Chris Mason: Budget needs to go some way towards delivering PM's promises - BBC",
-            "description": "Support on the cost of living, and in particular energy bills, as well as announcments on devolution will be central to John Healey's first Budget.",
-            "url": "https://www.bbc.com/news/articles/c6y43wkln1k2o",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7041/live/3d52f8e0-d23a-11f1-a701-fddedf244c16.jpg",
-            "publishedAt": "2026-10-27T22:30:09Z",
-            "content": "But in the bones of many in the Labour Party is an instinct that the government, the state, can and should be a vital agent in driving change and improvements in people's lives a world-view grounded … [+112 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Phys.Org"
-            },
-            "author": null,
-            "title": "Rubin Observatory reveals its first dwarf planet candidate in our solar system - Phys.org",
-            "description": "Scientists may add a new dwarf planet to the official roster of our solar system. The distant, icy body, provisionally dubbed 2026 ED138, orbits our system beyond Pluto. It was spotted earlier this month by a scientist combing through data from the Simonyi Su…",
-            "url": "https://phys.org/news/2026-10-rubin-observatory-reveals-dwarf-planet.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/2026/rubin-observatory-reve.jpg",
-            "publishedAt": "2026-10-27T22:30:05Z",
-            "content": "Scientists may add a new dwarf planet to the official roster of our solar system. The distant, icy body, provisionally dubbed 2026 ED138, orbits our system beyond Pluto. It was spotted earlier this m… [+5791 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "SciTechDaily"
-            },
-            "author": null,
-            "title": "A Routine Blood Test Could Predict Dementia Risk 15 Years in Advance - SciTechDaily",
-            "description": "A large study tracking more than 316,000 adults for up to 15 years suggests that a routine blood test may reveal important clues about future dementia risk.",
-            "url": "https://scitechdaily.com/a-routine-blood-test-could-predict-dementia-risk-15-years-in-advance/",
-            "urlToImage": null,
-            "publishedAt": "2026-10-27T22:18:40Z",
-            "content": "A routine blood test measuring hemoglobin levels may offer clues about a person’s risk of developing dementia up to 15 years later, according to a large study. Credit: Shutterstock\r\nA large study tra… [+5925 chars]"
-        },
-        {
-            "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
-            },
-            "author": "Katherine Li",
-            "title": "Apple's iPhone Duo is getting roasted over screen cracks - Business Insider",
-            "description": "Social media is buzzing with memes over the iPhone Duo's T-shaped screen cracks, costly price point, and how it is made to be a distraction.",
-            "url": "https://www.businessinsider.com/apple-iphone-duo-memes-screen-crack-2026-10#article",
-            "urlToImage": "https://i.insider.com/6ae0fa32e793e12971425fa6?width=1200&format=jpeg",
-            "publishedAt": "2026-10-27T22:17:42Z",
-            "content": "Apple's long-awaited iPhone Duo is here, and while a folding phone is nothing new, it's the company's first, and it has a waitlist a mile long.\r\nHowever, Apple diehards with Duo already in hand are r… [+2122 chars]"
-        },
-        {
-            "source": {
-                "id": "nbc-news",
-                "name": "NBC News"
-            },
-            "author": "Daniella Silva",
-            "title": "Bend, Oregon, shooter previously said he was bullied and told police he was assaulted at home - NBC News",
-            "description": "Police reports describe incidents in recent years in which Griffin John II told police he was punched by a man who had been seeing his mom and hit by his friend’s sister.",
-            "url": "https://www.nbcnews.com/news/us-news/bend-oregon-shooter-previously-said-was-bullied-told-police-was-assaul-rcna606003",
-            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261015-Silver-Rail-elementary-school-ew-610p-178e9f.jpg",
-            "publishedAt": "2026-10-27T21:53:10Z",
-            "content": "The 16-year-old boy who killed three children and a teacher, injuring two other people, at a school in Bend, Oregon, was assaulted twice in recent years, once while he was trying to defend his mother… [+3737 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Thetimes.com"
-            },
-            "author": "Kelly Rissman",
-            "title": "Tiny tyrannosaur called Jodi sells for a colossal $47.3m - The Times",
-            "description": "An anonymous bidder bought the fossil at auction at Sotheby’s in New York, the second most expensive dinosaur sale ever",
-            "url": "https://www.thetimes.com/world/europe/article/rare-dinosaur-sold-auction-nanotyrannus-lancensis-nctbggxm9",
-            "urlToImage": "https://www.thetimes.com/imageserver/image/3f89b8a8-b1b8-488f-a833-29570539d469.jpg?strip=all&format=webp&crop=3900px%2C2193px%2C0px%2C365px&resize=1200",
-            "publishedAt": "2026-10-27T21:25:26Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": null,
-            "title": "Alexander brothers each sentenced to 30 years in prison for sex trafficking case - BBC",
-            "description": "The three brothers were found guilty of drugging and raping several women over the course of decades.",
-            "url": "https://www.bbc.com/news/articles/cqn498mng08ro",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/c228/live/e6371090-d249-11f1-8ba3-9fd3e261415f.jpg",
-            "publishedAt": "2026-10-27T20:45:25Z",
-            "content": "Tal Alexander, 40, and twins Oren and Alon Alexander, 39, were found guilty in March of using their wealth and social status to lure women to parties and luxury homes, where they sexually assaulted t… [+3 chars]"
-        },
-        {
-            "source": {
-                "id": "usa-today",
-                "name": "USA Today"
-            },
-            "author": "Melina Khan",
-            "title": "Savannah Chrisley is pregnant, expecting first child with fiancé - USA Today",
-            "description": "Reality TV star Savannah Chrisley is pregnant with her first child. She also announced her engagement.",
-            "url": "https://www.usatoday.com/story/entertainment/tv-streaming/2026/10/27/savannah-chrisley-pregnant-engaged/92456722007/",
-            "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/10/27/USAT/92457317007-getty-images-1678452121.jpg?crop=3188,1793,x1168,y392&width=3188&height=1793&format=pjpg&auto=webp",
-            "publishedAt": "2026-10-27T20:38:51Z",
-            "content": "Savannah Chrisley is going to be a mom!\r\nThe reality TV star is pregnant with her first child, she announced on social media Oct. 27.\r\n\"Just when I thought my heart couldnt hold any more love, God ga… [+3266 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CBS Sports"
-            },
-            "author": "Jamey Eisenberg",
-            "title": "Fantasy football Week 8 waiver wire: Jonah Coleman, Rachaad White headline must-add running backs - CBS Sports",
-            "description": "Jonah Coleman and Rachaad White lead Week 8 waiver targets, with KC Concepcion and Geno Smith also worth adding",
-            "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-2026-week-8-waiver-wire/",
-            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2026/10/27/076ed6c4-2416-4531-aab9-ff38a12f8ecd/thumbnail/1200x675/16c32baf1d6872d58d66e106e3d8cb51/jonah-coleman-denver-broncos-imagn-images.jpg",
-            "publishedAt": "2026-10-27T20:36:22Z",
-            "content": "Jonah Coleman and Rachaad White should be added in all leagues. Both have the chance to be difference makers in Week 8 and beyond. \r\nNow, you are not going to see them mentioned as running backs to a… [+14823 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "NPR"
-            },
-            "author": "Jonathan Lambert",
-            "title": "The Ebola outbreak is breaking records — and just marked a grim milestone - NPR",
-            "description": "The current outbreak, first identified in the Democratic Republic of Congo, has now counted 10,000 patients and has spread with great speed. How can it be stopped?",
-            "url": "https://www.npr.org/2026/10/27/g-s1-150136/ebola-outbreak-milestone-democratic-republic-congo-vaccine",
-            "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7086x3986+0+369/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb6%2F93%2F4ffae611409290d5b15eef9a5f72%2Febola-slideshow-10k-cases-2300979920.jpg",
-            "publishedAt": "2026-10-27T19:53:12Z",
-            "content": "The fastest spreading Ebola outbreak in history has surpassed another grim milestone. More than 10,000 people have been infected since the outbreak was first declared in May, according to the latest … [+7627 chars]"
-        },
-        {
-            "source": {
-                "id": "usa-today",
-                "name": "USA Today"
-            },
-            "author": "Kalia Richardson",
-            "title": "Matthew Perry's sister details 'Friends' cast's heartbreaking goodbye at funeral - USA Today",
-            "description": "In a new Netflix documentary, \"The One About Matthew Perry,\" the \"Friends\" actor's loved ones honor his life. Here are the biggest revelations.",
-            "url": "https://www.usatoday.com/story/entertainment/tv-streaming/2026/10/27/matthew-perry-documentary-netflix-revelations-friends-star/92443011007/",
-            "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/10/27/USAT/92456910007-the-one-about-matthew-perry-n-s-1-e-2-00-45-33-06.jpg?crop=3413,1919,x426,y0&width=3200&height=1800&format=pjpg&auto=webp",
-            "publishedAt": "2026-10-27T19:23:00Z",
-            "content": "Of the six 20-somethings cast in \"Friends,\" Matthew Perry was the last one to get the call back. When he auditioned, former NBC entertainment president Warren Littlefield couldn't get enough.\r\nSandwi… [+7074 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "wgbh.org"
-            },
-            "author": "https://www.wgbh.org/people/craig-lemoult",
-            "title": "Potential new dwarf planet found by Harvard astrophysicists - WGBH",
-            "description": "The bright object, known as 2026 ED138 for now, is among the seven largest objects identified in the outer solar system so far, the scientists say.",
-            "url": "https://www.wgbh.org/news/local/2026-10-27/potential-new-dwarf-planet-found-by-harvard-astrophysicists",
-            "urlToImage": "https://cdn.grove.wgbh.org/dims4/default/2fe892a/2147483647/strip/true/crop/1280x672+0+126/resize/1200x630!/quality/70/?url=https%3A%2F%2Fk1-prod-gbh.s3.us-east-2.amazonaws.com%2Fbrightspot%2F01%2F5d%2Fb563fd4f42409a355bca1219d33e%2Fnoirlab2626a.jpg",
-            "publishedAt": "2026-10-27T19:19:23Z",
-            "content": "Astrophysicists from Harvard University have found what they believe is a previously undiscovered dwarf planet in our own solar system.\r\nThe object, which the scientists say is probably between 600 a… [+3728 chars]"
-        },
-        {
-            "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
-            },
-            "author": "Philip Marcelo",
-            "title": "A dinosaur fossil that looks like a mini T. rex just sold for a giant $47 million - AP News",
-            "description": "A dinosaur that looks like a miniature T. rex is now one of the world's most expensive fossils. The rare skeleton of a Nanotyrannus sold for $47.3 million to a mystery buyer at auction in New York City. Sotheby’s auction house had expected it to fetch anywher…",
-            "url": "https://apnews.com/article/nanotyrannus-dinosaur-fossil-auction-sothebys-t-rex-2ad6c02610c3fa548a496b2395c83081",
-            "urlToImage": "https://dims.apnews.com/dims4/default/3312cfa/2147483647/strip/true/crop/5930x3953+0+0/resize/1200x800!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F97%2Fb0%2F229358819d174539e351bf29f6a6%2Ff0528cfc31444e1b9d26a7a1cac00dd0",
-            "publishedAt": "2026-10-27T19:15:00Z",
-            "content": "NEW YORK (AP) A dinosaur that looks like a miniature T. rex is now one of the worlds most expensive fossils.\r\nThe rare skeleton of a Nanotyrannus recently confirmed to be a distant cousin of Tyrannos… [+2537 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Seeking Alpha"
-            },
-            "author": "Rob Williams",
-            "title": "SpaceX added to BofA's 'US 1' list of top stock picks (SPCX:NASDAQ) - Seeking Alpha",
-            "description": "Bank of America added SpaceX to its US 1 List, boosting confidence in the stock’s long-term growth outlook.",
-            "url": "https://seekingalpha.com/news/4658273-spacex-added-to-bofas-us-1-list-of-top-stock-picks",
-            "urlToImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1171862750/image_1171862750.jpg?io=getty-c-w630",
-            "publishedAt": "2026-10-27T19:00:43Z",
-            "content": "Loren Elliott/Getty Images News\r\nBank of America Securities added Space Exploration Technologies Corp., or SpaceX (SPCX), to its US 1 List of preferred investment ideas Tuesday, signaling increased c… [+123 chars]"
-        },
-        {
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "author": null,
-            "title": "One week until midterms, Trump takes campaign blitz to Texas - Fox News",
-            "description": "One week before Election Day, President Donald Trump will rally in Texas as Republicans fight to hold Congress and the DOJ pursues a new case against James Comey.",
-            "url": "https://www.foxnews.com/live-news/midterm-elections-2026-trump-texas-comey-october-27",
-            "urlToImage": "https://assets.foxnews.com/liveblog/fn/prod/images/2026/10/d435be5dd7c4a8f3118807d9b6d59131.jpg",
-            "publishedAt": "2026-10-27T18:30:16Z",
-            "content": "Far-left streamer Hasan Piker dodged his controversial past in an exchange with Fox News Digital on Tuesday, hours after teaming up with embattled Rep. Ilhan Omar, D-Minn., on the campaign trail to c… [+2106 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": null,
-            "title": "Norway and Finland hold rare call with Putin to discuss ending war - BBC",
-            "description": "An end to the conflict in Ukraine \"will not be achieved through silence,\" Finland's President Alexander Stubb said.",
-            "url": "https://www.bbc.com/news/articles/c6vgj813mlelo",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/62a7/live/0a738c90-d1fa-11f1-8c9f-8d21fef6ffad.jpg",
-            "publishedAt": "2026-10-27T18:28:23Z",
-            "content": "Finland and Norway, which border Russia, initiated the 90-minute call - held from Helsinki - to \"discuss Russia's war of aggression against Ukraine and the diplomatic efforts to end the war and promo… [+60 chars]"
-        },
-        {
-            "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
-            "author": "Justin Jouvenal",
-            "title": "Trump administration can block immigration judges from closing deportation cases - The Washington Post",
-            "description": "The Trump administration objected to the Biden-era practice, saying it was a form of backdoor amnesty. Immigration advocates called it a useful tool to protect migrants seeking refuge.",
-            "url": "https://www.washingtonpost.com/politics/2026/10/27/trump-administration-can-block-immigration-judges-closing-deportation-cases/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3QZ7HEWLYMI7DLAET5MFPCTIWQ_size-normalized.jpg&w=1440",
-            "publishedAt": "2026-10-27T17:58:06Z",
-            "content": "Courts &amp; LawThe Supreme Court, in an unsigned opinion, cleared the way for the White House to restrict the Biden-era policy.\r\nOctober 27, 2026 at 12:25 p.m. EDT55 minutes ago"
-        },
-        {
-            "source": {
-                "id": "nbc-news",
-                "name": "NBC News"
-            },
-            "author": "Aria Bendix",
-            "title": "CDC warns of rising threat of drug-resistant germs, which kill 50,000 people per year - NBC News",
-            "description": "The agency considers such infections to be one of the most pressing public health issues. A new report ranks the germs that pose the most urgent threats.",
-            "url": "https://www.nbcnews.com/health/health-news/cdc-warns-threat-drug-resistant-germs-rcna605831",
-            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261026-candida-auris-vsb-2100-282ae4.jpg",
-            "publishedAt": "2026-10-27T17:42:11Z",
-            "content": "Just a moment.\r\nWe are getting your experience ready."
-        },
-        {
-            "source": {
-                "id": "espn",
-                "name": "ESPN"
-            },
-            "author": "Brady Henderson",
-            "title": "Sources: Seahawks acquire Pro Bowl guard Quenton Nelson in trade with Colts - ESPN",
-            "description": "The Colts have traded eight-time Pro Bowl guard Quenton Nelson to the Seahawks.",
-            "url": "https://www.espn.com/nfl/story/_/id/50298913/sources-seahawks-get-pro-bowl-guard-nelson-trade-colts",
-            "urlToImage": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1027%2Fr1737050_1296x729_16%2D9.jpg",
-            "publishedAt": "2026-10-27T17:39:00Z",
-            "content": "The Seattle Seahawks acquired three-time All-Pro guard Quenton Nelson from the Indianapolis Colts in exchange for a 2027 third-round pick and a 2028 fifth-round pick on Tuesday.\r\nThe Green Bay Packer… [+3954 chars]"
-        },
-        {
-            "source": {
-                "id": "cbs-news",
-                "name": "CBS News"
-            },
-            "author": null,
-            "title": "Zookeeper dies after she was attacked in leopard enclosure, Dutch safari park says - CBS News",
-            "description": "The woman was attacked while caring for two Persian leopards in an indoor facility at the Beekse Bergen park in the south of the Netherlands.",
-            "url": "https://www.cbsnews.com/news/zookeeper-dies-leopard-attack-dutch-safari-park/",
-            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/10/27/9ad6a141-3ac4-4edb-9504-baf3611d5ac8/thumbnail/1200x630/d23eadcfbff578f8d3b50cd5af1d2115/gettyimages-2301782024.jpg",
-            "publishedAt": "2026-10-27T17:33:57Z",
-            "content": "A keeper at a Dutch zoo has died days after being mauled in a leopard enclosure, the safari park announced on Tuesday.\r\n The woman was attacked while caring for two Persian leopards in an indoor faci… [+1967 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNBC"
-            },
-            "author": "Ashley Capoot",
-            "title": "Anthropic's IPO could be 'speculative fiction' or a 'generational moment' — investors are split - CNBC",
-            "description": "Investors are digesting Anthropic's S-1 filing that the Securities and Exchange Commission released on Monday.",
-            "url": "https://www.cnbc.com/2026/10/27/-anthropic-ipo-investors-growth-losses-s-1.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108353965-1793124813731-108353965-1787672944171-gettyimages-2280291294-ANTHROPIC_CIRCUIT.jpeg?v=1793124845&w=1920&h=1080",
-            "publishedAt": "2026-10-27T17:26:34Z",
-            "content": "Anthropic'sIPO prospectus is chock-full of details for investors to celebrate and worry about.\r\nThe company's bulls are cheering its 1,300% annual sales growth, 900% net revenue retention and 85% imp… [+5471 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Phys.Org"
-            },
-            "author": "Sam Jarman",
-            "title": "Metal-free magnetic sensor can be safely implanted for wireless monitoring - Phys.org",
-            "description": "Researchers in the U.S. and China have created a biocompatible, metal-free magnet that can be safely implanted and generate signals from deep inside the body. Led by Wubin Bai at the University of North Carolina, the team revealed how magnetism can emerge fro…",
-            "url": "https://phys.org/news/2026-10-metal-free-magnetic-sensor-safely.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/metal-free-magnetic-se.jpg",
-            "publishedAt": "2026-10-27T17:20:03Z",
-            "content": "Researchers in the U.S. and China have created a biocompatible, metal-free magnet that can be safely implanted and generate signals from deep inside the body. Led by Wubin Bai at the University of No… [+5072 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": null,
-            "title": "Nanotyrannus: Dinosaur skeleton sells for $47.3m in New York auction - BBC",
-            "description": "The sale of the rare skeleton reignites debate in the scientific community about whether dinosaur remains should end up in private hands or public view.",
-            "url": "https://www.bbc.com/news/articles/cmx28de233r2o",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/9a42/live/20bef180-d22a-11f1-b441-2b33b063138f.jpg",
-            "publishedAt": "2026-10-27T17:10:15Z",
-            "content": "\"We've really just found out that Nanotyrannus is real, and now one of the best skeletons is about to be sold to the highest bidder, and it's harrowing to think it could disappear into the vaults of … [+134 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Financial Times"
-            },
-            "author": null,
-            "title": "Law firm Weil prepares for possible wind-down as crisis deepens - Financial Times",
-            "description": "Big Law powerhouse working with Davis Polk on options that also include last-minute merger or slimmed-down entity",
-            "url": "https://www.ft.com/content/69ccfcb0-3f5e-4b77-9e04-a386e827b872?syn-25a6b1a6\\\\u003d1",
-            "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F95e4ecab-f6ad-47f4-b31a-54447acabc04.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
-            "publishedAt": "2026-10-27T16:51:15Z",
-            "content": "was $540now $299 for your first year.\r\nSave now on essential digital access to trusted FT journalism on any device. Savings based on monthly annualised price, offer ends 28th October."
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Fox 59"
-            },
-            "author": "Fox 59",
-            "title": "Indianapolis Colts trade Quenton Nelson to Seattle Seahawks - Fox 59",
-            "description": null,
-            "url": "https://fox59.com/news/indianapolis-colts-trade-quenton-nelson-to-seattle-seahawks/",
-            "urlToImage": null,
-            "publishedAt": "2026-10-27T16:47:15Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Sci.news"
-            },
-            "author": "Enrico de Lazaro",
-            "title": "New Species of Iguanodontian Dinosaur Discovered in England - Sci.News",
-            "description": "A partial dinosaur skeleton unearthed in a Surrey brickworks in 2001 has been identified as a previously unknown genus and species of an early-diverging hadrosauroid iguanodontian.",
-            "url": "https://www.sci.news/paleontology/paludohadros-proudlovii-15156.html",
-            "urlToImage": "https://cdn.sci.news/images/2026/10/image_15156f-Paludohadros-proudlovii.jpg",
-            "publishedAt": "2026-10-27T16:42:57Z",
-            "content": "A partial dinosaur skeleton unearthed in a Surrey brickworks in 2001 has been identified as a previously unknown genus and species of an early-diverging hadrosauroid iguanodontian.\r\nLife reconstructi… [+2767 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Minneapolis Star Tribune"
-            },
-            "author": "Star Tribune staff, Star Tribune staff",
-            "title": "Live: Pretti family accuses federal government of ‘shielding Alex’s killers’ - Star Tribune",
-            "description": "Pretti’s parents say they have not been updated on an investigation nine months after Pretti was killed by federal agents.",
-            "url": "https://www.startribune.com/alex-pretti-family-shooting-doj-news-conference/601905591",
-            "urlToImage": "https://arc.stimg.co/startribunemedia/XRLRTSYXP5CZRAYBTN246BKJJU.JPG?&w=1200&ar=1.91:1&fit=crop",
-            "publishedAt": "2026-10-27T16:27:45Z",
-            "content": "Michael and Susan Pretti, the parents of Alex Pretti, criticized the federal government in their first news conference since their son was shot and killed by federal immigration agents nine months ag… [+689 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Variety"
-            },
-            "author": "Elsa Keslassy",
-            "title": "Russell Brand Trial: Judge Drops Indecent Assault Charge, Replaces It With Attempted Assault Count - Yahoo",
-            "description": "A judge overseeing Russell Brand's criminal trial has dismissed an indecent assault charge against the British comedian and actor.",
-            "url": "https://variety.com/2026/film/global/russell-brand-trial-judge-drops-indecent-assault-attempted-assault-1236932110/",
-            "urlToImage": "https://variety.com/wp-content/uploads/2026/10/russell-3-1000.jpg?w=1000&h=563&crop=1",
-            "publishedAt": "2026-10-27T16:18:57Z",
-            "content": "A judge overseeing Russell Brand’s criminal trial has dismissed an indecent assault charge against the British comedian and actor, replacing it with a count of attempted indecent assault.\r\nMr Justice… [+2527 chars]"
-        },
-        {
-            "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
-            },
-            "author": "Edith M. Lederer",
-            "title": "Russia committed war crimes in Ukraine by attacking its energy grid, UN-backed inquiry says - AP News",
-            "description": "A U.N.-backed inquiry is reporting that Russia committed war crimes and crimes against humanity in Ukraine by intentionally attacking energy infrastructure, which left millions of people without electricity and heat in freezing temperatures. The inquiry also …",
-            "url": "https://apnews.com/article/un-russia-ukraine-commission-report-war-crimes-27ee6394694bb30a7f1eab9addced768",
-            "urlToImage": "https://dims.apnews.com/dims4/default/eb18c17/2147483647/strip/true/crop/8131x5421+0+0/resize/1200x800!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F88%2F15%2F1629a176ddc9482f5eccb06e390d%2F63bd5f8dbb0248cbb0f728150287a1b0",
-            "publishedAt": "2026-10-27T15:25:00Z",
-            "content": "UNITED NATIONS (AP) Russia committed war crimes and crimes against humanity in Ukraine by intentionally attacking energy infrastructure, leaving millions of people without electricity and heat in fre… [+3645 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Raymond Wong",
-            "title": "Apple's New iPhone Duo Breaks After 75,000 Folds in Real-Life Test - Gizmodo",
-            "description": "Apple left out information about how many folds the Duo can handle, something everything other major foldable maker includes.",
-            "url": "https://gizmodo.com/iphone-duo-folding-test-worse-than-samsung-foldables-2000831131",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/10/iPhone-Duo-Review-40-1200x675.jpg",
-            "publishedAt": "2026-10-27T15:15:06Z",
-            "content": "When Apple announced the iPhone Duo, it conveniently left out one piece of information that every other major foldable phone maker usually discloses: how many folds the iPhone Duo can handle. Now we … [+3002 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CBS Sports"
-            },
-            "author": "Julian McWilliams",
-            "title": "How the Rays were broken by the merciless Brewers, who are on the verge of a World Series sweep - CBS Sports",
-            "description": "The Rays' chances at a comeback appeared to fall apart when the Brewers scored eight two-out runs in the fifth inning of Game 3",
-            "url": "https://www.cbssports.com/mlb/news/how-rays-were-broken-by-merciless-brewers-world-series/",
-            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2026/10/27/52ead5fe-1234-4703-a514-74496b5dafbf/thumbnail/1200x675/4070283c8307be9181179b1c43398fdc/caminero-peralta-getty.png",
-            "publishedAt": "2026-10-27T14:52:15Z",
-            "content": "ST. PETERSBURG, Fla. There comes a time in every battle when exhaustion overtakes reason. When the body can no longer summon what the spirit demands. When even hope, sometimes, the most stubborn of h… [+5669 chars]"
-        },
-        {
-            "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
-            },
-            "author": "Matt Ott",
-            "title": "US consumer confidence recovers in October as gas prices eased a bit - AP News",
-            "description": "American confidence in the economy rebounded somewhat in October as gas prices fell modestly but remain elevated. The Conference Board said Tuesday that its consumer confidence index jumped 7.5 points to 91.7 in October from 84.2 last month. September’s readi…",
-            "url": "https://apnews.com/article/consumer-confidence-inflation-gasoline-tariffs-10aae13e93501c1c7f8803d44316eb28",
-            "urlToImage": "https://dims.apnews.com/dims4/default/36aed67/2147483647/strip/true/crop/4904x3269+0+0/resize/1200x800!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F98%2F04%2F89bc1ecfe25166f801fbec996898%2F2d2c5289ff414beb8e94e095eaaae962",
-            "publishedAt": "2026-10-27T14:25:36Z",
-            "content": "WASHINGTON (AP) American confidence in the economy rebounded somewhat in October as gas prices fell modestly, though it remains much more expensive to fill up a tank than last year at this time. \r\nTh… [+3702 chars]"
-        },
-        {
-            "source": {
-                "id": "techcrunch",
-                "name": "TechCrunch"
-            },
-            "author": "Aisha Malik",
-            "title": "Apple unveils new 14-inch MacBook Pro with M6 chip - TechCrunch",
-            "description": "The new MacBook Pro comes with 24 hours of battery life, and now features support for Wi-Fi 7 and Bluetooth 6 connectivity.",
-            "url": "https://techcrunch.com/2026/10/27/apple-unveils-new-14-inch-macbook-pro-with-m6-chip/",
-            "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/10/Apple-MacBook-Pro-14-in-with-M6-hero-261027_big.jpg.medium_2x.jpg?resize=1200,675",
-            "publishedAt": "2026-10-27T14:25:11Z",
-            "content": "Apple on Tuesday unveiled its new 14-inch MacBook Pro, powered by its latest M6 chip. The new MacBook Pro has 24 hours of battery life and now supports Wi-Fi 7 and Bluetooth 6 connectivity. The lapto… [+2045 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": "Gary Rose",
-            "title": "Harry Kane - How How Ballon d'Or win could boost the Bundesliga - BBC",
-            "description": "Harry Kane's Ballon d'Or win not only ended a 25-year wait for an English winner of the award but also saw a Bundesliga player win it for the first time since 1996.",
-            "url": "https://www.bbc.com/sport/football/articles/crgqwge88z84o",
-            "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/4b57/live/ae4df5d0-d1fa-11f1-8c9f-8d21fef6ffad.jpg",
-            "publishedAt": "2026-10-27T14:24:23Z",
-            "content": "For Kane, the trophy win will have felt special for many reasons on a personal level, having gone through ups and downs in his career to make it to the very top.\r\nBut both the Bundesliga and Bayern k… [+2541 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Tri-City Herald"
-            },
-            "author": "Annette Cary",
-            "title": "Bird flu found in Central WA dairy herd; officials warn against raw milk - The Seattle Times",
-            "description": "Avian influenza, or bird flu, detected in a Benton County dairy; raw milk and cheese are unsafe. Pasteurized milk remains safe and no shortages expected.",
-            "url": "https://www.tri-cityherald.com/news/local/article317788483.html",
-            "urlToImage": "https://www.tri-cityherald.com/public/latest-news/5tqdc1/picture252688173/alternates/LANDSCAPE_1200/1-main-Dairy%20cows.jpg",
-            "publishedAt": "2026-10-27T14:04:55Z",
-            "content": "Local\r\nKennewick, Wash.Highly pathogenic avian influenza, or bird flu, has been detected for the first time in Benton County in a dairy herd, the Washington state Department of Agriculture said Monda… [+3366 chars]"
         }
     ]
 }
