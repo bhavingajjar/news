@@ -1,7 +1,59 @@
 {
     "status": "ok",
-    "totalResults": 422,
+    "totalResults": 439,
     "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Nintendo Life"
+            },
+            "author": "Liam Doolan",
+            "title": "Square Enix's 'Harvest Sale' Includes Huge Discounts On Final Fantasy VII Remake Intergrade And Rebirth - Nintendo Life",
+            "description": "Get ready for Revelation",
+            "url": "https://www.nintendolife.com/news/2026/11/square-enixs-harvest-sale-includes-huge-discounts-on-final-fantasy-vii-remake-intergrade-and-rebirth",
+            "urlToImage": "https://images.nintendolife.com/18cbd9df5eb05/1280x720.jpg",
+            "publishedAt": "2026-11-03T01:45:00Z",
+            "content": "Image: Square Enix\r\nThe Final Fantasy VII Remake trilogy will wrap next year with the release of Revelation and if you're wanting to catch up on the series, now is the perfect chance.\r\nSquare Enix is… [+2079 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "iPhone Duo: Apple unsure when more of the foldable devices will be available - BBC",
+            "description": "Apple’s foldable iPhone Duo was a hit with people willing to spend $2,000 on a new mobile.",
+            "url": "https://www.bbc.com/news/articles/c6n8dn457ypko",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3b2b/live/05d33ff0-d71d-11f1-b723-458a2ded4fa2.jpg",
+            "publishedAt": "2026-11-03T00:29:00Z",
+            "content": "Ternus noted, too, that Apple is still seeing \"unprecedented\" cost increases for memory, or the ability of Apple devices to store data like apps, photos, and text messages."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Pokemon GO Hub"
+            },
+            "author": "Zeroghan",
+            "title": "GO Wild Area 2026 Brings Trainer Backgrounds, Private Dynamax Battles, and More - Pokémon GO Hub",
+            "description": "Pokémon GO Wild Area 2026 brings private Dynamax Battles, profile backgrounds, Steel and Dragon medal bonuses, new avatar items, and more.",
+            "url": "https://pokemongohub.net/post/news/pokemon-go-wild-area-2026-brings-trainer-backgrounds-private-dynamax-battles-and-more/",
+            "urlToImage": "https://pokemongohub.net/wp-content/uploads/2026/11/rich-trainer-pokemon-backgrounds.jpeg",
+            "publishedAt": "2026-11-03T00:02:14Z",
+            "content": "Pokémon GO has revealed a fresh batch of details for GO Wild Area 2026, including the ability to show Pokémon backgrounds on Trainer profiles (yes!!!), private Dynamax Battle groups, new Special Rese… [+6045 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Push Square"
+            },
+            "author": "Sammy Barker",
+            "title": "Sony Wants You to Trade In Your PS5 for $400 if You're Not Using It - Push Square",
+            "description": "Circulate those systems",
+            "url": "https://www.pushsquare.com/news/2026/11/sony-wants-you-to-trade-in-your-ps5-for-usd400-if-youre-not-using-it",
+            "urlToImage": "https://images.pushsquare.com/e967e47b19e22/1280x720.jpg",
+            "publishedAt": "2026-11-02T22:54:21Z",
+            "content": "Image: Push Square\r\nSony is sending out notifications to PS5 players in the US, encouraging them to trade-in their console for cash if theyre not using it.\r\nThe programme which runs through a third-p… [+1255 chars]"
+        },
         {
             "source": {
                 "id": null,
@@ -14,6 +66,19 @@
             "urlToImage": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/john-ternus-iphone-duo-introduction.jpg?quality=82&strip=all&resize=1200,628",
             "publishedAt": "2026-11-02T21:47:00Z",
             "content": "Today Apple reported record Q4 earnings, which beat Wall Street expectations overall. And in an interview with Reuters, CEO John Ternus addressed current iPhone Duo supply constraints and also refere… [+1454 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Pokemon GO Hub"
+            },
+            "author": "kittypokemonsalot",
+            "title": "Explorer Gadget Gets a Major Upgrade, Alongside New Quality-of-Life Updates - Pokémon GO Hub",
+            "description": "Pokémon GO's Explorer Gadget now works during active gameplay! Explore the new Appraise button, catch summary, Power Spot changes, and more.",
+            "url": "https://pokemongohub.net/post/news/explorer-gadget-gets-a-major-upgrade-alongside-new-quality-of-life-updates/",
+            "urlToImage": "https://pokemongohub.net/wp-content/uploads/2026/08/explorer-gadget-official.jpg",
+            "publishedAt": "2026-11-02T20:57:44Z",
+            "content": "The Explorer Gadget is getting a useful upgrade in Pokémon GO! Trainers can now use it to automatically catch Pokémon and spin PokéStops while actively playing the game, rather than only when Pokémon… [+3710 chars]"
         },
         {
             "source": {
@@ -44,6 +109,19 @@
         {
             "source": {
                 "id": null,
+                "name": "Beebom"
+            },
+            "author": "Rishabh Sabarwal",
+            "title": "All Fortnite Treasure Hunt Chest Locations and Free Rewards - Beebom",
+            "description": "Want to know where to find the most Treasure Hunt Chest locations in Fortnite and the list of free rewards you can get? Check out this guide here.",
+            "url": "https://beebom.com/fortnite-treasure-hunt-chest-locations-rewards/",
+            "urlToImage": "https://static.beebom.com/wp-content/uploads/2026/11/fn-treasure-chest.jpg",
+            "publishedAt": "2026-11-02T20:06:40Z",
+            "content": "Fortnite’s latest Treasure Hunters mini-season has revamped the gameplay after One Piece’s pirate-themed adventures. So to get you into a Buccaneer’s spirit, Epic has added a new container type calle… [+6509 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "9to5Mac"
             },
             "author": "Ryan Christoffel",
@@ -66,6 +144,19 @@
             "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/zelda-google-1152x648.jpg",
             "publishedAt": "2026-11-02T19:52:23Z",
             "content": null
+        },
+        {
+            "source": {
+                "id": "ign",
+                "name": "IGN"
+            },
+            "author": "Cade Onder",
+            "title": "Call of Duty: Warzone Is Adding One of Its Most Requested Features Very Soon - IGN",
+            "description": "Call of Duty: Warzone is adding a weather system that will make every match feel a bit different.",
+            "url": "https://www.ign.com/articles/call-of-duty-warzone-is-adding-a-weather-system-this-week",
+            "urlToImage": "https://assets-prd.ignimgs.com/2026/10/30/callofduty-mw4-dmz-review-blogroll-1793400702051.jpg?width=1280&format=jpg&auto=webp&quality=80",
+            "publishedAt": "2026-11-02T19:42:01Z",
+            "content": "Call of Duty: Warzone is adding a weather system that will make every match feel a bit different.\r\nLater this week, Call of Duty: Modern Warfare 4's Season 1 update will be released, and with it will… [+1701 chars]"
         },
         {
             "source": {
@@ -108,6 +199,19 @@
         },
         {
             "source": {
+                "id": null,
+                "name": "MacRumors"
+            },
+            "author": "Mitchel Broussard",
+            "title": "Early Black Friday Brings Steep Price Drops on Apple's Latest iPhone Cases - MacRumors",
+            "description": "Amazon this week has big discounts across Apple's Clear, Silicone, and TechWoven Cases for the iPhone 18 Pro lineup. These deals are part of...",
+            "url": "https://www.macrumors.com/2026/11/02/early-black-friday-cases/",
+            "urlToImage": "https://images.macrumors.com/t/6V6MD2y8IEIAfBX9l_-qyb8opzw=/2500x/article-new/2026/11/iphone-black-friday-cases.jpeg",
+            "publishedAt": "2026-11-02T18:42:35Z",
+            "content": "Amazon this week has big discounts across Apple's Clear, Silicone, and TechWoven Cases for the iPhone 18 Pro lineup. These deals are part of ongoing early Black Friday deals, which we've begun keepin… [+2326 chars]"
+        },
+        {
+            "source": {
                 "id": "ign",
                 "name": "IGN"
             },
@@ -134,6 +238,32 @@
         },
         {
             "source": {
+                "id": null,
+                "name": "Twz.com"
+            },
+            "author": "Joseph Trevithick",
+            "title": "New X-Plane To Be Announced At Max Power Airshow: NASA Administrator Isaacman - TWZ",
+            "description": "NASA's boss insists it is \"not the one you're thinking about\" and has deflected a new question about a 'missing' SR-71.",
+            "url": "https://www.twz.com/air/new-x-plane-to-be-announced-at-max-power-airshow-nasa-administrator-isaacman",
+            "urlToImage": "https://www.twz.com/wp-content/uploads/2026/11/nasa-boss-says-new-x-plane-coming-deflects-sr-71-question.jpg?w=1200",
+            "publishedAt": "2026-11-02T18:15:33Z",
+            "content": "The TWZ Newsletter\r\nWeekly insights and analysis on the latest developments in military technology, strategy, and foreign policy.\r\nNASA Administrator Jared Isaacman says a new X-plane will be announc… [+11358 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Windows Central"
+            },
+            "author": "Jez Corden",
+            "title": "Former Xbox COO Helen Chiang denies violating Microsoft policies in parting LinkedIn post - Windows Central",
+            "description": "Microsoft's former Xbox COO Helen Chiang had some words about her firing earlier today, titled \"Clarity is Kindness,\" in an apparent shot at Xbox's CEO.",
+            "url": "https://www.windowscentral.com/gaming/xbox/former-xbox-coo-helen-chiang-denies-violating-microsoft-policies-in-parting-linkedin-post",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/RsnTFgxh3MvWzg8zXMkd3h-1317-80.jpg",
+            "publishedAt": "2026-11-02T18:14:16Z",
+            "content": "Microsoft's COO Helen Chiang was fired from Xbox a few weeks ago, after 27 years of top-level leadership spent across the org, most prolifically at Minecraft.\r\nThe removal was abrupt and somewhat con… [+5678 chars]"
+        },
+        {
+            "source": {
                 "id": "ars-technica",
                 "name": "Ars Technica"
             },
@@ -157,6 +287,19 @@
             "urlToImage": "https://assetsio.gnwcdn.com/Ocarina-of-Time-Link.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
             "publishedAt": "2026-11-02T18:01:38Z",
             "content": "The Legend of Zelda: Ocarina of Time is being wrapped up in all kinds of modern touches for its imminent Nintendo Switch 2 remake (that owl seems to be less chatty, for starters), but there's at leas… [+2985 chars]"
+        },
+        {
+            "source": {
+                "id": "polygon",
+                "name": "Polygon"
+            },
+            "author": "Patricia Hernandez",
+            "title": "Google Is Quietly Hiding A New Zelda: Ocarina of Time Easter Egg - Polygon.com",
+            "description": "Google celebrates The Legend of Zelda: Ocarina of Time with a time capsule harking back to the 1998 release of the N64 classic.",
+            "url": "https://www.polygon.com/google-search-legend-of-zelda-ocarina-of-time-tloz-switch-2-easter-egg/",
+            "urlToImage": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/ocarina-of-time-remake-future-of-zelda-games.jpg?w=1600&h=900&fit=crop",
+            "publishedAt": "2026-11-02T17:57:46Z",
+            "content": "The official release of the Switch 2 remake of The Legend of Zelda: Ocarinaof Time is only a couple of days away, but search engine Google has already started the festivities with a clever nod to Nin… [+1607 chars]"
         },
         {
             "source": {
@@ -187,6 +330,19 @@
         {
             "source": {
                 "id": null,
+                "name": "GamesIndustry.biz"
+            },
+            "author": "Vikki Blake",
+            "title": "Anthropic adds rule to stop Claude Code recreating existing games - GamesIndustry.biz",
+            "description": "Anthropic has updated its AI coding tool Claude Code so it stops building clones of existing video games.",
+            "url": "https://www.gamesindustry.biz/anthropic-adds-rule-to-stop-claude-code-recreating-existing-games",
+            "urlToImage": "https://assetsio.gnwcdn.com/Screenshot-2026-11-02-at-17.44.04.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+            "publishedAt": "2026-11-02T17:50:20Z",
+            "content": "Anthropic has updated its AI coding tool Claude Code so it stops building clones of existing video games.\r\nThe change was first spotted by X user Chasm, who said it was pushed to Claude Code on Octob… [+1428 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "cleveland.com"
             },
             "author": "Cleveland.com",
@@ -196,6 +352,19 @@
             "urlToImage": null,
             "publishedAt": "2026-11-02T17:27:00Z",
             "content": null
+        },
+        {
+            "source": {
+                "id": "ign",
+                "name": "IGN"
+            },
+            "author": "Michael Cripe",
+            "title": "Nintendo Reveals Development Team Behind The Legend of Zelda: Ocarina of Time Remake - IGN",
+            "description": "Nintendo has revealed the development team responsible for creating The Legend of Zelda: Ocarina of Time remake.",
+            "url": "https://www.ign.com/articles/nintendo-reveals-development-team-behind-the-legend-of-zelda-ocarina-of-time-remake",
+            "urlToImage": "https://assets-prd.ignimgs.com/2026/11/02/the-legend-of-zelda-ocarina-of-time-remake-developer-1793638906639.png?width=1280&format=jpg&auto=webp&quality=80",
+            "publishedAt": "2026-11-02T17:11:39Z",
+            "content": "Nintendo has revealed the development team responsible for creating The Legend of Zelda: Ocarina of Time remake.\r\nThe Super Mario Bros. company typically keeps its cards pretty close to its chest whe… [+3699 chars]"
         },
         {
             "source": {
@@ -316,6 +485,19 @@
         },
         {
             "source": {
+                "id": null,
+                "name": "MacRumors"
+            },
+            "author": "Joe Rossignol",
+            "title": "iOS 27.2.1 Coming Soon, iOS 27.3 Beta Likely Available Tomorrow - MacRumors",
+            "description": "Apple has started testing iOS 27.2.1, according to the MacRumors visitor logs, which have been a reliable indicator of upcoming iOS versions.   iOS...",
+            "url": "https://www.macrumors.com/2026/11/02/ios-27-2-1-and-ios-27-3-beta-coming-soon/",
+            "urlToImage": "https://images.macrumors.com/t/ZgKDg-yLsuCa4e1ms8Rbhkb7lrU=/2500x/article-new/2026/11/iOS-27.2.1-and-27.3.jpg",
+            "publishedAt": "2026-11-02T16:15:54Z",
+            "content": "Apple has started testing iOS 27.2.1, according to the MacRumors visitor logs, which have been a reliable indicator of upcoming iOS versions.\r\niOS 27.2.1 should be a minor update that includes bug fi… [+1838 chars]"
+        },
+        {
+            "source": {
                 "id": "ign",
                 "name": "IGN"
             },
@@ -381,6 +563,32 @@
         },
         {
             "source": {
+                "id": "mashable",
+                "name": "Mashable"
+            },
+            "author": "Joseph Green",
+            "title": "Walmart’s ‘GTA 6’ preorder bonus leaked: How to score the free \"surprise and delight bag\" - Mashable",
+            "description": "Walmart is trying to get you to buy a disc-less box.",
+            "url": "https://mashable.com/tech/gta-6-free-preorder-bonus-how-to-claim",
+            "urlToImage": "https://helios-i.mashable.com/imagery/articles/02aC6cl7XAkZgt0MfrP6aCN/hero-image.fill.size_1200x675.v1793633323.jpg",
+            "publishedAt": "2026-11-02T15:39:13Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Wccftech"
+            },
+            "author": "Sarfraz Khan",
+            "title": "Vendors Are Now Recommending Distributors To Focus On Older RTX 30 Series And AMD GPUs As RTX 50 Series Faces Shortages - Wccftech",
+            "description": "GPU shortages push vendors to recommend older models like RTX 3060 as prices for RTX 50 series soar amid high demand",
+            "url": "https://wccftech.com/vendors-are-now-recommending-distributors-to-focus-on-older-rtx-30-series-and-amd-gpus/",
+            "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2026/11/NVIDIA-GeForce-RTX-3060-GPU-1920x1220.jpg",
+            "publishedAt": "2026-11-02T15:20:20Z",
+            "content": "The supply for the current-gen cards is tight, and it has become increasingly difficult for vendors to keep up with the current demand. \r\nWith soaring RTX 50 series prices, it appears that vendors ar… [+1625 chars]"
+        },
+        {
+            "source": {
                 "id": null,
                 "name": "Kotaku"
             },
@@ -417,6 +625,32 @@
             "urlToImage": "https://static.gameinformer.com/sites/default/files/styles/og_image/public/2026/11/02/c3d2e679/Gang%20of%20Dragon.jpg.webp",
             "publishedAt": "2026-11-02T14:59:48Z",
             "content": "Nagoshi Studio, the developer led by Yakuza/Like a Dragon series creator Toshiro Nagoshi, has officially shut down, ending development of Gang of Dragon, which was revealed at The Game Awards last ye… [+906 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5Mac"
+            },
+            "author": "Chance Miller",
+            "title": "Here’s what’s coming for the MacBook Pro next year, per report - 9to5Mac",
+            "description": "Apple just unveiled a huge update to the Mac lineup last week, introducing the MacBook Pro with PROLED XDR Display....",
+            "url": "https://9to5mac.com/2026/11/02/heres-whats-coming-for-the-macbook-pro-next-year-per-report/",
+            "urlToImage": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/macbook-pro-proled-xdr-glow-logo.jpg?quality=82&strip=all&resize=1200,628",
+            "publishedAt": "2026-11-02T14:30:00Z",
+            "content": "Apple just unveiled a huge update to the Mac lineup last week, introducing the MacBook Pro with PROLED XDR Display.\r\nIn a new report, Bloomberg has details on whats next for the MacBook Pro, with mul… [+1635 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Stevie Bonifield",
+            "title": "The 16GB Raspberry Pi 5 got another ‘unavoidable’ RAM price hike - The Verge",
+            "description": "The 16GB Raspberry Pi 5 got an $80 price hike, bringing it up to $385, due to ongoing shortages of RAM and other components.",
+            "url": "https://www.theverge.com/tech/1024342/raspberry-pi-5-16gb-price-hike-ram",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25824338/raspberrypi5_16GB.jpg?quality=90&strip=all&crop=0%2C10.717639621171%2C100%2C78.564720757659&w=1200",
+            "publishedAt": "2026-11-02T14:07:22Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe top configuration of the Raspberry Pi 5 now costs three times more than its launch price.\r\nThe top configuration of the Raspberry Pi 5 now costs three times … [+2177 chars]"
         },
         {
             "source": {
@@ -460,6 +694,19 @@
         {
             "source": {
                 "id": null,
+                "name": "9to5Mac"
+            },
+            "author": "Ben Lovejoy",
+            "title": "Always-on Apple Watch display showing the wrong time? Here’s the fix - 9to5Mac",
+            "description": "A succession of bugs over the years have seen daylight saving time changes cause problems for Apple Watches, and the...",
+            "url": "https://9to5mac.com/2026/11/02/always-on-apple-watch-display-showing-the-wrong-time-heres-the-fix/",
+            "urlToImage": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Ceramic-Apple-Watch-Series-12.webp?resize=1200,628",
+            "publishedAt": "2026-11-02T13:36:00Z",
+            "content": "A succession of bugs over the years have seen daylight saving time changes cause problems for Apple Watches, and the problem has occurred again this year.\r\nSome users are finding that while the prima… [+1019 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "Fratellowatches.com"
             },
             "author": "Nacho Conde Garzón",
@@ -482,6 +729,19 @@
             "urlToImage": "https://kotaku.com/app/uploads/2026/11/bulbcount.jpg",
             "publishedAt": "2026-11-02T13:03:59Z",
             "content": "I feel certain beyond measure that Pokémon Wind and Waves were originally intended to be released in 2026, as part of The Pokémon Company’s 30th anniversary celebrations. It’s clearly not coming unti… [+3364 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Timeextension.com"
+            },
+            "author": "Kris Moyse",
+            "title": "Mysterious Shin Megami Tensei: Persona 'Remake' Concept Video Appears Online - Time Extension",
+            "description": "'Remake footage' probably isn't",
+            "url": "https://www.timeextension.com/news/2026/11/mysterious-shin-megami-tensei-persona-remake-concept-video-appears-online",
+            "urlToImage": "https://images.timeextension.com/95e6507ad4089/1280x720.jpg",
+            "publishedAt": "2026-11-02T13:00:00Z",
+            "content": "Image: Atlus\r\nThis weekend, footage surfaced online purporting to be leaked from an as-yet-unannounced remake of Atlus' PlayStation release Revelations: Persona, the very first title in the beloved S… [+2425 chars]"
         },
         {
             "source": {
@@ -537,6 +797,19 @@
         },
         {
             "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Bethany Heitman",
+            "title": "Amazon’s Fire tablets are being phased out, and the Fire HD 10 is now 53% off while supplies last. - NBC News",
+            "description": "The Shark Stratos Upright is 50% off at Amazon. One owner of three dogs and two cats calls it the first vacuum that has kept their floors clean.",
+            "url": "https://www.nbcnews.com/select/shopping/-shark-stratos-upright-vacuum-deal-of-the-day-2026-rcna606952",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261102-dotd-shark-vacuum-oo-main-8ae273.jpg",
+            "publishedAt": "2026-11-02T12:00:40Z",
+            "content": "If your floors have been fighting a losing battle with pet hair, crumbs, and whatever gets tracked in from outside, nows a good time to upgrade with the Shark Stratos Upright Vacuum, its 50% off at A… [+1798 chars]"
+        },
+        {
+            "source": {
                 "id": "ars-technica",
                 "name": "Ars Technica"
             },
@@ -560,6 +833,19 @@
             "urlToImage": "https://www.videogameschronicle.com/files/2026/11/persona-1.jpg",
             "publishedAt": "2026-11-02T11:57:11Z",
             "content": "A trailer for a remake of the original Persona appears to have leaked online.\r\nThe footage, which was shared on YouTube without warning by a new account, appears to show a montage consisting of gamep… [+1780 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Theshortcut.com"
+            },
+            "author": "Adam Vjestica",
+            "title": "Zelda Switch 2 restock: every retailer to watch this week - The Shortcut | Matt Swider",
+            "description": "We’re continuing to track the 40th Anniversary Zelda Switch 2 console",
+            "url": "https://www.theshortcut.com/p/zelda-switch-2-restock-all-the-retailers-to-watch-this-week",
+            "urlToImage": "https://substackcdn.com/image/fetch/$s_!3dIr!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5f9776b2-ae8a-4a5c-828d-bbe5e54dd00c_1456x819.webp",
+            "publishedAt": "2026-11-02T11:12:44Z",
+            "content": "<ul><li> Were tracking The Zelda 40th Anniversary Switch 2 console ahead of Ocarina of Times launch on November 5\r\n</li><li> Follow Zelda Switch 2 restock tracker @mattswider on X for instant alerts\r… [+4696 chars]"
         },
         {
             "source": {
@@ -729,6 +1015,32 @@
             "urlToImage": "https://helios-i.mashable.com/imagery/articles/037GA6LFMvnmzF3gXa5mSiX/hero-image.fill.size_1200x675.v1793373946.jpg",
             "publishedAt": "2026-11-02T08:03:47Z",
             "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Videocardz.com"
+            },
+            "author": null,
+            "title": "Valve’s 2007 Portal prequel F-Stop restored using leaked game files - VideoCardz.com",
+            "description": "Valve's canceled Portal prequel F-Stop has been reconstructed using assets, source code, and maps from separate leaks. The playable campaign reportedly takes less than an hour to complete.",
+            "url": "https://videocardz.com/newz/valves-2007-portal-prequel-f-stop-restored-using-leaked-game-files",
+            "urlToImage": "https://cdn.videocardz.com/1/2026/11/VALVE-FSTOP.webp",
+            "publishedAt": "2026-11-02T07:34:09Z",
+            "content": "Valve’s canceled Portal prequel, F-Stop, has resurfaced nearly 19 years after development began. Members of the Valve Cut Content community have assembled a playable version of the game using leaked … [+2112 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5Mac"
+            },
+            "author": "Michael Burkhardt",
+            "title": "These are the best MacBook deals right now: November 2026 Buyer’s Guide - 9to5Mac",
+            "description": "In recent years, Macs had been getting more and more affordable. Cheaper starting points, more memory and storage per dollar,...",
+            "url": "https://9to5mac.com/2026/11/01/best-macbook-discounts-november-2026-edition/",
+            "urlToImage": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/macos-27-macbook-generic-fi.jpg?quality=82&strip=all&resize=1200,628",
+            "publishedAt": "2026-11-02T05:01:00Z",
+            "content": "In recent years, Macs had been getting more and more affordable. Cheaper starting points, more memory and storage per dollar, and the introduction of MacBook Neo. For the first time, Apple had starte… [+3178 chars]"
         },
         {
             "source": {
@@ -5396,97 +5708,6 @@
             "urlToImage": "https://image.koreajoongangdaily.com/12941704.jpg?imageId=12941704&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
             "publishedAt": "2026-10-28T05:58:28Z",
             "content": "Korean consumers are rushing to return or resell Apple iPhone Duos as concerns grow over screen durability and app compatibility with its new foldable display.\r\nThe scramble follows Apples acknowledg… [+4965 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Nintendo Life"
-            },
-            "author": "Mitch Vogel",
-            "title": "Mini Review: Minecraft (Switch 2) - A Satisfying Upgrade Overall, But Where's Mouse Mode? - Nintendo Life",
-            "description": "Another day, another Minecraft port",
-            "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/minecraft",
-            "urlToImage": "https://images.nintendolife.com/88124efca385e/1280x720.jpg",
-            "publishedAt": "2026-10-28T05:31:18Z",
-            "content": "Minecraft has received around 20 different ports and versions since 2011. It was only a matter of time before one would show up for Switch 2, and while there aren't any big new features, it's a solid… [+3145 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Nintendo Life"
-            },
-            "author": "Liam Doolan",
-            "title": "PSA: Minecraft Switch 2 Now Available, Switch Physical Owners Get A Digital Discount - Nintendo Life",
-            "description": "Pay less for the Ultimate Edition",
-            "url": "https://www.nintendolife.com/news/2026/10/psa-minecraft-switch-2-now-available-switch-physical-owners-get-a-digital-discount",
-            "urlToImage": "https://images.nintendolife.com/683ba06371ebf/1280x720.jpg",
-            "publishedAt": "2026-10-28T04:55:00Z",
-            "content": "Image: Mojang\r\nIt's all happening on the Switch 2 this week, and to add to this, Minecraft is now available on the new hybrid system. While Mojang already confirmed it's a free upgrade for owners of … [+1109 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gearnews.com"
-            },
-            "author": null,
-            "title": "AKAI Sample Key: The MPC Sample Gets a Keyboard and Surprise! It’s Open Source! - Gearnews.com",
-            "description": "Check out AKAI Sample Key, a keyboard sampler based with an open-source operating system. This thing can run Massive!",
-            "url": "https://www.gearnews.com/akai-sample-key-mpc-sample-synth/",
-            "urlToImage": "https://cdn.gearnews.com/wp-content/uploads/2026/10/Akai-sample-key-T1.jpg",
-            "publishedAt": "2026-10-28T01:39:41Z",
-            "content": "What could make this day even better? That would be the announcement of the AKAI Sample Key, a keyboard sampler based with an open-source operating system. This thing can run Massive!\r\nShots fired! T… [+2246 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Scalzi.com"
-            },
-            "author": "John Scalzi",
-            "title": "Further Thoughts on the Googlebook, in Comparison to the MacBook Air - John Scalzi's Whatever",
-            "description": "I’ve had the Googlebook now for a couple of weeks, and I have gotten a chance to both use it on a regular basis, and compare it with the MacBook Air I have (it sports an M4 processor). One of…",
-            "url": "https://whatever.scalzi.com/2026/10/27/further-thoughts-on-the-googlebook-in-comparison-to-the-macbook-air/",
-            "urlToImage": "https://whatever.scalzi.com/wp-content/uploads/2026/10/PXL_20261017_012703062.MP_.jpg",
-            "publishedAt": "2026-10-28T00:56:35Z",
-            "content": "Posted onOctober 27, 2026\r\n  \r\nPosted byJohn Scalzi  \r\n  \r\n3 Comments\r\nI’ve had the Googlebook now for a couple of weeks, and I have gotten a chance to both use it on a regular basis, and compare it … [+7917 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": null,
-            "title": "'An annoying buzz': The search for stealthier drones - BBC",
-            "description": "As drone deliveries become more commonplace, their makers are looking for ways to make them quieter.",
-            "url": "https://www.bbc.com/news/articles/ck1exgejq3xvo",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/a5b2/live/ad407780-c7b4-11f1-a64c-550be9e3c66b.jpg",
-            "publishedAt": "2026-10-28T00:01:10Z",
-            "content": "But he stresses that drone speed, rather than stealthiness, tends to come first for larger drones used in the war between Russia and Ukraine. \"Make it faster, not less quiet, seems to be the approach… [+15 chars]"
-        },
-        {
-            "source": {
-                "id": "ign",
-                "name": "IGN"
-            },
-            "author": "Eric Song",
-            "title": "T-Mobile Is Offering a $1,000 Off Discount on the Apple iPhone Duo Foldable Smartphone - IGN",
-            "description": "Apple's biggest iPhone update in years.",
-            "url": "https://www.ign.com/articles/t-mobiles-apple-iphone-duo-deal-explained",
-            "urlToImage": "https://assets-prd.ignimgs.com/2026/10/26/appleiphoneduo2-1793039214046.jpg?width=1280&format=jpg&auto=webp&quality=80",
-            "publishedAt": "2026-10-27T23:41:40Z",
-            "content": "Apple's first foldable smartphone - the iPhone Duo - has officially been released and T-Mobile is offering a tempting deal for anyone who doesn't want to pay $2,000 outright for one of these coveted … [+2645 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "MacRumors"
-            },
-            "author": "Joe Rossignol",
-            "title": "Apple Shares tvOS 27.2 Release Notes With List of New Features - MacRumors",
-            "description": "tvOS 27.2 was released on Monday for the Apple TV 4K (2nd generation) and newer, but the Apple TV does not show release notes for software updates in...",
-            "url": "https://www.macrumors.com/2026/10/27/apple-tv-tvos-27-2-release-notes/",
-            "urlToImage": "https://images.macrumors.com/t/YpWdLztt_2tLPiK-A1KjFYEORXc=/2500x/article-new/2026/10/Apple-TV-4K-4th-Generation-Top-View5.jpg",
-            "publishedAt": "2026-10-27T23:16:30Z",
-            "content": "tvOS 27.2 was released on Monday for the Apple TV 4K (2nd generation) and newer, but the Apple TV does not show release notes for software updates in the Settings app. Instead, Apple periodically upd… [+1743 chars]"
         }
     ]
 }
