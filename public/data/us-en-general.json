@@ -1,7 +1,254 @@
 {
     "status": "ok",
-    "totalResults": 399,
+    "totalResults": 397,
     "articles": [
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Shola Lawal",
+            "title": "Trump-Xi-Putin trilateral meeting at APEC: What to expect - Al Jazeera",
+            "description": "A nuclear treaty and the US’s war on Iran are among priority topics for China, Russia and US leaders.",
+            "url": "https://www.aljazeera.com/news/2026/11/14/trump-xi-putin-trilateral-meeting-at-apec-what-to-expect",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6aabdae2-1789647586_0fb93c-1789656369.jpg?resize=1200%2C630&quality=80",
+            "publishedAt": "2026-11-14T15:27:04Z",
+            "content": "US President Donald Trump, Chinas President Xi Jinping and Russias President Vladimir Putin will hold their first trilateral meeting on the sidelines of the Asia-Pacific Economic Cooperation (APEC) s… [+6929 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera Staff",
+            "title": "NASA’s Voyager 1 to hit new space distance record of one light-day - Al Jazeera",
+            "description": "The probe was launched in 1977, and it continues to relay space-related data back to a team of NASA scientists.",
+            "url": "https://www.aljazeera.com/news/2026/11/14/nasas-voyager-1-to-hit-new-space-distance-record-of-one-light-day",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/11/2013-09-12T120000Z_2135594600_GM1E99D08R201_RTRMADP_3_SPACE-VOYAGER-1794666602.jpg?resize=1920%2C1440",
+            "publishedAt": "2026-11-14T15:17:06Z",
+            "content": "NASA has announced that its Voyager 1 probe will soon become humanitys first object to travel one light-day from Earth.\r\nOn Wednesday, the robotic space probe will hit the milestone of travelling at … [+1586 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says - BBC",
+            "description": "The Ukrainian president says US envoys touted the exchange as part of efforts to end the war with Russia.",
+            "url": "https://www.bbc.com/news/articles/cwvg2l312ylqo",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/d028/live/47c10ab0-e013-11f1-b441-2b33b063138f.jpg",
+            "publishedAt": "2026-11-14T15:15:57Z",
+            "content": "US envoys Jared Kushner and Steve Witkoff travelled to the Irish capital, Dublin, on Thursday to meet Zelensky, after a round of talks with Putin in Moscow."
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Lena H. Sun",
+            "title": "Surging measles cases are forcing doctors to treat conditions they’ve never seen - The Washington Post",
+            "description": "Some of the greatest unknowns involve the youngest patients.",
+            "url": "https://www.washingtonpost.com/health/2026/11/14/doctors-are-learning-fly-measles-surge-presents-rare-cases/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VVUNPNRBH4TGQ4SRGDNVQO6GVA_size-normalized.jpg&w=1440",
+            "publishedAt": "2026-11-14T14:34:49Z",
+            "content": "John Goldman had seen only two cases of measles in more than 30 years as a physician. Now, in the midst of the nations largest measles outbreak, the infectious-disease specialist in Pennsylvania has … [+59 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "Will Weissert, Josh Funk, Hallie Golden",
+            "title": "Thousands of flights canceled as airlines work to dig out from nationwide ground stop - AP News",
+            "description": "Airlines across the U.S. are working to dig out from the longest nationwide ground stop in 25 years. More than 2,000 flights were canceled Saturday. The more than four-hour ground stop has stranded passengers and forced professional and college sports teams t…",
+            "url": "https://apnews.com/article/ground-stop-flights-airlines-cancellations-faa-1fbf4992f0ddaa4c463b0e4990b6e291",
+            "urlToImage": "https://dims.apnews.com/dims4/default/5b8ef2c/2147483647/strip/true/crop/6602x4401+0+0/resize/1200x800!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F03%2F2e%2F087c2043255fba01e95bbb6c9997%2F69d444fe731a434aa9d62fb4f0af95e6",
+            "publishedAt": "2026-11-14T14:34:00Z",
+            "content": "WASHINGTON (AP) Airlines across the U.S. worked to recover from the longest nationwide ground stop in 25 years that canceled more than 2,500 flights Saturday, spread ripple effects around the world, … [+8096 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "TMZ"
+            },
+            "author": "TMZ Staff",
+            "title": "Tyriq Withers Recreates Iconic 'Bella Noche' Meme While Stuck in Airport With Daniel Kaluuya - TMZ",
+            "description": "Tyriq Withers and Daniel Kaluuya made the most of yesterday's nationwide FAA ground stop ... by recreating an iconic meme on live TV.",
+            "url": "https://www.tmz.com/2026/11/14/tyriq-withers-recreates-bella-noche-meme-daniel-kaluuya-ground-stop/",
+            "urlToImage": "https://imagez.tmz.com/image/d4/16by9/2026/11/14/d42c140d3ba842408523d26c70000de0_xl.jpg",
+            "publishedAt": "2026-11-14T14:09:22Z",
+            "content": "Tyriq Withers and Daniel Kaluuya made the most of yesterday's nationwide FAA ground stop ... by recreating an iconic meme on live TV.\r\nThe \"I Know What You Did Last Summer\" star and \"Get Out\" actor w… [+1120 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Robin Givhan",
+            "title": "Guest Column | Stephen Miller dresses like a reasonable man. But listen to what he says. - The Washington Post",
+            "description": "The new White House chief of staff understands how ordinary menswear can lend familiarity — and legitimacy — to an uncompromising worldview.",
+            "url": "https://www.washingtonpost.com/style/2026/11/14/stephen-millers-suits-make-radical-look-reassuringly-routine/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GBV55PH7LLTB7VB723KNE76ZXQ_size-normalized.jpg&w=1440",
+            "publishedAt": "2026-11-14T14:02:41Z",
+            "content": "Like so many of the men and women who populate President Donald Trumps political ecosystem, Stephen Miller, the new White House chief of staff, has crafted an image that is both gentleman policy wonk… [+158 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Julia Boorstin, Stephen Desaulniers",
+            "title": "How Rockstar's 'GTA VI' release could reshape gaming, streaming and even paid time off - CNBC",
+            "description": "\"Grand Theft Auto VI\" launches Nov. 19 with huge expectations. Its impact could reach creators, streaming, music, workplace time off, food delivery and tourism.",
+            "url": "https://www.cnbc.com/2026/11/14/gta-6-grand-theft-auto-launch.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108222691-1762463897398-gettyimages-1823162638-AFP_34728P7.jpeg?v=1762463953&w=1920&h=1080",
+            "publishedAt": "2026-11-14T14:00:01Z",
+            "content": "It's been 13 years since the last installment of Grand Theft Auto, and fans are getting ready for what analysts say could be the biggest video game launch of all time.\r\nThe latest game in the franchi… [+3886 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "Luis Andres Henao, Nicole Winfield",
+            "title": "Pope’s visit to hub of Afro-Peruvian community casts spotlight on African slave trade to Peru - AP News",
+            "description": "Pope Leo XIV is putting the spotlight on Afro-Peruvians during a visit to a hub of their community. Leo will lead a prayer meeting at the sanctuary of St. Turibius of Mogrovejo in Zaña, where he often visited to pray while he was bishop of nearby Chiclayo. In…",
+            "url": "https://apnews.com/article/pope-leo-peru-slavery-afro-peruvians-b8ffccb8ddb63afaa45cdd0bfd69cea8",
+            "urlToImage": "https://dims.apnews.com/dims4/default/c13281d/2147483647/strip/true/crop/5985x3990+0+0/resize/1200x800!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F26%2Fdb%2F4cb5cf5748102df7407e3c4a9b04%2F6d6d9ba63d5c48bb932b7217d77e0adc",
+            "publishedAt": "2026-11-14T13:33:00Z",
+            "content": "ZAÑA, Peru (AP) When Susana Baca, the Latin Grammy-winning Afro-Peruvian singer, serenaded Pope Leo XIV upon his arrival in Peru, it was a sign that the visit would provide an unparalleled spotlight … [+8493 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Rinna Diamantakos",
+            "title": "Jensen Huang reportedly gave up in final hours as Nvidia CEO — as his affair scandal wipes away more than $1T in value - Yahoo Finance",
+            "description": "Nvidia’s former CEO announced his resignation on Nov. 12 after facing growing calls to step down.",
+            "url": "https://finance.yahoo.com/markets/stocks/articles/jensen-huang-reportedly-gave-final-133000087.html",
+            "urlToImage": "https://s.yimg.com/lo/mysterio/api/f92c615c501261b612016ffebd9abfe594222979965ccd3a4e5bda133ba25afe/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmoneywise_327%2Fdde284f2f0a0b0d379bed967f6fe87d4.jpg",
+            "publishedAt": "2026-11-14T13:30:00Z",
+            "content": "Jensen Huang, who is known for his endless energy and signature leather jacket, reportedly became a different person in his final hours before surrendering his position as Nvidia's [NASDAQ: NVDA] CEO… [+3564 chars]"
+        },
+        {
+            "source": {
+                "id": "the-hill",
+                "name": "The Hill"
+            },
+            "author": "Ford McCracken",
+            "title": "Peltola holds nearly 4-point lead on Sullivan in latest ballot drop - The Hill",
+            "description": "Democrat Mary Peltola has again expanded her lead in Alaska’s U.S. Senate race with more votes counted, now ahead of Sen. Dan Sullivan (R) by nearly 4 points, or more than 10,000 votes, according to Decision Desk HQ (DDHQ). Peltola netted nearly 2,000 votes f…",
+            "url": "https://thehill.com/homenews/campaign/6220605-peltola-leads-alaska-senate/",
+            "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2026/11/AP26308235215554-e1794661198782.jpg?w=1280",
+            "publishedAt": "2026-11-14T13:02:00Z",
+            "content": "Skip to content\r\nDemocrat Mary Peltola has again expanded her lead in Alaska’s U.S. Senate race with more votes counted, now ahead of Sen. Dan Sullivan (R) by nearly 4 points, or more than 10,000 vot… [+2164 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Kerry  Breen",
+            "title": "Man in his 70s diagnosed with rare heart defect usually found in infancy: \"Lucky to have lived this long\" - CBS News",
+            "description": "Carlos Perez's doctors didn't know why his heart was having trouble. Then a scan showed something they had never seen before.",
+            "url": "https://www.cbsnews.com/news/heart-defect-cor-triatriatum-diagnosis/",
+            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/09/24/296df983-ff02-40ab-946e-58607827feef/thumbnail/1200x630/a5553d748429cb8d2849ac5c43ba6ba7/carlos-perez-photo-i.jpg",
+            "publishedAt": "2026-11-14T13:00:15Z",
+            "content": "Mechanic Carlos Perez felt fine as he finished up work at his car repair shop in June 2025. He sat down with a glass of water, planning to relax for a few minutes before heading home. \r\nThen, out of … [+6136 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NBCSports.com"
+            },
+            "author": "Mike Florio",
+            "title": "Ground stop nudges Ole Miss-Oklahoma game to Sunday (and OU doesn’t like that) - NBC Sports",
+            "description": "Friday's nationwide shutdown of the aviation system has resulted in a delayed kickoff for several college football games on Saturday.",
+            "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ground-stop-nudges-ole-miss-oklahoma-game-to-sunday-and-ou-doesnt-like-that",
+            "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/6f109f4/2147483647/strip/true/crop/6000x3375+0+312/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F3a%2Fa4%2F2e4736b540bbba40e2420ad9ec36%2F2302613904.jpg",
+            "publishedAt": "2026-11-14T12:41:39Z",
+            "content": "Fridays nationwide shutdown of the aviation system has resulted in a delayed kickoff for several college football games on Saturday. One of them was moved to Sunday and the home team isnt happy.\r\nThe… [+2326 chars]"
+        },
+        {
+            "source": {
+                "id": "axios",
+                "name": "Axios"
+            },
+            "author": "Maria Curi, Marc Caputo",
+            "title": "MAGA turns on Lutnick amid China spy scandal - Axios",
+            "description": "Regulators and policymakers on both sides of the aisle want someone's head for an affair that may have exposed sensitive technology to the nation's top foreign adversary",
+            "url": "https://www.axios.com/2026/11/14/lutnick-commerce-china",
+            "urlToImage": "https://images.axios.com/xvaGTLBzS7Gw0ZAZoHYMJ-e7fW4=/0x266:7728x4613/1366x768/2026/11/13/1794587701813.jpeg",
+            "publishedAt": "2026-11-14T12:39:39Z",
+            "content": "The big picture: Over the past year, Lutnick slow-walked broader administration efforts to address suspicions that Singapore-based company Megaspeed was illegally diverting chips to China, Axios firs… [+2965 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "King jokes with Elton John as he marks 78th birthday with radio show - BBC",
+            "description": "The monarch appears on a special episode to coincide with his 78th birthday on Saturday.",
+            "url": "https://www.bbc.com/news/articles/ck0jx8pxxx6eo",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/88dc/live/3611e330-e030-11f1-93e1-3b657b665bcf.jpg",
+            "publishedAt": "2026-11-14T10:02:59Z",
+            "content": "\"I shall never forget the magic of witnessing a simply unforgettable performance of All You Need Is Love for my late mother's Golden Jubilee at the Party At The Palace concert with Paul McCartney, Ro… [+148 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ScienceAlert"
+            },
+            "author": "Esra Öz",
+            "title": "Stanford Scientists Discover Resting Brain Activity May Predict Alzheimer's Years Before Memory Decline - ScienceAlert",
+            "description": "Two people can get the same score on a memory test today.",
+            "url": "https://www.sciencealert.com/stanford-scientists-discover-resting-brain-activity-may-predict-alzheimers-years-before-memory-decline",
+            "urlToImage": "https://www.sciencealert.com/images/2026/11/MRIscanner-1200x675.png",
+            "publishedAt": "2026-11-14T10:02:17Z",
+            "content": "Two people can get the same score on a memory test today. Years later, one may start missing appointments and struggling with everyday tasks while the other still manages both with ease. \r\nAn early c… [+4422 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": "Domenico Montanaro",
+            "title": "Hegseth's failed impeachment was a warning to Democrats. Where will they go from here? - NPR",
+            "description": "Democrats have been given a huge opportunity with majorities in both the House and Senate — but the balance of priorities, timing, messaging and discipline are all going to be major tests.",
+            "url": "https://www.npr.org/2026/11/14/nx-s1-6040299/hegseth-impeachment-democrats-house-test",
+            "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2400x1350+0+125/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa4%2F7f%2F1e1751c144f1bd74d4bf72ab16e1%2Fgettyimages-2244508651.jpg",
+            "publishedAt": "2026-11-14T10:00:00Z",
+            "content": "Democrats are not in the majority yet, but the first post-election test of their ability to get things done was a failure.\r\nThe House was unable to advance an impeachment effort of Defense Secretary … [+6133 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Abcnews.com"
+            },
+            "author": "ABC News - Breaking News, Latest News and Videos",
+            "title": "2 Americans die in suspected drowning incident in the Bahamas - ABC News - Breaking News, Latest News and Videos",
+            "description": null,
+            "url": "https://abcnews.com/International/2-americans-die-suspected-drowning-incident-bahamas/story?id\\\\u003d138137434",
+            "urlToImage": null,
+            "publishedAt": "2026-11-14T08:51:08Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Jackie Wattles, Tal Yellin",
+            "title": "Live updates: SpaceX lifts off, aiming to make history in Starship’s 15th test - CNN",
+            "description": "SpaceX hopes to catch its Starship spacecraft, a feat that has never been attempted. Follow for the latest updates.",
+            "url": "https://www.cnn.com/2026/11/13/science/live-news/spacex-starship-flight-15-ship-catch",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/2026-11-13t235506z-1072320291-rc2bnoa7yifh-rtrmadp-3-space-spacex-starship.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2026-11-14T08:19:00Z",
+            "content": "Usually, when a rocket is flying with a valuable payload to space, companies like SpaceX make clear that recovering rocket parts is only icing on the cake.\r\nThroughout the vast majority of rocketry h… [+1455 chars]"
+        },
         {
             "source": {
                 "id": null,
@@ -95,6 +342,19 @@
         },
         {
             "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Lilia  Luciano",
+            "title": "Man whose wife, son were injured in Brooklyn building collapse wants answers: \"The building had no reason to fall on its own\" - CBS News",
+            "description": "The world crumbled around Anderson Velez's family on Wednesday when the multi-use Brooklyn building where they resided collapsed.",
+            "url": "https://www.cbsnews.com/news/brooklyn-building-collapse-residents-want-answers/",
+            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/14/5c754530-703b-4eeb-afde-9f94e9813500/thumbnail/1200x630/744bc40be0bcde018d6a5e25fd943dec/gettyimages-2304987635.jpg",
+            "publishedAt": "2026-11-14T01:53:49Z",
+            "content": "The world crumbled around Anderson Velez's family on Wednesday when the multi-use Brooklyn building where they resided collapsed.    \r\nVideo from a baby monitor showed his terrified sons and wife, Jo… [+2328 chars]"
+        },
+        {
+            "source": {
                 "id": "axios",
                 "name": "Axios"
             },
@@ -131,6 +391,19 @@
             "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/2026-02-13t111716z-252000037-rc2lgjagqclg-rtrmadp-3-health-usa-measles-spartanburg-20261110112828365.jpg?c=16x9&q=w_800,c_fill",
             "publishedAt": "2026-11-14T01:22:00Z",
             "content": "Thanks to widespread vaccination, measles had been considered eliminated as a continually transmitting illness in the United States since 2000 but not anymore.\r\nAn independent commission of experts t… [+7442 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Vulture"
+            },
+            "author": "Bethy Squires",
+            "title": "Shane Gillis Gave His SNL Monologue a C Minus - Vulture",
+            "description": "Shane Gillis thought his latest ‘Saturday Night Live’ monologue was controversy-free. He was wrong. Gillis addressed the backlash on ‘The Joe Rogan Experience.’",
+            "url": "http://www.vulture.com/article/shane-gillis-addresses-snl-monologue-controversy.html",
+            "urlToImage": "https://pyxis.nymag.com/v1/imgs/e55/061/766c190dea7c8389a9182219f260637628-shane-gillis.1x.rsocial.w1200.jpg",
+            "publishedAt": "2026-11-14T01:10:24Z",
+            "content": "Shane Gillis is addressing his controversial Saturday Night Live monologue, and where else would he do it but The Joe Rogan Experience? Gillis called women who wear workout clothes to the gym whores … [+1317 chars]"
         },
         {
             "source": {
@@ -226,6 +499,32 @@
         {
             "source": {
                 "id": null,
+                "name": "KABC-TV"
+            },
+            "author": "Irene Cruz, Rob Hayes",
+            "title": "Space Shuttle Endeavour new LA home opens at California Science Center in Exposition Park - ABC7 Los Angeles",
+            "description": "The California Science Center opened its Samuel Oschin Air and Space Center to the public, featuring space shuttle Endeavour.",
+            "url": "https://abc7.com/post/space-shuttle-endeavour-new-la-home-opens-california-science-center-exposition-park/20038657/",
+            "urlToImage": "https://cdn.abcotvs.com/dip/images/20038634_111326-kabc-6am-shuttle-space-center-opens-vid.jpg?w=1600",
+            "publishedAt": "2026-11-13T21:36:57Z",
+            "content": "EXPOSITION PARK, LOS ANGELES (KABC) -- The California Science Center opened its Samuel Oschin Air and Space Center to the public Friday, featuring space shuttle Endeavour displayed in a nearly 200-fo… [+3311 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PBS"
+            },
+            "author": null,
+            "title": "All passengers and crew on New Orleans cruise ship survive crash with tanker on Mississippi River - PBS",
+            "description": "All aboard survived after the crash prompted a massive rescue operation for passengers and crew who plunged into the Mississippi River as the ship took on water and began to topple over.",
+            "url": "https://www.pbs.org/newshour/nation/rescues-operations-underway-in-new-orleans-after-tanker-hits-river-cruise-boat",
+            "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/AP26317740730960-1024x467.jpg",
+            "publishedAt": "2026-11-13T21:00:35Z",
+            "content": "NEW ORLEANS (AP) A tanker in New Orleans that apparently lost its steering slammed into a docked river cruise boat with 180 people aboard Friday, the mayor said. All aboard survived after the crash p… [+4947 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "Space.com"
             },
             "author": "Joe Rao",
@@ -300,6 +599,19 @@
             "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261105-Lauren-Boebert-ch-1125-62e0b5.jpg",
             "publishedAt": "2026-11-13T19:58:00Z",
             "content": "Rep. Lauren Boebert, R-Colo., a conservative firebrand who was caught up in several headline-grabbing controversies during her six years in Congress, has been defeated by Democratic challenger Eileen… [+2764 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Tucker  Reals, Mark  Osborne",
+            "title": "Live Updates: U.N. agency pushes for access to key Iran nuclear site as Trump says deal to end war unnecessary - CBS News",
+            "description": "As Trump signals he may let the Iran war fester, the U.N. nuclear agency is \"increasingly concerned\" about access to a key uranium facility, according to a leaked report.",
+            "url": "https://www.cbsnews.com/live-updates/us-iran-war-trump-nuclear-material-no-deal/",
+            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/06/24/b879ec6e-4079-4e01-abd0-f89f63ff4c01/thumbnail/1200x630/5d43f7f6c8725252539e8f52741a47f6/iran-iaea-isfahan-101916459.jpg",
+            "publishedAt": "2026-11-13T19:48:00Z",
+            "content": "The United Nations nuclear watchdog agency is \"increasingly concerned\" about its lack of access to an underground Iranian uranium enrichment facility that Tehran has acknowledged exists, but refused … [+2594 chars]"
         },
         {
             "source": {
@@ -391,6 +703,19 @@
             "urlToImage": "https://i.abcnewsfe.com/a/def7af76-bbcc-4db3-97e7-5ca6a6c694c8/Sam-Hartman-2-abc-gmh-261113_1794578720500_hpMain_16x9.jpg?w=992",
             "publishedAt": "2026-11-13T18:20:20Z",
             "content": "One NFL quarterback will soon be passing roses as well as footballs.\r\nSam Hartman, a 27-year-old quarterback for the Washington Commanders, has been named the next star of ABC's \"The Bachelor,\" which… [+2547 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "Austin Nivison",
+            "title": "College football schedule 2026: What to watch in Week 11, TV channels, streaming, Saturday kickoff times - CBS Sports",
+            "description": "Week 11 is full of matchups with CFP and conference championship implications",
+            "url": "https://www.cbssports.com/college-football/news/college-football-schedule-2026-week-11-tv-channels-streaming-saturday-kickoff-times/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2026/11/12/53cca166-53ac-409f-835c-1f2aa94eee16/thumbnail/1200x675/d678841a9b8d792ae3477e9d0d50987b/gettyimages-2303177845-2.jpg",
+            "publishedAt": "2026-11-13T18:16:24Z",
+            "content": "There are only a few weeks left in the college football season, and Week 11 will play a major role in sorting out races for conference titles and the College Football Playoff.\r\nThat gets started righ… [+5198 chars]"
         },
         {
             "source": {
@@ -625,6 +950,19 @@
             "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/12/b55d9bcd-7287-4fc6-8476-abaafb925d3b/thumbnail/1200x630/24c6a4b971d2c2ee3411c6c78b4fff81/ap26316665499287.jpg",
             "publishedAt": "2026-11-13T12:29:00Z",
             "content": "The gunman who opened fire at a gym in a luxury condo building in Washington, D.C., Thursday morning had been complaining about mold and water problems in his apartment before his deadly attack targe… [+3742 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Spaceflight Now"
+            },
+            "author": "Houston Harwood",
+            "title": "ULA delays to Saturday Vulcan rocket launch of 40 Leo satellites for Amazon - Spaceflight Now",
+            "description": "Liftoff from Space Launch Complex 41 at Cape Canaveral Space Force Station is now scheduled for 12:11 p.m. EST (1711 UTC) on Sunday.",
+            "url": "https://spaceflightnow.com/2026/11/13/ulas-vulcan-rocket-plans-return-to-flight-with-launch-of-40-leo-satellites-for-amazon/",
+            "urlToImage": "https://spaceflightnow.com/wp-content/uploads/2026/11/20261113-Vulcan-LV-01-Pad-logos.jpg",
+            "publishedAt": "2026-11-13T12:25:06Z",
+            "content": "A United Launch Alliance Vulcan, equipped with six solid rocket boosters, stands ready for launch at Cape Canaveral's pad 41. The rocket will carry 40 Amazon Leo satellites to orbit. Image: Michael C… [+8574 chars]"
         },
         {
             "source": {
@@ -4824,370 +5162,6 @@
             "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/5f927e0/2147483647/strip/true/crop/3842x2161+0+366/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fce%2F9c%2F99a605c44541ae4f3ad72bba8c62%2F2304157430.jpg",
             "publishedAt": "2026-11-08T18:49:00Z",
             "content": "Michael Carrick has named his starting lineup and as expected there are a few changes due to injuries. \r\nNoussair Mazraoui starts in defense and it looks like he will be at left back with Diogo Dalot… [+412 chars]"
-        },
-        {
-            "source": {
-                "id": "al-jazeera-english",
-                "name": "Al Jazeera English"
-            },
-            "author": "Al Jazeera Staff",
-            "title": "Eisenkot open to Netanyahu joining Israel’s next government - Al Jazeera",
-            "description": "Israel’s president officially tasks the opposition leader with forming a new government.",
-            "url": "https://www.aljazeera.com/news/2026/11/8/israels-president-tasks-eisenkot-to-form-new-coalition-government",
-            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6af0a542e12b-1794155842.jpg?resize=1920%2C1440",
-            "publishedAt": "2026-11-08T18:14:45Z",
-            "content": "Israels opposition leader Gadi Eisenkot, the man officially tasked by President Isaac Herzog with trying to form the countrys next government, has said that he was open to including Prime Minister Be… [+2723 chars]"
-        },
-        {
-            "source": {
-                "id": "techcrunch",
-                "name": "TechCrunch"
-            },
-            "author": "Kirsten Korosec",
-            "title": "TechCrunch Mobility: The Cybertruck experiment is over - TechCrunch",
-            "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
-            "url": "https://techcrunch.com/2026/11/08/techcrunch-mobility-the-cybertruck-experiment-is-over/",
-            "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/05/Cybertruck-4.png?resize=1200,800",
-            "publishedAt": "2026-11-08T17:02:00Z",
-            "content": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it. To get this in your inbox, sign up here for free just click TechC… [+6099 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BGR"
-            },
-            "author": "Joshua Hawkins",
-            "title": "5 Things You Need To Do Before You Install Grand Theft Auto 6 - BGR",
-            "description": "\"GTA 6\" is almost here, but your PS5 or Xbox may need some attention first. A little prep work can help you avoid problems on launch day.",
-            "url": "https://www.bgr.com/2308570/things-to-do-before-installing-gta-6-ps5-xbox/",
-            "urlToImage": "https://www.bgr.com/img/gallery/5-things-you-need-to-do-before-you-install-grand-theft-auto-6/l-intro-1793912736.jpg",
-            "publishedAt": "2026-11-08T17:00:00Z",
-            "content": "Not everyone is going to be able to stay up until midnight to start the preload, and thankfully you don't have to. Both consoles can download \"GTA 6\" on their own, but you'll need to make sure a coup… [+932 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "NPR"
-            },
-            "author": "The Associated Press",
-            "title": "No clear winner in New Zealand election, as leaders prepare for weeks of talks - NPR",
-            "description": "Prime Minister Christopher Luxon, who will lead a caretaker government while negotiations take place, said: \"I think everyone's over politics so let's all have a bit of a break for the next three weeks\".",
-            "url": "https://www.npr.org/2026/11/08/nx-s1-6033999/no-clear-winner-in-new-zealand-election-as-leaders-prepare-for-weeks-of-talks",
-            "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5333x3000+0+278/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F8b%2F5f%2F9142e9fb4171b7967dc02de2a559%2Fap26311421156364.jpg",
-            "publishedAt": "2026-11-08T16:46:15Z",
-            "content": "WELLINGTON, New Zealand New Zealanders will wait for weeks to discover who will lead the country after Saturday's election failed to deliver a decisive win for the right or the left, leaving fraught … [+6199 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Yahoo Sports Staff",
-            "title": "Bengals vs. Falcons live updates, inactives, where to watch: Joe Burrow’s MVP push meets Michael Penix Jr. in Madrid - Yahoo Sports",
-            "description": "Follow along as the Bengals and Falcons face off in Madrid to kick off the Sunday slate in Week 9.",
-            "url": "https://sports.yahoo.com/nfl/live/bengals-falcons-score-live-updates-inactives-madrid-highlights-stats-where-to-watch-week-9-130810327.html",
-            "urlToImage": "https://s.yimg.com/lo/mysterio/api/70b0e20be4e3f4dc9e445ee9a1b9021f02eec6276cbd519f12adcdaf8b09dbe8/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2F92704068-577b-4547-aa9a-9823f1553dbe",
-            "publishedAt": "2026-11-08T16:35:57Z",
-            "content": "The Cincinnati Bengals and Atlanta Falcons will be featured in the NFL's second-ever regular-season matchup in Madrid, with kickoff set for 9:30 a.m. ET at Santiago Bernabéu Stadium.\r\nThe Bengals (5-… [+11020 chars]"
-        },
-        {
-            "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
-            "author": "Robert Samuels",
-            "title": "How a Mississippi election came down to the clerk’s office - The Washington Post",
-            "description": "A group of young Black women helped Democrat Scott Colom do the unthinkable, potentially flipping a deep-red Senate seat.",
-            "url": "https://www.washingtonpost.com/politics/2026/11/08/mississippi-delta-fight-make-every-vote-count/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/3IHYI3GHKH4SU7KPNGCJL647ZU.JPG&w=1440",
-            "publishedAt": "2026-11-08T16:26:38Z",
-            "content": "DURANT, Miss. The ripples of the blue tsunami started in the Delta. Down a tiny road covered in brown leaves from the large oak trees was a house with wood-paneled walls covered with quotes from Maya… [+258 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "ScienceAlert"
-            },
-            "author": "David Nield",
-            "title": "Finally! Physicists Create an Exotic Quantum State of Matter That Works at Room Temperature - ScienceAlert",
-            "description": "The laws of physics at the quantum level can break free from the standard confines of solids, liquids, and gases, and researchers just observed an exotic quantum state of matter – a particular way of particles organizing and behaving themselves.",
-            "url": "https://www.sciencealert.com/finally-physicists-create-an-exotic-quantum-state-of-matter-that-works-at-room-temperature",
-            "urlToImage": "https://www.sciencealert.com/images/2026/11/QuantumEffect.jpg",
-            "publishedAt": "2026-11-08T16:04:18Z",
-            "content": "The laws of physics at the quantum level can break free from the standard confines of solids, liquids, and gases, and researchers just observed an exotic quantum state of matter a particular way of p… [+4374 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "MacRumors"
-            },
-            "author": "Joe Rossignol",
-            "title": "Apple Taking New Approach to Developing iOS 28 and macOS 28 - MacRumors",
-            "description": "Apple has made a change to its development process for iOS 28, macOS 28, and corresponding software updates, according to Bloomberg's Mark...",
-            "url": "https://www.macrumors.com/2026/11/08/apple-tweaks-ios-28-development-process/",
-            "urlToImage": "https://images.macrumors.com/t/ucekZP7YkDSPe8gq48FmCO7QfkU=/1672x/article-new/2026/11/iOS-28-AI.jpg",
-            "publishedAt": "2026-11-08T15:42:38Z",
-            "content": "Apple has made a change to its development process for iOS 28, macOS 28, and corresponding software updates, according to Bloomberg's Mark Gurman.\r\nIn his Power On newsletter today, he said Apple sep… [+1028 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Mostafa Salem",
-            "title": "Two trains collide in Egypt, killing four people and injuring dozens more, authorities say - CNN",
-            "description": "At least four people have been killed and nearly 90 injured after two trains collided in Egypt, the health ministry says.",
-            "url": "https://www.cnn.com/2026/11/08/africa/egypt-train-collision-deaths-intl",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2303694401.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2026-11-08T15:19:10Z",
-            "content": "At least four people have been killed and nearly 90 injured after two trains collided in Egypt, the health ministry says.\r\nSeveral carriages were derailed after one train collided with the rear of an… [+753 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "WWD"
-            },
-            "author": "Eryn Norton",
-            "title": "Inside the 2026 LACMA Art + Film Gala Party: Photos - WWD",
-            "description": "Inside the 2026 LACMA Art + Film Gala with Nicole Kidman, Kylie Jenner and Emma Watson",
-            "url": "http://wwd.com/eye/parties/gallery/inside-lacma-gala-2026-photos-1239406154/",
-            "urlToImage": "https://wwd.com/wp-content/uploads/2026/11/lacma-inside-2026-KJ-37.jpg?w=1000&h=563&crop=1",
-            "publishedAt": "2026-11-08T15:11:15Z",
-            "content": "Image Credit: Katie Jones/WWD\r\nCharlie Walker. Julia Garner at the 2026 LACMA Art+Film Gala held at LACMA on November 07, 2026 in Los Angeles, California."
-        },
-        {
-            "source": {
-                "id": "bloomberg",
-                "name": "Bloomberg"
-            },
-            "author": "Mark Gurman",
-            "title": "Apple CEO Presses Software Chief to Pursue More Ambitious AI Strategy - Bloomberg.com",
-            "description": "The company wants to turn Siri into a true AI agent.",
-            "url": "https://www.bloomberg.com/news/newsletters/2026-11-08/apple-explores-turning-siri-ai-into-chatgpt-dots-like-agent-ios-28-shake-up",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iwn7_Q7X5W7g/v0/1200x800.jpg",
-            "publishedAt": "2026-11-08T15:00:01Z",
-            "content": "Apples new CEO is pressing software chief Craig Federighi to take a more ambitious approach to AI as the company looks to transform Siri into an autonomous agent that can get things done for users. A… [+202 chars]"
-        },
-        {
-            "source": {
-                "id": "nbc-news",
-                "name": "NBC News"
-            },
-            "author": "Alexandra Marquez",
-            "title": "Sen.-elect Adam Hamilton says he’d be ‘deeply disappointed’ if Democrats spent two years investigating Trump - NBC News",
-            "description": "Sen.-elect Adam Hamilton said that he hopes to prioritize lowering costs and that he would be “deeply disappointed” to spend two years investigating Trump.",
-            "url": "https://www.nbcnews.com/politics/congress/sen-adam-hamilton-disappointed-democrats-trump-investigations-schumer-rcna608088",
-            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261103-adam-hamilton-kansas-ww-2030-1e7c07.jpg",
-            "publishedAt": "2026-11-08T14:38:10Z",
-            "content": "Sen.-elect Adam Hamilton, who flipped deep-red Kansas for Democrats, said Sunday that he hopes to prioritize lowering costs for his constituents in the next Congress and that he would be deeply disap… [+3625 chars]"
-        },
-        {
-            "source": {
-                "id": "cbs-news",
-                "name": "CBS News"
-            },
-            "author": "Lee  Cowan",
-            "title": "The SS United States and her final destination - CBS News",
-            "description": "She was the fastest ocean liner in history. But the jet age took the SS United States out of service, and she wound up docked in Philadelphia for nearly 30 years. Now, she's scheduled to be scuttled off Florida, to become the world's largest artificial reef.",
-            "url": "https://www.cbsnews.com/news/the-ss-united-states-and-her-final-destination/",
-            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/06/e851ad26-380c-4c72-995f-9154f91c8a98/thumbnail/1200x630/bd5345442d0f1c2bf113f490ecb4aaa3/ss-united-states-docked-1280.jpg",
-            "publishedAt": "2026-11-08T14:34:30Z",
-            "content": "Even with her paint peeling and rivers of rust, the queen of the North Atlantic – five city blocks long, 12 stories high – still strikes quite a pose in the setting sun. The SS United States quickly … [+5554 chars]"
-        },
-        {
-            "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
-            "author": "Natalie Allison, Katherine Doyle, Nancy Cook, Isaac Arnsdorf",
-            "title": "Potential Vance challengers smell blood in the water after brutal GOP losses - The Washington Post",
-            "description": "The vice president has not made up his mind on running for president in 2028. His potential rivals, however, are wasting little time to prepare.",
-            "url": "https://www.washingtonpost.com/politics/2026/11/08/potential-vance-challengers-smell-blood-water-after-brutal-gop-losses/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4NSB2724J7MLUVVUWB4URUZM2Q_size-normalized.jpg&w=1440",
-            "publishedAt": "2026-11-08T14:32:20Z",
-            "content": "Ambitious Republicans were already sizing up JD Vance ahead of the 2028 presidential primary. Tuesday nights GOP bludgeoning has only emboldened some of them. \r\nFlorida Gov. Ron DeSantis embarked on … [+365 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNBC"
-            },
-            "author": "Amelia Lucas",
-            "title": "Poppi founders are going after PepsiCo's Gatorade with new beverage startup Jetty - CNBC",
-            "description": "Poppi founders Allison and Stephen Ellsworth are launching Jetty, a hydration brand selling bottled drinks and powders at Whole Foods, Target and Amazon.",
-            "url": "https://www.cnbc.com/2026/11/08/poppi-founders-jetty-hydration-gatorade.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108527169-1793902848646-FamilyShot_260916_Jetty_Launch_Photoshoot31432_BYH_1_1.png?v=1793902929&w=1920&h=1080",
-            "publishedAt": "2026-11-08T14:00:01Z",
-            "content": "Jetty, the new drink brand from the founders of Poppi, is launching with five flavors.\r\nAfter disrupting the soda category with Poppi, founders Allison and Stephen Ellsworth are now taking aim at hyd… [+8283 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Fox Business"
-            },
-            "author": "Bradford Betz",
-            "title": "Binance names new CFO days after $6.3 billion cryptocurrency hack - Fox Business",
-            "description": "Binance CFO Kaiser Ng is leaving after more than five years as the cryptocurrency exchange recovers from a $6.3 billion hack attributed to North Korean hackers.",
-            "url": "https://www.foxbusiness.com/fox-news-tech/binance-names-new-cfo-days-cryptocurrency-hack",
-            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/10/0/0/changpeng-zhao-binance-6-billion-hack.jpg?ve=1&tl=1",
-            "publishedAt": "2026-11-08T13:42:00Z",
-            "content": "Binance has named a new chief financial officer just over a week after hackers stole approximately $6.3 billion in cryptocurrency from the exchange in what is believed to be the largest digital asset… [+3210 chars]"
-        },
-        {
-            "source": {
-                "id": "nbc-news",
-                "name": "NBC News"
-            },
-            "author": "Freddie Clayton",
-            "title": "Kraków shooting that killed 6 was motivated by far-right views, authorities say - NBC News",
-            "description": "World leaders have paid tribute as Poland declared two national days of mourning after a shooter motivated by far-right ideologies killed six people in Kraków on Saturday, in what the country’s defense minister characterized as a “terror attack.”",
-            "url": "https://www.nbcnews.com/world/europe/krakow-shooting-killed-6-motivated-far-right-views-rcna608080",
-            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261108-krakow-nd-7dad8f.jpg",
-            "publishedAt": "2026-11-08T12:03:34Z",
-            "content": "World leaders have paid tribute as Poland declared two national days of mourning after a shooter motivated by far-right ideologies killed six people in Kraków on Saturday, in what the countrys defens… [+6653 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Mississippitoday.org"
-            },
-            "author": "Bobby Harrison",
-            "title": "DeSoto County, a Republican stronghold, key to Scott Colom’s midterm election performance - Mississippi Today",
-            "description": "Put simply, if Sen. Cindy Hyde-Smith had performed as well as she did in 2020 in that one county – DeSoto – she would not be staring at a potential history…",
-            "url": "https://mississippitoday.org/2026/11/08/scott-colom-midterm-election-desoto-county/",
-            "urlToImage": "https://cdn.mississippitoday.org/uploads/2026/10/26203715/3X0A1350-scaled.jpg",
-            "publishedAt": "2026-11-08T12:00:00Z",
-            "content": "Algorithms come and go, but our commitment to Mississippi never changes. Cut through the noise with our daily newsletter. Sign up for free today.\r\nAudio articles are automated for accessibility. Huma… [+5484 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Billy Stockwell",
-            "title": "Hiding in plain sight? Russell Brand’s conviction poses tough questions for UK entertainment industry - CNN",
-            "description": "The judge presiding over Russell Brand’s criminal court case says the comedian will be handed down a lengthy prison sentence Monday after he was found guilty in a London court of raping a young fan and sexually assaulting three women.",
-            "url": "https://www.cnn.com/2026/11/08/uk/russell-brand-conviction-reaction-intl",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2303454856.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2026-11-08T11:57:06Z",
-            "content": "The judge presiding over Russell Brands criminal court case says the comedian will be handed down a lengthy prison sentence Monday after he was found guilty in a London court of raping a young fan an… [+7482 chars]"
-        },
-        {
-            "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
-            "author": "Elie Dolgin",
-            "title": "Why the simple flu shot could be a surprise weapon against cancer - The Washington Post",
-            "description": "Scientists are exploring whether the flu vaccine can disrupt tumors, providing another treatment along with expensive cutting-edge care. A small clinical trial offers hope.",
-            "url": "https://www.washingtonpost.com/health/2026/11/08/why-simple-flu-shot-could-be-surprise-weapon-against-cancer/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FDCZ4G4YO4LP7DOZDIWLXLTUNE_size-normalized.jpg&w=1440",
-            "publishedAt": "2026-11-08T11:32:29Z",
-            "content": "The humble flu shot may have a hidden talent: fighting cancer.\r\nIn a small clinical trial in Ohio, doctors injected an ordinary flu vaccine straight into patients skin tumors, hoping to fool the immu… [+52 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Forbes"
-            },
-            "author": "John Schroyer",
-            "title": "This Firefighter Built A $60 Million Secret Door Company With Customers Like Post Malone - Forbes",
-            "description": "Murphy Door started as a side gig. Owner Jeremy Barker's previous ventures ended in bankruptcy. But thanks to the home fix-up craze, this one took off.",
-            "url": "https://www.forbes.com/sites/johnschroyer/2026/11/08/this-firefighter-built-a-60-million-secret-door-company-with-customers-like-post-malone/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6aee0fcbca360b158ca35736/0x0.jpg?format=jpg&crop=1999,1124,x0,y0,safe&height=900&width=1600&fit=bounds",
-            "publishedAt": "2026-11-08T11:30:00Z",
-            "content": "At the end of June 2016, when Jeremy Barker got home from working shifts at two different fire stations in the Salt Lake City metro area, his wife greeted him with an ultimatum. She had carefully tra… [+7917 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "NBC4 WCMH-TV"
-            },
-            "author": "NBC4 WCMH-TV",
-            "title": "What we learned from Ohio State’s 41-28 loss to Oregon - NBC4 WCMH-TV",
-            "description": null,
-            "url": "https://www.nbc4i.com/sports/buckeyes/what-we-learned-from-ohio-states-41-28-loss-to-oregon/",
-            "urlToImage": null,
-            "publishedAt": "2026-11-08T11:16:24Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Brian Sozzi",
-            "title": "AI stocks like Nvidia, Micron, and Sandisk have been blown up, but keep this in mind - Yahoo Finance",
-            "description": "The good news/bad news in the aftermath of the midterm blue wave.",
-            "url": "https://finance.yahoo.com/markets/article/ai-stocks-like-nvidia-micron-and-sandisk-have-been-blown-up-but-keep-this-in-mind-110000652.html",
-            "urlToImage": "https://s.yimg.com/lo/mysterio/api/57f0b7aeb550a3c244fcc2a6672f6445f2090e73595d77298292c0b7bab048c9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2F0b08b1c1-0555-47a2-b8f7-376125ce7929",
-            "publishedAt": "2026-11-08T11:00:00Z",
-            "content": "I come to you today as a humble servant of the business and investing world with both good and bad news.\r\nFirst, the sprinkles of good news, because I think we can agree we need something uplifting a… [+3260 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CBS Sports"
-            },
-            "author": "Pete Prisco",
-            "title": "Prisco's Week 9 NFL expert picks: Bengals rout Falcons in Madrid, Cowboys rebound - CBS Sports",
-            "description": "Pete Prisco reveals all of his Week 9 picks, including the Bills handing the Vikings their second straight loss",
-            "url": "https://www.cbssports.com/nfl/news/pete-priscos-week-9-nfl-expert-picks/",
-            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2026/11/01/5143695a-d373-4716-8023-283fff646506/thumbnail/1200x675/79a06f21dfdf823b1c033adea66304d5/imagn-joe-burrow-bengals.jpg",
-            "publishedAt": "2026-11-08T11:00:00Z",
-            "content": "The turnaround week looked promising early Sunday. \r\nThen it went rotten at least with my against-the-spread NFL picks, I went into the late games with a 6-3 ATS record. I ended up 7-7 for the week. … [+6951 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Live Science"
-            },
-            "author": "Brandon Specktor",
-            "title": "Destroyed NASA observatory took one of the best-ever photos of the galaxy barreling toward ours - Live Science",
-            "description": "NASA's Swift Observatory went out in a blaze of glory this week, but it left behind millions of images of the universe that could fuel discoveries for decades.",
-            "url": "https://www.livescience.com/space/astronomy/nasas-destroyed-swift-observatory-took-one-of-the-best-ever-photos-of-bright-andromeda-space-photo-of-the-week",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/rXxN2F9wNHHiivkuyJWMSh-2000-80.jpg",
-            "publishedAt": "2026-11-08T11:00:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Edward-Isaac Dovere",
-            "title": "Hakeem Jeffries has a plan for Donald Trump and for his Democratic critics - CNN",
-            "description": "The incoming House speaker has heard the criticism and insults from liberals, seen the sombrero memes from Republicans, and knows that people say he’s not Nancy Pelosi, who leaves Congress after this year. His response: “My track record speaks for itself.”",
-            "url": "https://www.cnn.com/2026/11/08/politics/hakeem-jeffries-first-black-speaker-donald-trump-democrats",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/01-261031-cvh-politics-jeffries-10312026-20261031-cvh-646-1.JPG?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2026-11-08T10:00:15Z",
-            "content": "Virginia Beach, Virginia\r\n — \r\nBackstage in Virginia Beach the Saturday before the midterms, Hakeem Jeffries sat in a room by himself.\r\nHe read over the speech he was about to give, versions of which… [+13692 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "ProPublica"
-            },
-            "author": "Duaa Eldeib",
-            "title": "An 11-Day-Old Baby Couldn’t Stop Bleeding. For Hours, the ER Didn’t Provide a Critical Vitamin Shot. - ProPublica",
-            "description": "As more parents reject a long-standard shot for babies, hospitals are seeing cases of vitamin K deficiency bleeding — once considered virtually eliminated. Doctors don’t always recognize or know how to treat the life-threatening condition.",
-            "url": "https://www.propublica.org/article/vitamin-k-shot-texas-lonestar-emergency-room-nicole-malouf",
-            "urlToImage": "https://www.propublica.org/wp-content/uploads/2026/10/IMG_0050_maxHeight_3000_maxWidth_3000.jpg?resize=2000,1500",
-            "publishedAt": "2026-11-08T10:00:00Z",
-            "content": "<ul><li>A Risky Decision: When Baby Gwen was born, her parents decided not to have her receive a vitamin K injection, though its been standard practice for decades, and gave her drops instead.</li><l… [+30350 chars]"
-        },
-        {
-            "source": {
-                "id": "al-jazeera-english",
-                "name": "Al Jazeera English"
-            },
-            "author": "Simon Speakman Cordall",
-            "title": "The anti-Netanyahu: Can Gadi Eisenkot give the world a different Israel? - Al Jazeera",
-            "description": "Unpolished and understated, Eisenkot offers a stark contrast to Netanyahu but risks continuing his legacy",
-            "url": "https://www.aljazeera.com/news/2026/11/8/the-anti-netanyahu-can-gadi-eisenkot-give-the-world-a-different-israel",
-            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/10/getty_6acf33e1eb-1791964129.jpg?resize=1920%2C1440",
-            "publishedAt": "2026-11-08T08:52:15Z",
-            "content": "Israeli President Isaac Herzog has tasked the leader of the Yashar (Straight) party, Gadi Eisenkot, with assembling a government after elections left no political alliance with a majority in the Knes… [+7938 chars]"
         }
     ]
 }
