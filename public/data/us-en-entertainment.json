@@ -1,7 +1,462 @@
 {
     "status": "ok",
-    "totalResults": 466,
+    "totalResults": 449,
     "articles": [
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Lucas Trevor",
+            "title": "SNL teaches tech billionaires the lessons of the Jensen Huang affair - The Washington Post",
+            "description": "Comedian John Mulaney hosted for the seventh time alongside musical guest Phoebe Bridgers.",
+            "url": "https://www.washingtonpost.com/entertainment/tv/2026/11/15/snl-teaches-tech-billionaires-lessons-jensen-huang-affair/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/OIYHDTOSFOHQIGSBXVWNHG62CQ.jpg&w=1440",
+            "publishedAt": "2026-11-15T18:27:34Z",
+            "content": "Saturday Night Live took a break from its usual political cold opens to poke fun atJensen Huang after reports of extramarital affairs led to his resignation from Nvidia.\r\nSet at the CIA headquarters,… [+222 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "TMZ"
+            },
+            "author": "TMZ Staff",
+            "title": "Rihanna Breaks Silence on EJ Johnson Feud Rumors: 'I Just Felt Bad for Him' - TMZ",
+            "description": "Rihanna is setting the record straight after her viral clap-back at EJ Johnson during Paris Fashion Week ... and said there's no bad blood between the two.",
+            "url": "https://www.tmz.com/2026/11/15/rihanna-addresses-ej-johnson-feud/",
+            "urlToImage": "https://imagez.tmz.com/image/57/16by9/2026/11/15/570ca4c75ad547f29c484c0b16551aa4_xl.png",
+            "publishedAt": "2026-11-15T18:12:29Z",
+            "content": "Rihanna is setting the record straight after her viral clap-back at EJ Johnson during Paris Fashion Week ... and said there's no bad blood between the two.\r\nIn a video taken outside the L.A. hotspot … [+722 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Deadline"
+            },
+            "author": "Anthony D'Alessandro",
+            "title": "Box Office Global: Johnny Depp's 'Ebenezer' Richer Abroad with $42M Bow - Deadline",
+            "description": "Johnny Depp's 'Ebenezer' did better at the foreign box office than domestic with a $42M global opening.",
+            "url": "http://deadline.com/2026/11/box-office-global-ebenezer-ramayana-godzilla-minus-zero-1237224479/",
+            "urlToImage": "https://deadline.com/wp-content/uploads/2026/11/MCDEBAC_PA031.jpg?w=1024",
+            "publishedAt": "2026-11-15T18:00:00Z",
+            "content": "When it came to Johnny Depp’s comeback movie Ebenezer, moviegoers abroad weren’t as cheap as stateside audiences who gave it a discount with a $19M opening. Foreign audiences shelled out $23M in 62 m… [+5406 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Page Six"
+            },
+            "author": "Vanessa Serna",
+            "title": "Inside the low-security prison where Russell Brand is serving 10-year rape sentence: Yoga, bowling and more - Page Six",
+            "description": "The disgraced comedian was transferred to HMP Littlehey in Cambridgeshire, England, after receiving a 10-year prison sentence last week.",
+            "url": "https://pagesix.com/2026/11/15/celebrity-news/inside-the-low-security-prison-where-russell-brand-is-serving-10-year-rape-sentence/",
+            "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2026/11/148869647.jpg?quality=75&strip=all&w=1200",
+            "publishedAt": "2026-11-15T17:59:00Z",
+            "content": "Russell Brand has reportedly been moved to a low-security prison, with access to his own cell, yoga, bowling and more, after he was sentenced to more than 10 years in prison for rape and sexual assau… [+3592 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "TMZ"
+            },
+            "author": "TMZ Staff",
+            "title": "Russell Brand Appears On His YouTube Show Railing About Morality, Wife Speaks Out - TMZ",
+            "description": "Russell Brand made a very unexpected appearance on his and his wife Laura Brand's YouTube show after being convicted of rape and sexual assault ... with his spouse admitting his sentencing is \"painful.\"",
+            "url": "https://www.tmz.com/2026/11/15/russell-brand-appears-on-his-youtube-show/",
+            "urlToImage": "https://imagez.tmz.com/image/6b/16by9/2026/11/15/6bf0f1189a4046b59f02b11f574c180e_xl.png",
+            "publishedAt": "2026-11-15T16:55:57Z",
+            "content": "Russell Brand made a very unexpected appearance on his and his wife Laura Brand's YouTube show after being convicted of rape and sexual assault ... with his spouse admitting his sentencing is \"painfu… [+1150 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "TMZ"
+            },
+            "author": "TMZ Staff",
+            "title": "Gypsy Rose Says Leaked Prison Calls Were Turning Point Before Ken Urker's Death - TMZ",
+            "description": "Gypsy Rose Blanchard is speaking out in her first TV interview since baby daddy Ken Urker's death .. and she claims that online bullying and their leaked prison calls caused him to spiral before his passing.",
+            "url": "https://www.tmz.com/2026/11/15/gypsy-rose-blanchard-leaked-prison-calls-before-ken-urker-death/",
+            "urlToImage": "https://imagez.tmz.com/image/db/16by9/2026/11/15/db1e95d42fdf433fb4985fb63ebb68f1_xl.png",
+            "publishedAt": "2026-11-15T16:47:46Z",
+            "content": "Gypsy Rose Blanchard is speaking out in her first TV interview since baby daddy Ken Urker's death .. and she claims that online bullying and their leaked prison calls caused him to spiral before his … [+1567 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "Jamey Keaten",
+            "title": "Fans cheer as popular online platform for spinoff stories nears full return after security incident - AP News",
+            "description": "The Archive of Our Own, a popular global fandom site, is making a limited return after a security incident led to a shutdown on Oct. 29. The Organization for Transformative Works, the activist group behind the platform, announced the partial revival on Sunday…",
+            "url": "https://apnews.com/article/ao3-fandom-archive-transformative-9e752c2cf91409434fcde7188140d066",
+            "urlToImage": "https://dims.apnews.com/dims4/default/f18de30/2147483647/strip/true/crop/7502x5004+0+0/resize/1200x800!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fb7%2F2c%2F616cfb37f593913de98b0ae92edc%2F33420b908e444a18b1689827c23cc703",
+            "publishedAt": "2026-11-15T16:30:00Z",
+            "content": "In a comeback tale like one from Harry Potter battling back his nemesis or a Heated Rivalry hockey hero rebounding from injury, a top global fandom site that was sidelined by a security incident is n… [+4156 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Pitchfork"
+            },
+            "author": "Nina Corcoran",
+            "title": "Phil Collins Gets Rare Two-Time Inductee Status at Rock & Roll Hall of Fame - Pitchfork",
+            "description": "The Genesis musician was celebrated for his solo career at the 2026 Induction Ceremony",
+            "url": "https://pitchfork.com/story/phil-collins-gets-rare-two-time-inductee-status-at-rock-and-roll-hall-of-fame/",
+            "urlToImage": "https://media.pitchfork.com/photos/6af9d1067b1affb62d7f5367/16:9/w_1280,c_limit/GettyImages-2304674894.jpg",
+            "publishedAt": "2026-11-15T16:18:14Z",
+            "content": "Phil Collins was one of the few honored artists to show up in person for the Rock &amp; Roll Hall of Fame 2026 induction ceremony last night (November 14), and he seemed as happy as ever to be there.… [+1844 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "InStyle"
+            },
+            "author": "https://www.facebook.com/InStyle",
+            "title": "Michael J. Fox’s Rarely-Seen Daughters Tower Over Him During Glam Red Carpet With Wife Tracy Pollan - InStyle",
+            "description": "Michael J. Fox, 65, was the proudest dad as he joined his rarely-seen daughters Esme, Schuyler, and Aquinnah and his wife Tracy Pollan at his 2026 Parkingson’s gala on November 14.",
+            "url": "https://www.instyle.com/michael-j-fox-daughters-esme-schuyler-aquinnah-parkingsons-gala-2026-12255936",
+            "urlToImage": "https://www.instyle.com/thmb/2H_VLgL6MvDOoqfSyEBc0i9MK14=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-23051548232-45429364019843d897d8a16a5fde84ac.jpg",
+            "publishedAt": "2026-11-15T15:54:52Z",
+            "content": "Michael J. Fox had all four of his leading ladies by his side as he hosted his 2026 A Funny Thing Happened On The Way To Cure Parkinsons event. The 65-year-old actorwho was diagnosed with young-onset… [+2422 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Justin Carter",
+            "title": "Disney Wants You to Know 'VisionQuest' is Pretty Successful - Gizmodo",
+            "description": "The 'VisionQuest' finale gave Marvel TV its biggest win in years and even paid it forward to 'Avengers: Doomsday.'",
+            "url": "https://gizmodo.com/disney-wants-you-to-know-visionquest-ended-as-a-success-2000840104",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/11/visionquest-107-vision-ultron-1200x675.jpg",
+            "publishedAt": "2026-11-15T15:30:19Z",
+            "content": "VisionQuest just ended and in the real world, it’s made quite an impact.\r\nDisney announced the season finale, “Forever,” reached 3.7 million views in one day. That’s the most-watched finale for any o… [+1326 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Pitchfork"
+            },
+            "author": "Nina Corcoran",
+            "title": "Watch St. Vincent, Metallica, More Cover Iron Maiden at Rock & Roll Hall of Fame 2026 Induction Ceremony - Pitchfork",
+            "description": "Rage Against the Machine’s Brad Wilk, Mötley Crüe’s John 5, and Jack Black joined the all-star lineup to perform “The Trooper”",
+            "url": "https://pitchfork.com/story/watch-st-vincent-metallica-more-cover-iron-maiden-at-rock-and-roll-hall-of-fame-2026-induction-ceremony/",
+            "urlToImage": "https://media.pitchfork.com/photos/6af9c7337b1affb62d7f5343/16:9/w_1280,c_limit/GettyImages-2305186486.jpg",
+            "publishedAt": "2026-11-15T15:11:40Z",
+            "content": "The Rock &amp; Roll Hall of Fame 2026 induction ceremony took place last night (November 14), but Iron Maiden werent there for to receive their award because theyre currently on tour. However, St. Vi… [+1532 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Matt  Gutman",
+            "title": "Billy Evans, in first interview, tells his side of \"You Can See Everything,\" its portrayal of Elizabeth Holmes - CBS News",
+            "description": "In his first TV interview, Billy Evans, partner of disgraced Theranos co-founder Elizabeth Holmes, talks about his characterization in the documentary \"You Can See Everything,\" as well as threats he says have been made against his family's safety.",
+            "url": "https://www.cbsnews.com/news/billy-evans-on-you-can-see-everything-elizabeth-holmes/",
+            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/15/1de2ef6b-1536-4276-a123-d3286519f337/thumbnail/1200x630/7ddd43dd382ec3a0d1b0dbca3e99b14d/billy-evans-b-1920.jpg",
+            "publishedAt": "2026-11-15T14:39:00Z",
+            "content": "Billy Evans may be the most-talked-about person in the most-talked-about film of the year, the documentary \"You Can See Everything.\" He sat down with \"CBS Sunday Morning\" for his first-ever TV interv… [+6498 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "InStyle"
+            },
+            "author": "https://www.facebook.com/InStyle",
+            "title": "Zendaya Wears a Bridal White Gown While Cozying Up With Tom Holland on a Rare Public Outing - InStyle",
+            "description": "Zendaya and Tom Holland made a rare public appearance together at a special screening of ‘The Odyssey’ in Los Angeles. The actress wore a distressed white floral gown, while Holland wore a casual navy jacket.",
+            "url": "https://www.instyle.com/zendaya-bridal-white-gown-tom-holland-rare-outing-12255800",
+            "urlToImage": "https://www.instyle.com/thmb/8ndzwbwayV-297MN7Ws6WsAiBEc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/zendaya2-4af15bb14b194f4696177513c45311f8.jpg",
+            "publishedAt": "2026-11-15T14:06:29Z",
+            "content": "Zendaya and Tom Holland made a rare joint appearance, reminding us that while they may be one of Hollywoods most private couples, they remain one of the most stylish. Stepping out for a special scree… [+2216 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": null,
+            "title": "Johnny Depp fled Hollywood spotlight for quiet Bahamas life where 'nobody’s pointing a camera at me' - Fox News",
+            "description": "Johnny Depp opens up about how his 1940s Bahamas wood house with a yurt and painting studio became his sanctuary away from cameras and fame.",
+            "url": "https://www.foxnews.com/entertainment/johnny-depp-fled-hollywood-spotlight-quiet-bahamas-life-nobody-pointing-camera",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/depp.jpg",
+            "publishedAt": "2026-11-15T14:00:32Z",
+            "content": "Johnny Depp turns to the Bahamas to experience a private life.\r\nDuring an interview with the Wall Street Journal, Depp opened up about craving privacy and not being able to have it in the United Stat… [+3490 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "Chris Dwyer",
+            "title": "'It's the quintessential food of mankind': Phil Rosenthal's top street eats - BBC",
+            "description": "The star of Somebody Feed Phil has eaten lavish meals around the globe, but prefers street food every time. From New York City to Chiang Mai, here are his top street eats.",
+            "url": "https://www.bbc.com/travel/article/20261113-phil-rosenthals-five-favourite-street-eats",
+            "urlToImage": "https://ychef.files.bbci.co.uk/624x351/p0pmx46j.jpg",
+            "publishedAt": "2026-11-15T14:00:00Z",
+            "content": "[This time,] I said, \"Get your own!\" With the pickled mustard greens and the chillies and the onions and then the crispy noodles on top, oh my God. It ticks all the boxes for texture and flavours. It… [+143 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Louder"
+            },
+            "author": "Dave Everley",
+            "title": "Slayer’s Tom Araya threatens to pull show as fans trash venue - Louder",
+            "description": "Slayer have a history of their fans causing chaos, but Tom Araya has had enough if his onstage rant at LA’s Kia Forum is anything to go by",
+            "url": "https://www.loudersound.com/bands-artists/slayer-tom-araya-threatens-to-leave-if-fans-trash-venue",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/sDSmEZiN3jW7txbkrQqsUj-1280-80.jpg",
+            "publishedAt": "2026-11-15T13:03:51Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Entertainment Weekly"
+            },
+            "author": "https://www.facebook.com/entertainmentweekly",
+            "title": "Danielle Fishel admits she ‘couldn’t wait’ for Andrew Keegan’s Boy Meets World guest role to be over - Entertainment Weekly",
+            "description": "Danielle Fishel admits in a new book that, despite their real-life friendship, she couldn’t wait for Andrew Keegan’s guest role on ‘Boy Meets World’ to end.",
+            "url": "https://ew.com/danielle-fishel-couldnt-wait-for-andrew-keegan-boy-meets-world-guest-role-to-end-12252959",
+            "urlToImage": "https://ew.com/thmb/oUO9qPpMXLqMRTnfEjEX1G1IlRc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Danielle-Fishel-Andrew-Keegan-111326-01-58e5c7eaee99417ca7ed61df48bd6b1f.jpg",
+            "publishedAt": "2026-11-15T13:01:00Z",
+            "content": "Andrew Keegan was one of Danielle Fishels best friends growing up in the 90s but their time together on Boy Meets World was far from their best memory. \r\nFishel starred on the hit ABC sitcom from 199… [+3886 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PEOPLE"
+            },
+            "author": "Alex Ross",
+            "title": "“Newlyweds” Stars Téa Leoni and Tim Daly Detail Their Quiet Life Together After “Madam Secretary” Ended (Exclusive) - AOL.com",
+            "description": "Téa Leoni and Tim Daly, who married in 2025, reunite onscreen in NBC’s sitcom ‘Newlyweds’",
+            "url": "https://people.com/tea-leoni-tim-daly-how-spent-time-after-madam-secretary-exclusive-12181112",
+            "urlToImage": "https://hermes.media.static.aol.com/media/2026/11/15/5885abdc-8cef-3f17-ad45-e70348034e6d/be3f21c8-4124-43f7-a181-b186acf7379b.jpg",
+            "publishedAt": "2026-11-15T13:00:00Z",
+            "content": "<ul><li>Téa Leoni and Tim Daly return to TV in NBCs sitcom Newlyweds, their first joint project since 2019\r\n</li><li>The couple tells PEOPLE how they spent their free time in the seven years since th… [+2543 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Stereogum"
+            },
+            "author": "Margaret Farrell",
+            "title": "Phoebe Bridgers Glows On SNL - Stereogum",
+            "description": "Last night’s episode of SNL was hosted by comedian John Mulaney, with Phoebe Bridgers as the musical guest. It marked Mulaney’s seventh time hosting, and he returned with many of his usual comedic signatures, including a massive, NYC-inspired musical bit. His…",
+            "url": "https://stereogum.com/2518073/phoebe-bridgers-glows-on-snl/news",
+            "urlToImage": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/11/image-hd-1.jpg",
+            "publishedAt": "2026-11-15T12:31:00Z",
+            "content": "Last night's episode of SNL was hosted by comedian John Mulaney, with Phoebe Bridgers as the musical guest. It marked Mulaney's seventh time hosting, and he returned with many of his usual comedic si… [+2367 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": null,
+            "title": "Sammy Kershaw accepts CMA apology after country stars speak out over red carpet access - Fox News",
+            "description": "Sammy Kershaw's CMA Awards red carpet denial ignited a firestorm among country music artists who say the industry sidelines legends for influencers.",
+            "url": "https://www.foxnews.com/entertainment/sammy-kershaw-accepts-cma-apology-country-stars-speak-red-carpet-access",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/sammy-kershaw.jpg",
+            "publishedAt": "2026-11-15T12:00:33Z",
+            "content": "Sammy Kershaw and Rodney Atkins spoke out about being denied permission to walk the red carpet at this years Country Music Association Awards, prompting criticism over how the organization treats vet… [+12271 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Billboard"
+            },
+            "author": "Katie Atkinson",
+            "title": "Can You Feel It in the Air Tonight? 11 Best Moments From 2026 Rock & Roll Hall of Fame Induction Ceremony - Billboard",
+            "description": "From Travis Barker doing the Phil Collins drum break to the Red Hot Chilli Peppers donning Rick Rubin wigs, these were our Rock Hall highlights.",
+            "url": "http://www.billboard.com/lists/2026-rock-roll-hall-fame-ceremony-recap-best-moments/",
+            "urlToImage": "https://www.billboard.com/wp-content/uploads/2026/11/GettyImages-2305171940-e1794739805719.jpg?w=1024",
+            "publishedAt": "2026-11-15T11:12:25Z",
+            "content": "While many of the headlines leading up to the 2026 Rock &amp; Roll Hall of Fame induction ceremony this weekend were about who wouldn’t be there, our highlights from Saturday night’s (Nov. 14) show a… [+11253 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "cleveland.com"
+            },
+            "author": "Cleveland.com",
+            "title": "Singer found dead in woods after telling husband she was going for walk - Cleveland.com",
+            "description": null,
+            "url": "https://www.cleveland.com/entertainment/2026/11/singer-found-dead-in-woods-after-telling-husband-she-was-going-for-walk.html",
+            "urlToImage": null,
+            "publishedAt": "2026-11-15T11:12:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "Joseph Frederick, John Seewer",
+            "title": "A Georgia O'Keeffe painting was buried in a New York apartment closet. It is going up for auction - AP News",
+            "description": "A painting dug out of a New York City closet this year after being stashed away since the 1980s is expected to bring more than $3 million when it goes up for auction this week. Christie’s auction house says the painting from 1930 was likely the first in a ser…",
+            "url": "https://apnews.com/article/georgia-okeeffe-painting-closet-auction-christies-012fefc5ee4e8ce80fbb79ccf9a63189",
+            "urlToImage": "https://dims.apnews.com/dims4/default/132404f/2147483647/strip/true/crop/1920x1080+0+0/resize/1200x675!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F37%2Feb%2F201ba158bdad93713f877f811513%2F723ad624160644aca3258c8b9284dead",
+            "publishedAt": "2026-11-15T11:02:00Z",
+            "content": "NEW YORK (AP) The painting was buried behind coats and boxes in the closet of a Manhattan apartment for decades. \r\nFew if anyone knew about the hidden treasure until the woman in her 90s who lived th… [+3265 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Slate Magazine"
+            },
+            "author": "Sam Adams",
+            "title": "Netflix Just Released the Ultimate Show for Cinephiles. Its Host Is As Dumb As a Brick. - Slate",
+            "description": "Philomena Cunk is back to take on the history of film. This time, you might actually learn something.",
+            "url": "https://slate.com/culture/2026/11/cunk-on-cinema-netflix-show-philomena-diane-morgan-review.html",
+            "urlToImage": "https://compote.slate.com/images/f168bbd3-38ca-4877-94ae-fb67a9ad304b.jpeg?crop=1560%2C1040%2Cx0%2Cy0&width=1560",
+            "publishedAt": "2026-11-15T10:50:00Z",
+            "content": "Sign up for the Slatest to get the most insightful analysis, criticism, and advice out there, delivered to your inbox daily.\r\nIn the history of jobs, no one has ever been as bad at theirs as Philomen… [+5221 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": "Jonaki Mehta",
+            "title": "A new generation of disability rights activists carry on Judy Heumann's legacy - NPR",
+            "description": "The film <em>Being Heumann</em> tells the lesser-known story of the mother of the disability rights movement. A new generation of activists share how they \"carry the torch\" today.",
+            "url": "https://www.npr.org/2026/11/15/nx-s1-6002935/being-heumann-new-generation-disability-rights",
+            "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7952x4473+0+416/resize/1400/quality/85/format/webp/?url=https%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F13%2Ff8%2Fb95af317401cb54343937619e0f7%2Fbeing-heumann-photo-0103.jpg",
+            "publishedAt": "2026-11-15T10:00:00Z",
+            "content": "Judy Heumann is known as the mother of the disability rights movement yet she is lesser known than many of the other civil rights activists of her time. Now, a new film seeks to change that.\r\nBeing H… [+8062 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Reform politician found out she was adopted when she was 40 - BBC",
+            "description": "Member of the Senedd Catherine Cullen says she found out the truth totally by accident.",
+            "url": "https://www.bbc.com/news/articles/c680zgm7j3zvo",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/153f/live/ef9d8720-ceef-11f1-accf-3309656ad0bb.jpg",
+            "publishedAt": "2026-11-15T09:59:34Z",
+            "content": "Cullen was 40 and had no clue her mum and dad, who had raised her in a \"very Valleys upbringing\" in Cwmbran, Torfaen, were not her birth parents."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WWD"
+            },
+            "author": "Arushi Jacob",
+            "title": "Billy Ray Cyrus and Elizabeth Hurley Make the Red Carpet a Family Affair at the Baby2Baby Gala - WWD",
+            "description": "Billy Ray Cyrus and Elizabeth Hurley arrived with Damian Hurley at the 2026 Baby2Baby Gala in Los Angeles, a month after their reported engagement.",
+            "url": "http://wwd.com/pop-culture/celebrity-news/billy-ray-cyrus-elizabeth-hurley-2026-baby2baby-gala-1239416934/",
+            "urlToImage": "https://wwd.com/wp-content/uploads/2026/11/P108W7ZK.jpg?crop=0px%2C61px%2C1998px%2C1119px&resize=1000%2C563",
+            "publishedAt": "2026-11-15T08:49:47Z",
+            "content": "Love was in the air at the 2026 Baby2Baby Gala on Saturday night. \r\nBilly Ray Cyrus and Elizabeth Hurley made their first public appearance since reportedly getting engaged in October at the West Hol… [+1554 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Tom's Guide"
+            },
+            "author": "Rory Mellon",
+            "title": "5 movies to watch after Netflix’s new mystery thriller ‘Heartland’ — my picks include Robert Pattinson, Hugh Jackman and Jessica Chastain's best leading performance - Tom's Guide",
+            "description": "These movies are even better than Netflix’s new original",
+            "url": "https://www.tomsguide.com/entertainment/netflix/5-movies-to-watch-after-netflixs-new-mystery-thriller-heartland-my-picks-include-robert-pattinson-hugh-jackman-and-jessica-chastains-best-leading-performance",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/cojMtryaGLSA6w8oT6HfAD-2000-80.jpg",
+            "publishedAt": "2026-11-15T08:45:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": null,
+            "title": "Filipino singer Carmelle storms to victory in Eurovision Asia debut in Bangkok - AP News",
+            "description": "Filipino singer Carmelle won the first Asian edition of the Eurovision Song Contest with a fiery performance of “Sobra-Sobra,” beating 10 other acts in the grand final in Bangkok. Votes from national juries and viewers worldwide determined the winner. Thai du…",
+            "url": "https://apnews.com/article/thailand-eurovision-asia-2026-carmelle-winner-099ca558c4638949e637d3a8f8061d6d",
+            "urlToImage": "https://dims.apnews.com/dims4/default/095107d/2147483647/strip/true/crop/6428x4286+0+0/resize/1200x800!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ffc%2F83%2Fd280e0648d1c6df0839f646dd2cc%2Faf6ca9afb9cf4b9a9b0c73a48ded4279",
+            "publishedAt": "2026-11-15T07:59:00Z",
+            "content": "BANGKOK (AP) Filipino singer Carmelle won the first Asian edition of the Eurovision Song Contest on Saturday with a fiery performance of her dance-pop song Sobra-Sobra.\r\nThe 19-year-old beat 10 other… [+2178 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WWD"
+            },
+            "author": "Maggie Clancy",
+            "title": "Demi Moore, Cardi B and More Stars Arrive at the 2026 Baby2Baby Gala - WWD",
+            "description": "See Demi Moore, Cardi B, Barbara Palvin and more stars at the 2026 Baby2Baby Gala red carpet in West Hollywood on Nov. 14, 2026.",
+            "url": "http://wwd.com/pop-culture/celebrity-news/gallery/2026-baby2baby-gala-red-carpet-style-photos-1239416697/",
+            "urlToImage": "https://wwd.com/wp-content/uploads/2026/11/2026-baby2baby-gala-red-carpet-style-photos-demi-moore-cardi-b.jpg?w=1000&h=563&crop=1",
+            "publishedAt": "2026-11-15T07:17:10Z",
+            "content": "Image Credit: Michael Buckner\r\nBilly Ray Cyrus, Elizabeth Hurley and Damian Hurley at the 2026 Baby2Baby Gala held at Pacific Design Center on Nov. 14, 2026 in Los Angeles."
+        },
+        {
+            "source": {
+                "id": "bleacher-report",
+                "name": "Bleacher Report"
+            },
+            "author": "Chris Mueller",
+            "title": "AEW Full Gear 2026 Winners, Live Grades, Reaction and Highlights - Bleacher Report",
+            "description": "Welcome to Bleacher Report's live coverage of AEW Full Gear 2026 from Phoenix Arizona.",
+            "url": "https://bleacherreport.com/articles/25533139-aew-full-gear-2026-winners-live-grades-reaction-and-highlights",
+            "urlToImage": "https://gsp-image-cdn.wmsports.io/cms/prod/bleacher-report/2026-11/aewbr_app_livegrades_wwe-smackdown_16x9.jpg?w=1120&h=630",
+            "publishedAt": "2026-11-15T07:05:36Z",
+            "content": "2 of 11Jack Perry vs. The Beast Mortos\r\nThe first match on the pre-show saw Jack Perry Battle The Beast Mortos. There was no real story behind this match, so it was just two guys fighting to get a wi… [+2383 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Suntimes.com"
+            },
+            "author": "Georgia Nicols",
+            "title": "Horoscope for Sunday, November 15, 2026 - Chicago Sun-Times",
+            "description": null,
+            "url": "https://chicago.suntimes.com/horoscopes/2026/11/15/horoscopes-today-sunday-november-15-2026",
+            "urlToImage": "https://cst.brightspotcdn.com/dims4/default/2145dbd/2147483647/strip/true/crop/870x497+0+67/resize/1461x834!/quality/90/?url=https%3A%2F%2Fchorus-production-cst-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fac%2Ffd%2F790f04b15195427014757adc0272%2Fgeorgia-nicols.jpg",
+            "publishedAt": "2026-11-15T06:01:00Z",
+            "content": "Moon alert\r\nAfter 4 a.m. Chicago time, there are no restrictions to shopping or important decisions. The moon is in Aquarius.\r\nAries (March 21-April 19)\r\nToday youre bursting with energy and enthusia… [+3772 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Miriam Waldvogel",
+            "title": "King Charles stops by Elton John’s podcast to talk music - The Washington Post",
+            "description": "The show celebrated 50 years of the British monarch's charity, now known as the King's Trust, and its benefit concerts featuring some of the world's top artists.",
+            "url": "https://www.washingtonpost.com/entertainment/music/2026/11/14/king-charles-stops-by-elton-johns-podcast-talk-music/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/XNRCHQ6IVUCTKDMV2PST4DHPTU.JPG&w=1440",
+            "publishedAt": "2026-11-15T06:00:00Z",
+            "content": "King Charles III appeared on an episode of Elton Johns podcast, Rocket Hour, on Saturday to talk about the 50th anniversary of his charity, celebrating over the course of an hour some of the notable … [+73 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Variety"
+            },
+            "author": "William Earl",
+            "title": "Amanda Seyfried to Make Her Debut as ‘Saturday Night Live’ Host - Variety",
+            "description": "Amanda Seyfried will make her debut as host of 'Saturday Night Live' on Dec. 5. Don Toliver will serve as musical guest.",
+            "url": "https://variety.com/2026/tv/news/amanda-seyfried-snl-host-debut-december-don-toliver-1236947942/",
+            "urlToImage": "https://variety.com/wp-content/uploads/2026/11/P108ULUA.jpg?w=1000&h=563&crop=1",
+            "publishedAt": "2026-11-15T05:25:00Z",
+            "content": "Amanda Seyfried will make her debut as host of “Saturday Night Live” on Dec. 5.\r\nSeyfried is center stage in one of the year’s most talked-about movies, the Elizabeth Holmes documentary “You Can See … [+1411 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Variety"
+            },
+            "author": "William Earl",
+            "title": "John Mulaney Mocks Robert F. Kennedy Jr. in 'SNL' Monologue - Variety",
+            "description": "John Mulaney's opening monologue on this week's 'Saturday Night Live' made fun of Robert F. Kennedy Jr.",
+            "url": "https://variety.com/2026/tv/news/john-mulaney-mocks-robert-f-kennedy-jr-snl-monologue-1236947905/",
+            "urlToImage": "https://variety.com/wp-content/uploads/2026/11/John-Mulaney-SNL.jpg?w=1000&h=563&crop=1",
+            "publishedAt": "2026-11-15T05:05:00Z",
+            "content": "John Mulaney‘s opening monologue on this week’s “Saturday Night Live” took an unexpected turn when he mocked controversial U.S. secretary of Health and Human Services Robert F. Kennedy Jr.\r\nThe comic… [+1360 chars]"
+        },
         {
             "source": {
                 "id": null,
@@ -17,6 +472,19 @@
         },
         {
             "source": {
+                "id": null,
+                "name": "Deadline"
+            },
+            "author": "Greg Evans",
+            "title": "Nickelodeon Kids’ Choice Awards: BTS, ‘Stranger Things’ & ‘KPop Demon Hunters’ Among Winners - Deadline",
+            "description": "BTS, Stranger Things and Percy Jackson and the Olympians were among the big winners at today's Kid's Choice Awards on CBS and Nickelodeon.",
+            "url": "http://deadline.com/2026/11/nickelodeon-kids-choice-awards-winners-1237223740/",
+            "urlToImage": "https://deadline.com/wp-content/uploads/2026/05/KPop-Demon-Hunters-04-e1784726646544.jpg?w=1024",
+            "publishedAt": "2026-11-15T02:30:00Z",
+            "content": "BTS, Stranger Things and Percy Jackson and the Olympians were among the big winners at today’s Kid’s Choice Awards on CBS and Nickelodeon.\r\nBTS took the award for Favorite Music Group or Duo, while S… [+2912 chars]"
+        },
+        {
+            "source": {
                 "id": "associated-press",
                 "name": "Associated Press"
             },
@@ -27,6 +495,19 @@
             "urlToImage": "https://dims.apnews.com/dims4/default/ff5d6da/2147483647/strip/true/crop/5016x3344+0+0/resize/1200x800!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F05%2F0e%2F51ccf34663b9b6e7f071acdb2d72%2Fec2b267d500847efbc3216bf10c2f6a7",
             "publishedAt": "2026-11-15T02:08:00Z",
             "content": "LOS ANGELES (AP) Phil Collins gave a tearful acceptance speech and got an electrifying tribute from Cynthia Erivo, Oprah Winfrey inducted the late Luther Vandross and U2 was the surprise opener of th… [+4047 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ComicBook.com"
+            },
+            "author": "Shawn Lealos",
+            "title": "DCU Change.org Petition to Reinstate Gunn & Safran Reaches a Big Milestone, & It's 3x #RestoreTheSnyderverse - ComicBook.com",
+            "description": "There is a Change.com petition up to reinstate James Gunn and Peter Safran and it is blowing away the Snyderverse petitions.",
+            "url": "http://comicbook.com/movies/news/dcu-change-org-petition-to-reinstate-gunn-safran-reaches-a-big-milestone-its-3x-restorethesnyderverse/",
+            "urlToImage": "https://comicbook.com/wp-content/uploads/sites/4/2026/11/Nicholas-Hoult-as-Lex-Luther-Superman.jpg?resize=2000,1125",
+            "publishedAt": "2026-11-15T01:49:01Z",
+            "content": "There is a new petition on Change.org to reinstate James Gunn and Peter Safran as the co-heads of DC Studios. While it is not likely to make any difference to Skydance and David Ellison, there is one… [+3360 chars]"
         },
         {
             "source": {
@@ -44,6 +525,45 @@
         {
             "source": {
                 "id": null,
+                "name": "Variety"
+            },
+            "author": "Corbin Bolies",
+            "title": "Inside the First AI Music Awards, a Chaotic Evening Attempting to Normalize Tech-Assisted Tunes - Variety",
+            "description": "It reflects AI artists trying to move past the thorny legal threats and into a realm of relevance within the genres they’re trying to embody.",
+            "url": "https://variety.com/2026/music/features/inside-first-ai-music-awards-sonic-intelligence-academy-1236947847/",
+            "urlToImage": "https://variety.com/wp-content/uploads/2026/11/7R6A5866-1.jpg?w=1000&h=563&crop=1",
+            "publishedAt": "2026-11-14T23:39:00Z",
+            "content": "I knew things were a little off when the first thing I heard on my walk to the AI Music Awards was “the winner…” followed by the sweet voice of Kelly Clarkson.\r\nNo, Miss American Idol did not abandon… [+13209 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hollywood Reporter"
+            },
+            "author": "Kimberly Nordyke",
+            "title": "Inside the Plane Where Simple Plan, Hoobastank Performed Mid-Flight - The Hollywood Reporter",
+            "description": "The Hollywood Reporter had a prime seat for the once-in-a-lifetime event on a Southwest plan — which took off about an hour before all planes were grounded by the FAA — that also featured The Used and Lolo.",
+            "url": "http://www.hollywoodreporter.com/news/general-news/inside-plane-simple-plan-hoobastank-performed-mid-flight-1236755526/",
+            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/uploaded_image.jpeg?crop=0px%2C513px%2C1097px%2C615px&resize=1440%2C810",
+            "publishedAt": "2026-11-14T23:26:36Z",
+            "content": "Have you ever been serenaded at 35,000 feet by Hoobastank? We’re betting that answer is no.\r\nBut about 125 lucky Southwest Airline passengers got that opportunity on Friday on a charted Southwest Air… [+4245 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "AL.com"
+            },
+            "author": "AL.com",
+            "title": "NBC actress reveals breast cancer diagnosis, starts GoFundMe - AL.com",
+            "description": null,
+            "url": "https://www.al.com/life/2026/11/nbc-actress-reveals-breast-cancer-diagnosis-starts-gofundme.html",
+            "urlToImage": null,
+            "publishedAt": "2026-11-14T23:03:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "Page Six"
             },
             "author": "Audrey Rock",
@@ -53,6 +573,45 @@
             "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2026/11/148764954-1.jpg?quality=75&strip=all&w=1200",
             "publishedAt": "2026-11-14T23:02:00Z",
             "content": "Jamie Lynn Spears’ daughter, Maddie, celebrated avoiding a “high school pregnancy” while trolling her mom with a cheeky new TikTok video.\r\nIn the clip, Maddie, 18, danced triumphantly while laughing … [+4034 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MovieWeb"
+            },
+            "author": "Omar Faruque",
+            "title": "New 135-Minute Sci-Fi Masterpiece Officially Clears a Major Marvel Milestone at the Box Office - MovieWeb",
+            "description": "A Japanese blockbuster has now passed one of Marvel’s biggest 2026 theatrical plays at the domestic box office.",
+            "url": "https://movieweb.com/godzilla-minus-zero-marvel-box-office/",
+            "urlToImage": "https://static0.moviewebimages.com/wordpress/wp-content/uploads/2026/06/3779828.jpg?w=1600&h=900&fit=crop",
+            "publishedAt": "2026-11-14T23:00:16Z",
+            "content": "Japanese-language blockbusters passing American studio product at the domestic box office used to be the kind of thing that happened once a generation. Godzilla Minus One cracked that door open in 20… [+2214 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Robert Frank",
+            "title": "$180 million Van Gogh tests the art market and collector confidence - CNBC",
+            "description": "The art auctions in New York next week could top $2 billion, as a treasure trove of masterpieces comes to the market for the first time in decades.",
+            "url": "https://www.cnbc.com/2026/11/14/180-million-van-gogh-tests-the-art-market-and-collector-confidence-.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108551602-1794694999080-IMG_3794.jpg?v=1794695062&w=1920&h=1080",
+            "publishedAt": "2026-11-14T22:34:07Z",
+            "content": "A version of this article appeared in CNBC's Inside Wealth newsletter, a weekly guide to the high-net-worth investor and consumer. Sign up to receive future editions straight to your inbox.\r\nThe art … [+2519 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Eonline.com"
+            },
+            "author": null,
+            "title": "Saved by the Bell’s Tiffani Thiessen Shares Why She Needs Hip Replacement Surgery at 52 - E! News",
+            "description": "Saved by the Bell alum Tiffani Thiessen detailed the health issues she's been experiencing that have led to her needing a hip replacement.",
+            "url": "https://www.eonline.com/news/1438128/tiffani-thiessen-reveals-she-needs-hip-replacement-due-to-hip-dysplasia",
+            "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/20261114/be3c5694-4694-4b0a-864f-b5a858ba9b3f_1794695024.jpg?fit=around%7C1200:1200&output-quality=90&crop=1200:1200;center,top",
+            "publishedAt": "2026-11-14T22:27:00Z",
+            "content": "Emilia Clarke filmed battle scenes for Game of Thrones, but in 2019, she published an essay in The New Yorker titled \"A Battle for My Life.\"\r\nHaving a bad headache at the gym, \"I reached the toilet, … [+1248 chars]"
         },
         {
             "source": {
@@ -109,6 +668,19 @@
         {
             "source": {
                 "id": null,
+                "name": "Page Six"
+            },
+            "author": "Amanda Rubio",
+            "title": "Disgraced ‘Bachelorette’ Taylor Frankie Paul shoots her shot with new ‘Bachelor’ Sam Hartman after canceled season - Page Six",
+            "description": "The “Secret Lives of Mormon Wives” star had her season scrapped by ABC following a domestic violence incident involving her ex Dakota Mortensen.",
+            "url": "https://pagesix.com/2026/11/14/entertainment/taylor-frankie-paul-hints-at-applying-for-sam-hartmans-bachelor-season/",
+            "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2026/11/148766316.jpg?quality=75&strip=all&w=1200",
+            "publishedAt": "2026-11-14T20:57:00Z",
+            "content": "Taylor Frankie Paul, whose season of “The Bachelorette” was scrapped by ABC following a reported domestic violence incident involving her ex Dakota Mortensen, is jokingly throwing her hat in the ring… [+3922 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "Hollywood Reporter"
             },
             "author": "Ryan Gajewski",
@@ -118,6 +690,19 @@
             "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/EBZR-06275R-H-2026.jpg?w=1296&h=730&crop=1",
             "publishedAt": "2026-11-14T20:52:27Z",
             "content": "Ebenezer unwrapped $6.7 million on Friday, including Thursday previews, as star Johnny Depp‘s studio comeback vehicle looks to open in first place at the domestic box office. \r\nParamount Pictures rel… [+5278 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WPVI-TV"
+            },
+            "author": "6abc Digital Staff",
+            "title": "Rocky Run takes over Philadelphia - 6abc Philadelphia",
+            "description": "30,000 runners gathered at the Philadelphia Museum of Art for the 2026 Rocky Run Saturday morning.",
+            "url": "https://6abc.com/post/rocky-run-takes-philadelphia/20040629/",
+            "urlToImage": "https://cdn.abcotvs.com/dip/images/20040646_111426-wpvi-rocky-run-9am-video-CC-vid.jpg?w=1600",
+            "publishedAt": "2026-11-14T20:49:16Z",
+            "content": "PHILADELPHIA (WPVI) -- 30,000 runners gathered at the Philadelphia Museum of Art for the 2026 Rocky Run Saturday morning.\r\nFans of the movie \"Rocky\" retraced the steps of the iconic film character in… [+483 chars]"
         },
         {
             "source": {
@@ -200,6 +785,19 @@
         {
             "source": {
                 "id": null,
+                "name": "Eonline.com"
+            },
+            "author": null,
+            "title": "Joe Jonas and Tatiana Gabriela Break Up 6 Months After Confirming Romance - E! News",
+            "description": "Joe Jonas and model Tatiana Gabriela broke up six months after going Instagram official with their romance. The Jonas Brothers singer shares kids Willa, 6, and Delphine, 4, with ex Sophie Turner.",
+            "url": "https://www.eonline.com/news/1437911/joe-jonas-tatiana-gabriela-break-up",
+            "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/20261106/30e1cd7b-56bd-426f-815a-9bdbd74cc195_1794011781.jpg?fit=around%7C1200:1200&output-quality=90&crop=1200:1200;center,top",
+            "publishedAt": "2026-11-14T18:17:00Z",
+            "content": "Joe Jonas and Tatiana Gabriela's relationship isnt hot anymoreits cold.\r\nThe Jonas Brothers singer and the model broke up six months after hard-launching their romance, a source with knowledge confir… [+943 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "BBC News"
             },
             "author": null,
@@ -226,6 +824,19 @@
         {
             "source": {
                 "id": null,
+                "name": "Vulture"
+            },
+            "author": "Alejandra Gularte",
+            "title": "Olivia Wilde Gets Why People Keep Asking About Don’t Worry Darling - Vulture",
+            "description": "Olivia Wilde understands why people keep asking her about the alleged “Don’t Worry Darling” drama, even if it happened four years ago.",
+            "url": "http://www.vulture.com/article/olivia-wilde-dont-worry-darling-reflection.html",
+            "urlToImage": "https://pyxis.nymag.com/v1/imgs/5e1/e47/488cd0f525eb3f8dbe2cfb927fbb11b379-olivia-wilde.1x.rsocial.w1200.jpg",
+            "publishedAt": "2026-11-14T17:32:28Z",
+            "content": "Olivia Wilde has starred in three of the most provocative movies this year, and she wants you to know that her Dont Worry Darling drama is the least interesting thing about her. She told The New York… [+1684 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "Page Six"
             },
             "author": "Amanda Rubio",
@@ -235,6 +846,19 @@
             "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2026/11/148749760.jpg?quality=75&strip=all&w=1200",
             "publishedAt": "2026-11-14T17:31:00Z",
             "content": "Russell Brand’s joke about how “lonely” jail is has resurfaced following his sentencing to 10 years and six months for rape and sexual assault.\r\nDuring his 2014 appearance on “The Jonathan Ross Show”… [+4115 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hollywood Reporter"
+            },
+            "author": "Lexi Carson",
+            "title": "Shane Gillis Addresses ‘SNL’ Monologue Backlash, Says He Promised the Show There Would Be “No Controversy” - The Hollywood Reporter",
+            "description": "“Not to defend 'SNL,' they don’t approve it. I mean, they could shut it down. They could, but you don’t write your set and give it to them. Unless you’re not a comedian,\" he said on a podcast.",
+            "url": "http://www.hollywoodreporter.com/tv/tv-news/shane-gillis-addresses-snl-monologue-backlash-1236755428/",
+            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/NUP_212008_00014-H-2026.jpg?w=1296&h=730&crop=1",
+            "publishedAt": "2026-11-14T17:28:28Z",
+            "content": "Shane Gillis is finally addressing his controversial Saturday Night Live monologue.\r\nDuring the Oct. 10 episode of the NBC sketch comedy series, Gillis, who hosted the show, accused women of “dressin… [+1467 chars]"
         },
         {
             "source": {
@@ -278,6 +902,19 @@
         {
             "source": {
                 "id": null,
+                "name": "MovieWeb"
+            },
+            "author": "Omar Faruque",
+            "title": "'John Wick' Director's New 122-Minute Action Thriller Scores Big With Audiences on Rotten Tomatoes - MovieWeb",
+            "description": "David Leitch’s latest may be dividing critics and audiences more sharply than anything else in his career.",
+            "url": "https://movieweb.com/how-to-rob-a-bank-rotten-tomatoes/",
+            "urlToImage": "https://static0.moviewebimages.com/wordpress/wp-content/uploads/2026/11/how-to-rob-a-bank-1-1.jpg?w=1600&h=900&fit=crop",
+            "publishedAt": "2026-11-14T16:23:45Z",
+            "content": "David Leitch has always been more of an audience director than a critics' director, which makes sense for a former stuntman who learned filmmaking by figuring out what plays in a theater rather than … [+2784 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "InStyle"
             },
             "author": "https://www.facebook.com/InStyle",
@@ -287,6 +924,19 @@
             "urlToImage": "https://www.instyle.com/thmb/gTKQ-pk0kcuUjuL3SGLJvl13Bso=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/williamcharles2x1-f87f1657656f4fe2829763bc438659da.jpg",
             "publishedAt": "2026-11-14T16:15:00Z",
             "content": "As the next heir to the throne, Prince William and his father, King Charles, are known to have a special bond. But their close relationship doesnt stop them from having a disagreement now and againes… [+1962 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Variety"
+            },
+            "author": "Zack Sharf",
+            "title": "Adam Driver Says Disney Killing ‘The Hunt for Ben Solo’ Felt ‘Criminal’: ‘Steven Soderbergh Wants to Make a “Star Wars” Movie. What Are We Debating?’ - Variety",
+            "description": "Adam Driver continues to express his dissatisfaction with Disney over the decision to kill his \"Star Wars\" sequel movie \"The Hunt for Ben Solo.\"",
+            "url": "https://variety.com/2026/film/news/adam-driver-disney-hunt-for-ben-solo-criminal-1236947685/",
+            "urlToImage": "https://variety.com/wp-content/uploads/2026/11/MCDSTWA_WD027.jpg?w=1000&h=563&crop=1",
+            "publishedAt": "2026-11-14T16:02:00Z",
+            "content": "Adam Driver continues to express his dissatisfaction with Disney over the decision to kill his “Star Wars” sequel movie “The Hunt for Ben Solo,” which he spent two-and-a-half years developing with di… [+2219 chars]"
         },
         {
             "source": {
@@ -460,6 +1110,19 @@
         {
             "source": {
                 "id": null,
+                "name": "TVLine"
+            },
+            "author": "Isabella Soares",
+            "title": "Quote Of The Day By Jamie Lee Curtis: 'I Didn't Know When I Got Sober That I Was Going To Meet Others Who...' - TVLine",
+            "description": "Not unlike her character on The Bear, Jamie Lee Curtis has struggled with addiction. However, she's been sober for years and frequently discusses her recovery.",
+            "url": "https://www.tvline.com/2314681/quote-of-the-day-jamie-lee-curtis-meeting-others-in-sobriety/",
+            "urlToImage": "https://www.tvline.com/img/gallery/quote-of-the-day-by-jamie-lee-curtis-i-didnt-know-when-i-got-sober-that-i-was-going-to-meet-others-who/l-intro-1794494808.jpg",
+            "publishedAt": "2026-11-14T09:25:00Z",
+            "content": "Like mother, like daughter, Jamie Lee Curtis is a scream queen. The actor made her on-screen debut as final girl Laurie Strode in \"Halloween\" back in 1978, following in her mother's footsteps to beco… [+1232 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "Suntimes.com"
             },
             "author": "Georgia Nicols",
@@ -482,6 +1145,19 @@
             "urlToImage": "https://www.wrestlinginc.com/img/gallery/wwe-smackdown-11132026-3-things-we-hated-and-3-things-we-loved/l-intro-1794632157.jpg",
             "publishedAt": "2026-11-14T04:59:00Z",
             "content": "I can't recall for the life of me a more randomly thrown-together women's WarGames match than this one, and I think it's only going to get worse on Monday's edition of \"WWE Raw.\" Tonight, however, wa… [+2096 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Rolling Stone"
+            },
+            "author": "Charisma Madarang",
+            "title": "Noel Fielding Says He Regrets 'Horrible' Jokes He Made With Russell Brand After Old Clip Resurfaces - Rolling Stone",
+            "description": "Noel Fielding addressed his relationship with disgraced actor Russell Brand.",
+            "url": "http://www.rollingstone.com/tv-movies/tv-movie-news/noel-fielding-russell-brand-regrets-jokes-1235658277/",
+            "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2026/11/Russell-Brand-Noel-Fielding.jpg?w=1600&h=900&crop=1",
+            "publishedAt": "2026-11-14T04:32:18Z",
+            "content": "In his first statement since Russell Brandwas sentenced to over 10 years in prison earlier this week following his conviction on rape and sexual assault charges, Noel Fielding addressed his relations… [+2143 chars]"
         },
         {
             "source": {
@@ -768,6 +1444,19 @@
             "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/hollywood-thiessen-hunger-games-ballad-theatre.jpg",
             "publishedAt": "2026-11-13T22:00:27Z",
             "content": "Tiffani Thiessen's active lifestyle hit a painful roadblock after the \"Saved by the Bell\" star learned she was dealing with more than just the usual aches and pains.\r\nThe 52-year-old actress shared h… [+3416 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Entertainment Weekly"
+            },
+            "author": "https://www.facebook.com/entertainmentweekly",
+            "title": "‘Russell Brand: Open Secret’: 6 shocking revelations - Entertainment Weekly",
+            "description": "Former girlfriends, friends, and colleagues speak out in Netflix’s new Russell Brand documentary, released days after the comedian was sentenced to more than 10 years in prison for rape and sexual assault.",
+            "url": "https://ew.com/russell-brand-open-secret-shocking-revelations-12253405",
+            "urlToImage": "https://ew.com/thmb/DfYg1blVJy9u3ght0JK4c5getg0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/russell-brand-1-ebe9fa418b064e74b77e89e98872f398.jpg",
+            "publishedAt": "2026-11-13T21:58:30Z",
+            "content": "Just over a week after Russell Brand was found guilty of rape and sexual assault in the U.K., Netflix has released Russell Brand: Open Secret, a new documentary that examines the allegations against … [+9757 chars]"
         },
         {
             "source": {
@@ -5149,916 +5838,6 @@
             "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F1a68dee8-7807-450d-b372-7eb4c9349d28.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
             "publishedAt": "2026-11-09T21:57:16Z",
             "content": "Then $75 per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial."
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Deadline"
-            },
-            "author": "Erik Pedersen",
-            "title": "Toukie Smith Dead: '227' Actor & Former Partner Of Robert De Niro Was 74 - Deadline",
-            "description": "Toukie Smith, who played Eva Rawley on NBC's '227,' recurred on 'Miami Vice,' appeared in films and was former partner of Robert De Niro, died November 4 at 74.",
-            "url": "http://deadline.com/2026/11/toukie-smith-dead-227-robert-de-niro-partner-1237217666/",
-            "urlToImage": "https://deadline.com/wp-content/uploads/2026/11/Toukie-Smith-.jpg?w=1024",
-            "publishedAt": "2026-11-09T21:52:00Z",
-            "content": "Toukie Smith, who played Eva Rawley on the NBC sitcom 227, recurred on Miami Vice, appeared in films and was the former partner of Robert De Niro, has died. She was 74.\r\nHer twins Airyn and Julian sa… [+1594 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Pitchfork"
-            },
-            "author": "Walden Green",
-            "title": "A Supreme Elliott Smith Collection? What the Hell, Sure - Pitchfork",
-            "description": "The streetwear brand is launching a capsule collection inspired by the late songwriter",
-            "url": "https://pitchfork.com/story/a-supreme-elliott-smith-collection-what-the-hell-sure/",
-            "urlToImage": "https://media.pitchfork.com/photos/6af2366578b95672ba742172/16:9/w_1280,c_limit/Elliott-Smith.jpeg",
-            "publishedAt": "2026-11-09T21:39:11Z",
-            "content": "When it was My Bloody Valentine, we stood by. When it was Daniel Johnston, we bit our tongues. But Elliott Smiththats a bridge too far. Streetwear brand Supreme has a long history of collaborations w… [+675 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Page Six"
-            },
-            "author": "Antoinette Bueno",
-            "title": "Promising country music star dies at just 22 after devastating car crash - Page Six",
-            "description": "The singer was not wearing a seatbelt, according to the Florida Highway Patrol.",
-            "url": "https://pagesix.com/2026/11/09/celebrity-news/promising-country-music-star-dies-at-just-22-after-devastating-car-crash/",
-            "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2026/11/148136438.jpg?quality=75&strip=all&w=1200",
-            "publishedAt": "2026-11-09T21:30:00Z",
-            "content": "Singer CJ Beach tragically died Saturday in a car accident in Florida.\r\nThe rising country music star from Tallahassee died after his car ran off a road at 1:15 a.m. and struck several trees, the Flo… [+2651 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Page Six"
-            },
-            "author": "Jolie Zenna",
-            "title": "Dax Shepard addresses rumors he's 'abusive' to wife Kristen Bell after actress' viral flirting reveal - Page Six",
-            "description": "The comedian found himself in hot water after the actress said his flirting method is complimenting other people.",
-            "url": "https://pagesix.com/2026/11/09/celebrity-news/dax-shepard-addresses-rumors-hes-abusive-to-wife-kristen-bell-after-actress-viral-flirting-reveal/",
-            "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2026/11/dax.jpg?quality=75&strip=all&w=1200",
-            "publishedAt": "2026-11-09T20:54:00Z",
-            "content": "Dax Shepard shut down “deeply insulting” rumors that he’s “abusive” to his wife, Kristen Bell, after his unconventional flirting method of complimenting other people went viral. \r\n“Another round of m… [+5160 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Ringside News"
-            },
-            "author": "H Jenkins",
-            "title": "Spoiler on Unadvertised Match for November 9 WWE RAW - Ringside News",
-            "description": "WWE has another piece of its Survivor Series puzzle lined up for tonight’s Raw, and this one could finally get the ball rolling on a match that’s been",
-            "url": "https://www.ringsidenews.com/spoiler-unadvertised-match-november-9-wwe-raw/",
-            "urlToImage": "https://www.ringsidenews.com/wp-content/uploads/2026/11/spoiler-on-unadvertised-match-for-november-9-wwe-raw-30.jpg",
-            "publishedAt": "2026-11-09T20:27:57Z",
-            "content": "WWE has another piece of its Survivor Series puzzle lined up for tonights Raw, and this one could finally get the ball rolling on a match thats been talked about for a while. Two former world champio… [+1557 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gear Patrol"
-            },
-            "author": "Johnny Brayson",
-            "title": "A Brand You Probably Haven’t Heard of Just Won Top Prize at the ‘Oscars of Watches’ - Gear Patrol",
-            "description": "At the 2026 edition of the GPHG Awards, Rexhep Rexhepi took home the night's top prize for its Chronographe Flyback.",
-            "url": "https://www.gearpatrol.com/watches/gphg-2026-rexhep-rexhepi/",
-            "urlToImage": "https://www.gearpatrol.com/wp-content/uploads/sites/2/2026/11/Rexhep-Rexhepi-Chronograph-Flyback-Platine-RRCHF-16x9-Lead-1.webp",
-            "publishedAt": "2026-11-09T20:11:52Z",
-            "content": "On the dial side, that symmetry translates to a trio of smoked sapphire subdials. A larger one at 12:00 functions as the time-telling dial, while chronograph minutes are displayed between 4 and 5 and… [+1251 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": null,
-            "title": "Russell Brand's ex Jemima Goldsmith accuses him of violence and abuse against her - BBC",
-            "description": "She accuses the disgraced performer of \"violence, coercive control and abuse\" while the two were together.",
-            "url": "https://www.bbc.com/news/articles/c95ynylr8j6xo",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/fc6f/live/9dd1bab0-dc78-11f1-b23d-9526db010e6c.jpg",
-            "publishedAt": "2026-11-09T20:05:20Z",
-            "content": "In her statement, she also addressed reports of an injunction taken out by her and Brand in October 2015 that banned a woman, Szilvia Berki, from talking about an alleged assault by Brand at Goldsmit… [+23 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Rolling Stone"
-            },
-            "author": "Althea Legaspi",
-            "title": "Pink Becomes First Solo Female Pop Artist to Headline the Sphere - Rolling Stone",
-            "description": "Pink becomes the first solo female pop artist to headline the Sphere in Las Vegas with her 2027 residency.",
-            "url": "http://www.rollingstone.com/music/music-news/pink-sphere-residency-2027-1235654728/",
-            "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2026/11/pink-sphere-first-woman.jpg?w=1600&h=900&crop=1",
-            "publishedAt": "2026-11-09T19:49:55Z",
-            "content": "Pink is heading to Vegas. The musician has announced a residency at the Sphere for next year. It will kick off Sept. 29 and runs through October, for a total of eight dates: Friday, Oct. 1, Saturday,… [+1964 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "savingcountrymusic.com"
-            },
-            "author": "Trigger",
-            "title": "It’s Not About The Red Carpet. It’s About Respect - - Saving Country Music",
-            "description": "The red carpet is a silly tradition that's based around prestige and fashion that in conventional circumstances is probably not worth even arguing over. But in this instance it exposed a deeper bias towards certain performers.",
-            "url": "https://savingcountrymusic.com/its-not-about-the-red-carpet-its-about-respect/",
-            "urlToImage": "https://savingcountrymusic.com/wp-content/uploads/2026/11/sammy-kershaw-rodney-atkins-red-carpet-1200x628.jpg",
-            "publishedAt": "2026-11-09T19:41:22Z",
-            "content": "EDITOR’S NOTE: This story has been updated with a statement from the CMA (see bottom). \r\nIt was December of 2012, and a GAC Backstory episode featuring Blake Shelton caught the country superstar at t… [+10868 chars]"
-        },
-        {
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "author": null,
-            "title": "Spanish soccer star's girlfriend reveals her herpes flare up like it's no big deal - the Internet explodes - Fox News",
-            "description": "Ines Garcia shared a herpes outbreak photo on Instagram Story, sparking backlash and debate over oversharing about Lamine Yamal's private life.",
-            "url": "https://www.foxnews.com/outkick-sports/spanish-soccer-star-girlfriend-reveals-herpes-flare-up-internet-explodes",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/lamine-yamal-celebrates-world-cup-final.jpg",
-            "publishedAt": "2026-11-09T19:37:53Z",
-            "content": "File this one under things you probably don't want your girlfriend posting on social media.\r\nInes Garcia, the girlfriend of Lamine Yamal, the 19-year-old Spanish superstar soccer player who won the W… [+2494 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Page Six"
-            },
-            "author": "Nicki Gostin",
-            "title": "Jennifer Garner reflects on ‘incredible’ chapter in Ben Affleck marriage - Page Six",
-            "description": "Garner and Affleck finalized their divorce in 2018.",
-            "url": "https://pagesix.com/2026/11/09/celebrity-news/jennifer-garner-reflects-on-incredible-chapter-in-ben-affleck-marriage/",
-            "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2026/11/148115148.jpg?quality=75&strip=all&w=1200",
-            "publishedAt": "2026-11-09T19:35:00Z",
-            "content": "They’ll always have Paris.\r\nJennifer Garner remembered a “wonderful” trip to France with her kids and then-husband Ben Affleck that was inspired by advice from Ina Garten.\r\nWhen my kids were really l… [+2406 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Page Six"
-            },
-            "author": "Nicole Mazza",
-            "title": "‘Ebenezer’ London premiere red carpet: Johnny Depp, Rupert Grint, Ellie Bamber and more - Page Six",
-            "description": "From Johnny Depp to Rupert Grint, scroll through to see all the best photos from the red carpet on Monday night.",
-            "url": "https://pagesix.com/2026/11/09/photos/ebenezer-london-premiere-red-carpet-johnny-depp-rupert-grint-ellie-bamber-and-more/",
-            "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2026/11/Untitled-2-copy-5.jpg?quality=90&strip=all&w=1200",
-            "publishedAt": "2026-11-09T19:29:00Z",
-            "content": "All of London’s biggest stars were in attendance for the premiere of “Ebenezer,” one of the most anticipated holiday films this season. From Johnny Depp to Rupert Grint, scroll through to see all the… [+48 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Playbill.com"
-            },
-            "author": "",
-            "title": "Tony Hale, J. Quinton Johnson, Jessie Mueller, More Will Star in Paddington on Broadway - Playbill",
-            "description": "The Broadway transfer of the West End musical has found its principal cast.",
-            "url": "https://playbill.com/article/tony-hale-j.-quinton-johnson-jessie-mueller-more-will-star-in-paddington-on-broadway",
-            "urlToImage": "https://assets.playbill.com/editorial/_facebookOpenGraph/1_Paddington-CastGroup-v0001.jpg",
-            "publishedAt": "2026-11-09T19:28:27Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Rolling Stone"
-            },
-            "author": "Andy Greene",
-            "title": "The Beach Boys Cancel Final Remaining 2026 Concert Date - Rolling Stone",
-            "description": "A single date at a Bristol, Virginia, remained on the Beach Boys' 2026 calendar, but it's now been removed along with all the other ones.",
-            "url": "http://www.rollingstone.com/music/music-news/beach-boys-cancel-remaining-2026-date-1235649836/",
-            "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2026/10/mike-love-beach-boys-cancel-last-show.jpg?w=1600&h=900&crop=1",
-            "publishedAt": "2026-11-09T19:26:25Z",
-            "content": "The Beach Boys have cancelled the vast majority of their concerts over the past three months as Mike Love battles a severe health ailment that he’s not yet made public, and by this week, the final re… [+3056 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Cut"
-            },
-            "author": "Sam Reed",
-            "title": "Man Regrets Starting One-Sided Taylor Swift Beef - The Cut",
-            "description": "The Knicks’ Tyler Kolek swore he’s a huge Swiftie after calling Taylor Swift a “performative” fan of the team.",
-            "url": "http://www.thecut.com/article/tyler-kolek-regrets-starting-one-sided-taylor-swift-beef.html",
-            "urlToImage": "https://pyxis.nymag.com/v1/imgs/798/85f/24d508ce1f6c65630ed024fc46ad2b4b71-taylor-swift-tyler-kolek.1x.rsocial.w1200.jpg",
-            "publishedAt": "2026-11-09T19:26:11Z",
-            "content": "Ive seen NBA players make some dumb mistakes in my time, but Tyler Kolek calling Taylor Swift a performative Knicks fan on the internet, for all to hear  might just take the cake. Kolek has since apo… [+2645 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "TVInsider"
-            },
-            "author": "Paige Strout",
-            "title": "Food Network Star Reportedly Leaves Network After Several Show Exits - TV Insider",
-            "description": "The host has been noticeably absent from new seasons of recent returning shows.",
-            "url": "https://www.tvinsider.com/1302459/carla-hall-reportedly-leaves-food-network-after-show-exits/",
-            "urlToImage": "https://www.tvinsider.com/wp-content/uploads/2026/11/Halloween-Baking-Championship-Food-Network-2205-1420x798.jpg",
-            "publishedAt": "2026-11-09T19:15:31Z",
-            "content": "What To Know\r\n<ul><li>Carla Hall has reportedly parted ways with Food Network after more than a decade.</li><li>Hall formally confirmed her exit from Halloween Baking Championship and is absent from … [+2806 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Draftsim.com"
-            },
-            "author": "Steve Vrooman",
-            "title": "All 25 Mythic Rares in MTG’s Star Trek Ranked - Draftsim",
-            "description": "Today we celebrate MTG's collaboration with Star Trek by looking at all the cards they deemed worthy to put a mythic rare symbol on.",
-            "url": "https://draftsim.com/mtg-star-trek-mythics/",
-            "urlToImage": "https://draftsim.com/wp-content/uploads/2026/11/Scotty-Miracle-Worker-Illustration-by-Sam-Kennedy.png",
-            "publishedAt": "2026-11-09T19:00:48Z",
-            "content": "Scotty, Miracle Worker | Illustration by Sam Kennedy\r\nMagic: The Gathering hit stores between the last film starring the original series cast of Star Trek and the first film starring The Next Generat… [+14820 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Bloody Disgusting"
-            },
-            "author": "John Squires",
-            "title": "NC-17 Director's Cut of Ken Russell's 'The Devils' Comes Home With 4K Ultra HD Physical Media Release - Bloody Disgusting",
-            "description": "After making $4 million in theaters (so far), the Director’s Cut of Ken Russell’s controversial 1971 horror movie The Devils is now headed home courtesy of Warner Bros. Clockwork. The label is teasing that the physical media release of the NC-17 Director’s Cu…",
-            "url": "https://bloody-disgusting.com/home-video/3975236/nc-17-directors-cut-of-ken-russells-the-devils-comes-home-with-4k-ultra-hd-physical-media-release/",
-            "urlToImage": "https://bloody-disgusting.com/wp-content/uploads/2026/11/898322591_18087488558518282_2666964515710951034_n.jpg",
-            "publishedAt": "2026-11-09T18:48:26Z",
-            "content": "After making $4 million in theaters (so far), the Directors Cut of Ken Russells controversial 1971 horror movie The Devilsis now headed home courtesy of Warner Bros. Clockwork.\r\nThe label is teasing … [+2023 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Vulture"
-            },
-            "author": "Isabella Albaig",
-            "title": "Olivia Cooke Calls Out ‘Ugliness’ in the House of the Dragon Fandom - Vulture",
-            "description": "The actress finally addressed her six-month break from social media during ‘House of the Dragon’ season three.",
-            "url": "http://www.vulture.com/article/olivia-cooke-calls-out-the-house-of-the-dragon-fandom.html",
-            "urlToImage": "https://pyxis.nymag.com/v1/imgs/61a/0cf/bcff09a71c845b09544dcdb15f2fa0477d-olivia-cooke-1.1x.rsocial.w1200.jpg",
-            "publishedAt": "2026-11-09T18:40:28Z",
-            "content": "While House of the Dragon season three aired on HBO for eight weeks this past summer, Olivia Cooke was off the grid. The actress who plays the matriarch of House Green, Queen Alicent Hightower, deact… [+2333 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Variety"
-            },
-            "author": "Jordan Moreau",
-            "title": "Donnie Dunagan, Original Voice of Bambi, Dies at 92 - Variety",
-            "description": "Donnie Dunagan, the original voice of Bambi, has died at 92.",
-            "url": "https://variety.com/2026/film/obituaries-people-news/donnie-dunagan-dead-bambi-voice-1236943217/",
-            "urlToImage": "https://variety.com/wp-content/uploads/2026/11/GettyImages-526745842.jpg?w=1000&h=563&crop=1",
-            "publishedAt": "2026-11-09T18:38:00Z",
-            "content": "Donnie Dunagan, who provided the original voice of Disney’s Bambi, died Wednesday, Nov. 4, of lung cancer, his agents confirmed to Variety. He was 92.\r\n“We were proud to represent a Marine, beloved b… [+1479 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Rolling Stone"
-            },
-            "author": "Brian Hiatt",
-            "title": "Fall Out Boy Announce Biggest Tour Yet — and New Single ‘Aces’ - Rolling Stone",
-            "description": "Patrick Stump and Pete Wentz discuss the band's return with new single \"Aces\" and 2027's Twilight of the Punks tour",
-            "url": "http://www.rollingstone.com/music/music-features/fall-out-boy-interview-tour-dates-new-single-aces-1235654708/",
-            "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2026/11/fall-out-boy-tour-and-single.jpg?crop=0px%2C0px%2C1800px%2C1014px&resize=1600%2C900",
-            "publishedAt": "2026-11-09T18:30:00Z",
-            "content": "Fall Out Boy will head out on the biggest headlining tour of their career next year, with stops including several massive U.S. baseball stadiums, and they’ve marked the announcement — which arrives i… [+10964 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "New York Daily News"
-            },
-            "author": "Brian Niemietz",
-            "title": "Megyn Kelly, Elon Musk decry Russell Brand conviction and sentence - Chicago Tribune",
-            "description": "Influential figures including Elon Musk and Megyn Kelly took issue with comedian Russell Brand being sentenced to 10 years in prison.",
-            "url": "https://www.nydailynews.com/2026/11/09/megyn-kelly-elon-musk-russell-brand/",
-            "urlToImage": "https://www.nydailynews.com/wp-content/uploads/2026/11/1109rb1.jpg?w=3000&h=1800",
-            "publishedAt": "2026-11-09T18:15:28Z",
-            "content": "Conservative activists including former Fox News host Megyn Kelly and billionaire businessman Elon Musk expressed outrage over the conviction of comedic actor turned conspiracy podcaster Russell Bran… [+1245 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Variety"
-            },
-            "author": "Steven J. Horowitz",
-            "title": "Paul McCartney Becomes a Billionaire, Making Him the World’s Third-Richest Musician - Variety",
-            "description": "Forbes estimates that the singer-songwriter makes the bulk of his fortune from catalog, touring, art and more.",
-            "url": "https://variety.com/2026/music/news/paul-mccartney-becomes-billionaire-third-richest-musician-1236943191/",
-            "urlToImage": "https://variety.com/wp-content/uploads/2026/05/1981727968-e1778548978740.jpg?w=1000&h=563&crop=1",
-            "publishedAt": "2026-11-09T18:05:00Z",
-            "content": "Paul McCartney has joined the pantheon of billionaires as Forbes has ranked his net worth at approximately $1.4 billion.\r\nThe publication gave Sir Paul the designation with the launch of its newslett… [+1737 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Page Six"
-            },
-            "author": "Samantha Nungesser",
-            "title": "‘Secret Lives of Mormon Wives’ star Jen Affleck’s estranged husband Zac was ‘nightmare’ on ‘DWTS’ set: report - Page Six",
-            "description": "In 2025, Zac reportedly “tried to dictate” which dance moves and costumes were off limits to his wife, who filed for divorce last week.",
-            "url": "https://pagesix.com/2026/11/09/entertainment/secret-lives-of-mormon-wives-star-jen-afflecks-ex-zac-was-nightmare-on-dwts-set-report/",
-            "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2026/11/148118929.jpg?quality=75&strip=all&w=1200",
-            "publishedAt": "2026-11-09T18:03:00Z",
-            "content": "Mirrorball and chain.\r\nJen Affleck’s estranged husband, Zac Affleck, was reportedly a “nightmare on set” while the “Secret Lives of Mormon Wives” star competed on “Dancing With the Stars” Season 34 l… [+4431 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Variety"
-            },
-            "author": "Clayton Davis",
-            "title": "‘Love Is Blind’ Star Rob Feeley Breaks His Silence on Michaella, the Beekeeper and Why He Nearly Skipped the Reunion - Variety",
-            "description": "\"Love Is Blind\" Season 11 star Rob Feeley opens up about Michaella, Matt the beekeeper, therapy and why he almost skipped the Netflix reunion.",
-            "url": "https://variety.com/2026/tv/news/love-is-blind-rob-feeley-reunion-michaella-1236942606/",
-            "urlToImage": "https://variety.com/wp-content/uploads/2026/11/1000044879.jpg?w=1000&h=563&crop=1",
-            "publishedAt": "2026-11-09T18:00:00Z",
-            "content": "Rob Feeley is sitting in his car.\r\nHe’s taking the Zoom call from the driver’s seat, two days before the “Love Is Blind” Season 11 reunion drops on Netflix — and almost two years following the night … [+14806 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Hollywood Reporter"
-            },
-            "author": "Borys Kit",
-            "title": "DC Studios Shocker: James Gunn, Peter Safran Stepping Down with Marvel Alum Jeremy Latcham to Take Over - The Hollywood Reporter",
-            "description": "The duo were believed to be safe amid the Skydance takeover of Warner Bros., but now have a former Kevin Feige protege taking over their division.",
-            "url": "http://www.hollywoodreporter.com/movies/movie-news/dc-studios-shocker-james-gunn-peter-safran-stepping-1236750902/",
-            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/Jeremy-Latcham-split-with-a-two-shot-of-James-Gunn-Peter-Safran-Split-Getty-H-2026.jpg?w=1296&h=730&crop=1",
-            "publishedAt": "2026-11-09T17:51:21Z",
-            "content": "In a major shakeup that will send shock waves throughout Hollywood and the comic book world, James Gunn and Peter Safran are stepping down as co-CEOs of DC studios.\r\nSkydance, which now oversees the … [+5454 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Cut"
-            },
-            "author": "Grace Klara Marshall",
-            "title": "Amanda Seyfried Is Posting About Her Divorce - The Cut",
-            "description": "Amanda Seyfried posted an aspirational quote about divorce to her Instagram Stories, followed by a photo of her and her now ex-husband, Thomas Sadoski, hugging. Something tells me she’s a fan of conscious uncoupling.",
-            "url": "http://www.thecut.com/article/amanda-seyfried-is-posting-about-her-divorce.html",
-            "urlToImage": "https://pyxis.nymag.com/v1/imgs/e4b/c00/cac1e0fa90a7a388868a86ee1c1461bd08-amanda-seyfried-divorce-ig.1x.rsocial.w1200.jpg",
-            "publishedAt": "2026-11-09T17:37:25Z",
-            "content": "Amanda Seyfried is still shy about discussing You Can See Everything, but shes not afraid to post about her divorce. Seyfried, who announced in September that she and her husband, Thomas Sadoski, had… [+1223 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Deadline"
-            },
-            "author": "Jake Kanter",
-            "title": "‘Love Island’ UK Host Maya Jama Strikes Netflix Deal - Deadline",
-            "description": "Maya Jama is teaming up with Netflix for the next chapter of her career after leaving 'Love Island.'",
-            "url": "http://deadline.com/2026/11/love-island-uk-maya-jama-netflix-deal-1237217399/",
-            "urlToImage": "https://deadline.com/wp-content/uploads/2025/06/maya-jama-love-island-uk-hulu.jpg?w=1024",
-            "publishedAt": "2026-11-09T17:33:00Z",
-            "content": "Maya Jama is teaming up with Netflix for the next chapter of her career.\r\nJama revealed on Sunday that she was quitting as the host of Love Island in the UK after nine seasons. Now, the presenter and… [+1123 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Sports Illustrated"
-            },
-            "author": "Rick Ucchino",
-            "title": "John Cena Reveals New Details About the Upcoming John Cena Classic [Exclusive] - Sports Illustrated",
-            "description": "Cody Rhodes and Zilla Fatu are just the first two Superstars to be invited to the John Cena Classic, and The Never Seen 17-Time World Champion has cleared up any misconceptions about the event while speaking to The Takedown on SI.",
-            "url": "https://www.si.com/fannation/wrestling/features/john-cena-reveals-new-details-about-the-upcoming-john-cena-classic-exclusive",
-            "urlToImage": "https://images2.minutemediacdn.com/image/upload/c_crop,x_486,y_270,w_1744,h_981/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/wrestling_on_fannation/01m6mtgpb1dq9ymvs0h4.jpg",
-            "publishedAt": "2026-11-09T17:30:00Z",
-            "content": "John Cena is adamant that he's done as an in-ring competitor. \r\nWhat that means is no Attitude Adjustments for nostalgias sake, no special guest referee spots, and under no circumstances will he ever… [+6936 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Variety"
-            },
-            "author": "Steven J. Horowitz",
-            "title": "Pink Announces 2027 Sphere Residency in Las Vegas - Variety",
-            "description": "The singer becomes the first solo female pop artist to headline the venue.",
-            "url": "https://variety.com/2026/music/news/pink-announces-2027-sphere-residency-las-vegas-1236943127/",
-            "urlToImage": "https://variety.com/wp-content/uploads/2023/02/Pink-Singer-Variety-Feature-Story-16x9-1.jpg?w=1000&h=563&crop=1",
-            "publishedAt": "2026-11-09T17:22:00Z",
-            "content": "Pink has announced that she will be staging a residency at Las Vegas’ Sphere in 2027, making her the first solo female pop artist to headline the venue.\r\nThe pop singer is slated to perform a string … [+2431 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Hollywood Reporter"
-            },
-            "author": "Erik Hayden",
-            "title": "WME Shake Up: Motion Picture Literary and Talent Divisions to Merge - The Hollywood Reporter",
-            "description": "The Beverly Hills-based representation giant unveiled a sweeping reorganization tailored to making the agency \"nimbler\" in a consolidated Hollywood.",
-            "url": "http://www.hollywoodreporter.com/business/business-news/wme-motion-picture-merge-1236750841/",
-            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/Blank-2000-x-1127-1.jpg?w=1440&h=810&crop=1",
-            "publishedAt": "2026-11-09T17:16:42Z",
-            "content": "Major talent agency WME is cutting red tape and rolling up several of its own fiefdoms into a single Motion Picture division with a trio of leaders upped to lead the Hollywood-focused unit. \r\nThe Bev… [+3023 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Broadway World"
-            },
-            "author": "Nicole Rosky",
-            "title": "Tony Hale, Jessie Mueller, Leslie Rodriguez Kritzer & More Will Lead PADDINGTON on Broadway - BroadwayWorld",
-            "description": "Paddington is officially Broadway-bound! BroadwayWorld has just learned that the Broadway cast of PADDINGTON The Musical will include Kelvin Dukes, Drew…",
-            "url": "https://www.broadwayworld.com/article/Tony-Hale-Jessie-Mueller-Leslie-Rodriguez-Kritzer-More-Will-Lead-PADDINGTON-on-Broadway-20261109",
-            "urlToImage": "https://cloudimages2.broadwayworld.com/columnpiccloud/PADDINGTON-1794241662.jpg?format=jpeg&quality=80&width=1200",
-            "publishedAt": "2026-11-09T17:15:07Z",
-            "content": "Paddington is officially Broadway-bound! BroadwayWorld has just learned that the Broadway cast of PADDINGTON The Musical will be led by Kelvin Dukes (“America’s Got Talent”) as Tony, Drew Gehling (Wa… [+8458 chars]"
-        },
-        {
-            "source": {
-                "id": "usa-today",
-                "name": "USA Today"
-            },
-            "author": "Morgan Evans, USA TODAY",
-            "title": "Kim Kardashian gives refunds for 'lackluster' Skims advent calendar after backlash - Yahoo",
-            "description": "Kim Kardashian's brand Skims is offering refunds to buyers of its pricey holiday advent calendar after a flood of online criticism.",
-            "url": "https://www.usatoday.com/story/entertainment/style/2026/11/09/kim-kardashian-skims-advent-calendar-refunds-backlash/92689097007/",
-            "urlToImage": "https://s.yimg.com/lo/mysterio/api/638bf9c8d6c65ec5dd67611d1f6fd13b801d22c2582288db73b769ccd03b111a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_entertainment_893%2F3bc3a529429bece30a76a8f5be9c68fd.jpg",
-            "publishedAt": "2026-11-09T17:11:13Z",
-            "content": "Skims is delivering holiday cheer this season in the form of refunds.\r\nThe lingerie and loungewear brand, founded by Kim Kardashian in 2019, is giving money back to the fans who bought the brand's pr… [+3429 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Entertainment Weekly"
-            },
-            "author": "https://www.facebook.com/entertainmentweekly",
-            "title": "‘Little Rascals’ star Bug Hall defends GoFundMe amid backlash: ‘I’m going to keep impregnating my wife’ - Entertainment Weekly",
-            "description": "Bug Hall of ‘Little Rascals’ fame is defending himself after asking for financial help amid his chosen off-the-grid lifestyle with his wife and children.",
-            "url": "https://ew.com/little-rascals-star-bug-hall-defends-gofundme-to-support-family-amid-backlash-12244816",
-            "urlToImage": "https://ew.com/thmb/OUCrAChzirQThocAVQDIiQ9IPqY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/bug-hall-1-c62789323ddc4283a012022d1943b242.jpg",
-            "publishedAt": "2026-11-09T17:03:04Z",
-            "content": "The Little Rascals alum Brandon Bug Hall is defending his decision to ask for financial aid to support his family amid backlash to his GoFundMe campaign.\r\nNine months after he vowed to live off the g… [+4392 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "STYLECASTER"
-            },
-            "author": "Lizzie Lanuza",
-            "title": "Why Wasn't Meghan Markle at Remembrance Day with Prince Harry? - StyleCaster",
-            "description": "Is the marriage OK?",
-            "url": "http://stylecaster.com/entertainment/celebrity-news/1234971676/meghan-remembrance-day-harry/",
-            "urlToImage": "https://stylecaster.com/wp-content/uploads/2026/10/royal-family-response-harry-meghan-title.jpg?w=650",
-            "publishedAt": "2026-11-09T17:00:02Z",
-            "content": "After they returned to the UK, Prince Harry and Meghan Markle were never expected to jump back into royal duties. In fact, after they moved, the British royal family went out of their way to make it … [+2729 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Page Six"
-            },
-            "author": "Jolie Zenna",
-            "title": "'Love Is Blind' contestant Michaella falls onstage after revealing secret romance with Season 11 alum: reunion - Page Six",
-            "description": "During their secret relationship, the reality star told her fellow contestant she loved him.",
-            "url": "https://pagesix.com/2026/11/09/entertainment/love-is-blind-contestant-michaella-falls-onstage-after-revealing-secret-romance-with-season-11-alum-reunion/",
-            "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2026/11/148112183.jpg?quality=75&strip=all&w=1200",
-            "publishedAt": "2026-11-09T16:52:00Z",
-            "content": "Warning: Spoilers ahead! Do not proceed unless youve watched Season 11 of Love Is Blind.\r\n“Love Is Blind” contestant Michaella Giorgio fell onstage after revealing a shock secret romance with fellow … [+3368 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Variety"
-            },
-            "author": "Jem Aswad",
-            "title": "Kanye West Breaks His Own Record for Biggest Rap Concert in U.S. History — Again — With 83,132 Fans - Variety",
-            "description": "For the third time this year, Kanye West has broken the record for the most-attended hip-hop concert in U.S. history, with over 83,000 fans in Dallas.",
-            "url": "https://variety.com/2026/music/news/kanye-west-biggest-rap-concert-1236943088/",
-            "urlToImage": "https://variety.com/wp-content/uploads/2026/11/IMG_7441-e1794242837788.jpg?w=1000&h=563&crop=1",
-            "publishedAt": "2026-11-09T16:49:00Z",
-            "content": "Kanye West broke his own record this past Saturday as his show at Dallas’ AT&amp;T Stadium became the most-attended hip-hop concert in U.S. history, with 83,132 fans, and the fifth-highest-grossing c… [+1783 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Variety"
-            },
-            "author": "Selome Hailu",
-            "title": "Ariana Grande Appears on ‘Tonight Show’ After Months Away From Public Eye - Variety",
-            "description": "Ariana Grande appeared on 'The Tonight Show' months after releasing a statement about stepping away from 'ongoing public scrutiny.'",
-            "url": "https://variety.com/2026/tv/news/ariana-grande-tonight-show-stepping-away-public-1236943053/",
-            "urlToImage": "https://variety.com/wp-content/uploads/2026/11/VS-YouTube-TrueConfessionswithRobertDeNiroBenStillerandArianaGrandeTheTonightShow-YouTube-037.jpg?w=1000&h=563&crop=1",
-            "publishedAt": "2026-11-09T16:26:00Z",
-            "content": "Ariana Grande was a guest on “The Tonight Show Starring Jimmy Fallon” on Sunday alongside her “Focker In-Law” castmates Robert De Niro and Ben Stiller. The Sunday night episode marked her first publi… [+2111 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Pitchfork"
-            },
-            "author": "Jazz Monroe",
-            "title": "GTA VI Is Putting on a Music Festival - Pitchfork",
-            "description": "Sure, why not",
-            "url": "https://pitchfork.com/story/gta-vi-is-putting-on-a-music-festival/",
-            "urlToImage": "https://media.pitchfork.com/photos/6af20b2666555f23ece979b9/16:9/w_1280,c_limit/gta-vi-festival.jpeg",
-            "publishedAt": "2026-11-09T16:22:53Z",
-            "content": "Not content with securing an original Justice score, anything-goes soundtrack, and bundle of superstar-curated radio stations, Rockstar Games has announced Grand Theft Auto VI: The Festival. Coming t… [+880 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "New York Post"
-            },
-            "author": "Jenna Lemoncelli",
-            "title": "Tyler Kolek’s girlfriend jumps into Taylor Swift ‘fakest’ Knicks fan drama - New York Post",
-            "description": "Sousa also reshared her comment to her Instagram Story.",
-            "url": "https://nypost.com/2026/11/09/sports/tyler-koleks-girlfriend-jumps-into-taylor-swift-fakest-knicks-fan-drama/",
-            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/11/newspress-collage-g5wzspclg-1794239511871.jpg?quality=75&strip=all&1794221626&w=1200",
-            "publishedAt": "2026-11-09T16:20:00Z",
-            "content": "Tyler Koleks girlfriend, Lexi Sousa, made it clear that she’s a proud Swiftie after the Knicks guard faced backlash from the singer’s fans for calling her out as the “fakest” celebrity supporter of t… [+4334 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Aftermath.site"
-            },
-            "author": "Riley MacLeod",
-            "title": "Skydance Lays Off Games Workers One Month After Warner Brothers Acquisition - Aftermath",
-            "description": "Workers from Skydance Interactive and Paramount Games have been affected",
-            "url": "https://aftermath.site/skydance-games-layoffs/",
-            "urlToImage": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/11/walkd.jpg",
-            "publishedAt": "2026-11-09T16:17:42Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Hollywood Reporter"
-            },
-            "author": "Mike Barnes",
-            "title": "Toukie Smith, Top Runway Model and ‘227’ Actress, Dies at 74 - The Hollywood Reporter",
-            "description": "Her late brother was fashion designer Willi Smith, and she had twins with Robert De Niro.",
-            "url": "http://www.hollywoodreporter.com/tv/tv-news/toukie-smith-227-model-robert-de-niro-1236750848/",
-            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/Toukie-Smith-Obit-Template-Headshot-Getty-H-2026.jpg?w=1296&h=730&crop=1",
-            "publishedAt": "2026-11-09T15:48:12Z",
-            "content": "Toukie Smith, a top model in the 1970s and an actress who appeared as Eva Rawley on the Marla Gibbs-starring NBC sitcom 227, has died. She was 74.\r\nSmith died Wednesday in a New York hospital after a… [+2017 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "InStyle"
-            },
-            "author": "https://www.facebook.com/InStyle",
-            "title": "Taylor Swift’s Latest GameDay Outfit Includes an Under-the-Radar Wink to Her Husband Travis Kelce - InStyle",
-            "description": "Taylor Swift attended husband Travis Kelce’s Kansas City Chiefs game on November 8 alongside friend Karlie Kloss. Swift’s game day outfit included multiple sweet nods to Kelce, including a striped red Tommy Hilfiger cable knit sweater polo that pays homage to…",
-            "url": "https://www.instyle.com/taylor-swift-game-day-outfit-subtle-tribute-travis-kelce-chiefs-12244669",
-            "urlToImage": "https://www.instyle.com/thmb/oLnwR8Qy4O_OUs0rU1msYxB4E_Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/TaylorSocial-9e2467eb47574978a89b315a69b5a3b8.jpg",
-            "publishedAt": "2026-11-09T15:35:22Z",
-            "content": "When she attended the latest Kansas City Chiefs game alongside friend Karlie Kloss, Taylor Swifts red Tommy Hilfiger cable knit sweater polo not only paid homage to one of the teams colors, but alsoi… [+3957 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "PEOPLE"
-            },
-            "author": "Erin Clements",
-            "title": "Gordon Ramsay Shows Off His Abs in Shirtless Photo to Celebrate ‘Day 2 of Being 60’ - AOL.com",
-            "description": "“Thank you everyone for the incredible birthday messages!” the celebrity chef wrote",
-            "url": "https://people.com/gordon-ramsay-shares-shirtless-photo-to-celebrate-day-2-of-being-60-12244646",
-            "urlToImage": "https://hermes.media.static.aol.com/media/2026/11/09/c025083e-8498-3bc1-9754-0e668943bc32/2b673bf8-44a5-467a-96af-db7e78f856c9.jpg",
-            "publishedAt": "2026-11-09T15:33:11Z",
-            "content": "<ul><li>Gordon Ramsay thanked fans for birthday messages after celebrating his milestone on Nov. 8\r\n</li><li>He shared the occasion with daughter Matilda Tilly Ramsay, who turned 25 the same day\r\n</l… [+2210 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The A.V. Club"
-            },
-            "author": null,
-            "title": "Godzilla Minus Zero easily defeats The Cat In The Hat at the box office - A.V. Club",
-            "description": "Godzilla Minus Zero easily defeats The Cat In The Hat at the box office",
-            "url": "https://www.avclub.com/weekend-box-office-godzilla-minus-zero-cat-in-the-hat",
-            "urlToImage": "https://www.avclub.com/wp-content/uploads/2026/10/29/godzilla-minus-zero-header-1.jpg",
-            "publishedAt": "2026-11-09T15:27:00Z",
-            "content": "The Cat in the Hat is a destructive force that has brought chaos and whimsy to the world for nearly 70 years, but even he is no match for an awesome kaiju. Godzilla Minus Zero had a big weekend at th… [+1772 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Stereogum"
-            },
-            "author": "Margaret Farrell",
-            "title": "Robbie Williams Explains Olivia Rodrigo Tweet: “I’m Not Going After Her” - Stereogum",
-            "description": "Last Thursday, Olivia Rodrigo shared her first-ever Christmas song “take me home (4 christmas).” It has been surprisingly controversial. Holiday songs already tend to be pretty polarizing — some people love ’em, and some people can’t stand ’em (moi). But Rodr…",
-            "url": "https://stereogum.com/2517053/robbie-williams-explains-olivia-rodrigo-tweet-im-not-going-after-her/news",
-            "urlToImage": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/11/Screenshot-2026-11-09-at-2.32.29-PM.png",
-            "publishedAt": "2026-11-09T15:25:00Z",
-            "content": "Last Thursday, Olivia Rodrigo shared her first-ever Christmas song \"take me home (4 christmas).\" It has been surprisingly controversial. Holiday songs already tend to be pretty polarizing some people… [+3621 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "TVInsider"
-            },
-            "author": "Dan Clarendon",
-            "title": "Fox News’ Declining Ratings, Explained — Is It Really Just ‘Viewer Fatigue’? - TV Insider",
-            "description": "In October, Fox News’ total day audience of 25-to-54-year-olds dropped to 98,000, its lowest monthly level in 25 years.",
-            "url": "https://www.tvinsider.com/1302379/fox-news-ratings-decline-viewer-fatigue/",
-            "urlToImage": "https://www.tvinsider.com/wp-content/uploads/2026/07/JD-Vance-Jessica-Tarlov-Jesse-Watters-Dana-Perino-Greg-Guttfeld-The-Five-Fox-News-June-16-2026-1420x798.jpg",
-            "publishedAt": "2026-11-09T15:00:39Z",
-            "content": "Fox News contends the business is in incredibly good shape. Its viewership figures may suggest a different situation.\r\nThis October, Fox News audience levels were down 28 percent from October 2025, a… [+4860 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Pitchfork"
-            },
-            "author": "Jeremy D. Larson",
-            "title": "What Is Indie Rock? We Asked 33 Artists, Labels, and Critics - Pitchfork",
-            "description": "One simple question. No simple answer. Featuring Ben Gibbard, Lou Barlow, Mitski, Kill Rock Stars, Matador, Sub Pop, Anthony Fantano, Michael Azerrad, Ryan Schreiber, and many more",
-            "url": "https://pitchfork.com/story/what-is-indie-rock-we-asked-33-artists-labels-and-critics/",
-            "urlToImage": "https://media.pitchfork.com/photos/6aee393cb0fa15a54106c0b5/16:9/w_1280,c_limit/P4K26_Indie%20Rock_What%20Is%20it",
-            "publishedAt": "2026-11-09T15:00:00Z",
-            "content": "Something existential, economical, emotional, geographical\r\nMarnie Stern: To me, indie rock is defined by an ethos that is unpolished, unmaterialistic, urgent, music-loving, and driven by a creative,… [+2031 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Cut"
-            },
-            "author": "Olivia Craighead",
-            "title": "Taylor Swift and Karlie Kloss Are Officially Friends Again - The Cut",
-            "description": "Swift and Kloss publicly reunited for the first time since 2018 on Sunday, cheering for the Chiefs together in the singer’s suite at Arrowhead Stadium.",
-            "url": "http://www.thecut.com/article/taylor-swift-karlie-kloss-friends-again-chiefs-game.html",
-            "urlToImage": "https://pyxis.nymag.com/v1/imgs/b30/182/8abb8d1e7d3a2400ae70ee9139b04cd86a-taylor-karlie-chiefs-game.1x.rsocial.w1200.jpg",
-            "publishedAt": "2026-11-09T14:57:22Z",
-            "content": "Its official: Taylor Swift and Karlie Kloss are friends again. On Sunday, Swift brought Kloss to the Chiefs game in Kansas City, marking the first time the public has seen the former best friends tog… [+2246 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Variety"
-            },
-            "author": "Variety",
-            "title": "‘Heated Rivalry’ Final Episodes to Release in 4DX at Regal Theaters - Variety",
-            "description": null,
-            "url": "https://variety.com/2026/tv/news/heated-rivalry-final-episodes-to-release-in-4dx-1236941836/",
-            "urlToImage": null,
-            "publishedAt": "2026-11-09T14:50:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Mandatory"
-            },
-            "author": "Vipul Dhawas",
-            "title": "Katy Perry Reportedly Ready to Break Silence on Russell Brand — Source - Yahoo",
-            "description": "Katy Perry and Russell Brand were once frequently in the headlines together during their marriage. However, the former couple have long since gone their sepa...",
-            "url": "https://www.mandatory.com/celebrities/1887781-katy-perry-breaks-silence-russell-brand",
-            "urlToImage": "https://s.yimg.com/lo/mysterio/api/2130237886c1a026ace89d6799542bdf52a193a41c0107c7f81ac9c368402c26/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmandatory_995%2F733bc4fc62f5662dffcbf6cf52897c7d.jpg",
-            "publishedAt": "2026-11-09T14:35:14Z",
-            "content": "Katy Perry and Russell Brand were once frequently in the headlines together during their marriage. However, the former couple have long since gone their separate ways. Now, a new report suggests Perr… [+1580 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Hollywood Reporter"
-            },
-            "author": "Mike Barnes",
-            "title": "Donnie Dunagan, Original Voice of Bambi, Dies at 92 - The Hollywood Reporter",
-            "description": "The future U.S. Marine also appeared as a youngster in the horror films ‘Son of Frankenstein’ and ‘Tower of London’ during his brief stay in Hollywood.",
-            "url": "http://www.hollywoodreporter.com/movies/movie-news/donnie-dunagan-dead-bambi-son-frankenstein-1236750818/",
-            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2026/03/Donnie-Dunagan-Obit-Template-Headshot-Getty-H-2026.jpg?w=1296&h=730&crop=1",
-            "publishedAt": "2026-11-09T14:22:42Z",
-            "content": "Donnie Dunagan, who provided the voice of Bambi for the original Disney classic and acted alongside Basil Rathbone and Boris Karloff in two films before being awarded three Purple Hearts as a U.S. Ma… [+5196 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Page Six"
-            },
-            "author": "Jolie Zenna",
-            "title": "Bruce Willis’ devastating dementia decline has left him ‘like a baby’: report - Page Six",
-            "description": "In September, Willis’ wife, Emma Heming, said their family is in a “constant state of grief” as they continue to take care of the actor.",
-            "url": "https://pagesix.com/2026/11/09/celebrity-news/bruce-willis-devastating-dementia-decline-has-left-him-like-a-baby-report/",
-            "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2026/11/148101793.jpg?quality=75&strip=all&w=1200",
-            "publishedAt": "2026-11-09T14:00:00Z",
-            "content": "Bruce Willis “has declined a lot mentally” and is “living in his own world” three years after his frontotemporal dementia (FTD) diagnosis, according to a new report.\r\n“Sometimes he looks like a baby … [+4413 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Variety"
-            },
-            "author": "William Earl",
-            "title": "Danielle Fishel on 'Girl Meets World' Pay, Being Disliked for Boundaries - Variety",
-            "description": "In an exclusive book excerpt, Danielle Fishel reveals she was called 'crazy' on set of 'Girl Meets World' and began setting boundaries.",
-            "url": "https://variety.com/2026/tv/news/danielle-fishel-girl-meets-world-pay-disliked-boundaries-1236941905/",
-            "urlToImage": "https://variety.com/wp-content/uploads/2026/05/2274243582-e1794079700419.jpg?w=1000&h=563&crop=1",
-            "publishedAt": "2026-11-09T13:35:00Z",
-            "content": "Danielle Fishel was a little different when she returned to TV on “Girl Meets World” 14 years after “Boy Meets World” wrapped — and not everyone was happy about it.\r\nIn an exclsuive excerpt from “Boo… [+2962 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Eonline.com"
-            },
-            "author": null,
-            "title": "Michael Douglas’ Kids Dylan and Carys Support Him During Rare Red Carpet Appearance - E! News",
-            "description": "Michael Douglas and Catherine Zeta-Jones' kids Dylan Douglas, 26, and Carys Douglas, 23, helped honor their dad at the Art of Freedom Gala 2026 in New York City Nov. 4.",
-            "url": "https://www.eonline.com/news/1437940/michael-douglas-kids-dylan-and-carys-support-him-during-rare-appearance",
-            "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/20261109/f00b889e-457a-4989-bfba-b13194a3e1e1_1794229519.jpg?fit=around%7C1200:1200&output-quality=90&crop=1200:1200;center,top",
-            "publishedAt": "2026-11-09T13:16:00Z",
-            "content": "Michael Douglas was no solitary man during his latest outing.\r\nThe Basic Instinct actor was supported by his son Dylan, 26, and daughter Carys, 23who he shares with wife Catherine Zeta-Jonesas he was… [+693 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Cosmopolitan.com"
-            },
-            "author": "Mehera  Bonner",
-            "title": "Husband of ‘Dancing With the Stars’ Contestant Was “Nightmare” on Set, Per Source - Cosmopolitan",
-            "description": "The husband of a Season 34 ‘Dancing With the Stars’ contestant was allegedly a \"nightmare” on set and tried to make certain dance moves and costumes off limits.",
-            "url": "https://www.cosmopolitan.com/entertainment/tv/a74374457/dancing-with-the-stars-contestant-husband-nightmare-on-set/",
-            "urlToImage": "https://hips.hearstapps.com/hmg-prod/images/05c9b629-5893-458b-993f-54a50f6bcd74.jpeg?crop=1xw:0.75xh;0xw,0.25xh&resize=1200:*",
-            "publishedAt": "2026-11-09T13:01:00Z",
-            "content": "Jen Affleck and Zac Affleck are getting divorced after seven years of marriage, and now a Dancing With the Stars source is out here spilling on what their vibe was like when Jen was on the show last … [+1405 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Consequence.net"
-            },
-            "author": "Alex Young",
-            "title": "Stray Kids Announce 2027 World Tour - Consequence of Sound",
-            "description": "Stray Kids have announced \"RUN IT,\" an expansive world tour consisting of nearly 30 stadium shows across 12 countries (including North America) in 2027.",
-            "url": "https://consequence.net/2026/11/stray-kids-2027-world-tour/",
-            "urlToImage": "https://consequence.net/wp-content/uploads/2026/11/Stray-Kids.jpeg",
-            "publishedAt": "2026-11-09T13:00:54Z",
-            "content": "Stray Kids have announced “RUN IT,” an expansive world tour consisting of nearly 30 stadium shows across 12 countries in 2027.\r\nFollowing dates in Thailand, Singapore, Japan at the top of the year, S… [+2451 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Daily Beast"
-            },
-            "author": "Harry Thompson",
-            "title": "Melania Roasted After Posting Desperate Comeback Attempt - The Daily Beast",
-            "description": "No, seriously, DON’T call it a comeback.",
-            "url": "https://www.thedailybeast.com/melania-roasted-after-posting-desperate-comeback-attempt",
-            "urlToImage": "https://media.thedailybeast.com/resizer/v2/L7UBTOTVDBGSBDDTVX47KTBRMM.JPG?auth=e9625cb693a8fd141d8bae3778235d93e0b4131644305d61ff5a51b83df625b4&width=1200&height=630&focal=2360%2C1328",
-            "publishedAt": "2026-11-09T12:44:08Z",
-            "content": "No, seriously, DONT call it a comeback. \r\nMelania Trumps new documentary has been shredded before anyone has even seen it. \r\nLess than a week after her husbands Republican Party was trounced in a his… [+5037 chars]"
-        },
-        {
-            "source": {
-                "id": "nbc-news",
-                "name": "NBC News"
-            },
-            "author": "Adela Suliman",
-            "title": "Russell Brand awaits sentencing as he faces ‘significant’ prison time for rape and sexual assaults - NBC News",
-            "description": "British comedian and actor Russell Brand was in court for sentencing on Monday, days after being found guilty of rape and sexual assault.",
-            "url": "https://www.nbcnews.com/world/united-kingdom/russell-brand-sentenced-years-british-jail-rcna607799",
-            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261102-russell-brand-rs-2dbe92.jpg",
-            "publishedAt": "2026-11-09T12:30:04Z",
-            "content": "LONDON British comedian and actor Russell Brand was sentenced to 10 years and six months in prison for rape and sexual assault by a London court on Monday.\r\nThe lengthy prison term of over a decade c… [+3969 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "HuffPost"
-            },
-            "author": null,
-            "title": "Melania Trump's Latest Announcement Has Critics Reaching For The Mute Button - HuffPost",
-            "description": "The first lady’s return to the small screen received a chilly reception.",
-            "url": "https://www.huffpost.com/entry/melania-trump-new-series_n_6af170bce4b08067d848ffdf",
-            "urlToImage": "https://img.huffingtonpost.com/asset/6af1a8b3170000a267ce4fe8.jpeg?cache=vNvTINkhlO&ops=1200_630",
-            "publishedAt": "2026-11-09T12:03:41Z",
-            "content": "Melania Trumps announcement of the release date for her new two-part docuseries had critics reaching for the off button.\r\nThe first lady shared a trailer for Melania, The Series on social media ahead… [+2489 chars]"
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Ej Dickson",
-            "title": "New Hulu Doc ‘Get Huge’ Shows the Deadly Toll of Looksmaxxing - WIRED",
-            "description": "The new Hulu docuseries “Get Huge: Looksmaxxing to Death” shines a light on the mysterious deaths and disappearances of a group of male influencers in Thailand—and the leader at the center of it all.",
-            "url": "https://www.wired.com/story/hulu-doc-get-huge-shows-the-deadly-toll-of-looksmaxxing/",
-            "urlToImage": "https://media.wired.com/photos/6aeb9a04783d1e73bbb7b189/191:100/w_1280,c_limit/bk_press_still_1.282.1.png",
-            "publishedAt": "2026-11-09T12:00:00Z",
-            "content": "Before Clavicular, before Androgenic, before the Tate brothers, before bonesmashing and frame-mogging and the manosphere and looksmaxxing entered the online lexicon, there was Tony Huge.\r\nA 44-year-o… [+2147 chars]"
-        },
-        {
-            "source": {
-                "id": "cbs-news",
-                "name": "CBS News"
-            },
-            "author": "Sara  Tenenbaum",
-            "title": "Hundreds gather in Millennium Park to try to push The Bean seven inches to the left - CBS News",
-            "description": "Hundreds of people gathered in downtown Chicago Sunday to try to push the Bean seven inches to the left.",
-            "url": "https://www.cbsnews.com/chicago/news/hundreds-millennium-park-push-the-bean-sunday/",
-            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/09/41152a07-e018-4671-a381-51ae341dff51/thumbnail/1200x630/712eb4741dda06f066fa37e37648944f/push-bean.jpg",
-            "publishedAt": "2026-11-09T11:13:30Z",
-            "content": "Hundreds of people gathered in downtown Chicago Sunday to try to push the Bean seven inches to the left.\r\nThe crowds gathered in Millennium Park Sunday afternoon as part of what began as a viral soci… [+714 chars]"
-        },
-        {
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "author": null,
-            "title": "Prince William has 'learned' to live without Prince Harry as royal feud reaches breaking point: expert - Fox News",
-            "description": "Prince William has reportedly learned to live without Prince Harry as royal experts say reconciliation now appears past the point of no return.",
-            "url": "https://www.foxnews.com/entertainment/prince-william-learned-live-without-prince-harry-royal-feud-reaches-breaking-point-expert",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/08/fab-four-funeral-queen-elizabeth.jpg",
-            "publishedAt": "2026-11-09T11:00:31Z",
-            "content": "Prince William has \"learned\" to live without Prince Harry as their bitter feud appears to have pushed the brothers past the point of no return.\r\n\"Harry has never believed he has anything to apologize… [+7539 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "PEOPLE"
-            },
-            "author": "Ashley Vega",
-            "title": "Bride-to-Be’s Mom Opens Wedding Dress Box After 32 Years, Only to Discover It’s Not Her Gown (Exclusive) - AOL.com",
-            "description": "Madison tells PEOPLE that she and her mom uncovered a decades-old mix-up after opening a sealed wedding dress box, only to learn the original gown may be gone forever",
-            "url": "https://people.com/woman-opens-wedding-dress-box-after-32-years-only-to-discover-its-not-hers-exclusive-12203016",
-            "urlToImage": "https://hermes.media.static.aol.com/media/2026/11/09/6c21ec63-fda3-3855-b94e-7ae275e7cf46/703a4dac-c89c-4232-8e93-f4662bfdc762.jpg",
-            "publishedAt": "2026-11-09T11:00:00Z",
-            "content": "<ul><li>Madison hoped to repurpose her mothers 1992 wedding dress for her rehearsal dinner ahead of her June 2028 wedding\r\n</li><li>When she and her mom opened the box, which had been sealed for more… [+6551 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "PennLive"
-            },
-            "author": "PennLive.com",
-            "title": "Rock legend dies just 8 months after rare cancer diagnosis. Here’s what we know - PennLive.com",
-            "description": null,
-            "url": "https://www.pennlive.com/entertainment/2026/11/rock-legend-dies-just-8-months-after-rare-cancer-diagnosis-heres-what-we-know.html",
-            "urlToImage": null,
-            "publishedAt": "2026-11-09T10:10:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "PennLive"
-            },
-            "author": "PennLive.com",
-            "title": "Legendary guitarist who changed music forever dies at 88. Here’s the latest - PennLive.com",
-            "description": null,
-            "url": "https://www.pennlive.com/entertainment/2026/11/legendary-guitarist-who-changed-music-forever-dies-at-88-heres-the-latest.html",
-            "urlToImage": null,
-            "publishedAt": "2026-11-09T10:00:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "TMZ"
-            },
-            "author": "TMZ Staff",
-            "title": "Chris Brown's Baby Mama Diamond Working to Get Her Hands On His Bank Records - TMZ",
-            "description": "Chris Brown’s baby mama is working overtime to see the singer’s finances in her bid to collect a bigger child support check … claiming she’s been roadblocked for months by his team ...  TMZ has learned.",
-            "url": "https://www.tmz.com/2026/11/09/chris-brown-baby-mama-diamond-wants-to-see-his-bank-records/",
-            "urlToImage": "https://imagez.tmz.com/image/12/16by9/2026/11/06/127ed17563854eebb26001ab560db8ee_xl.jpg",
-            "publishedAt": "2026-11-09T09:00:56Z",
-            "content": "Chris Browns baby mama is working overtime to see the singers finances in her bid to collect a bigger child support check claiming shes been roadblocked for months by his team ...  TMZ has learned.\r\n… [+1047 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Rolling Stone"
-            },
-            "author": "Emily Zemler",
-            "title": "Watch Ariana Grande, Ben Stiller, Robert De Niro Take Over ‘The Tonight Show’ - Rolling Stone",
-            "description": "Ariana Grande, Ben Stiller, and Robert De Niro appeared on 'The Tonight Show' to promote 'Focker In-Law.'",
-            "url": "http://www.rollingstone.com/tv-movies/tv-movie-news/ariana-grande-robert-de-niro-focker-in-law-fallon-1235654500/",
-            "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2026/11/GettyImages-2303792098-1.jpg?w=1600&h=900&crop=1",
-            "publishedAt": "2026-11-09T07:49:16Z",
-            "content": "Ariana Grande, Ben Stiller, and Robert De Niro appeared on The Tonight Show to discuss collaborating on the upcoming comedy film Focker In-Law. The trio talked about making the sequel and took the op… [+1541 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Men's Journal"
-            },
-            "author": "Jessica McBride",
-            "title": "Natalee Holloway’s Final Moments Revealed in Joran Van Der Sloot's Own Words - AOL.com",
-            "description": "Joran Van Der Sloot is featured prominently in the Natalee Holloway documentary on Netflix. Where is he now?",
-            "url": "https://www.mensjournal.com/news/joran-van-der-sloot-now-today-natalee-holloway-suspect",
-            "urlToImage": "https://hermes.media.static.aol.com/media/2026/11/09/2414dc42-bf1f-3222-98c2-b8eea6f52a45/4f260430-876a-4ad0-9dac-6ba7187ec68e.jpg",
-            "publishedAt": "2026-11-09T06:24:00Z",
-            "content": "A new Netflix documentary tells the tragic story of Natalee Holloway, the high school student who vanished in Aruba while on vacation in 2005.\r\nCentral to the story from the beginning was Joran Van D… [+3051 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "NDTV News"
-            },
-            "author": "Madhumanti Pait Chowdhury",
-            "title": "'Let's Get Hrithik A James Bond Audition': Internet Reacts To Actor's Pics With Nicole Kidman, Dune Director At 2026 LACMA Art + Film Gala - NDTV",
-            "description": "The 2026 LACMA Art + Film Gala was co-chaired by Hollywood actor Leonardo DiCaprio and LACMA trustee Eva Chow",
-            "url": "https://www.ndtv.com/entertainment/lets-get-hrithik-a-james-bond-audition-internet-reacts-to-actors-pics-with-nicole-kidman-dune-director-at-2026-lacma-art-film-gala-12302204",
-            "urlToImage": "https://c.ndtvimg.com/2026-11/jb3f79t4_hrithik-_625x300_09_November_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
-            "publishedAt": "2026-11-09T06:02:22Z",
-            "content": "Hrithik Roshan raised the bar of Indian cinema as he represented the country at the 2026 LACMA Art + Film Gala held in Los Angeles on November 7. \r\nHrithik joined several prominent international pers… [+2101 chars]"
         }
     ]
 }
