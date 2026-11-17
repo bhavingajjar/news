@@ -1,7 +1,124 @@
 {
     "status": "ok",
-    "totalResults": 257,
+    "totalResults": 263,
     "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Verywellhealth.com"
+            },
+            "author": "https://www.facebook.com/verywell",
+            "title": "RDs Explain If Eating 3 Dates in the Morning Is Good for Digestion and Blood Sugar - Verywell Health",
+            "description": "Eating three dates every morning is said to boost digestion, steady blood sugar, and support energy—but does the number or timing matter? Dietitians break it down.",
+            "url": "https://www.verywellhealth.com/3-dates-in-morning-for-gut-health-12197544",
+            "urlToImage": "https://www.verywellhealth.com/thmb/wYgoPNd8FFENcdf_ZjX-gzxyUb4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/VWH-GettyImages-174394985-6f1703b4f1a64f9cbc8b088cbd0ff953.jpg",
+            "publishedAt": "2026-11-16T00:52:51Z",
+            "content": "<ul><li>Dates provide fiber, carbs, potassium, magnesium, and polyphenols that may support digestive and metabolic health.</li><li>Many date varieties have a low to moderate glycemic index, and moder… [+3514 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Cancer 'sponge' tests could be offered to more people with bad indigestion - BBC",
+            "description": "The \"sponge on a string\" tests can be done in GP surgeries, rather than hospitals, unlike endoscopy checks that use a small camera.",
+            "url": "https://www.bbc.com/news/articles/cm5y13q0gx97o",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/07cd/live/8214d800-df5e-11f1-a8af-15d7a25dc0d1.png",
+            "publishedAt": "2026-11-16T00:47:04Z",
+            "content": "Prof Peter Johnson, national clinical director for cancer at NHS England, said: \"The NHS is always looking for better ways to get to the bottom of people's symptoms, and thousands have already benefi… [+153 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": null,
+            "title": "Common blood pressure drug helps more stroke survivors reach critical health target - Fox News",
+            "description": "The REDUCE trial found spironolactone lowered blood pressure by nearly eight points in stroke survivors, but key questions about prevention remain.",
+            "url": "https://www.foxnews.com/health/common-blood-pressure-drug-helps-stroke-survivors-reach-critical-health-target",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/04/woman-taking-blood-pressure.jpg",
+            "publishedAt": "2026-11-15T22:20:45Z",
+            "content": "A low-cost medication could help stroke survivors whose blood pressure remains elevated despite treatment, a new study suggests.\r\nThe research, known as the REDUCE trial, looked at whether adding spi… [+3748 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "KSL.com"
+            },
+            "author": "Brenda Goodman, CNN",
+            "title": "After 26 years, the US has lost its measles elimination status - KSL News",
+            "description": "Thanks to widespread vaccination, measles had been considered \"eliminated\" as a continually transmitting illness in the United States since 2000, but not anymore.",
+            "url": "https://www.ksl.com/article/51645789/after-26-years-the-us-has-lost-its-measles-elimination-status",
+            "urlToImage": "https://img.ksl.com/slc/3208/320875/32087574.jpg?filter=kslv2/responsive_story_lg",
+            "publishedAt": "2026-11-15T21:39:08Z",
+            "content": "SALT LAKE CITY Thanks to widespread vaccination, measles had been considered \"eliminated\" as a continually transmitting illness in the United States since 2000, but not anymore.\r\nAn independent commi… [+7593 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ScienceAlert"
+            },
+            "author": "Carly Cassella",
+            "title": "Breakthrough to Make Bones Stronger Has The Potential to Reverse Osteoporosis - ScienceAlert",
+            "description": "Osteoporosis is a debilitating and incurable bone condition that impacts millions of people around the world.",
+            "url": "https://www.sciencealert.com/breakthrough-to-make-bones-stronger-has-the-potential-to-reverse-osteoporosis",
+            "urlToImage": "https://www.sciencealert.com/images/2026/10/GettyImages-140892228-2560x1440-1.jpg",
+            "publishedAt": "2026-11-15T21:02:23Z",
+            "content": "Osteoporosis is a debilitating and incurable bone condition that impacts millions of people around the world.\r\nIt occurs when the body loses bone faster than it can replace it, leaving the skeleton p… [+5592 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Medscape"
+            },
+            "author": "Nancy A. Melville",
+            "title": "After a GLP-1: Which Exit Strategy Keeps the Weight Off? - Medscape",
+            "description": "After a GLP-1, what works next? Among more than 20,000 patients, surgery was linked to the most weight loss, quitting cold the least, and switching from semaglutide to tirzepatide beat staying put.",
+            "url": "https://www.medscape.com/viewarticle/after-glp-1-which-exit-strategy-keeps-weight-2026a10018gh",
+            "urlToImage": "https://img.medscapestatic.com/vim/live/professional_assets/Conference_News.jpg",
+            "publishedAt": "2026-11-15T18:45:04Z",
+            "content": "NATIONAL HARBOR, Md. — Among more than 20,000 patients who had taken semaglutide or tirzepatide, those who went on to pursue bariatric surgery, though the least likely choice, had the greatest weight… [+6746 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Medical Xpress"
+            },
+            "author": null,
+            "title": "People with autism show remarkable variability in brain activity - Medical Xpress",
+            "description": "In a new study in JNeurosci, Dorit Kliemann and James Traer, from the University of Iowa, led a research collaboration to compare brain activity between people with autism spectrum disorder (ASD) and individuals who do not have autism.",
+            "url": "https://medicalxpress.com/news/2026-11-people-autism-remarkable-variability-brain.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2023/brain-activity.jpg",
+            "publishedAt": "2026-11-15T18:00:04Z",
+            "content": "In a new study in JNeurosci, Dorit Kliemann and James Traer, from the University of Iowa, led a research collaboration to compare brain activity between people with autism spectrum disorder (ASD) and… [+2867 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Vogueadria.com"
+            },
+            "author": null,
+            "title": "Does plucking grey hairs really make more grow back? We asked the experts - Vogue Adria",
+            "description": "Plucking grey hairs is a common habit. But if you pluck one grey hair, will more grow back? Leading hair experts debunk a familiar myth.",
+            "url": "https://vogueadria.com/plucking-grey-hairs-myth-or-fact/",
+            "urlToImage": "https://vogueadria.com/wp-content/uploads/2026/11/cupanje-sijedih-vlasi-cover.jpg",
+            "publishedAt": "2026-11-15T17:00:05Z",
+            "content": "A myth under the microscope: Does plucking grey hairs really make more grow back? Experts give a definitive answer.\r\nAlthough Im not afraid of grey hairs, Im not looking forward to the moment they st… [+5134 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Thecoolist.com"
+            },
+            "author": "TheCoolist Team",
+            "title": "Neither blueberries nor oranges, the fruit that ranked highest in a CDC study of the most nutrient-dense foods - TheCoolist",
+            "description": "You put a carton of blueberries in your grocery cart and grab a few oranges for the fruit bowl, feeling good about both choices. In a CDC ranking of",
+            "url": "https://www.thecoolist.com/neither-blueberries-nor-oranges-the-fruit-that-ranked-highest-in-a-cdc-study-of-the-most-n-h2r4-q1/",
+            "urlToImage": "https://cdn.thecoolist.com/wp-content/uploads/2026/11/neither-blueberries-nor-oranges-the-fruit-that-ranked-highest-in-a-cdc-study-of-.jpg",
+            "publishedAt": "2026-11-15T16:51:18Z",
+            "content": "You put a carton of blueberries in your grocery cart and grab a few oranges for the fruit bowl, feeling good about both choices. In a CDC ranking of nutrient-dense produce, neither claims the top spo… [+3446 chars]"
+        },
         {
             "source": {
                 "id": "fox-news",
@@ -27,6 +144,32 @@
             "urlToImage": "https://www.eatingwell.com/thmb/3ketqE6mlPxwpnNtc6WXwWsyCz8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Oncologists-Recommend-This-Morning-Drink-for-Cancer-Prevention-55667d8ca5d44315967feea13b0e5c66.jpg",
             "publishedAt": "2026-11-15T14:30:00Z",
             "content": "Cancer develops through a combination of factors, including genetics, environmental exposures and lifestyle. Although some of these influences are beyond our control, the way we eat, move and care fo… [+6662 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "hays Post"
+            },
+            "author": null,
+            "title": "Police: Rabies in a cat confirmed in Kansas - Hays Post",
+            "description": "Post photo\n                    BUTLER COUNTY—Authorities in south central on Friday confir",
+            "url": "https://hayspost.com/posts/3bae612b-2871-4f60-8869-ad0c9421e096",
+            "urlToImage": "https://media.eaglewebservices.com/public/2023/12/1703848131615.png",
+            "publishedAt": "2026-11-15T14:07:14Z",
+            "content": "Post photo\r\nBUTLER COUNTYAuthorities in south central on Friday confirmed a case of rabies in a cat. This was confirmed through testing at K-State Animal Hospital in Manhattan, according to a stateme… [+801 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Science Daily"
+            },
+            "author": null,
+            "title": "A common osteoporosis drug blocked spinal damage in a surprising new study - Science Daily",
+            "description": "Scientists have uncovered a surprising genetic connection to spinal degeneration and found that an existing osteoporosis drug can prevent damaging mineral buildup in zebrafish spines. The discovery could pave the way for new treatments that slow or prevent a …",
+            "url": "https://www.sciencedaily.com/releases/2026/11/261113232105.htm",
+            "urlToImage": "https://www.sciencedaily.com/images/1920/radiograph-x-ray-back-bone-spinal-pain.webp",
+            "publishedAt": "2026-11-15T14:05:11Z",
+            "content": "An existing osteoporosis drug has shown surprising promise in protecting the spine from damage, raising hopes for new treatments for chronic neck and back pain. In experiments involving zebrafish, re… [+8995 chars]"
         },
         {
             "source": {
@@ -160,6 +303,19 @@
         },
         {
             "source": {
+                "id": null,
+                "name": "WISN Milwaukee"
+            },
+            "author": "Annie Jennemann",
+            "title": "Have the sniffles? See if respiratory illnesses are rising near you - WISN",
+            "description": "Flu season is ramping up earlier than normal, with six states already seeing high activity.",
+            "url": "https://www.wisn.com/article/flu-rsv-covid-rising-by-state/74416587",
+            "urlToImage": "https://kubrick.htvapps.com/htv-prod/images/4694cc61-46b1-4340-a57d-cf9fbf56c817.png?crop=1.00xw%3A1.00xh%3B0%2C0&resize=1200%3A*",
+            "publishedAt": "2026-11-15T11:18:28Z",
+            "content": "WASHINGTONThe season of sniffles is back, with data showing an earlier-than-normal flu season and a rise in other respiratory illnesses.\r\nAcute respiratory illnesses that cause people to seek health … [+1430 chars]"
+        },
+        {
+            "source": {
                 "id": "fox-news",
                 "name": "Fox News"
             },
@@ -226,6 +382,19 @@
         {
             "source": {
                 "id": null,
+                "name": "ScienceAlert"
+            },
+            "author": "Jess Cockerill",
+            "title": "Coffee Doesn't Just Help You Poop. It May Change The Physiology in Your Gut. - ScienceAlert",
+            "description": "We can usually feel the effects of coffee in the body pretty quickly.",
+            "url": "https://www.sciencealert.com/coffee-doesnt-just-help-you-poop-it-may-change-the-physiology-in-your-gut",
+            "urlToImage": "https://www.sciencealert.com/images/2026/11/GettyImages-540712457-2560x1440-1.jpg",
+            "publishedAt": "2026-11-15T02:02:20Z",
+            "content": "We can usually feel the effects of coffee in the body pretty quickly.\r\nIf you're a regular coffee drinker, that first sip can promptly clear the morning fog and get your day going.\r\nNot long after, c… [+3499 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "Real Simple"
             },
             "author": "https://www.facebook.com/realsimple/",
@@ -287,6 +456,19 @@
             "urlToImage": "https://www.sciencealert.com/images/2026/11/electric-comb.jpg",
             "publishedAt": "2026-11-14T20:02:20Z",
             "content": "If you're losing your hair, you might not be reaching for the comb as often as you used to.\r\nIt's just possible that could be about to change.\r\nResearch from scientists in China has revealed a promis… [+3761 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "KSBY San Luis Obispo News"
+            },
+            "author": "KSBY Staff",
+            "title": "Person at San Luis Obispo preschool recovering from E. coli complication - KSBY News",
+            "description": "San Luis Obispo County health officials said a person at a local preschool is recovering after developing a serious complication from an E. coli infection.",
+            "url": "https://www.ksby.com/san-luis-obispo/person-at-san-luis-obispo-preschool-recovering-from-e-coli-complication",
+            "urlToImage": "https://ewscripps.brightspotcdn.com/dims4/default/2acdae7/2147483647/strip/true/crop/1056x554+0+0/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F0e%2F6e%2F584afe6e4da09494aa01553f13eb%2Fslo-public-health-sign1.png",
+            "publishedAt": "2026-11-14T19:22:48Z",
+            "content": "San Luis Obispo County health officials said a person at a local preschool is recovering after developing a serious complication from an E. coli infection.\r\nOfficials with the Department of Health sa… [+1538 chars]"
         },
         {
             "source": {
@@ -365,6 +547,32 @@
             "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/man-at-doctor.jpg",
             "publishedAt": "2026-11-14T17:48:19Z",
             "content": "The American Cancer Society is recommending regular prostate cancer screening starting at age 50 for men at average risk under updated guidelines released Nov. 12.\r\nThe update shifts from emphasizing… [+4814 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Medical Xpress"
+            },
+            "author": null,
+            "title": "ADHD's effects on breathing, perception and behavior - Medical Xpress",
+            "description": "New attention-deficit/hyperactivity disorder (ADHD) research shows the condition influences mental and physical health across the life span. The findings were presented at Neuroscience 2026, the annual meeting of the Society for Neuroscience.",
+            "url": "https://medicalxpress.com/news/2026-11-adhd-effects-perception-behavior.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/late-to-work.jpg",
+            "publishedAt": "2026-11-14T17:00:29Z",
+            "content": "New attention-deficit/hyperactivity disorder (ADHD) research shows the condition influences mental and physical health across the life span. The findings were presented at Neuroscience 2026, the annu… [+2344 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Medical Xpress"
+            },
+            "author": null,
+            "title": "Brain-computer interfaces: A new voice for people with paralysis - Medical Xpress",
+            "description": "Recent advancements in brain-computer interfaces are helping restore communication in clinical trial participants who have lost the ability to speak or make voluntary movements. New findings were presented at Neuroscience 2026, the annual meeting of the Socie…",
+            "url": "https://medicalxpress.com/news/2026-11-brain-interfaces-voice-people-paralysis.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/neurolink.jpg",
+            "publishedAt": "2026-11-14T17:00:06Z",
+            "content": "Recent advancements in brain-computer interfaces are helping restore communication in clinical trial participants who have lost the ability to speak or make voluntary movements. New findings were pre… [+2468 chars]"
         },
         {
             "source": {
@@ -482,6 +690,19 @@
             "urlToImage": "https://www.health.com/thmb/bWs3SSCVom-8TNBaHrJEvEO6hTM=/1932x0/filters:no_upscale():max_bytes(150000):strip_icc()/Health-GettyImages-FallFruits-1a86d84ce0884e71acc509ffba526fc9.jpg",
             "publishedAt": "2026-11-14T13:30:00Z",
             "content": "When youre feeling backed up, even a little relief can make a big difference in your day. What you eat may help, and adding more fruit is a simple place to start.\r\nFall favorites like apples and pear… [+4439 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Newser"
+            },
+            "author": "John Johnson",
+            "title": "A Senior's Death in Florida May Be a Dengue Omen - Newser",
+            "description": "More and more in the US, the disease is being acquired locally, not through travelers",
+            "url": "https://www.newser.com/story/399720/a-seniors-death-in-florida-may-be-a-dengue-omen.html",
+            "urlToImage": "https://cdn.newser.com/image/1723558-12-20261114074003.jpeg",
+            "publishedAt": "2026-11-14T13:10:00Z",
+            "content": "Of the roughly 880 infections reported in Florida this year, 503 were infected locally, a sharp jump from the previous record of 189 in 2023. And if Florida is ground zero for US cases, the Tampa are… [+557 chars]"
         },
         {
             "source": {
@@ -3199,149 +3420,6 @@
             "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x1688+0+0/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fbd%2Fa6%2Fcc5e1ac9447eb4899a9f7bb3319a%2F20261028-npr-measlesvaccinepa-vasta-137-horz.jpg",
             "publishedAt": "2026-11-10T10:00:00Z",
             "content": "Measles spreads incredibly fast. For the last few months, so has Dale Weiser's phone number.\r\nWeiser is the clinical services supervisor for the Chester County Health Department in south-central Penn… [+8436 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "News-Medical.Net"
-            },
-            "author": "Tarun Sai Lomte",
-            "title": "Drinking 2–3 cups of coffee a day? A study of 495,000 adults links it to lower AF risk - News-Medical",
-            "description": "In a prospective study of 495,269 UK Biobank participants followed for approximately 13 years, researchers found that coffee consumption was associated with a 7% to 11% lower risk of atrial fibrillation (AF), with the strongest association observed at 2–3 cup…",
-            "url": "https://www.news-medical.net/news/20261109/Drinking-2e280933-cups-of-coffee-a-day-A-study-of-495000-adults-links-it-to-lower-AF-risk.aspx",
-            "urlToImage": "https://www.news-medical.net/images/news/ImageForNews_851109_17942827401173897.jpg",
-            "publishedAt": "2026-11-10T03:53:00Z",
-            "content": "Could your daily coffee or tea habit influence your heart rhythm? A 13-year study involving nearly half a million UK adults examines how different consumption levels relate to atrial fibrillation ris… [+5352 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "WZTV"
-            },
-            "author": "Dennis Ferrier",
-            "title": "Mysterious tick disease affecting a new Tennessean every day - WZTV",
-            "description": "A single tick bite can trigger a potentially life-threatening allergy to red meat. Now, for the first time, Tennessee is tracking the condition, and the numbers",
-            "url": "https://fox17.com/fox-17-investigates/mysterious-tick-disease-effecting-a-new-tennessean-every-day",
-            "urlToImage": "https://fox17.com/resources/media2/16x9/988/1320/0x1/90/cd280d4e-6ccb-4797-87ad-1a8c06927546-Screenshot20261109192632.png",
-            "publishedAt": "2026-11-10T01:45:55Z",
-            "content": "NASHVILLE, Tenn. (WZTV) A single tick bite can trigger a potentially life-threatening allergy to red meat. Now, for the first time, Tennessee is tracking the condition, and the numbers are raising co… [+7385 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "KOMO News"
-            },
-            "author": "KOMO News Staff",
-            "title": "Dead birds in Snohomish County test positive for bird flu; officials say low public risk - KOMO",
-            "description": "Dead birds found at Lake Tye Park in Monroe have preliminarily tested positive for Highly Pathogenic Avian Influenza, also known as bird flu, the Snohomish Coun",
-            "url": "https://komonews.com/news/local/dead-birds-in-snohomish-county-test-positive-for-bird-flu-officials-say-low-public-risk-avian-influenza-monrie-lake-park-wdfw-chickens-geese-ducks-flock-sickness-pandemic-symptoms",
-            "urlToImage": "https://komonews.com/resources/media2/16x9/3000/1320/0x157/90/eb78ba49-0504-4d78-906a-9ef0511bda9d-GettyImages92431052.jpg",
-            "publishedAt": "2026-11-10T01:28:09Z",
-            "content": "MONROE, Wash. Dead birds found at Lake Tye Park in Monroe have preliminarily tested positive for Highly Pathogenic Avian Influenza, also known as bird flu, the Snohomish County Health Department said… [+1832 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Health.com"
-            },
-            "author": "https://www.facebook.com/Health/",
-            "title": "How Many Squats You Should Be Able to Do for Your Age, According to a Trainer - Health.com",
-            "description": "Squats are a simple way to gauge strength, balance, and mobility. Learn proper form, how to improve safely, and how your squat number compares with other folks your age",
-            "url": "https://www.health.com/how-many-squats-should-you-do-12244554",
-            "urlToImage": "https://www.health.com/thmb/nuqwIOeQl82CSELRxh5iWW0EjCA=/7360x0/filters:no_upscale():max_bytes(150000):strip_icc()/HDC-GettyImages-980313888-96ea06ddfc5842cb8dc5a4efdf5352e1.jpg",
-            "publishedAt": "2026-11-10T01:22:04Z",
-            "content": "Youre probably squatting throughout the day without even realizing it: crouching down to pet your cat, slipping into the drivers seat of your car, even standing up from your sofa. Those movements all… [+5217 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "NBC Chicago"
-            },
-            "author": "Alex Dvorak",
-            "title": "Does it feel like everyone is sick right now? Here's which viruses are circulating - NBC 5 Chicago",
-            "description": "Does it feel like everyone is sick right now?",
-            "url": "https://www.nbcchicago.com/news/health/health-wellness-science-news/does-it-feel-like-everyone-is-sick-right-now-heres-which-viruses-are-circulating/4014384/",
-            "urlToImage": "https://media.nbcchicago.com/2026/11/GettyImages-2190382567.jpg?quality=85&strip=all&resize=1200%2C675",
-            "publishedAt": "2026-11-10T00:33:07Z",
-            "content": "Does it feel like everyone is sick right now? \r\nYou're not alone. \r\nAccording to the Centers for Disease Control and Prevention, a number of respiratory viruses are showing \"unusual trends\" for this … [+2603 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Medical Xpress"
-            },
-            "author": "Medical Xpress",
-            "title": "After brain surgery, man sees cat's eyes in human faces - Medical Xpress",
-            "description": null,
-            "url": "https://medicalxpress.com/news/2026-11-brain-surgery-cat-eyes-human.html",
-            "urlToImage": null,
-            "publishedAt": "2026-11-10T00:10:06Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Science Daily"
-            },
-            "author": null,
-            "title": "Scientists finally discover why we learn to love bitter coffee - Science Daily",
-            "description": "Scientists have uncovered a hidden gut-to-brain dopamine pathway that helps explain why bitter coffee and other initially unpleasant flavors can become favorites over time. The discovery reveals how the brain learns to crave certain foods and could eventually…",
-            "url": "https://www.sciencedaily.com/releases/2026/11/261108233100.htm",
-            "urlToImage": "https://www.sciencedaily.com/images/1920/boy-tasting-bitter-coffee.webp",
-            "publishedAt": "2026-11-09T23:21:03Z",
-            "content": "A first taste of black coffee can be surprisingly unpleasant. Its sharp bitterness is the kind of flavor our brains are naturally inclined to avoid. Yet millions of people eventually come to enjoy th… [+7870 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "WPTZ"
-            },
-            "author": "Michael Cusanelli, Sophia Venturo",
-            "title": "Measles cases confirmed in Orleans County; North Country Hospital to screen visitors - WPTZ",
-            "description": "The Vermont Department of Health has confirmed a small number of measles cases in Orleans County, according to a release sent out on Monday.",
-            "url": "https://www.mynbc5.com/article/north-country-hospital-to-screen-guests-for-measles/74376492",
-            "urlToImage": "https://kubrick.htvapps.com/vidthumb/6c614484-273c-4e17-9a38-2d9ec8d82a90/66aa6709-25b5-4c52-b3d6-1847cc7270cc.jpg?crop=0.821xw%3A0.821xh%3B0.0877xw%2C0&resize=1200%3A*",
-            "publishedAt": "2026-11-09T22:54:00Z",
-            "content": "NEWPORT, Vt.The Vermont Department of Health has confirmed a small number of measles cases in Orleans County, according to a release sent out on Monday.\r\nThe department said the health risk to the ge… [+1597 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "WSPA 7News"
-            },
-            "author": "Victoria Newsome",
-            "title": "Rising flu rates lead SC hospitals to place a temporary restriction on visitors - WSPA 7News",
-            "description": "Due to increased rates of community flu and other respiratory illnesses, South Carolina hospitals, including Prisma Health, Bon Secours St. Francis Downtown, and Bon Secours St. Francis Eastside, will restrict younger visitors starting Tuesday, Nov. 10.",
-            "url": "https://www.wspa.com/news/rising-flu-rates-lead-sc-hospitals-to-place-a-temporary-restriction-on-visitors/",
-            "urlToImage": "https://www.wspa.com/wp-content/uploads/sites/53/2026/11/vlcsnap-2026-11-09-17h21m56s672.png?w=1280",
-            "publishedAt": "2026-11-09T22:39:39Z",
-            "content": "GREENVILLE, S.C. (WSPA) Due to increased rates of community flu and other respiratory illnesses, many South Carolina hospitals, including Prisma Health, Bon Secours St. Francis Downtown, and Bon Seco… [+2731 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "WYFF4 Greenville"
-            },
-            "author": null,
-            "title": "Flu, other respiratory illnesses lead hospital system to temporarily restrict visitors - WYFF",
-            "description": "Prisma Health announced Monday that it is restricting children from visiting hospitalized patients.",
-            "url": "https://www.wyff4.com/article/flu-other-respiratory-illnesses-lead-hospital-system-to-temporarily-restrict-visitors/74379929",
-            "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/prisma-grfx-1537889846.jpg?crop=1.00xw%3A0.753xh%3B0%2C0.123xh&resize=1200%3A*",
-            "publishedAt": "2026-11-09T22:13:13Z",
-            "content": "GREENVILLE, S.C.Prisma Health announced Monday that it is restricting children from visiting hospitalized patients.\r\nThe hospital system said the restrictions come during increased rates of influenza… [+585 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "WPLG Local 10"
-            },
-            "author": null,
-            "title": "Florida ground zero for dengue in US; here’s the area driving the outbreak - WPLG Local 10",
-            "description": "Florida has become ground zero in the United States’ fight against dengue, as climate change has not only become a breeding ground for more mosquitoes, but ones with a more potent viral bite.",
-            "url": "https://www.local10.com/news/local/2026/11/09/florida-ground-zero-for-dengue-in-us-heres-the-area-driving-the-outbreak/",
-            "urlToImage": "https://wplginc-wplg-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd2p7h58ldpiqzj.cloudfront.net%2F11-09-2026%2Ft_099ea5bce9634416b73099ed788603b3_name_49539752509_hdtv.jpg?auth=e0d167644b31c593a6f493a8b1faa737e0aac6902382ba46ad108fec19249915&width=700",
-            "publishedAt": "2026-11-09T21:55:36Z",
-            "content": null
         }
     ]
 }

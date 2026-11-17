@@ -4,6 +4,188 @@
     "articles": [
         {
             "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "WSJ",
+            "title": "China’s Domestic Demand Continues to Disappoint - WSJ",
+            "description": null,
+            "url": "https://www.wsj.com/economy/chinas-domestic-demand-continues-to-disappoint-cbc24852",
+            "urlToImage": null,
+            "publishedAt": "2026-11-16T04:16:27Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "WSJ",
+            "title": "Exclusive | Trump Administration to Name Nvidia Among AI ‘National Champions’ - WSJ",
+            "description": null,
+            "url": "https://www.wsj.com/tech/ai/trump-administration-to-name-nvidia-among-ai-national-champions-c9284344",
+            "urlToImage": null,
+            "publishedAt": "2026-11-16T03:59:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Newsnationnow.com"
+            },
+            "author": "Rob Taub",
+            "title": "Jensen Huang’s wife could land massive divorce settlement, attorney says - NewsNation",
+            "description": "\"Lori (Huang) stands to gain approximately $70 billion,\" divorce attorney Vikki Ziegler says if the couple splits.",
+            "url": "https://www.newsnationnow.com/business/jensen-huang-lori-huang-divorce-speculation/",
+            "urlToImage": "https://www.newsnationnow.com/wp-content/uploads/sites/108/2026/11/snapshot-2026-11-15T165346.570.jpg?w=1280",
+            "publishedAt": "2026-11-16T03:47:29Z",
+            "content": "(NewsNation) After Nvidia CEO Jensen Huang resigned from his position earlier this week following reports of extramarital affairs, speculation began about whether his marriage could be in jeopardy.\r\n… [+2345 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Investors sue chip giant Intel after 29% stock plunge - BBC",
+            "description": "A proposed class action says Intel hid the impact of slowing sales, inflating its shares.",
+            "url": "https://www.bbc.com/news/articles/cw62p42p288do",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/e63c/live/afebacc0-e14f-11f1-8fb1-c394c4317b6a.jpg",
+            "publishedAt": "2026-11-16T03:04:01Z",
+            "content": "The lawsuit, filed by legal firm Robbins Geller Rudman &amp; Dowd on behalf of owners of Intel common shares between 23 July and 29 October this year, was filed against the chipmaker, its chief execu… [+41 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Victoria Bisset",
+            "title": "Costco recalls whipped cream over potential cleaning chemical contamination - The Washington Post",
+            "description": "A batch of a Kirkland whipped cream product sold in 12 states has been withdrawn after customers reported “a chemical smell and taste.\"",
+            "url": "https://www.washingtonpost.com/nation/2026/11/15/costco-recalls-whipped-cream-over-potential-contamination/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/MCZHOKJ2OVUWJU32JVD5HWQMR4.jpg&w=1440",
+            "publishedAt": "2026-11-16T02:30:00Z",
+            "content": "A batch of whipped cream sold at Costco last month has been recalled over concerns it contains traces of cleaning chemicals. \r\nContainers of Kirkland Signature Real Heavy Whipped Cream soldbetween Oc… [+128 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Michael Shepard, Tony Czuczka",
+            "title": "Nvidia’s CEO Search Draws Fire With Bessent’s ‘Shakeup’ Call - Bloomberg",
+            "description": "Pressure is mounting on Nvidia Corp. days after it ousted Jensen Huang as chief executive officer, with Treasury Secretary Scott Bessent urging the company to make a “dramatic” leadership shakeup and come clean about its compliance with export controls on its…",
+            "url": "https://www.bloomberg.com/news/articles/2026-11-15/nvidia-s-ceo-search-draws-fire-with-bessent-s-call-for-shakeup",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iIO6sVkPuqXY/v0/1200x799.jpg",
+            "publishedAt": "2026-11-16T02:22:00Z",
+            "content": "Pressure is mounting on Nvidia Corp. days after it ousted Jensen Huang as chief executive officer, with Treasury Secretary Scott Bessent urging the company to make a dramatic leadership shakeup and c… [+461 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Financial Times"
+            },
+            "author": null,
+            "title": "Johnson & Johnson looking to buy eye disease biotech for up to $3.4bn - Financial Times",
+            "description": "Drugmaker’s potential acquisition of Ollin Biosciences is latest in glut of deals in biotechnology sector",
+            "url": "https://www.ft.com/content/450100ba-074c-46a6-b962-89dbef146135?syn-25a6b1a6\\\\u003d1",
+            "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Feea97105-5969-4dc5-b6a4-0dc67d5229f0.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+            "publishedAt": "2026-11-15T23:54:31Z",
+            "content": "Then $75 per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial."
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Stephen Clark",
+            "title": "Vulcan rocket fails during launch, dealing major blow to SpaceX competitors - Ars Technica",
+            "description": "This was the first total mission failure in United Launch Alliance's 20-year history.",
+            "url": "https://arstechnica.com/space/2026/11/vulcan-rocket-fails-during-launch-dealing-major-blow-to-spacex-competitors/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2304790934-1152x648.jpg",
+            "publishedAt": "2026-11-15T23:11:54Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Fred Imbert",
+            "title": "Stock futures tick higher as traders brace for Nvidia earnings, Anthropic IPO this week: Live updates - CNBC",
+            "description": "The Dow, S&P 500 and Nasdaq posted their biggest weekly gains since August, rising more than 2% each.",
+            "url": "https://www.cnbc.com/2026/11/15/stock-market-today-live-updates.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108548216-1794329432695-Traders-Photo-20261110-KK-PRESS-006.jpg?v=1794329596&w=1920&h=1080",
+            "publishedAt": "2026-11-15T23:04:02Z",
+            "content": "Stock futures ticked higher on Sunday night following a volatile week on Wall Street, as traders await a highly anticipated earnings report from Nvidia and a potentially record-setting public market … [+1727 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Victoria Bisset",
+            "title": "Italy fines Meta $887M for accessing Android users’ photos - The Washington Post",
+            "description": "Meta's Facebook app accessed users’ photos and videos on Android devices without “obtaining specific consent,” Italian authorities said.",
+            "url": "https://www.washingtonpost.com/technology/2026/11/15/meta-fined-887m-by-italy-accessing-android-users-photos/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/YVJD3JWMN3R32VGA2HPOSN26SY.JPG&w=1440",
+            "publishedAt": "2026-11-15T22:43:28Z",
+            "content": "Meta's Facebook app accessed users photos and videos on Android devices without obtaining specific consent, Italian authorities said.\r\nNovember 15, 2026 at 11:30 a.m. ESTToday at 11:30 a.m. EST"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "TheStreet"
+            },
+            "author": "TheStreet",
+            "title": "Popular pasta chain closing over 40 more restaurants - TheStreet",
+            "description": null,
+            "url": "https://www.thestreet.com/restaurants/noodles-and-company-closing-over-40-more-locations",
+            "urlToImage": null,
+            "publishedAt": "2026-11-15T22:03:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "wdwnt.com"
+            },
+            "author": "Lauren Stracner",
+            "title": "Orlando International Airport Issues Ground Stop Two Days After Nationwide Incident - WDW News Today",
+            "description": "Orlando International Airport (MCO) has issued a ground stop due to an aircraft emergency, reports WESH 2 News.",
+            "url": "https://wdwnt.com/2026/11/orlando-international-airport-issues-another-ground-stop-two-days-after-nationwide-incident/",
+            "urlToImage": "https://r2-media.wdwnt.com/2026/11/image-105.png",
+            "publishedAt": "2026-11-15T21:28:50Z",
+            "content": "UPDATE: A temporary ground stop was issued at Orlando International Airport (MCO) earlier today (Sunday, November 15, 2026) around 3:46 p.m. due to an aircraft emergency and a fire alarm/sprinkler ac… [+782 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Aidan Williams",
+            "title": "US, Allies Agree to Guard AI Supply Chains From China, FT Says - Bloomberg.com",
+            "description": "The US and its allies have agreed to jointly identify and protect artificial intelligence technologies and supply chains considered vulnerable to China, the Financial Times reported Sunday.",
+            "url": "https://www.bloomberg.com/news/articles/2026-11-15/us-allies-agree-to-guard-ai-supply-chains-from-china-ft-says",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/idW37u8mFYPw/v1/1200x800.jpg",
+            "publishedAt": "2026-11-15T20:16:10Z",
+            "content": "The US and its allies have agreed to jointly identify and protect artificial intelligence technologies and supply chains considered vulnerable to China, the Financial Times reported Sunday.\r\nJapan, A… [+303 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "Tim Sullivan",
+            "title": "Could everything be broken? Grounded jets, Microsoft outage, AI chaos make some wonder - AP News",
+            "description": "After the Silicon Valley chaos spurred by reports of an AI billionaire's affair with a suspected Chinese spy and the Microsoft outage that upended millions of workers' days, Friday's air travel ground stop across the U.S. had many people feeling that somethin…",
+            "url": "https://apnews.com/article/flights-grounded-microsoft-ai-chaos-ea5f7a1f95a38f65dd57e58cfc17672b",
+            "urlToImage": "https://dims.apnews.com/dims4/default/a95ac29/2147483647/strip/true/crop/5061x3367+0+0/resize/1200x798!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fde%2Faf%2Ffa797711ffb9d79f1266993a6095%2F7868c742d9c14994a1689fc96d1cfb2f",
+            "publishedAt": "2026-11-15T19:10:00Z",
+            "content": "Maybe the trouble started with the AI billionaire and the Silicon Valley chaos that followed talk of his infidelity, including with an alleged Chinese spy. Or maybe it was the Microsoft outage that, … [+5169 chars]"
+        },
+        {
+            "source": {
                 "id": null,
                 "name": "Financial Times"
             },
@@ -30,6 +212,32 @@
         },
         {
             "source": {
+                "id": null,
+                "name": "Techpowerup.com"
+            },
+            "author": null,
+            "title": "Samsung, SK hynix, and Micron Fail to Get DRAM Antitrust Suit Dismissed - TechPowerUp",
+            "description": "The class-action lawsuit accusing Samsung, SK hynix, and Micron of restricting DRAM supply is moving forward. On November 14, U.S. District Judge Noël Wise of the Northern District of California denied the three companies' joint motion to dismiss, finding the…",
+            "url": "https://www.techpowerup.com/354863/samsung-sk-hynix-and-micron-fail-to-get-dram-antitrust-suit-dismissed",
+            "urlToImage": "https://www.techpowerup.com/img/RzS0hiQmE57LVcjJ.jpg",
+            "publishedAt": "2026-11-15T18:13:01Z",
+            "content": "AthenaThey need to prove collusion, that all 3 got together and said they will artificially create shortages, to force price increases, and that is not what is going on, they got buyers for anything … [+1087 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Forbes",
+            "title": "Amazon Stretches 2026 Black Friday-Cyber Monday To 12-Day Sales Event - Forbes",
+            "description": null,
+            "url": "https://www.forbes.com/sites/pamdanziger/2026/11/15/amazon-stretches-2026-black-friday-cyber-monday-to-12-day-sales-event/",
+            "urlToImage": null,
+            "publishedAt": "2026-11-15T18:02:43Z",
+            "content": null
+        },
+        {
+            "source": {
                 "id": "the-washington-post",
                 "name": "The Washington Post"
             },
@@ -40,6 +248,19 @@
             "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/BBRW3ZQNVIN2LIRVNZHS6DLA5I.JPG&w=1440",
             "publishedAt": "2026-11-15T18:00:00Z",
             "content": "Megaspeed, the Nvidia customer at the heart of the scandal, was suspected by U.S. and Singaporean authorities of breaching export controls.\r\nNovember 15, 2026 at 5:00 a.m. ESTToday at 5:00 a.m. EST"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Kiera Carter",
+            "title": "A new thumb implant promises improved function for people with arthritis - The Washington Post",
+            "description": "Here’s why it’s such a big deal, according to the surgeons performing the novel procedure.",
+            "url": "https://www.washingtonpost.com/wellness/2026/11/15/new-thumb-implant-promises-improved-function-people-with-arthritis/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/C55QVKFK3ZEZFJFIFVPVNO7ULM.jpg&w=1440",
+            "publishedAt": "2026-11-15T18:00:00Z",
+            "content": "Move your thumb around a bit. Youll see that it can shift back and forth, side to side and in circles; thats more than, say, your knee, which hinges just forward and backward.\r\nFor that impressive ra… [+387 chars]"
         },
         {
             "source": {
@@ -56,6 +277,19 @@
         },
         {
             "source": {
+                "id": "mashable",
+                "name": "Mashable"
+            },
+            "author": "Phil Clark",
+            "title": "Elon Musk and Marquees Brownlee feud over Cybercab bet - Mashable",
+            "description": "Will the famous YouTuber have to shave his head or does the world's richest man actually lose this one?",
+            "url": "https://mashable.com/tech/elon-musk-and-marquees-brownlee-feud-over-cybercab-bet",
+            "urlToImage": "https://helios-i.mashable.com/imagery/articles/03hDz965m0qAtZOazxInPr6/hero-image.fill.size_1200x675.v1794761424.png",
+            "publishedAt": "2026-11-15T17:26:13Z",
+            "content": null
+        },
+        {
+            "source": {
                 "id": "bloomberg",
                 "name": "Bloomberg"
             },
@@ -66,6 +300,19 @@
             "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ipasl3cBz3Yk/v1/1200x800.jpg",
             "publishedAt": "2026-11-15T17:23:56Z",
             "content": "Treasury Secretary Scott Bessent said that Nvidia Corp. needs a dramatic shakeup in leadership after the ouster of Chief Executive Officer Jensen Huang.\r\nSpeaking on Fox Newss Sunday Morning Futures,… [+211 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Olamilekan Okebiorun",
+            "title": "Saudi Arabia and Nigeria see oil sales to the world's largest economy plunge as Venezuela becomes a new US oil frontier, putting even Canada under pressure - Business Insider Africa",
+            "description": "The balance of Americas oil trade is shifting as Venezuela makes a major comeback in the US market, with crude imports from Nigeria and Saudi Arabia falling sharply while Canada, Washingtons largest supplier, faces growing price pressure",
+            "url": "https://africa.businessinsider.com/local/markets/saudi-arabia-and-nigeria-see-oil-sales-to-the-worlds-largest-economy-plunge-as/2mr17b8",
+            "urlToImage": "https://ocdn.eu/pulscms-transforms/1/DXsktkpTURBXy85OWIzNWFhYzg3OWI2MDI2OWM4MzY4NjliMTc2MWFlNS5qcGeSlQMAD80MwM0HLJMFzQSwzQJ2",
+            "publishedAt": "2026-11-15T17:00:36Z",
+            "content": "The developments come as the United States deepens its involvement in Venezuela's energy industry through a major oilfield agreement and oversight of more than $12 billion in natural resource revenue… [+3533 chars]"
         },
         {
             "source": {
@@ -83,6 +330,19 @@
         {
             "source": {
                 "id": null,
+                "name": "24/7 Wall St."
+            },
+            "author": "Rich Duprey",
+            "title": "Jim Cramer Says Nvidia’s New CEO Asked the Questions Jensen Huang Wouldn’t Answer - 24/7 Wall St.",
+            "description": "A leaked insult, a halved OpenAI commitment, and billions in guarantees for customers who couldn't pay for chips. Jim Cramer says one executive saw the danger early, and Nvidia's next chapter may hinge on whether investors agree.",
+            "url": "https://247wallst.com/investing/2026/11/15/jim-cramer-says-nvidias-new-ceo-asked-the-questions-jensen-huang-wouldnt-answer/",
+            "urlToImage": "https://247wallst.com/wp-content/uploads/2021/06/Jimcramerphoto.jpg",
+            "publishedAt": "2026-11-15T16:47:00Z",
+            "content": "Jim Cramer is supporting the executive Jensen Huang reportedly belittled. The Wall Street Journal reported that Huang called Colette Kress “a deer in the headlights” during a meeting this summer. Cra… [+3922 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "Abcnews.com"
             },
             "author": "ABC News - Breaking News, Latest News and Videos",
@@ -91,6 +351,45 @@
             "url": "https://abcnews.com/US/ups-plane-copa-airlines-flight-collide-taxiway-miami/story?id\\\\u003d138152923",
             "urlToImage": null,
             "publishedAt": "2026-11-15T16:43:43Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Newser"
+            },
+            "author": "Bob Cronin",
+            "title": "Family Dollar to Pay $63M in Overcharging Case - Newser",
+            "description": "Shoppers said shelf, advertised prices weren't honored at register",
+            "url": "https://www.newser.com/story/400027/family-dollar-to-pay-63m-in-overcharging-case.html",
+            "urlToImage": "https://cdn.newser.com/image/1724611-12-20261115110233.jpeg",
+            "publishedAt": "2026-11-15T16:32:00Z",
+            "content": "Family Dollar will pay $63 million to settle state and federal allegations that it routinely charged customers more at the register than the prices displayed on its shelves, website, and mobile app. … [+518 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": null,
+            "title": "Cruise passengers sharply divided over cutting buffet lines to sneak quick bites - Fox News",
+            "description": "Etiquette expert Diane Gottsman of Texas reveals why grabbing just one item while on a cruise ship buffet line still counts as cutting — and when rare exceptions apply.",
+            "url": "https://www.foxnews.com/travel/cruise-passengers-sharply-divided-cutting-buffet-lines-sneak-bites",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/02/buffets-explore-in-popularity-health-money-reasons-food-drink-2.gif",
+            "publishedAt": "2026-11-15T16:15:21Z",
+            "content": "A common cruise ship buffet habit is raising questions and eyebrows about what passengers should and shouldn't do while filling their plates during meals.\r\nCutting ahead of others to grab just one it… [+3150 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "TheStreet"
+            },
+            "author": "TheStreet",
+            "title": "Morgan Stanley doubles down on SpaceX price target ahead of 2027 - TheStreet",
+            "description": null,
+            "url": "https://www.thestreet.com/investing/stocks/morgan-stanley-reiterates-300-spacex-price-target-ahead-of-2027",
+            "urlToImage": null,
+            "publishedAt": "2026-11-15T15:33:00Z",
             "content": null
         },
         {
@@ -147,6 +446,19 @@
         },
         {
             "source": {
+                "id": "axios",
+                "name": "Axios"
+            },
+            "author": "Madison Mills",
+            "title": "How Nvidia's scandal knocked thousands off your 401(k) - Axios",
+            "description": "Nvidia's enormous weight in popular index funds means even those who have never purchased a single share of the company could feel the pain of its corporate upheaval in their 401(k)s.",
+            "url": "https://www.axios.com/2026/11/15/nvidia-stocks-401k-retirement-accounts",
+            "urlToImage": "https://images.axios.com/wGFYdo6iZiMCmA2-AZthh1lMhK4=/0x0:1920x1080/1366x768/2026/05/14/1778783042393.jpeg",
+            "publishedAt": "2026-11-15T13:56:14Z",
+            "content": "By the numbers: Index funds held nearly half of the assets in large private-sector 401(k) plans in 2023, according to the Investment Company Institute.\r\n<ul><li>Those funds include investments tracki… [+3044 chars]"
+        },
+        {
+            "source": {
                 "id": "usa-today",
                 "name": "USA Today"
             },
@@ -196,19 +508,6 @@
             "urlToImage": "https://cdn.newser.com/image/1723710-12-20261115070233.jpeg",
             "publishedAt": "2026-11-15T12:32:00Z",
             "content": "Sticker shock at the meat counter isn't a blip—it's the new baseline for beef. Writing for the Wall Street Journal, Patrick Thomas explains that the US cattle herd has shrunk to its smallest size in … [+1497 chars]"
-        },
-        {
-            "source": {
-                "id": "axios",
-                "name": "Axios"
-            },
-            "author": "Madison Mills",
-            "title": "How Nvidia's scandal knocked thousands off your 401(k) - Axios",
-            "description": "Nvidia's enormous weight in popular index funds means even those who have never purchased a single share of the company could feel the pain of its corporate upheaval in their 401(k)s.",
-            "url": "https://www.axios.com/2026/11/15/nvidia-stocks-401k-retirement-accounts",
-            "urlToImage": "https://images.axios.com/wGFYdo6iZiMCmA2-AZthh1lMhK4=/0x0:1920x1080/1366x768/2026/05/14/1778783042393.jpeg",
-            "publishedAt": "2026-11-15T12:31:43Z",
-            "content": "By the numbers: Index funds held nearly half of the assets in large private-sector 401(k) plans in 2023, according to the Investment Company Institute.\r\n<ul><li>Those funds include investments tracki… [+3044 chars]"
         },
         {
             "source": {
@@ -278,6 +577,32 @@
         {
             "source": {
                 "id": null,
+                "name": "Financial Times"
+            },
+            "author": null,
+            "title": "Anthropic’s IPO is the next big test for AI - Financial Times",
+            "description": "Even the most powerful frontier labs must bend to the power of public equity",
+            "url": "https://www.ft.com/content/bc8ac781-9837-46de-b7ed-958886ba43af?syn-25a6b1a6\\\\u003d1",
+            "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F79c77752-f9a4-4b8d-a77b-4bd01658786b.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+            "publishedAt": "2026-11-15T11:40:44Z",
+            "content": "Then $75 per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Forbes",
+            "title": "How A Stay-At-Home Dad’s Bagel Baking Hobby Turned Into A $46 Million Business - Forbes",
+            "description": null,
+            "url": "https://www.forbes.com/sites/johnschroyer/2026/11/15/how-a-stay-at-home-dads-bagel-baking-hobby-turned-into-a-46-million-business/",
+            "urlToImage": null,
+            "publishedAt": "2026-11-15T11:30:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "Internet"
             },
             "author": "The Hacker News",
@@ -300,6 +625,19 @@
             "urlToImage": "https://s.yimg.com/lo/mysterio/api/3200fae7d1eec9a0d21e57fe7578da5f87cd591c4f65b8d83b87eadf389ee729/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fbaa4a52b-0526-45af-8f7f-c55ee4a6f0f2_307d968542fdb6348cd5f675c2161791f8cfab046ce919cd7ca0ab9e4f8ceb20.jpg",
             "publishedAt": "2026-11-15T11:00:00Z",
             "content": "As if last week couldn't have gotten any busier, the biggest business story of the year rocked investors as scandal embroiled Nvidia CEO Jensen Huang and forced the \"godfather of AI\" to step aside, a… [+10441 chars]"
+        },
+        {
+            "source": {
+                "id": "the-hill",
+                "name": "The Hill"
+            },
+            "author": "Julia Shapero",
+            "title": "Crypto was hoping for a breakthrough in Congress. Now it’s bracing for investigations - The Hill",
+            "description": "The cryptocurrency industry is bracing for a changing of the guard in Congress, as Democrats take control of both the House and Senate with a more skeptical eye toward digital assets. After a major crypto regulation bill came up short in the Senate in Septemb…",
+            "url": "https://thehill.com/policy/technology/6219609-democrats-congress-control-crypto/",
+            "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2026/11/Crypto_Shapero_illo_SamanthaWong-AdobeStock.jpg?w=1280",
+            "publishedAt": "2026-11-15T11:00:00Z",
+            "content": "Skip to content\r\nThe cryptocurrency industry is bracing for a changing of the guard in Congress, as Democrats take control of both the House and Senate with a more skeptical eye toward digital assets… [+7035 chars]"
         },
         {
             "source": {
@@ -355,6 +693,45 @@
         },
         {
             "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Geoff Weiss",
+            "title": "Jensen Huang's daughter was on the rise inside Nvidia. Succession may have come too soon. - Business Insider",
+            "description": "Madison Huang, Nvidia senior marketing director for physical AI, has gained clout inside her father Jensen Huang's company, reshaping teams and deals.",
+            "url": "https://www.businessinsider.com/madison-huang-growing-influence-at-nvidia-jensen-daughter-2026-11#article",
+            "urlToImage": "https://i.insider.com/6af6161e0cc3ffba8779c84c?width=1200&format=jpeg",
+            "publishedAt": "2026-11-15T10:00:00Z",
+            "content": "Madison Huang has emerged as an increasingly powerful figure inside Nvidia, just as the company searches for her father's successor.\r\nHuang, daughter of former CEO Jensen Huang, has rapidly risen to … [+5527 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "WSJ",
+            "title": "How Jensen Huang Built the Backdoor Route That Keeps Beijing in the AI Race - WSJ",
+            "description": null,
+            "url": "https://www.wsj.com/tech/jensen-huang-backdoor-ai-data-centers-a5e4499d",
+            "urlToImage": null,
+            "publishedAt": "2026-11-15T09:48:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Zak Jason",
+            "title": "Jensen Huang, Elizabeth Holmes, and America's Most Powerful Religion. - Business Insider",
+            "description": "Jensen Huang, Elizabeth Holmes, and America's most powerful religion.",
+            "url": "https://www.businessinsider.com/jensen-huang-elizabeth-holmes-founder-cult-2026-11#article",
+            "urlToImage": "https://i.insider.com/6af75934b2c29afb4e56abae?width=1200&format=jpeg",
+            "publishedAt": "2026-11-15T09:37:00Z",
+            "content": "On Wednesday afternoon, I stood on the sixth floor of Saks Fifth Avenue in a $10,000 black grained-leather Tom Ford jacket, the uniform of Nvidia cofounder and chief executive Jensen Huang, while Jos… [+17702 chars]"
+        },
+        {
+            "source": {
                 "id": null,
                 "name": "Observer.co.uk"
             },
@@ -368,16 +745,29 @@
         },
         {
             "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
+                "id": null,
+                "name": "DW (English)"
             },
-            "author": "Tim Sullivan",
-            "title": "Could everything be broken? Grounded jets, Microsoft outage, AI chaos make some wonder - AP News",
-            "description": "After the Silicon Valley chaos spurred by reports of an AI billionaire's affair with a suspected Chinese spy and the Microsoft outage that upended millions of workers' days, Friday's air travel ground stop across the U.S. had many people feeling that somethin…",
-            "url": "https://apnews.com/article/flights-grounded-microsoft-ai-chaos-ea5f7a1f95a38f65dd57e58cfc17672b",
-            "urlToImage": "https://dims.apnews.com/dims4/default/a95ac29/2147483647/strip/true/crop/5061x3367+0+0/resize/1200x798!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fde%2Faf%2Ffa797711ffb9d79f1266993a6095%2F7868c742d9c14994a1689fc96d1cfb2f",
-            "publishedAt": "2026-11-15T05:38:00Z",
-            "content": "Maybe the trouble started with the AI billionaire and the Silicon Valley chaos that followed talk of his infidelity, including with an alleged Chinese spy. Or maybe it was the Microsoft outage that, … [+5175 chars]"
+            "author": "Ben Knight",
+            "title": "Could universal basic income be part of the solution in an AI economy? - DW.com",
+            "description": "The scale of the economic disruption caused by AI has led even conservative politicians to talk about universal basic income. But economists aren't convinced, and campaigners think we need to ask deeper questions.",
+            "url": "https://www.dw.com/en/how-ai-is-likely-to-change-germanys-job-market/a-79941597",
+            "urlToImage": "https://static.dw.com/image/72177294_6.jpg",
+            "publishedAt": "2026-11-15T06:35:52Z",
+            "content": "At the German government's 2026 Digital Summit in early November, Chancellor Friedrich Merz was asked by a journalist to square a difficult economic circle: If artificial intelligence could make hund… [+7782 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Gage Goulding, Yoonjung Seo",
+            "title": "South Korea’s viral ‘Scarf Man’ tells customers not to buy his products. They’re lining up anyway - CNN",
+            "description": "A shopkeeper at Namdaemun Market in Seoul has become an anti-influencer thanks to his unorthodox sales strategy.",
+            "url": "https://www.cnn.com/2026/11/15/travel/namdaemun-scarf-man-seoul-south-korea-intl-hnk",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/dsc07013-20261113064508571.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2026-11-15T05:30:15Z",
+            "content": "Most shopkeepers will do just about anything to make a sale.\r\nBut one merchant in Seoul has built an unexpected internet following by doing the exact opposite.\r\nDidnt you come here knowing that we se… [+4675 chars]"
         },
         {
             "source": {
@@ -407,6 +797,19 @@
         },
         {
             "source": {
+                "id": null,
+                "name": "TheStreet"
+            },
+            "author": "Opeyemi Babalola",
+            "title": "Michael Burry sees 2 chip winners in Nvidia’s shake-up - Yahoo Finance",
+            "description": "Burry is adding to his bearish semiconductor bets after Jensen Huang’s exit. Not every Nvidia rival is in his crosshairs.",
+            "url": "https://www.thestreet.com/investing/michael-burry-amd-broadcom-nvidia-shakeup",
+            "urlToImage": "https://s.yimg.com/lo/mysterio/api/b015495181e1fb279762d605491d95f91a74d5a8425ff4483deb636f50da81d4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthestreet_881%2Fc227d60f1596da672a5dfe41dbafd938.jpg",
+            "publishedAt": "2026-11-15T03:42:10Z",
+            "content": "Just over a week ago, \"The Big Short\" investor Michael Burry pulled most of his chips off a winning Caterpillar bet. He cut those puts by 75% after they roughly quadrupled. Then Nvidia's leadership t… [+5056 chars]"
+        },
+        {
+            "source": {
                 "id": "cbs-news",
                 "name": "CBS News"
             },
@@ -421,6 +824,19 @@
         {
             "source": {
                 "id": null,
+                "name": "Breakingthenews.net"
+            },
+            "author": null,
+            "title": "Dallas Love Field Airport closed due to 'bomb threat' - Breakingthenews.net",
+            "description": "Dallas Love Field Airport was closed on Saturday evening, local time, due to a potential bomb threat, according to media reports citing Air Traffic Control. There was no additional information about t...",
+            "url": "https://breakingthenews.net/Article/Dallas-Love-Field-Airport-closed-due-to-'bomb-threat'/67565038",
+            "urlToImage": "https://cdn.ttweb.net/News/images/413261.jpg?preset=w800_q70",
+            "publishedAt": "2026-11-15T03:02:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "Fox Business"
             },
             "author": "Brie Stimson",
@@ -430,19 +846,6 @@
             "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/0/0/couple-retirement-planning.jpg?ve=1&tl=1",
             "publishedAt": "2026-11-15T02:32:22Z",
             "content": "The IRS has increased the amount workers can contribute to their 401(k), up $1,000 from last year.\r\nThe government inflation-adjusted the 2027 limit to $25,500, a boost from 2026’s $24,500 limit, acc… [+2435 chars]"
-        },
-        {
-            "source": {
-                "id": "the-wall-street-journal",
-                "name": "The Wall Street Journal"
-            },
-            "author": "WSJ",
-            "title": "How Jensen Huang Built the Backdoor Route That Keeps Beijing in the AI Race - WSJ",
-            "description": null,
-            "url": "https://www.wsj.com/tech/jensen-huang-backdoor-ai-data-centers-a5e4499d",
-            "urlToImage": null,
-            "publishedAt": "2026-11-15T02:00:00Z",
-            "content": null
         },
         {
             "source": {
@@ -547,6 +950,19 @@
             "urlToImage": "https://s.hdnux.com/photos/01/67/74/00/31440954/5/rawImage.jpg",
             "publishedAt": "2026-11-14T22:30:10Z",
             "content": "A H-E-B employee hands out a $100 gift card to a customer in Houston on Saturday, November 14, 2026\r\nCourtesy/H-E-B\r\nThousands shoppers who were in H-E-B stores across Texas on Saturday found themsel… [+1426 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Marc Vartabedian, David Thompson",
+            "title": "Exclusive | Denny’s to restore Jensen Huang plaque after diner ‘bosses’ removed it over Nvidia scandal - New York Post",
+            "description": "The framed display sat above the storied booth that Huang and two of his co-founders occupied when they conjured up what would become the key driver of today’s artificial intelligence boom.",
+            "url": "https://nypost.com/2026/11/14/business/dennys-to-restore-jensen-huang-plaque-after-san-jose-diner-bosses-removed-it-over-nvidia-scandal/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/11/148764953.jpg?quality=75&strip=all&w=1200",
+            "publishedAt": "2026-11-14T22:29:00Z",
+            "content": "Dennys is restoring its local shrine to Nvidia at the Silicon Valley diner where Jensen Huang famously founded the company in 1993 after bosses at the restaurant hastily removed it shortly after the … [+3924 chars]"
         },
         {
             "source": {
@@ -846,6 +1262,19 @@
             "urlToImage": "https://dims.apnews.com/dims4/default/5b8ef2c/2147483647/strip/true/crop/6602x4401+0+0/resize/1200x800!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F03%2F2e%2F087c2043255fba01e95bbb6c9997%2F69d444fe731a434aa9d62fb4f0af95e6",
             "publishedAt": "2026-11-14T14:34:00Z",
             "content": "WASHINGTON (AP) Airlines across the U.S. worked to recover from the longest nationwide ground stop in 25 years that canceled more than 2,500 flights Saturday, spread ripple effects around the world, … [+8096 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Sarah Agostino",
+            "title": "Heating oil prices are up 59% from last winter. The spike is 'crushing folks,' Maine nonprofit says - CNBC",
+            "description": "With household budgets already squeezed by persistent inflation, some residents are seeking emergency help with heating oil bills before winter begins.",
+            "url": "https://www.cnbc.com/2026/11/14/heating-oil-price-spike-household-budgets.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108284975-1774899581315-gettyimages-2268594719-US_STOCKS.jpeg?v=1794434391&w=1920&h=1080",
+            "publishedAt": "2026-11-14T14:30:01Z",
+            "content": "An oil tank stands outside a residence at a mobile home cooperative in Veazie, Maine, Oct. 31, 2026.\r\nWinter heating bills can strain household budgets. This year, a spike in heating oil prices could… [+9355 chars]"
         },
         {
             "source": {
@@ -5877,435 +6306,6 @@
             "urlToImage": "https://image.cnbcfm.com/api/v1/image/108213026-1760627921721-gettyimages-2240983942-WALLER_FED.jpeg?v=1760627950&w=1920&h=1080",
             "publishedAt": "2026-11-10T09:00:01Z",
             "content": "Federal Reserve Governor Christopher Waller said Tuesday the central bank needs to follow through on expectations for additional interest rate hikes or risk its credibility, even suggesting that a la… [+3164 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNBC"
-            },
-            "author": "Jenny Lee",
-            "title": "SoftBank swings to $7 billion loss after U.S. data center hit and Intel share decline - CNBC",
-            "description": "SoftBank Group announces fiscal second-quarter results for the year ending March 31, 2027.",
-            "url": "https://www.cnbc.com/2026/11/10/softbank-2q-earnings-tech-selloff.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108263657-1770697316782-gettyimages-2228259809-TFSPI_07082025-9375.jpeg?v=1770697329&w=1920&h=1080",
-            "publishedAt": "2026-11-10T06:54:32Z",
-            "content": "SoftBank reported a fiscal second-quarter net loss of 1.12 trillion yen ($7 billion) on Tuesday, as losses tied to U.S. AI data center equipment procurement and Intel share declines weighed on earnin… [+3794 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "STAT"
-            },
-            "author": "Elaine Chen",
-            "title": "FDA warns GLP-1 drugs carry potential risk of rare eye condition - STAT",
-            "description": "The FDA on Monday warned that GLP-1 drugs carry a potential risk for a rare but serious eye condition that's sometimes referred to as an \"eye stroke.\"",
-            "url": "https://www.statnews.com/2026/11/09/glp-1-drugs-potential-risk-rare-eye-condition-naion-fda/",
-            "urlToImage": "https://www.statnews.com/wp-content/uploads/2026/11/AdobeStock_6400491-1024x576.jpeg",
-            "publishedAt": "2026-11-10T06:26:10Z",
-            "content": "The Food and Drug Administration on Monday warned that GLP-1 drugs carry a potential risk for a rare but serious eye condition and required pharma companies to inform patients and doctors of the risk… [+865 chars]"
-        },
-        {
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "author": null,
-            "title": "Red counties with data center projects swung away from GOP in midterms, analysis finds - Fox News",
-            "description": "Humans First's Amy Kremer warns data centers are driving voters away from Republicans as local control and property rights fuel community backlash.",
-            "url": "https://www.foxnews.com/politics/red-counties-data-center-projects-swung-away-gop-midterms-analysis-finds",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/data-center-security-gate-barrier.png",
-            "publishedAt": "2026-11-10T06:20:16Z",
-            "content": "FIRST ON FOX: A new analysis from a conservative AI safety group found that deep-red counties with large data centers or proposed projects shifted further toward Democrats in last week's midterm elec… [+6852 chars]"
-        },
-        {
-            "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
-            "author": "Susan Svrluga",
-            "title": "Vanderbilt University shuts down devices after cyber attack - The Washington Post",
-            "description": "A ransomware group claimed to have accessed Social Security numbers and other records.",
-            "url": "https://www.washingtonpost.com/education/2026/11/09/vanderbilt-university-shuts-down-devices-after-cyber-attack/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LWAFAGJZKSBK442XKV2FM265WI_size-normalized.jpg&w=1440",
-            "publishedAt": "2026-11-10T06:16:38Z",
-            "content": "Vanderbilt University officials urged people to shut down university devices, disconnect from school WiFi and remain extremely vigilant Monday as they investigated an active cybersecurity incident.\r\n… [+121 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Food & Wine"
-            },
-            "author": "https://www.facebook.com/foodandwine",
-            "title": "Beat the Black Friday Rush — Amazon’s Already Running Deals on Le Creuset, OXO, and More, From $5 - Food & Wine",
-            "description": "Amazon just announced the dates of its Black Friday 2026 sale, but the retailer is already clearing inventory on OXO, Le Creuset, All-Clad, Yeti, and more of our favorite kitchen brands, up to 78% off.",
-            "url": "https://www.foodandwine.com/amazon-black-friday-sale-announcement-early-deals-2026-12245322",
-            "urlToImage": "https://www.foodandwine.com/thmb/vhWV_xZwN_esCvTicD8Cb7N2w1k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/faw-t5-bf-announcement-2026-rkilgore-236f3f6dc34a4e7bb8a56bd3f1132787.jpg",
-            "publishedAt": "2026-11-10T06:10:00Z",
-            "content": "Amazon just announced its Black Friday 2026 dates, and were convinced its going to be the best sale yet. Expect mind-blowing discounts on your favorite brands from Thursday, November 19 to Monday, No… [+9794 chars]"
-        },
-        {
-            "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
-            "author": "Ellen Francis",
-            "title": "Iran hacked hundreds of French supermarket refrigerators, France says - The Washington Post",
-            "description": "France’s foreign minister blamed Iran for an “an attack of unprecedented scope and aggressiveness,” affecting nearly 700 sites.",
-            "url": "https://www.washingtonpost.com/world/2026/11/09/iran-hacked-hundreds-french-supermarket-refrigerators-france-says/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/57SG465V4F5HRDC7VHYEAMD2RU.JPG&w=1440",
-            "publishedAt": "2026-11-10T04:11:08Z",
-            "content": "France has found Iran responsible for a cyberattack on supermarket refrigerators across the country, the French foreign minister said Monday.\r\nNearly 700 food-distribution sites were targeted across … [+248 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": null,
-            "title": "China set for record trade surplus as AI boom pushes it past $1 trillion in just 10 months - CNN",
-            "description": "China’s trade surplus surged past $1 trillion in the first 10 months as a global race to build AI infrastructure buoyed sales of high-tech products and helped offset weak domestic demand, a dynamic likely to sharpen tensions with major trading partners.",
-            "url": "https://www.cnn.com/2026/11/09/business/china-trade-surplus-1-trillion-intl-hnk",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2304359162.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2026-11-10T04:10:00Z",
-            "content": "Chinas trade surplus surged past $1 trillion in the first 10 months as a global race to build AI infrastructure buoyed sales of high-tech products and helped offset weak domestic demand, a dynamic li… [+3086 chars]"
-        },
-        {
-            "source": {
-                "id": "politico",
-                "name": "Politico"
-            },
-            "author": "Christine Mui, Ari Hawkins, Gabby Miller, Sophia Cai, Owen Dahlkamp, Katherine Long",
-            "title": "‘This is a serious national security issue.’ GOP bucks Trump on Nvidia - Politico",
-            "description": "Republican lawmakers are weighing probes of Nvidia CEO Jensen Huang and looking to capitalize on the scandal engulfing the tech titan to tighten chip restrictions on China.",
-            "url": "https://www.politico.com/news/2026/11/09/republicans-trump-china-nvidia-scandal-01157896",
-            "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F2c%2F37%2F89ac036b4a6888c14335a6ced59d%2Ftrump-13973.jpg",
-            "publishedAt": "2026-11-10T03:25:00Z",
-            "content": "Senior Republican lawmakers are considering investigating Nvidia over CEO Jensen Huangs affair with an alleged Chinese spy, putting President Donald Trumps strong defense of the tech titan at odds wi… [+935 chars]"
-        },
-        {
-            "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
-            },
-            "author": "Chan Ho-him",
-            "title": "China’s trade surplus surpasses $1 trillion for a 2nd straight year, as exports surge 35% - AP News",
-            "description": "China says its trade surplus exceeded $1 trillion for a 2nd straight year. Customs figures released Tuesday showed exports in October surged 35% from a year earlier, driven by strong demand for high-tech goods like computer chips and autos. Imports also rose …",
-            "url": "https://apnews.com/article/china-trade-economy-trump-surplus-0fc56d7bd8bbff86ce6672bb67691f22",
-            "urlToImage": "https://dims.apnews.com/dims4/default/7bb0026/2147483647/strip/true/crop/3710x2473+0+0/resize/1200x800!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fd4%2Fa2%2F97af70a0bb68e942920b02d6bd56%2Fc454b0dc0f904d7daea415c05e64d437",
-            "publishedAt": "2026-11-10T03:20:51Z",
-            "content": "HONG KONG (AP) Chinas trade surplus exceeded $1 trillion for a second straight year, according to official data released Tuesday, as pressure mounts for greater balance in trade with Beijing. \r\nExpor… [+3836 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Investor's Business Daily"
-            },
-            "author": null,
-            "title": "Dow Jones Soars 1,132 Points As Amazon, Tesla Rally But Nvidia Dives; CPI Inflation Report Next - Investor's Business Daily",
-            "description": "Dow Jones futures were in focus after soaring 1,132 points ahead of the CPI inflation report. Amazon and Tesla rallied, but Nvidia dived.",
-            "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-amazon-tesla-nvidia-cpi-inflation-report/",
-            "urlToImage": "https://www.investors.com/wp-content/uploads/2025/07/Stock-wallstreet-multiflag-01-adobe.jpg",
-            "publishedAt": "2026-11-10T03:06:00Z",
-            "content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. … [+1064 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNBC"
-            },
-            "author": "Lee Ying Shan, Ananya Chetia",
-            "title": "S&P 500 futures are little changed as traders brace for crucial consumer inflation report: Live updates - CNBC",
-            "description": "Traders awaited the October consumer price index reading, due Tuesday morning.",
-            "url": "https://www.cnbc.com/2026/11/09/stock-market-today-live-updates.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108533726-1793986036847-gettyimages-2303345099-US_STOCKS.jpeg?v=1793986098&w=1920&h=1080",
-            "publishedAt": "2026-11-10T02:33:47Z",
-            "content": "U.S. stock futures largely traded near the flatline Monday night as traders awaited a pivotal consumer inflation report.\r\nS&amp;P 500 futures were marginally higher, while futures tied to theDow Jone… [+2252 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Nature.com"
-            },
-            "author": null,
-            "title": "A further acceleration of clean energy is needed for global CO2 emissions to peak and decline | Nature Climate Change - Nature",
-            "description": "This work projects a decline in global emissions in 2026 as a result of clean energy and in response to conflicts. Energy demand has increased, and will continue to, with electric vehicles and solar and wind deployment mitigating emissions; accelerated deploy…",
-            "url": "https://www.nature.com/articles/s41558-026-02821-8",
-            "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41558-026-02821-8/MediaObjects/41558_2026_2821_Fig1_HTML.png",
-            "publishedAt": "2026-11-10T02:10:16Z",
-            "content": "Efforts to tackle climate change are taking place amidst a background of profound changes, with wars leading to upheavals in global energy markets, a shift in government priorities towards defence, h… [+12551 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Food & Wine"
-            },
-            "author": "https://www.facebook.com/foodandwine",
-            "title": "This $150 Bottle Is the World’s Best Bourbon, According to the 2026 Top Shelf Awards - Food & Wine",
-            "description": "Elijah Craig 15-Year-Old Single Barrel Bourbon earned three major honors at the 2026 Top Shelf Awards, including Best Overall Bourbon. The 108-proof whiskey is aged for at least 15 years and produced by Heaven Hill, which was named Most Awarded U.S. Distiller…",
-            "url": "https://www.foodandwine.com/elijah-craig-15-year-single-barrel-wins-best-bourbon-at-top-shelf-awards-2026-12245854",
-            "urlToImage": "https://www.foodandwine.com/thmb/VA7iLBkU8E5UhoDz3Hg1aQX52LI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Best-Bourbon-2026-Top-Shelf-Awards-FT-DGTL1126-8dc44e54664f48dd8257049cfc9bfdbc.jpg",
-            "publishedAt": "2026-11-10T01:57:00Z",
-            "content": "The 2026 Top Shelf Awards has announced its winners, and Worlds Best Bourbon is a new take on a classic recipe. After scoring 99 points from judges, Elijah Craig 15-Year-Old Single Barrel Bourbon ear… [+2776 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": null,
-            "title": "'Cruise for life' ship Villa Vie Odyssey seized in Singapore - BBC",
-            "description": "The ship was meant to take guests around the world, but the trip was cut short after its operator ran out of money.",
-            "url": "https://www.bbc.com/news/articles/cqr7y7myer53o",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/54ec/live/78680920-dca3-11f1-93a0-e3acb3757eea.jpg",
-            "publishedAt": "2026-11-10T01:49:06Z",
-            "content": "Permanent residencies in its cabins ranged from $120,000 (£89,272) to $440,000. Those cabins were also available for rent from $3,500 a month, according to its website."
-        },
-        {
-            "source": {
-                "id": "nbc-news",
-                "name": "NBC News"
-            },
-            "author": "Jared Perlo, Rob Wile, Michael Kosnar",
-            "title": "Justice Department took over chip probe after Nvidia contacted federal investigators - NBC News",
-            "description": "The move followed outreach from an Nvidia representative to Commerce Department investigators probing whether a Singaporean company diverted Nvidia chips to China.",
-            "url": "https://www.nbcnews.com/tech/tech-news/nvidia-investigation-justice-fbi-commerce-jensen-huang-alice-china-rcna608397",
-            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-10/241026-Nvidia-ch-1134-892cf0.jpg",
-            "publishedAt": "2026-11-10T01:06:00Z",
-            "content": "Just a moment.\r\nWe are getting your experience ready."
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Cartoon Brew"
-            },
-            "author": null,
-            "title": "Disney Partners With Adobe On AI Tools That Turn Artists’ Sketches Into Finished Concept Art - Cartoon Brew",
-            "description": "As Disney unveils another major AI alliance, its growing investment in automation stands in stark contrast to ongoing layoffs and cost-cutting elsewhere.",
-            "url": "https://www.cartoonbrew.com/artificial-intelligence/disney-adobe-generative-ai-partnership-269226.html",
-            "urlToImage": "https://www.cartoonbrew.com/wp-content/uploads/2026/11/Princess-and-the-Frog.jpg",
-            "publishedAt": "2026-11-10T00:25:56Z",
-            "content": "Disney has lined up its next big AI partner, this time teaming with Adobe on a multi-year alliance to bring customized generative AI models into its creative pipelines across its businesses, includin… [+1962 chars]"
-        },
-        {
-            "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
-            "author": "Daniel Wu",
-            "title": "FDA tells GLP-1 makers to warn of potential vision loss side effect - The Washington Post",
-            "description": "The agency is requiring GLP-1 manufacturers to warn the drugs can increase risk of “eye stroke.”",
-            "url": "https://www.washingtonpost.com/health/2026/11/09/fda-tells-glp-1-makers-warn-potential-vision-loss-side-effect/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/6FYIFDG4ANBRTJ3RVV47ABPQGQ.jpg&w=1440",
-            "publishedAt": "2026-11-10T00:19:45Z",
-            "content": "The Food and Drug Administration announced Monday that it is requiringmanufacturers of GLP-1 medications to warn that they can increase the risk of vision loss.\r\nThe warning applies to all GLP-1 medi… [+68 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Fox Business"
-            },
-            "author": "Bonny Chu",
-            "title": "More than 1.2M Ford vehicles under federal probe after safety feature causes severe burns, 10 injured - Fox Business",
-            "description": "Federal regulators are investigating more than 1.2 million Ford Explorers after reports that side airbags caused severe burns during crashes.",
-            "url": "https://www.foxbusiness.com/lifestyle/more-than-1-2m-ford-vehicles-federal-probe-safety-feature-causes-severe-burns-10-injured",
-            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/02/0/0/black-ford-explorer.jpg?ve=1&tl=1",
-            "publishedAt": "2026-11-10T00:11:33Z",
-            "content": "Federal regulators have launched a preliminary evaluation into more than 1.2 million Ford vehicles after side airbags deployed during crashes reportedly left multiple occupants with severe burns requ… [+2104 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BleepingComputer"
-            },
-            "author": "Lawrence Abrams",
-            "title": "Vanderbilt University hit in BYOD ransomware attack, data theft claimed - BleepingComputer",
-            "description": "Vanderbilt University warns it is responding to a cyberattack claimed by the BYOD ransomware gang, which claims to have encrypted the university's databases and stolen sensitive student, employee, and research data.",
-            "url": "https://www.bleepingcomputer.com/news/security/vanderbilt-university-hit-in-byod-ransomware-attack-data-theft-claimed/",
-            "urlToImage": "https://www.bleepstatic.com/content/hl-images/2026/11/09/vanderbilt-skyline.jpg",
-            "publishedAt": "2026-11-09T23:52:12Z",
-            "content": "Vanderbilt University warns it is responding to a cyberattack claimed by the BYOD ransomware gang, which claims to have encrypted the university's databases and stolen sensitive student, employee, an… [+4028 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "WABC-TV"
-            },
-            "author": null,
-            "title": "Mike Bloomberg and Diana Taylor marry in private NYC ceremony - ABC7 New York",
-            "description": "Former New York City Mayor Mike Bloomberg and longtime partner Diana Taylor are married after 26 years together. The couple exchanged vows in a private ceremony at their Upper East Side home, according to a spokesperson.",
-            "url": "https://abc7ny.com/post/mike-bloomberg-diana-taylor-marry-private-nyc-ceremony/20028027/",
-            "urlToImage": "https://cdn.abcotvs.com/dip/images/20028018_110926-wabc-bloomberg-taylor-wed-img.jpg?w=1600",
-            "publishedAt": "2026-11-09T23:48:11Z",
-            "content": "NEW YORK CITY (WABC) -- Former New York City Mayor Mike Bloomberg and Diana Taylor are married after a relationship that began with a chance meeting 26 years ago, a spokesperson for Bloomberg announc… [+397 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "SFGate"
-            },
-            "author": "Madeline Wells",
-            "title": "Bay Area chain Johnny Doughnuts is closing half of its locations - SFGATE",
-            "description": "San Rafael-born doughnut chain Johnny Doughnuts is closing three of its six Bay Area locations.",
-            "url": "https://www.sfgate.com/food/article/bay-area-johnny-doughnuts-closing-22521755.php",
-            "urlToImage": "https://s.hdnux.com/photos/01/67/70/52/31427244/3/rawImage.jpg",
-            "publishedAt": "2026-11-09T23:34:38Z",
-            "content": "San Rafael-born chain Johnny Doughnuts is closing three locations.\r\nCourtesy of Johnny Doughnuts\r\nSan Rafael-born doughnut chain Johnny Doughnuts is closing three of its six Bay Area locations, as fi… [+2182 chars]"
-        },
-        {
-            "source": {
-                "id": "nbc-news",
-                "name": "NBC News"
-            },
-            "author": "Steve Kopack",
-            "title": "Trump Media cashes in on high-speed access to social media posts - NBC News",
-            "description": "The firm’s revenue jumped more than 200% after it started selling a direct feed of posts from Truth Social, whose most prominent user is President Trump.",
-            "url": "https://www.nbcnews.com/business/media/trump-media-revenue-surges-truth-social-rcna608428",
-            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-08/260804-trump-cellphone-mb-1159-3a7eaf.jpg",
-            "publishedAt": "2026-11-09T23:11:01Z",
-            "content": "Trump Media and Technology Group reported Monday that revenue surged 205% in the third quarter, which it says was primarily driven by selling a high-speed feed of posts on Truth Social.\r\nThe Truth AP… [+3042 chars]"
-        },
-        {
-            "source": {
-                "id": "the-wall-street-journal",
-                "name": "The Wall Street Journal"
-            },
-            "author": "WSJ",
-            "title": "New Type of Blood Thinner Approved to Prevent Repeat Strokes - WSJ",
-            "description": null,
-            "url": "https://www.wsj.com/health/pharma/new-type-of-blood-thinner-approved-to-prevent-repeat-strokes-79b4b6b9",
-            "urlToImage": null,
-            "publishedAt": "2026-11-09T22:50:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "cbs-news",
-                "name": "CBS News"
-            },
-            "author": "Marissa  Perlman",
-            "title": "Illinois ban on hemp-derived THC drinks paused for businesses part of federal lawsuit - CBS News",
-            "description": "The state has agreed to temporarily hold off on enforcement against those covered by the lawsuit for another week.",
-            "url": "https://www.cbsnews.com/chicago/news/illinois-pauses-ban-on-hemp-derived-thc-drinks-some-businesses/",
-            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/09/21d44de1-ce62-4afe-968c-ca2bb02bc593/thumbnail/1200x630/ec0fbeac5a375e948733557881f3fe8f/snapshot-2026-11-09t164431-801.jpg",
-            "publishedAt": "2026-11-09T22:49:00Z",
-            "content": "A new Illinois law was set to take effect this week, threatening to pull most hemp-derived THC drinks from traditional retail shelves. \r\nHowever, just days before that deadline, several hemp business… [+2516 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Hollywood Reporter"
-            },
-            "author": "Alex Weprin",
-            "title": "Skydance Details Cost Savings and Plans HBO Max-Paramount+ Bundle in First Post-Deal Earnings Report - The Hollywood Reporter",
-            "description": "The company says that a streaming bundle will launch early next year, while laying out where it expects to see synergies.",
-            "url": "http://www.hollywoodreporter.com/business/business-news/skydance-first-earnings-q3-post-wb-deal-1236751164/",
-            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/Skydance_Media_Event.jpg?w=1440&h=810&crop=1",
-            "publishedAt": "2026-11-09T22:44:53Z",
-            "content": "Skydance, in its first earnings report after completing its megadeal for Warner Bros. Discovery, outlined where it expects to drive synergies and cost savings and teased a bundle of HBO Max and Param… [+1674 chars]"
-        },
-        {
-            "source": {
-                "id": "cbs-news",
-                "name": "CBS News"
-            },
-            "author": "Megan  Cerullo",
-            "title": "Trump administration proposes stricter work search rules to qualify for unemployment benefits - CBS News",
-            "description": "Under a proposed federal rule, Americans seeking unemployment aid would have to conduct more job searches each week.",
-            "url": "https://www.cbsnews.com/news/trump-work-search-rules-unemployment-benefits/",
-            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/08/21/92c030d7-07b4-4d13-ab43-201d163e130c/thumbnail/1200x630/ff92c3d63b0f8baa22045a9d58cdc22b/gettyimages-179125086.jpg",
-            "publishedAt": "2026-11-09T22:40:00Z",
-            "content": "The Trump administration on Monday proposed stiffer rules for Americans seeking unemployment benefits that, if adopted, would require them to conduct more weekly job searches.  \r\nThe proposed Departm… [+3983 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Fox Business"
-            },
-            "author": "Matthew Kazin",
-            "title": "California amusement park to close after more than 50 years - Fox Business",
-            "description": "Six Flags' California's Great America in Santa Clara will close after its 2027 farewell season, ending more than 50 years of amusement park history.",
-            "url": "https://www.foxbusiness.com/lifestyle/california-amusement-park-close-after-more-than-50-years",
-            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/0/0/the-patriot-roller-coaster-california-great-america.jpg?ve=1&tl=1",
-            "publishedAt": "2026-11-09T22:39:00Z",
-            "content": "A California amusement park will close its gates for the final time next year after more than 50 seasons in business.\r\nCalifornia’s Great America, owned by Six Flags, in Santa Clara said it will ceas… [+2012 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "NPR"
-            },
-            "author": "Jenna McLaughlin",
-            "title": "France accuses Iran of cyber 'sabotage' in fridge attacks - NPR",
-            "description": "France says Iranian military hackers took over refrigeration controllers at around 700 different retail sites last month, turning up temperatures in the middle of the night and spoiling millions of dollars' worth of food.",
-            "url": "https://www.npr.org/2026/11/09/g-s1-152724/france-iran-cyber-sabotage-fridge-attacks",
-            "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x3375+0+313/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F71%2F5a%2F249abfba43bea5b714f1d6e355d2%2Fgettyimages-2299339600.jpg",
-            "publishedAt": "2026-11-09T22:30:49Z",
-            "content": "France is accusing Iran of having launched a series of destructive cyberattacks against its critical infrastructure in October.\r\nAccording to the French National Cybersecurity Agency,\r\n ANSSI, Irania… [+6989 chars]"
-        },
-        {
-            "source": {
-                "id": "axios",
-                "name": "Axios"
-            },
-            "author": "Herb Scribner",
-            "title": "Vanderbilt urges campus to shut down computers amid cyberattack - Axios",
-            "description": "The school is asking everyone in the school \"to shut down university devices.\"",
-            "url": "https://www.axios.com/2026/11/09/vanderbilt-university-attack-phone-devices-computer",
-            "urlToImage": "https://images.axios.com/RSjxF7m-gM4Clmo_uHyYnfGG1hI=/0x562:6387x4155/1366x768/2026/11/09/1794255796070.jpeg",
-            "publishedAt": "2026-11-09T22:30:42Z",
-            "content": "Driving the news: Vanderbilt said its IT team is \"actively investigating and working to contain the situation.\" Classes are proceeding as normal, Julia Jordan, assistant director of media relations, … [+1531 chars]"
-        },
-        {
-            "source": {
-                "id": "usa-today",
-                "name": "USA Today"
-            },
-            "author": "Mary Walrath-Holdridge",
-            "title": "USDA warns: Don't eat these frozen meat products - USA Today",
-            "description": "Health officials with the U.S. Department of Agriculture have issued a \"do-not-eat\" warning for frozen meats sold online nationwide.",
-            "url": "https://www.usatoday.com/story/money/consumer-protection/recalls-alerts/2026/11/09/usda-frozen-meat-public-health-alert/92695951007/",
-            "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/11/09/USAT/92696683007-getty-images-2209050107.jpg?crop=2118,1191,x0,y0&width=2118&height=1191&format=pjpg&auto=webp",
-            "publishedAt": "2026-11-09T22:30:00Z",
-            "content": "Health officials with the U.S. Department of Agriculture have issued a \"do-not-eat\" warning for frozen meats sold online nationwide, according to a Nov. 6 Food Safety and Inspection Service notice.\r\n… [+1871 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "KTLA Los Angeles"
-            },
-            "author": "Jocelyn Fiset",
-            "title": "Air France, American Airlines jets nearly collide after wrong turn in midair over LAX - KTLA",
-            "description": "The FAA is investigating after two passenger jets narrowly avoided a midair collision shortly after taking off from Los Angeles International Airport when one aircraft reportedly made an unauthorized turn into the other’s flight path. The close call occurred …",
-            "url": "https://ktla.com/news/local-news/lax-planes-midair-close-call/",
-            "urlToImage": "https://ktla.com/wp-content/uploads/sites/4/2026/11/LAX-e1794268864887.jpg?w=1280",
-            "publishedAt": "2026-11-09T22:26:56Z",
-            "content": "The FAA is investigating after two passenger jets narrowly avoided a midair collision shortly after taking off from Los Angeles International Airport when one aircraft reportedly made an unauthorized… [+3835 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Brian Stelter",
-            "title": "Skydance plans to bundle HBO Max and Paramount+ next year - CNN",
-            "description": "It’s part of an industrywide trend toward bundling — and a prelude to further integration between the two streaming services.",
-            "url": "https://www.cnn.com/2026/11/09/media/skydance-hbo-max-paramount-plus-bundle",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2285925652.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2026-11-09T22:23:25Z",
-            "content": "Skydance will start selling HBO Max and Paramount+ together in a streaming bundle early next year, the company said Monday.\r\nIts part of an industrywide trend toward bundling and a prelude to further… [+2243 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Aaron Cooper",
-            "title": "Plane rolls over after being hit by blast from jet engines - CNN",
-            "description": "The blast from the jet engines of a Boeing 737 sent a small plane with two people inside rolling onto its roof this weekend, the Federal Aviation Administration said in a statement.",
-            "url": "https://www.cnn.com/2026/11/09/us/plane-rolls-over-jet-blast",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/plane-20261109215416836.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2026-11-09T22:07:59Z",
-            "content": "The blast from the jet engines of a Boeing 737 sent a small plane with two people inside rolling onto its roof this weekend, the Federal Aviation Administration said in a statement.\r\nUnited Airlines … [+1802 chars]"
         }
     ]
 }

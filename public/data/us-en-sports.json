@@ -1,7 +1,449 @@
 {
     "status": "ok",
-    "totalResults": 577,
+    "totalResults": 592,
     "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "John Breech",
+            "title": "NFL Week 10 grades: Packers fail in showdown with Vikings, Patrick Mahomes catches fire - CBS Sports",
+            "description": "We're handing out grades for every team that played in Week 10",
+            "url": "https://www.cbssports.com/nfl/news/nfl-week-10-grades-packers-vikings-patrick-mahomes/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2026/11/15/794d1d65-b99b-4e84-a5da-4e8476e2b0cc/thumbnail/1200x675/e2fc7a0a72cc950beb9b03d1c8e95afa/grades.jpg",
+            "publishedAt": "2026-11-16T04:31:00Z",
+            "content": "Welcome to the Week 10 grades!\r\nIt was a day of statement wins around the NFL and the biggest statement was made by the Minnesota Vikings. \r\nIn their first game since trading for Kirk Cousins, the Vi… [+1921 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NBCSports.com"
+            },
+            "author": "Myles Simmons",
+            "title": "Sunday Night Football: Joe Burrow, Ja’Marr Chase torch Steelers in 38-18 Bengals victory - NBC Sports",
+            "description": "Burrow threw for 409 yards and four TDs while Chase caught 11 passes for 231 yards.",
+            "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sunday-night-football-joe-burrow-jamarr-chase-torch-steelers-in-38-18-bengals-victory",
+            "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/82506ff/2147483647/strip/true/crop/5173x2910+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F18%2Fe7%2F28618b95440080865e685831d9df%2F2304834094.jpg",
+            "publishedAt": "2026-11-16T04:30:47Z",
+            "content": "The Bengals wanted to create a special white out environment for Sundays game, with the home team wearing its White Bengal uniform and helmet. \r\nAfter the performance against the Steelers, they may w… [+2226 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Andrew Greif",
+            "title": "Two games, one day: Ground stop means unprecedented double duty for NFL refs - NBC News",
+            "description": "It was 4:17 p.m. Sunday in downtown Indianapolis when the Colts wrapped up a home win over the Miami Dolphins.",
+            "url": "https://www.nbcnews.com/sports/nfl/two-games-one-day-ground-stop-means-unprecedented-double-duty-nfl-refs-rcna609524",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261007-nfl-referees-vsb-2301-195914.jpg",
+            "publishedAt": "2026-11-16T03:33:00Z",
+            "content": "It was 4:17 p.m. Sunday in downtown Indianapolis when the Colts wrapped up a home win over the Miami Dolphins. Fans departed Lucas Oil Stadium. The teams scattered for home. \r\nFor the four-man offici… [+2814 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Silver Screen and Roll "
+            },
+            "author": "Jacob Rude",
+            "title": "Player Grades: Lakers vs. Suns - Silver Screen and Roll",
+            "description": "Grading every Lakers player’s performance from the team’s 131-123 win over the Suns.",
+            "url": "https://www.silverscreenandroll.com/lakers-analysis/128992/player-grades-lakers-suns-stats-box-score-recap-luka-doncic",
+            "urlToImage": "https://platform.silverscreenandroll.com/wp-content/uploads/sites/144/2026/11/gettyimages-2305281921.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-11-16T02:57:00Z",
+            "content": "Shoutout to Dillon Brooks, who once again squarely put his foot in his mouth.\r\nThis summer, he made some comments about the Lakers and said if Luka Doni isnt averaging 40, then theyre in trouble. Iro… [+4047 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WABC-TV"
+            },
+            "author": "Eyewitness News",
+            "title": "MetLife Stadium fire: Post-game tent goes up in flames following Jets game on Sunday - ABC7 New York",
+            "description": "A fire broke out in an unoccupied post-game tent outside MetLife Stadium shortly after the Jets-Bills game on Sunday.",
+            "url": "https://abc7ny.com/post/fire-seen-outside-metlife-stadium-following-jets-game-sunday/20042815/",
+            "urlToImage": "https://cdn.abcotvs.com/dip/images/20042826_111526-metlifefire.jpg?w=1600",
+            "publishedAt": "2026-11-16T02:55:25Z",
+            "content": "EAST RUTHERFORD, New Jersey (WABC) -- A fire broke out in an unoccupied post-game tent outside MetLife Stadium shortly after the Jets-Bills game on Sunday.\r\nTroopers responded to a smoke report at ab… [+501 chars]"
+        },
+        {
+            "source": {
+                "id": "espn",
+                "name": "ESPN"
+            },
+            "author": "Seth Walder",
+            "title": "NFL playoff chance tiers: Where all 32 teams fit in 2026 postseason picture - ESPN",
+            "description": "We placed all 32 NFL teams into tiers based on their likelihood of making the playoffs, from Super Bowl favorites to the top draft pick candidates.",
+            "url": "https://www.espn.com/nfl/story/_/id/50463347/2026-nfl-playoffs-chances-odds-tiers-32-teams-nfc-afc",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1113%2F2026_midseason_playoff_tiers_1296x729.png",
+            "publishedAt": "2026-11-16T02:51:19Z",
+            "content": "The back half of the 2026 NFL season is upon us, and the playoff race is heating up. Though the standings tell us a lot about teams' chances to reach the postseason, they don't tell us everything. Te… [+22727 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "Doug Feinberg",
+            "title": "Toronto Tempo win WNBA draft lottery, earn No. 1 pick and potentially chance to draft JuJu Watkins - AP News",
+            "description": "The Toronto Tempo have won the WNBA draft lottery, securing the No. 1 pick. This gives them a chance to draft Southern California star JuJu Watkins. The Tempo, an expansion team this past season, had a 33% chance of winning, tied with the Houston Comets. Temp…",
+            "url": "https://apnews.com/article/wnba-lottery-4bd0e9dbcb7359ae011dd3d4f9479f83",
+            "urlToImage": "https://dims.apnews.com/dims4/default/6bc60e6/2147483647/strip/true/crop/7393x4931+0+0/resize/1200x800!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F7d%2F80%2F3be910b4b71a7de71e2538e01732%2Fe83a39a9e330469fa5c45f3cd6f90175",
+            "publishedAt": "2026-11-16T02:17:00Z",
+            "content": "The Toronto Tempo won the WNBA draft lottery Sunday night and now will have to wait and see who is available for them to pick No. 1 next spring.\r\nThe Tempo, who joined the league as an expansion team… [+2264 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "On3.com"
+            },
+            "author": "Brett McMurphy",
+            "title": "Brett McMurphy's college football AP Top 25 ballot after Week 11 - On3",
+            "description": "Georgia remains No. 1 on my Associated Press Top 25 ballot, followed by unbeaten Utah and UCLA. The top nine teams on my ballot from last week all won and",
+            "url": "https://www.on3.com/news/brett-mcmurphy-college-football-ap-top-25-ballot-after-week-11/",
+            "urlToImage": "https://on3static.com/cdn-cgi/image/height=675,width=1200,quality=90,fit=cover,gravity=0.5x0.5,format=auto,metadata=none/uploads/dev/assets/cms/2026/11/08053513/AP-McMurphy-Nov7.png",
+            "publishedAt": "2026-11-16T01:42:46Z",
+            "content": "Georgia remains No. 1 on my Associated Press Top 25 ballot, followed by unbeaten Utah and UCLA.\r\nThe top nine teams on my ballot from last week all won and remain ranked the same. At No. 4 is Notre D… [+4431 chars]"
+        },
+        {
+            "source": {
+                "id": "espn",
+                "name": "ESPN"
+            },
+            "author": "Jeff Kassouf",
+            "title": "Purce slams venue switch after Gotham exit: Not to blame, but 'inexcusable' - ESPN",
+            "description": "Gotham FC forward Midge Purce called playing an NWSL semifinal at the 5,000-seat Icahn Stadium \"inexcusable\" after the defending NWSL champions lost 2-1 to the Kansas City Current on Sunday.",
+            "url": "https://www.espn.com/soccer/story/_/id/50497071/purce-slams-venue-switch-gotham-exit-inexcusable",
+            "urlToImage": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1115%2Fr1746394_1296x729_16%2D9.jpg",
+            "publishedAt": "2026-11-16T01:33:00Z",
+            "content": "NEW YORK -- Gotham FC forward Midge Purce called playing an NWSL semifinal at the 5,000-seat Icahn Stadium \"inexcusable\" after the defending NWSL champions lost 2-1 to the Kansas City Current on Sund… [+3427 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NBCSports.com"
+            },
+            "author": "Josh Alper",
+            "title": "Colts to stick with Daniel Jones as their starter for Thursday night’s game - NBC Sports",
+            "description": "The Colts ended a five-game losing streak against the Dolphins on Sunday, but it wasn't because of a strong game from quarterback Daniel Jones.",
+            "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/colts-to-stick-with-daniel-jones-as-their-starter-for-thursday-nights-game",
+            "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/b3d017b/2147483647/strip/true/crop/6663x3748+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F38%2Fdc%2Fa57c01fe47b8bdd3db4df6b4f292%2F2305258531.jpg",
+            "publishedAt": "2026-11-16T01:32:25Z",
+            "content": "The Colts ended a five-game losing streak against the Dolphins on Sunday, but it wasnt because of a strong game from quarterback Daniel Jones. \r\nJones was 11-of-22 for 108 yards, a touchdown and two … [+965 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Awful Announcing"
+            },
+            "author": "Tyler Lauletta",
+            "title": "‘Big Noon Kickoff’ to go where ‘College GameDay’ has never gone before - Awful Announcing",
+            "description": "Fox's 'Big Noon Kickoff' is heading to Ferris State this weekend, the first time the show has ever broadcast from a DII program.",
+            "url": "https://awfulannouncing.com/fox/big-noon-kickoff-ferris-state-college-gameday.html",
+            "urlToImage": "https://cdn1.thecomeback.com/wp-content/uploads/sites/94/2026/11/Big-Noon-Kickoff-1024x546.png",
+            "publishedAt": "2026-11-16T01:17:45Z",
+            "content": "Fox’s Big Noon Kickoff is set to make some history this week.\r\nOn Sunday, the show announced that it would be heading to Big Rapids, Michigan this Saturday where Ferris State is set to host Truman St… [+3492 chars]"
+        },
+        {
+            "source": {
+                "id": "bleacher-report",
+                "name": "Bleacher Report"
+            },
+            "author": "Joe Tansey",
+            "title": "Updated 2027 NFL Draft Order After Week 10 Results, Who Could Dolphins & Titans Take? - Bleacher Report",
+            "description": "The Tennessee Titans and Miami Dolphins kept themselves in contention for the No. 1 overall pick in the 2027 NFL draft with losses in Sunday's early afternoon window.",
+            "url": "https://bleacherreport.com/articles/25533794-updated-2027-nfl-draft-order-after-week-10-results-who-could-dolphins-titans-take",
+            "urlToImage": "https://gsp-image-cdn.wmsports.io/cms/prod/bleacher-report/ap_images/2026-11/9ee1cf5262864d62a7158ddad9b52bf1/Texas_Tech_Oklahoma_St_Football_24297_4488x2992_(0,-0).jpg?w=945&h=630",
+            "publishedAt": "2026-11-16T01:07:08Z",
+            "content": "2 of 3Drew Mestemaker leads the FBS in passing yards and passing touchdowns. \r\nThe Oklahoma State quarterback surged up draft boards in the last month due to his performances and the lack of success … [+762 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Mercury News"
+            },
+            "author": "Cam Inman",
+            "title": "Instant analysis of 49ers’ 46-40 shootout win over Dallas Cowboys - The Mercury News",
+            "description": "The 49ers (8-1) scored six touchdowns, three from Christian McCaffrey, to outlast the Dallas Cowboys 46-40.",
+            "url": "https://www.mercurynews.com/2026/11/15/instant-analysis-of-49ers-46-40-shootout-win-over-dallas-cowboys/",
+            "urlToImage": "https://www.mercurynews.com/wp-content/uploads/2026/11/BNG-L-49ERS-1116_474136.jpg?w=5437&h=3626",
+            "publishedAt": "2026-11-16T00:51:46Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": null,
+            "title": "Los Angeles Rams vs. Arizona Cardinals Live Score and Stats - November 15, 2026 Gametracker - CBS Sports",
+            "description": "Live NFL scores at CBSSports.com. Check out the NFL scoreboard, box scores, expert picks and game recaps.",
+            "url": "https://www.cbssports.com/nfl/gametracker/recap/NFL_20261115_LAR@ARI/",
+            "urlToImage": "https://sportsfly.cbsistatic.com/fly-894/bundles/sportsmediacss/images/fantasy/default-article-image-large.png",
+            "publishedAt": "2026-11-16T00:33:45Z",
+            "content": "GLENDALE, Ariz. (AP) Matthew Stafford threw for 249 yards and three touchdowns, Blake Corum gained 100 yards on the ground and the Los Angeles Rams overcame a slow start to earn their fourth straight… [+2616 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Jason Owens",
+            "title": "Aidan Hutchinson's knee injury joins ranks of infamous NFL celebration injuries, including Bill Gramatica, Gus Frerotte running head-first into a wall - Yahoo Sports",
+            "description": "Hutchinson wasn't the first player to sustain a significant injury while celebrating. he won't be the last.",
+            "url": "https://sports.yahoo.com/nfl/article/aidan-hutchinsons-knee-injury-joins-ranks-of-infamous-nfl-celebration-injuries-including-bill-gramatica-gus-frerotte-running-head-first-into-a-wall-003138397.html",
+            "urlToImage": "https://s.yimg.com/lo/mysterio/api/bdb2de9945ab19fc6bd3adca8fc49a676f22e6f9e17d12f6aecbbb2828e8bec3/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2F77403a07-819c-4fd5-8300-8b8e1f197f18",
+            "publishedAt": "2026-11-16T00:24:00Z",
+            "content": "Aidan Hutchinson joined an exclusive and unenviable NFL club on Sunday.\r\nThe All-Pro Detroit Lions pass rusher sustained a knee injury while celebrating a sack of the New England Patriots' Drake Maye… [+5070 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "D2football.com"
+            },
+            "author": null,
+            "title": "2026 Playoff Field Announced - D2Football.com",
+            "description": "",
+            "url": "https://www.d2football.com/2026-playoff-field-announced/",
+            "urlToImage": "https://www.d2football.com/images/page/blog-2026-playoff-field-announced-17947580663365.jpg",
+            "publishedAt": "2026-11-16T00:04:07Z",
+            "content": "November 15th, 2026 3:00pm\r\nBy Chuck Bitner, D2Football.com\r\nThirty two teams will compete for the NCAA Division II national championship of 2026. The field for the tournament was announced on Sunday… [+5464 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Steelers Depot"
+            },
+            "author": "Alex Kozora",
+            "title": "DeShon Elliott Injures Knee During Warmups, Will Miss Bengals Game - Steelers Depot",
+            "description": "The Pittsburgh Steelers have suffered a last-second injury ahead of their game against the Cincinnati Bengals. Per director of communications Burt Lauten, SS DeShon Elliott hurt his knee in warmups and will miss tonight’s contest. #Steelers S Deshon Elliott s…",
+            "url": "https://steelersdepot.com/2026/11/deshon-elliott-injures-knee-during-warmups-will-miss-bengals-game/",
+            "urlToImage": "https://steelersdepot.com/wp-content/uploads/2026/08/DeShon-Elliott-1000x600.jpg",
+            "publishedAt": "2026-11-15T23:49:12Z",
+            "content": "The Pittsburgh Steelers have suffered a last-second injury ahead of their game against the Cincinnati Bengals. Per director of communications Burt Lauten, SS DeShon Elliott hurt his knee in warmups a… [+2221 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": null,
+            "title": "Miami Dolphins vs. Indianapolis Colts Live Score and Stats - November 15, 2026 Gametracker - CBS Sports",
+            "description": "Live NFL scores at CBSSports.com. Check out the NFL scoreboard, box scores, expert picks and game recaps.",
+            "url": "https://www.cbssports.com/nfl/gametracker/recap/NFL_20261115_MIA@IND/",
+            "urlToImage": "https://sportsfly.cbsistatic.com/fly-894/bundles/sportsmediacss/images/fantasy/default-article-image-large.png",
+            "publishedAt": "2026-11-15T23:45:16Z",
+            "content": "INDIANAPOLIS (AP) The Indianapolis Colts got the respite they needed.\r\nAfter losing five straight and enduring three weeks of tumult, they finally celebrated a victory.\r\nDaniel Jones threw for one sc… [+4509 chars]"
+        },
+        {
+            "source": {
+                "id": "espn",
+                "name": "ESPN"
+            },
+            "author": "Kevin Seifert",
+            "title": "Kirk Cousins emotional after win in Vikings return, reflects on 'tough 3 years' - ESPN",
+            "description": "Kirk Cousins was emotional discussing his return to the Vikings after their victory over the Packers.",
+            "url": "https://www.espn.com/nfl/story/_/id/50495965/kirk-cousins-emotional-getting-win-return-vikings",
+            "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1115%2Fr1746351_1296x729_16%2D9.jpg",
+            "publishedAt": "2026-11-15T23:44:00Z",
+            "content": "GREEN BAY, Wis. -- Kirk Cousins managed to hold back tears Sunday morning when he arrived at Lambeau Field. He didn't even try on the way out.\r\nAfter the Minnesota Vikings' 30-10 victory over the Gre… [+4921 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Rochester Democrat and Chronicle"
+            },
+            "author": "Sal Maiorana",
+            "title": "Bills report card: Buffalo hits afterburners to pull away from Jets - Democrat and Chronicle",
+            "description": "Here's how Sal Maiorana graded the Bills in their 31-12 victory over the woeful Jets Sunday at MetLife Stadium.",
+            "url": "https://www.democratandchronicle.com/story/sports/football/nfl/bills/2026/11/15/bills-report-card-buffalo-uses-afterburners-to-pull-away-from-jets/92800979007/",
+            "urlToImage": "https://www.democratandchronicle.com/gcdn/authoring/authoring-images/2026/11/15/PROC/92801391007-20261115-t-205155-z-1788543607-mt-1-usatoday-30359952-rtrmadp-3-nflbuffalobillsatnewyorkjets.JPG?crop=2576,1449,x0,y0&width=2576&height=1449&format=pjpg&auto=webp",
+            "publishedAt": "2026-11-15T23:32:00Z",
+            "content": "EAST RUTHERFORD, N.J. - After sleep walking their way on offense through the first half Sunday afternoon, the Buffalo Bills woke up in an angry mood to start the third quarter.\r\nHaving just watched t… [+8239 chars]"
+        },
+        {
+            "source": {
+                "id": "espn",
+                "name": "ESPN"
+            },
+            "author": "Mark Schlabach",
+            "title": "Oklahoma, boosted by crowd's ire at postponement, beats No. 19 Ole Miss - ESPN",
+            "description": "The Oklahoma crowd let Ole Miss know what they thought of having their game delayed by a day, and the Sooners rode that energy to a 24-17 win over the Rebels.",
+            "url": "https://www.espn.com/college-football/story/_/id/50495687/sooners-boosted-crowd-ire-postponement-beat-rebels",
+            "urlToImage": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1115%2Fr1746387_1024x576_16%2D9.jpg",
+            "publishedAt": "2026-11-15T23:30:07Z",
+            "content": "Ole Miss officials insisted they couldn't do anything more to prevent the SEC from pushing their game at Oklahoma to Sunday because of the Rebels' travel woes.\r\nAfter a 24-17 victory over the No. 19 … [+4544 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MLB Trade Rumors"
+            },
+            "author": "Mark Polishuk",
+            "title": "Brewers Acquire Ryan Walker - MLB Trade Rumors",
+            "description": "The former Giants closer heads to Milwaukee for two pitching prospects. Visit MLB Trade Rumors for more on the swap.",
+            "url": "https://www.mlbtraderumors.com/2026/11/brewers-acquire-ryan-walker.html",
+            "urlToImage": "https://cdn.mlbtraderumors.com/files/2026/11/RyanWalker-2026Giants-1024x683.jpg",
+            "publishedAt": "2026-11-15T23:21:34Z",
+            "content": "The Brewers announced that right-hander Ryan Walker has been acquired in a trade with the Giants.  Right-handed pitching prospects Blake Holub and Gavin Perry head to San Francisco as the return.  Mi… [+3889 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Bloody Elbow"
+            },
+            "author": null,
+            "title": "What’s next for Josh Hokit after suffering career-first loss at UFC 334?: Dana White has a plan - Bloody Elbow",
+            "description": "Hokit has a few options next.",
+            "url": "https://bloodyelbow.com/2026/11/15/whats-next-for-josh-hokit-after-suffering-career-first-loss-at-ufc-334-dana-white-has-a-plan/",
+            "urlToImage": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/GettyImages-2305177554-scaled.jpg",
+            "publishedAt": "2026-11-15T23:00:00Z",
+            "content": "Josh Hokits career took a big hit this past Saturday when he suffered his first ever loss at the hands of Ciryl Gane.\r\nIn the UFC 334 main event from Madison Square Garden this past Saturday, Josh Ho… [+2533 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "KMBC Kansas City"
+            },
+            "author": "Nick Sloan",
+            "title": "Chiefs rookie running back Emmett Johnson makes the most of first start with 101 rushing yards - KMBC",
+            "description": "With Kenneth Walker III sidelined, Chiefs rookie Emmett Johnson stepped up with 171 total yards and two touchdowns against the Falcons.",
+            "url": "https://www.kmbc.com/article/chiefs-emmett-johnson-101-rushing-yards-two-touchdowns-falcons/74433748",
+            "urlToImage": "https://kubrick.htvapps.com/htv-prod/images/ef331580-a486-43e5-80cd-92b53b6e0dde.jpg?crop=0.979xw%3A0.827xh%3B0%2C0&resize=1200%3A*",
+            "publishedAt": "2026-11-15T22:46:00Z",
+            "content": "KANSAS CITY, Mo.Rookie running back Emmett Johnson made the most of his opportunity.\r\nJohnson, filling in for the injured Kenneth Walker III, totaled over 170 yards.\r\nHe finished with 101 yards on th… [+1210 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Footballscoop.com"
+            },
+            "author": null,
+            "title": "The 2026 Division III playoff bracket is out - FootballScoop.com",
+            "description": "Selection Sunday in Division III delivered a 40-team field with a brand new conference in the mix and two familiar names on the outside looking in. The NCAA revealed the bracket this evening.",
+            "url": "https://www.footballscoop.com/2026/11/15/the-2026-division-iii-playoff-bracket-is-out",
+            "urlToImage": "https://www.footballscoop.com/img/random/stagg-bowl-salem-1600x900.jpg",
+            "publishedAt": "2026-11-15T22:33:39Z",
+            "content": "Selection Sunday in Division III delivered a 40-team field with a brand new conference in the mix and two familiar names on the outside looking in.\r\nThe NCAA revealed the bracket this evening. This i… [+3795 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Wdrbwave.com"
+            },
+            "author": "Eric Crawford",
+            "title": "CRAWFORD | Louisville’s 98-78 Memphis disaster leaves Pat Kelsey searching for answers - WDRB",
+            "description": "Pat Kelsey was left without answers after Louisville's blowout loss to Memphis.",
+            "url": "https://www.wdrbwave.com/2026/11/15/crawford-louisvilles-98-78-memphis-disaster-leaves-pat-kelsey-searching-answers/",
+            "urlToImage": "https://gray-wave-prod.gtv-cdn.com/resizer/v2/MO4VM4HA4BCLFMMW4SE2HNKSBE.jpg?auth=ca0816c4804accdd9af04d1c902ed557bf3e4fdbb4c2dfa0857ef1f48d91daea&width=1200&height=600&smart=true",
+            "publishedAt": "2026-11-15T22:24:00Z",
+            "content": "LOUISVILLE, Ky. (WDRB+WAVE) Confession: I was in Louisville on Sunday waiting to hear Pat Kelsey explain what happened to his basketball team in its 98-78 loss to Memphis before writing this column.\r… [+10043 chars]"
+        },
+        {
+            "source": {
+                "id": "nfl-news",
+                "name": "NFL News"
+            },
+            "author": null,
+            "title": "Amid another lost Jets season, Cade Klubnik offered a faint flicker of hope vs. Bills - NFL.com",
+            "description": null,
+            "url": "https://www.nfl.com/news/amid-another-lost-jets-season-cade-klubnik-offered-a-faint-flicker-of-hope-vs-bills",
+            "urlToImage": "https://static.www.nfl.com/image/upload/t_editorial_landscape_12_desktop/league/ipv37cnrghiewtbfkdpz",
+            "publishedAt": "2026-11-15T22:16:00Z",
+            "content": "EAST RUTHERFORD, N.J. -- The man, 54 years old with gray in his beard and at his wit's end, quietly walked up some stairs and stood behind a lectern, listless. The fire that once burned inside Aaron … [+9722 chars]"
+        },
+        {
+            "source": {
+                "id": "espn",
+                "name": "ESPN"
+            },
+            "author": "Bill Connelly",
+            "title": "Sizing up college football's best races down the homestretch - ESPN",
+            "description": "From spots in the CFP and SEC title game to the hunt for bowl eligibility, there's still a lot on the line.",
+            "url": "https://www.espn.com/college-football/story/_/id/50491637/connelly-college-football-best-races",
+            "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1115%2Fr1746199_1296x729_16%2D9.jpg",
+            "publishedAt": "2026-11-15T22:15:00Z",
+            "content": "Hey, if they were all classics, we wouldn't appreciate the classics, right?\r\nWeek 11 of the college football season gave us an epic in Tucson and an epic struggle in Baton Rouge, but despite some pro… [+29612 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "Elizabeth Conway, Sami Mokbel",
+            "title": "Spain vs England player ratings: Jude Bellingham stars in Three Lions' victory - BBC",
+            "description": "Spanish football reporter Elizabeth Conway and senior football correspondent Sami Mokbel give their player ratings for Spain v England.",
+            "url": "https://www.bbc.com/sport/football/articles/cjg46lrpllrpo",
+            "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/aa50/live/2c2c7e30-e151-11f1-a2d0-ff163dc3689d.jpg",
+            "publishedAt": "2026-11-15T22:12:55Z",
+            "content": "Starting XI:\r\nJames Trafford: Had little to do until Quansah's error led to Oyarzabal's successful penalty but made crucial saves in closing stages to see England home. 8\r\nBen White: That is one way … [+1571 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "Garrett Podell",
+            "title": "LOOK: Fernando Mendoza scores first NFL TD on opening drive vs. Seahawks - CBS Sports",
+            "description": "Fans had planned to sit during the QB's first TD to honor Mendoza's mother, Elsa, utilizes a wheelchair because of her multiple sclerosis",
+            "url": "https://www.cbssports.com/nfl/news/why-raiders-fans-planning-stay-seated-fernando-mendoza-first-td/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2026/11/15/4e907ab1-6612-486a-9335-e8d3dbb8eb4c/thumbnail/1200x675/dce48365078ac4c0f415799c49cf25cc/gettyimages-2305263242-594x594.jpg",
+            "publishedAt": "2026-11-15T21:46:00Z",
+            "content": "With Kirk Cousins traded back to the Minnesota Vikings, Las Vegas Raiders fans' wait to see 2026 first-round pick Fernando Mendoza start is over. Some waited to jump for joy upon Mendoza scoring a to… [+2137 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "mlive.com"
+            },
+            "author": "MLive.com",
+            "title": "‘It was lit’: Lions say unique celebration was drawn from old NFL Europe clip - MLive.com",
+            "description": null,
+            "url": "https://www.mlive.com/lions/2026/11/it-was-lit-lions-say-unique-celebration-was-drawn-from-old-nfl-europe-clip.html",
+            "urlToImage": null,
+            "publishedAt": "2026-11-15T21:26:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "cleveland.com"
+            },
+            "author": "Cleveland.com",
+            "title": "Deshaun Watson orchestrates his sixth 4th-quarter game-winning drive for a 27-24 victory over the Texans and a 6-4 mark - Cleveland.com",
+            "description": null,
+            "url": "https://www.cleveland.com/browns/2026/11/deshaun-watson-orchestrates-his-6th-4th-quarter-game-winning-drive-for-a-27-24-victory-over-the-texans-his-former-team-for-a-6-4-mark.html",
+            "urlToImage": null,
+            "publishedAt": "2026-11-15T21:18:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NBCSports.com"
+            },
+            "author": "Nicole Auerbach",
+            "title": "Projecting the third College Football Playoff rankings: Bubbles bursting? - NBC Sports",
+            "description": "Focus shifts to the 15-25 range with every team ranked inside of the top 10 getting it done in Week 11.",
+            "url": "https://www.nbcsports.com/college-football/news/projecting-the-third-college-football-playoff-rankings-bubbles-bursting",
+            "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/c3e97bf/2147483647/strip/true/crop/2961x1666+0+154/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F49%2Fcb%2F51f0bab442bda6c752d46545a3bb%2F2026-11-14t170822z-1874214864-mt1usatoday30352827-rtrmadp-3-ncaa-football-wake-forest-at-southern-methodist.jpg",
+            "publishedAt": "2026-11-15T21:12:05Z",
+            "content": "Every team ranked in the top 10 won its game this weekend, so we shouldnt see a massive shakeup when the new College Football Playoff rankings drop on Tuesday. The intrigue will likely be in the 15-2… [+4939 chars]"
+        },
+        {
+            "source": {
+                "id": "bleacher-report",
+                "name": "Bleacher Report"
+            },
+            "author": "Doric Sam",
+            "title": "LeBron James Makes History as 76ers Beat Pacers, Box Score Stats, Highlights for Maxey, Brown, More - Bleacher Report",
+            "description": "The Philadelphia 76ers defeated the Indiana Pacers 131-124 on Sunday afternoon as star forward LeBron James joined elite NBA company.",
+            "url": "https://bleacherreport.com/articles/25533785-lebron-james-makes-history-76ers-beat-pacers-box-score-stats-highlights-maxey-brown-more",
+            "urlToImage": "https://gsp-image-cdn.wmsports.io/cms/prod/bleacher-report/getty_images/2026-11/2304773448_large_cropped.jpg?w=1120&h=630",
+            "publishedAt": "2026-11-15T20:58:11Z",
+            "content": "The Philadelphia 76ers defeated the Indiana Pacers 131-124 on Sunday afternoon as star forward LeBron James joined elite NBA company.\r\nJames finished with 15 points and 11 assists, passing Hall of Fa… [+824 chars]"
+        },
         {
             "source": {
                 "id": null,
@@ -14,6 +456,19 @@
             "urlToImage": "https://sportshub.cbsistatic.com/i/r/2026/10/24/ec556b7b-37f3-4f17-88a0-993086d2420e/thumbnail/1200x675/7188ff5f1dc41be87ae72578432afe57/garrett-wilson-new-york-jets-imagn-images.jpg",
             "publishedAt": "2026-11-15T20:39:00Z",
             "content": "Week 10 in the NFL marks the beginning of the second half of the season, and as the campaign hits this major milestone, the demands of a lengthy year become all the more apparent on teams' injury rep… [+462 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Sports Illustrated"
+            },
+            "author": "Kaleb Henry",
+            "title": "Nebrasketball Tops Boise State in Annual Sanford Pentagon Game - Sports Illustrated",
+            "description": "The Huskers beat the Broncos in Sioux Falls.",
+            "url": "https://www.si.com/college/nebraska/basketball/nebrasketball-tops-boise-state-in-annual-sanford-pentagon-game-2026",
+            "urlToImage": "https://images2.minutemediacdn.com/image/upload/c_crop,x_391,y_123,w_2040,h_1147/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/all_huskers/01m7ghph1ktrqs6rnrt4.jpg",
+            "publishedAt": "2026-11-15T20:06:04Z",
+            "content": "Nebrasketball's defense forces opponents into high-volume shooting from distance. Boise State is one of the nation's best three-point shooting teams.\r\nIt wasn't enough for the Broncos on Sunday in Si… [+3462 chars]"
         },
         {
             "source": {
@@ -43,6 +498,19 @@
         },
         {
             "source": {
+                "id": null,
+                "name": "Sports Illustrated"
+            },
+            "author": "Trevor Tarr",
+            "title": "How Every Nebraska Offensive Player Graded Out Against Rutgers on PFF - Sports Illustrated",
+            "description": "Nebraska totaled 429 yards and scored their most points since the Maryland game against Rutgers.",
+            "url": "https://www.si.com/college/nebraska/football/huskers-offense-vs-rutgers-2026-pff-snap-counts-and-grades",
+            "urlToImage": "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_90,w_3680,h_2070/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/ReutersImages/mmsport/all_huskers/01m7g2p6fs46nww2qnn1.jpg",
+            "publishedAt": "2026-11-15T18:50:19Z",
+            "content": "Offensive renaissance, or Rutgers?\r\nThat's what fans ultimately need to decide. Either way, there's little doubt Nebraska's offense looked as polished Saturday as it has since the Maryland win. For w… [+9581 chars]"
+        },
+        {
+            "source": {
                 "id": "espn",
                 "name": "ESPN"
             },
@@ -66,6 +534,32 @@
             "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/11/15/USAT/92791931007-20261114-t-220014-z-1492214073-mt-1-usatoday-30354276-rtrmadp-3-ncaafootballtennesseeattexasaampm.JPG?crop=5743,3232,x0,y298&width=3200&height=1801&format=pjpg&auto=webp",
             "publishedAt": "2026-11-15T18:24:00Z",
             "content": "The fall, the absolute meltdown, is as painful as it is predictable. \r\nFrom adamant its not the same Texas A&amp;M in 2025, to defiant in the face of criticism midway through 2026, to pleading Saturd… [+4187 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Nbcsportsboston.com"
+            },
+            "author": "Justin Leger",
+            "title": "Is Vrabel's message not resonating with Patriots? Reacting to Lions loss - NBC Sports Boston",
+            "description": "Phil Perry and Tom E. Curran react to the Patriots' 35-10 loss to the Lions in Munich.",
+            "url": "https://www.nbcsportsboston.com/nfl/new-england-patriots/mike-vrabel-message-lions-loss-week-10/813869/",
+            "urlToImage": "https://media.nbcsportsboston.com/2026/11/Vrabel_2026-11-13T113359Z_1574373747_UP1EMBD0W4LEK_RTRMADP_3_FOOTBALL-NFL-DET-NEP-PREVIEW-e1794769420906.jpg?quality=85&strip=all&resize=1200%2C675",
+            "publishedAt": "2026-11-15T18:22:28Z",
+            "content": "The New England Patriots are limping -- literally and figuratively -- into their bye week.\r\nThey suffered their second straight blowout loss on Sunday, this time falling to the Detroit Lions 35-10 in… [+3328 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Defector.com"
+            },
+            "author": "Israel Daramola",
+            "title": "Wake Forest Really Kicked Some Ass - Defector",
+            "description": "While prognosticators have been wondering who the next school to make an Indiana-type leap into the big leagues could be, with some already crowning UCLA as the likeliest successor, the Wake Forest Demon Deacons have been quietly developing into something of …",
+            "url": "https://defector.com/wake-forest-really-kicked-some-ass",
+            "urlToImage": "https://lede-admin.defector.com/wp-content/uploads/sites/28/2026/11/GettyImages-2304651397.jpg",
+            "publishedAt": "2026-11-15T18:21:00Z",
+            "content": "While prognosticators have been wondering who the next school to make an Indiana-type leap into the big leagues could be, with some already crowning UCLA as the likeliest successor, the Wake Forest D… [+2315 chars]"
         },
         {
             "source": {
@@ -118,6 +612,19 @@
             "urlToImage": "https://images.actionnetwork.com/blog/2026/11/Panthers-vs-Saints.png",
             "publishedAt": "2026-11-15T17:13:00Z",
             "content": "The Carolina Panthers (3-5) and New Orleans Saints (3-5) meet today in NFL Week 10. Kickoff is set for 1 p.m. ET from Caesars Superdome in New Orleans, La. The game will broadcast live on FOX.\r\nThe S… [+3282 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "OregonLive"
+            },
+            "author": "Ryan Clarke | The Oregonian/OregonLive",
+            "title": "What they’re saying nationally, in Ann Arbor after Oregon’s win over Michigan - OregonLive.com",
+            "description": "Oregon routed Michigan 31-7, pushing the Wolverines to 5-5 and intensifying scrutiny on coach Kyle Whittingham, while the Ducks eye a College Football Playoff berth.",
+            "url": "https://www.oregonlive.com/ducks/2026/11/what-theyre-saying-nationally-in-ann-arbor-after-oregons-win-over-michigan.html",
+            "urlToImage": "https://www.oregonlive.com/resizer/v2/AL3UNMFFA5EXHGT64S5JND4ZIQ.jpg?auth=d1eda714a3d7623989e2a944c113d0e879f3da1be91e3404a2d1952a77e1ad95&width=1280&smart=true",
+            "publishedAt": "2026-11-15T16:56:00Z",
+            "content": "EUGENE The pressure is turning up on first-year Michigan coach Kyle Whittingham with the Wolverines sitting at 5-5 after a 31-7 loss to Oregon.\r\nThe Ducks, meanwhile, are chasing a College Football P… [+1390 chars]"
         },
         {
             "source": {
@@ -226,6 +733,32 @@
         {
             "source": {
                 "id": null,
+                "name": "Bloody Elbow"
+            },
+            "author": "https://www.facebook.com/JordanEllisSports",
+            "title": "Dana White offers Stephen Thompson the chance to ‘test’ for new job after UFC 334 retirement fight - Bloody Elbow",
+            "description": "Dana White has invited Wonderboy to try out for the UFC commentary team. 🎙️",
+            "url": "https://bloodyelbow.com/2026/11/15/dana-white-offers-stephen-thompson-the-chance-to-test-for-new-job-after-ufc-334-retirement-fight/",
+            "urlToImage": "https://cdn1.bloodyelbow.com/uploads/1/2026/11/GettyImages-2305158817-scaled.jpg",
+            "publishedAt": "2026-11-15T15:00:00Z",
+            "content": "Stephen Thompson could continue working with the UFC despite retiring from MMA.\r\nWonderboy laid down his gloves after picking up a win at UFC 334 on Saturday night.\r\nThe 43-year-old knocked out Charl… [+1178 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "RotoBaller"
+            },
+            "author": "Alex Roberts",
+            "title": "9 Fantasy Football Bold Predictions for Week 10: RotoBaller Staff Roundtable - RotoBaller",
+            "description": "RotoBaller staff's bold predictions for Week 10 of the 2026 fantasy football season. Expert start/sit predictions from RotoBaller, including Jordyn Tyson, Kaleb Johnson, Tyler Higbee, and more.",
+            "url": "https://www.rotoballer.com/9-fantasy-football-bold-predictions-for-week-10-rotoballer-staff-picks/1992009",
+            "urlToImage": "https://www.rotoballer.com/wp-content/uploads/2026/10/Kenyon-Sadiq-Fantasy-Football-Rankings-Draft-Sleepers-NFL-Injury-News-icon-rotoballer-1220x813.jpg",
+            "publishedAt": "2026-11-15T14:57:00Z",
+            "content": "RotoBaller staff's bold predictions for Week 10 of the 2026 fantasy football season. Expert start/sit predictions from RotoBaller, including Jordyn Tyson, Kaleb Johnson, Tyler Higbee, and more.\r\nHey … [+14751 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "CBS Sports"
             },
             "author": "Brad Crawford",
@@ -248,6 +781,32 @@
             "urlToImage": "https://assets.golfchannel.com/dims4/default/ab2a69c/2147483647/strip/true/crop/3647x2051+0+190/resize/1440x810!/quality/90/?url=https%3A%2F%2Fversant-production-golfchannel.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fb8%2F1a%2F54f22a804f63bbb4a5f0e6339075%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2304706279",
             "publishedAt": "2026-11-15T14:09:12Z",
             "content": "After being passed by Rory McIlroy for the Race to Dubai title, Eugenio Chacarra could only tip his cap.\r\nIt was a good fight, said the 26-year-old Spaniard, who entered the DP World Tour Championshi… [+6089 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Justin Boone",
+            "title": "Week 10 Fantasy Football WR Rankings: Top wide receivers from Justin Boone - Yahoo Sports",
+            "description": "Here are Justin Boone's WR fantasy football rankings for Week 10.",
+            "url": "https://sports.yahoo.com/fantasy/article/fantasy-football-wr-wide-receiver-rankings-week-10-justin-boone-start-sit-advice-140954209.html",
+            "urlToImage": "https://s.yimg.com/lo/mysterio/api/5480ab6f253c8e4e16572c8198e5a5fc016d18ce40967e9efc9e736a909e73d5/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2F7b34d2b7-fdcf-43eb-9448-6f88df45ff87",
+            "publishedAt": "2026-11-15T14:08:26Z",
+            "content": "Justin Boone won the FantasyPros Most Accurate Expert Award in 2019 and 2025, and has nine top-10 finishes in the competition. His Week 10 wide receiver rankings are below. He'll update his rankings … [+241 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "On3.com"
+            },
+            "author": "Jack Morris",
+            "title": "Frustration Boils Over in North Carolina's Postgame Scuffle After Loss to Louisville - On3",
+            "description": "North Carolina and Louisville exchanged much more than words after the Cardinals' 16-14 victory in Chapel Hill, as a sideline-clearing brawl broke out as the clock expired.",
+            "url": "https://www.on3.com/teams/north-carolina-tar-heels/news/frustration-boils-over-in-north-carolinas-postgame-scuffle-after-loss-to-louisville/",
+            "urlToImage": "https://on3static.com/cdn-cgi/image/height=675,width=1200,quality=90,fit=cover,gravity=0.5x0.5,format=auto,metadata=none/uploads/dev/assets/cms/2026/11/15011741/postgamefight-1.jpg",
+            "publishedAt": "2026-11-15T13:44:45Z",
+            "content": "CHAPEL HILL, N.C. After Louisville quarterback Lincoln Kienholz took the final knee to extinguish the remaining seconds of the Cardinals 16-14 win over North Carolina, a postgame scuffle broke out be… [+3552 chars]"
         },
         {
             "source": {
@@ -355,6 +914,32 @@
         },
         {
             "source": {
+                "id": "espn",
+                "name": "ESPN"
+            },
+            "author": "Ian Rapoport",
+            "title": "Sources: Vikings want to keep Kirk Cousins, talked to QB about staying in 2027 - ESPN",
+            "description": "The Vikings are interested in keeping Kirk Cousins as their QB next season, sources told NFL Network.",
+            "url": "https://www.espn.com/nfl/story/_/id/50484865/sources-vikings-want-keep-kirk-cousins-2027-season",
+            "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1111%2Fr1744583_1296x729_16%2D9.jpg",
+            "publishedAt": "2026-11-15T12:04:07Z",
+            "content": "The Vikings brought in Kirk Cousins to help them this season, but they already are interested and have talked to the veteran quarterback about returning to Minnesota for the 2027 season, sources told… [+2178 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Magic.gg"
+            },
+            "author": null,
+            "title": "Magic World Championship 32 Top 8 Players and Decks - Magic.gg",
+            "description": "Eight legends of Magic, each with a story of their own, are vying for the title of World Champion. Find out which one of them will hoist the trophy on Sunday, November 15!",
+            "url": "https://magic.gg/news/magic-world-championship-32-top-8-players-and-decks",
+            "urlToImage": "https://images.ctfassets.net/ryplwhabvmmk/7GOBHSl4Sdn3iNPempA8oZ/56e4f6e424aa39cbb3e65a91563292a3/Magic-World-Championship-32-Top-8-1920x1080.jpg",
+            "publishedAt": "2026-11-15T11:41:26Z",
+            "content": "After six rounds of Draft and eight rounds of Standard, we finally have the Top 8 of Magic World Championship 32! Each of these competitors had a unique journey to this prestigious stage, and they al… [+10062 chars]"
+        },
+        {
+            "source": {
                 "id": null,
                 "name": "HITC - Football, Gaming, Movies, TV, Music"
             },
@@ -404,6 +989,19 @@
             "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/2817/live/e90e0ce0-e0c4-11f1-bdb4-cdef0aeea27b.jpg",
             "publishedAt": "2026-11-15T08:02:48Z",
             "content": "Nunes left the UFC in 2023 as the only woman to hold UFC titles in two weight classes simultaneously, and the only fighter, male or female, to successfully defend both belts.\r\nDuring Nunes' remarkabl… [+1437 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Ross Dellenger",
+            "title": "Yahoo Top 10: Utah stakes claim to No. 1 spot with thrilling late-night win - Yahoo Sports",
+            "description": "On a mostly quiet Saturday, the Utes delivered a drama-filled late-night win.",
+            "url": "https://sports.yahoo.com/college-football/article/yahoo-top-10-utah-stakes-claim-to-no-1-spot-with-thrilling-late-night-win-073333717.html",
+            "urlToImage": "https://s.yimg.com/lo/mysterio/api/ed837bfc266482c504e07ca3638022e32a70c97479534807394382501b0b3297/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2F999b1a5a-df1b-47a0-9107-bfe57d4b89ec",
+            "publishedAt": "2026-11-15T07:33:00Z",
+            "content": "College football delivered a mostly quiet day Saturday.\r\nIt was Sunday that brought the mayhem real early Sunday, when Utah survived a scare from Arizona, 40-39, in the desert in a game that kicked o… [+6058 chars]"
         },
         {
             "source": {
@@ -460,6 +1058,32 @@
         {
             "source": {
                 "id": null,
+                "name": "NBCSports.com"
+            },
+            "author": "Nick Zaccardi",
+            "title": "Ilia Malinin wins Saatva Skate America for a fourth time to start post-Olympic season - NBC Sports",
+            "description": "Ilia Malinin moved one shy of the record for most Skate America men's titles.",
+            "url": "https://www.nbcsports.com/olympics/news/ilia-malinin-skate-america-2026-figure-skating-grand-prix",
+            "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/95652c1/2147483647/strip/true/crop/4017x2260+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F63%2F54%2F8f2410c64f14a0a98439911fe158%2F2026-11-14t013119z-1875640395-mt1usatoday30351560-rtrmadp-3-figure-skating-skate-america.jpg",
+            "publishedAt": "2026-11-15T05:02:06Z",
+            "content": "EVERETT, Washington To start the previous Olympic cycle, Ilia Malinin announced his presence on the senior international stage by winning 2022 Skate America with the first quadruple Axel in Grand Pri… [+2423 chars]"
+        },
+        {
+            "source": {
+                "id": "espn",
+                "name": "ESPN"
+            },
+            "author": null,
+            "title": "Arch Manning leads game-winning drive as Texas stuns LSU - ESPN",
+            "description": "Arch Manning found Raleek Brown for a 4-yard touchdown pass along the left sideline with 3 seconds left as Texas escaped Tiger Stadium with a victory over LSU",
+            "url": "https://www.espn.com/college-football/story/_/id/50487515/arch-manning-leads-game-winning-drive-texas-stuns-lsu",
+            "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1115%2Fr1745929_2_1296x729_16%2D9.jpg",
+            "publishedAt": "2026-11-15T04:55:00Z",
+            "content": "Nov 14, 2026, 11:55 PM ET\r\nBATON ROUGE, La. -- Arch Manning, like his grandfather and uncle before him, has a Death Valley comeback story to tell.\r\nManning found Raleek Brown for a 4-yard touchdown p… [+3065 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "Yahoo Entertainment"
             },
             "author": "Shaheen Al-Shatti",
@@ -486,6 +1110,32 @@
         {
             "source": {
                 "id": null,
+                "name": "247Sports"
+            },
+            "author": "Darrell Bird",
+            "title": "What's next for Kentucky sports after 'The Lost Week' hits theaters? - 247Sports",
+            "description": "Hollywood gave us The Lost Weekend Kentucky football and basketball gives its fans The Lost Week just dont expect any rave reviews from one of the most forgettable stretches in recent memory",
+            "url": "https://247sports.com/college/kentucky/article/kentucky-wildcats-football-basketball-292774084/",
+            "urlToImage": "https://s3media.247sports.com/Uploads/Assets/946/677/14677946.jpg?width=1200&height=628&crop=1.91:1&fit=cover",
+            "publishedAt": "2026-11-15T04:34:50Z",
+            "content": "You probably know of \"The Lost Weekend,\" the 1945 Academy Award winning film about an alcoholic writer who avoids a family weekend while on a bender.\r\nWelcome, if you will, to \"The Lost Week,\" the 20… [+5003 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Deseret News"
+            },
+            "author": "Jackson Payne",
+            "title": "3 takeaways from No. 10 BYU’s win over Baylor - Deseret News",
+            "description": "",
+            "url": "https://www.deseret.com/sports/2026/11/14/byu-defeats-baylor-2026-3-takeaways/",
+            "urlToImage": "https://www.deseret.com/resizer/v2/3XOXVE7VUZCVFIWKE4RKQRYTPM.JPG?focal=1783%2C785&auth=016e41a0f47436a5f80461b20529e301a2cdec42afa147d35ab0ed54fd6878a1&width=630&height=331",
+            "publishedAt": "2026-11-15T03:58:00Z",
+            "content": "BYU bounced back from last weeks rivalry loss with a convincing win.\r\nThe Cougars returned to Provo and defeated the Baylor Bears 28-7 on Saturday, jumping to an early 21-0 lead and never looking bac… [+2839 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "TwinCities.com-Pioneer Press"
             },
             "author": "Andy Greder",
@@ -495,6 +1145,19 @@
             "urlToImage": "https://www.twincities.com/wp-content/uploads/2026/11/STP-Z-GOFOOT-1115_f8d23d.jpg?w=4631&h=3087",
             "publishedAt": "2026-11-15T03:34:30Z",
             "content": "STATE COLLEGE, Pa. The Gophers endured one of their longest days on Saturday.\r\nThe nationwide air travel stoppage grounded their flight Friday. It forced them to wake up in Minnesota at 6:45 a.m. Sat… [+3573 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Nittanysportsnow.com"
+            },
+            "author": "Joe Smeltzer",
+            "title": "Penn State Announces Attendance for Minnesota Game - Nittany Sports Now",
+            "description": "Per Penn State football’s game notes for Saturday’s game against Minnesota, the announced attendance was 105,601.This is higher than the",
+            "url": "https://nittanysportsnow.com/2026/11/penn-state-announces-attendance-for-minnesota-game/",
+            "urlToImage": "https://nittanysportsnow.com/wp-content/uploads/2024/11/DSC07893-scaled.jpg",
+            "publishedAt": "2026-11-15T03:29:54Z",
+            "content": "Join our list\r\nSubscribe to our mailing list and get interesting stuff and updates to your email inbox.\r\nThank you for subscribing.\r\nSomething went wrong.\r\nWe respect your privacy and take protecting… [+12 chars]"
         },
         {
             "source": {
@@ -521,6 +1184,19 @@
             "urlToImage": "https://i0.wp.com/russianmachineneverbreaks.com/wp-content/uploads/2026/11/caps-devils-will.jpg?fit=1200%2C800&ssl=1&original",
             "publishedAt": "2026-11-15T02:48:29Z",
             "content": "The New Jersey Devils flummoxed the Washington Capitals to sweep the home-and-home series. This game had everything: a kicked-in goal, a bloodless double minor for high-sticking, the kind of own-goal… [+4347 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Inside the Hall"
+            },
+            "author": "Zach Horwitz",
+            "title": "Five takeaways from IU football’s win over USC - Inside the Hall",
+            "description": "IU football kept finding ways to win Saturday afternoon, overcoming another tight matchup to defeat No. 18 USC 27-13 at Memorial Stadium.",
+            "url": "https://www.insidethehall.com/2026/11/14/five-takeaways-from-iu-footballs-win-over-usc/",
+            "urlToImage": "https://www.insidethehall.com/wp-content/uploads/2026/11/IUFB202600312.jpg",
+            "publishedAt": "2026-11-15T02:47:28Z",
+            "content": "IU football kept finding ways to win Saturday afternoon, overcoming another tight matchup to defeat No. 18 USC 27-13 at Memorial Stadium.\r\nAfter entering halftime tied 10-10, the Hoosiers gradually t… [+6475 chars]"
         },
         {
             "source": {
@@ -703,6 +1379,19 @@
             "urlToImage": "https://platform.maizenbrew.com/wp-content/uploads/sites/102/2026/11/reuters-tagreuters.com2026newsml_MT1USATODAY3035317585164235.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
             "publishedAt": "2026-11-14T23:58:16Z",
             "content": "Be respectful in your interactions with contributors and fellow fans.Go here to read our community guidelines.Trolling of any sort, especially going to rival sites and trolling, is expressly against … [+454 chars]"
+        },
+        {
+            "source": {
+                "id": "bleacher-report",
+                "name": "Bleacher Report"
+            },
+            "author": "Andrew Peters",
+            "title": "Georgia CFB Commit Marcellus Young Casario Dies At Age 18 After 'Sudden Medical Emergency' - Bleacher Report",
+            "description": "Marcellus Young Casario, a defensive lineman prospect who was committed to Georgia, died at age 18 on Friday after what his high school called a \"sudden medical emergency,\" ESPN's Eli Lederman reported Saturday.",
+            "url": "https://bleacherreport.com/articles/25533255-georgia-cfb-commit-marcellus-young-casario-dies-age-18-after-sudden-medical-emergency",
+            "urlToImage": "https://gsp-image-cdn.wmsports.io/cms/prod/bleacher-report/getty_images/2026-11/2302446002_0_large_cropped.jpg?w=1120&h=630",
+            "publishedAt": "2026-11-14T23:11:22Z",
+            "content": "Marcellus Young Casario, a defensive lineman prospect who was committed to Georgia, died at age 18 on Friday after what his high school called a \"sudden medical emergency,\" ESPN's Eli Lederman report… [+1238 chars]"
         },
         {
             "source": {
@@ -7008,500 +7697,6 @@
             "urlToImage": "https://media.pff.com/2026/11/3G2C0C7.webp?w=1200&h=675",
             "publishedAt": "2026-11-10T10:00:00Z",
             "content": null
-        },
-        {
-            "source": {
-                "id": "espn",
-                "name": "ESPN"
-            },
-            "author": "Kevin Seifert",
-            "title": "Vikings left at QB crossroads after Carson Wentz's poor MNF showing vs. Bills - ESPN",
-            "description": "After a historically poor performance by Carson Wentz on Monday night, Vikings coach Kevin O'Connell was asked whether the team might trade for a QB ahead of Tuesday's deadline. He deferred the question to GM Nolan Teasley.",
-            "url": "https://www.espn.com/nfl/story/_/id/50440119/vikings-kevin-oconnell-defers-qb-trade-question-gm-poor-mnf-outing-carson-wentz",
-            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1110%2Fr1743880_1296x729_16%2D9.jpg",
-            "publishedAt": "2026-11-10T06:48:00Z",
-            "content": "MINNEAPOLIS -- A horrific offensive performance on \"Monday Night Football,\" fueled by the worst performance by a starting quarterback in the NFL this season, has put the Minnesota Vikings at a crossr… [+4563 chars]"
-        },
-        {
-            "source": {
-                "id": "espn",
-                "name": "ESPN"
-            },
-            "author": "Tim MacMahon",
-            "title": "'Unbelievable' Flagg finishes with 43 points as Mavericks outlast Pacers - ESPN",
-            "description": "Dallas star Cooper Flagg, 19, authored one of the finest efforts of his young career on Monday night, stuffing the box score with 43 points, 10 rebounds, six assists, three steals and a block in the Dallas Mavericks' 125-122 win over the Indiana Pacers.",
-            "url": "https://www.espn.com/nba/story/_/id/50440099/flagg-finishes-43-points-mavericks-outlast-pacers",
-            "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1110%2Fr1743881_1296x729_16%2D9.jpg",
-            "publishedAt": "2026-11-10T06:39:00Z",
-            "content": "DALLAS -- As Cooper Flagg settled into his seat in the interview room, he instantly felt regret.\r\n\"Oh, I forgot my peanut butter and jelly,\" Flagg said, referring to the sandwiches he has been caught… [+3369 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "NBCSports.com"
-            },
-            "author": "Mike Florio",
-            "title": "Receiver-needy teams should call about Justin Jefferson - NBC Sports",
-            "description": "If the Vikings aren't going to upgrade at QB, they should give Jefferson a chance at a championship.",
-            "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/receiver-needy-teams-should-call-about-justin-jefferson",
-            "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/0acd269/2147483647/strip/true/crop/5152x2898+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F61%2F1f%2Fb166bae44ea29e009d30601a4070%2F2303942102.jpg",
-            "publishedAt": "2026-11-10T06:15:49Z",
-            "content": "Vikings receiver Justin Jefferson is the ultimate team player. And hed ultimately never say publicly if he wanted to be traded to a new team.\r\nTeams looking for a receiver should make the call.\r\nFew … [+1237 chars]"
-        },
-        {
-            "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
-            "author": "Violet Jira",
-            "title": "Pat Summitt, Willie Mays, unicorns featured on new postage stamps - The Washington Post",
-            "description": "The 2027 collection is to spotlight “sports legends, mythical creatures and celebrations.”",
-            "url": "https://www.washingtonpost.com/nation/2026/11/09/pat-summit-willie-mays-unicorns-featured-new-postage-stamps/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/A7RWXIY4GFCBDDDURWVGYRRHPU.jpg&w=1440",
-            "publishedAt": "2026-11-10T05:55:00Z",
-            "content": "Athletic icons Pat Summitt and Willie Mays will be featured on stamps to be issued next year by the U.S. Postal Service.\r\nAlso, unicorns, Halloween monsters and vegetables. The 2027 collection is to … [+61 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Nbcsportsbayarea.com"
-            },
-            "author": "Dalton Johnson",
-            "title": "What we learned as Warriors' historic win streak continues with blowout vs. Pels - NBC Sports Bay Area & California",
-            "description": "Dalton Johnson delivers the takeaways from the Golden State Warriors' blowout win over the New Orleans Pelicans on Monday night at Chase Center.",
-            "url": "https://www.nbcsportsbayarea.com/nba/golden-state-warriors/steph-curry-yaxel-lendeborg-win-streak-history/1978704/",
-            "urlToImage": "https://media.nbcsportsbayarea.com/2026/11/yaxel-lendeborg-steph-curry-draymond-green-2026-11-10T001706Z_1575931404_MT1USATODAY30322994_RTRMADP_3_NBA-NEW-ORLEANS-PELICANS-AT-GOLDEN-STATE-WARRIORS-e1794286689383.jpg?quality=85&strip=all&resize=1200%2C675",
-            "publishedAt": "2026-11-10T05:36:26Z",
-            "content": "SAN FRANCISCO Warriors fans have had plenty to cheer about as of late, and the good vibes only continued Monday night at Chase Center.\r\nWith three minutes left in the third quarter, the Warriors led … [+3991 chars]"
-        },
-        {
-            "source": {
-                "id": "espn",
-                "name": "ESPN"
-            },
-            "author": "Dave McMenamin",
-            "title": "Luka Doncic returns, has 32 points, 10 assists in Lakers' sixth straight win - ESPN",
-            "description": "After a one-game absence because of lower back tightness, Luka Doncic returned to the lineup Monday night for the Los Angeles Lakers, scoring 32 points to go along with 10 assists in a 124-114 win over the Atlanta Hawks, the club's sixth straight victory.",
-            "url": "https://www.espn.com/nba/story/_/id/50439743/luka-doncic-returns-nets-32-lakers-push-win-streak-6",
-            "urlToImage": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1110%2Fr1743875_1296x729_16%2D9.jpg",
-            "publishedAt": "2026-11-10T05:29:00Z",
-            "content": "ATLANTA -- One streak ended for Luka Doncic and the Los Angeles Lakers on Monday, but a more important one continued.\r\nDoncic returned to the lineup after a one-game absence because of lower back tig… [+2483 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "One Foot Down"
-            },
-            "author": "Matt Boomer",
-            "title": "Three Things We Saw in Notre Dame’s Win Over Miami - One Foot Down",
-            "description": "There was a lot to see during Notre Dame’s win over No. 1 Miami, but here’s three we want to talk about.",
-            "url": "https://www.onefootdown.com/notre-dame-fighting-irish-football/86909/three-things-we-saw-in-notre-dames-win-over-miami",
-            "urlToImage": "https://platform.onefootdown.com/wp-content/uploads/sites/118/2026/11/gettyimages-2304062547.jpg?quality=90&strip=all&crop=0%2C1.4266121116315%2C100%2C78.543869072565&w=1200",
-            "publishedAt": "2026-11-10T05:09:00Z",
-            "content": "Folks, what I just experienced in South Bend was, hands down, the best football memory in my life. Standing next to my dad in the stadium as the clock ran out, soaking in the culmination of a father-… [+6698 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "NBCSports.com"
-            },
-            "author": "Zachary Krueger",
-            "title": "Rap: Cardinals fear torn UCL for Gardner Minshew - NBC Sports",
-            "description": "NFL Network's Ian Rapoport reports the Cardinals fear Gardner Minshew may have suffered a torn UCL in Week 9's loss to the Seahawks.",
-            "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-11-09/rap-cardinals-fear-torn-ucl-for-gardner-minshew",
-            "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/e1bba3a/2147483647/strip/true/crop/800x450+0+315/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fa5%2F7c%2F37ae48c74df3b2ea22163f0fe97f%2Fminshew-ii-gardner-800-1080-960882f4bc350785.jpg",
-            "publishedAt": "2026-11-10T05:00:40Z",
-            "content": "A Division of NBCUniversal.\r\nDISCLAIMER: This site and the products offered are for entertainment purposes only, and there is no gambling offered on this site. This service is intended for adult audi… [+153 chars]"
-        },
-        {
-            "source": {
-                "id": "fox-sports",
-                "name": "Fox Sports"
-            },
-            "author": null,
-            "title": "2026 NFL Power Rankings Week 10: NFC North Takes Over The Top 10, Thanks To Packers - FOX Sports",
-            "description": "Even with the Vikings' loss, the NFC North dominates our power rankings this week.",
-            "url": "https://www.foxsports.com/stories/nfl/2026-nfl-power-rankings-week-10",
-            "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/11/1294/728/16x9-38.jpg?ve=1&tl=1",
-            "publishedAt": "2026-11-10T04:45:24Z",
-            "content": "The best division in NFL history was the NFC North in 2024. It had three teams with at least 11 wins, two with at least 14, and a league-record winning percentage of .662 (45-23).\r\nTwo years later, t… [+30837 chars]"
-        },
-        {
-            "source": {
-                "id": "bleacher-report",
-                "name": "Bleacher Report"
-            },
-            "author": "Andrew Peters",
-            "title": "'Disappointed,' Jordan Davis Reacts to Surprise Eagles Trade to Jaguars Before 2027 NFL Deadline - Bleacher Report",
-            "description": "Jordan Davis' time with the Philadelphia Eagles came to an end after four and a half years on Monday.",
-            "url": "https://bleacherreport.com/articles/25531443-disappointed-jordan-davis-reacts-surprise-eagles-trade-jaguars-2027-nfl-deadline",
-            "urlToImage": "https://gsp-image-cdn.wmsports.io/cms/prod/bleacher-report/2026-11/grid-qc-split-app-16x9-jordan-2.png?w=1119&h=630",
-            "publishedAt": "2026-11-10T04:17:36Z",
-            "content": "Jordan Davis' time with the Philadelphia Eagles came to an end after four and a half years on Monday. \r\nThe defensive tackle was traded to the Jacksonville Jaguars in return for a 2027 first-round pi… [+1976 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "NBCSports.com"
-            },
-            "author": "Zachary Krueger",
-            "title": "Cardinals lose Michael Wilson (neck) for season - NBC Sports",
-            "description": "NFL Network's Ian Rapoport reports Cardinals WR Michael Wilson suffered a neck injury in Week 9's loss to the Seahawks, ending his season.",
-            "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-11-09/cardinals-lose-michael-wilson-neck-for-season",
-            "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/6ff1fc9/2147483647/strip/true/crop/800x450+0+315/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F38%2Fe2%2F48212f3c49afa091b371b97f344d%2Fwilson-michael-800-1080-bc1bfbde75844509.jpg",
-            "publishedAt": "2026-11-10T04:14:48Z",
-            "content": "A Division of NBCUniversal.\r\nDISCLAIMER: This site and the products offered are for entertainment purposes only, and there is no gambling offered on this site. This service is intended for adult audi… [+153 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "NBCSports.com"
-            },
-            "author": "Mike Florio",
-            "title": "The Vikings need to trade for a quarterback tomorrow - NBC Sports",
-            "description": "Failure to act leads to one conclusion: The Vikings are dysfunctional.",
-            "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/the-vikings-need-to-trade-for-a-quarterback-tomorrow",
-            "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/c597f98/2147483647/strip/true/crop/5205x2928+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fa7%2Fc2%2F8c5dd34248769e064858d31dca78%2F2303965171.jpg",
-            "publishedAt": "2026-11-10T04:12:21Z",
-            "content": "The biggest test of the still-new partnership between Vikings G.M. Nolan Teasley and Vikings coach Kevin OConnell has arrived.\r\nWhat will they do about a team with a Super Bowl-caliber defense and an… [+2692 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "NBCSports.com"
-            },
-            "author": "Charean Williams",
-            "title": "Patriots RB Rhamondre Stevenson will miss multiple weeks with a knee issue - NBC Sports",
-            "description": "Patriots running back Rhamondre Stevenson will miss multiple weeks with a knee issue.",
-            "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/patriots-rb-rhamondre-stevenson-will-miss-multiple-weeks-with-a-knee-issue",
-            "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/aa724a4/2147483647/strip/true/crop/6302x3545+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F91%2F81%2Fa2867e2d442dad22c4131d7fa4fb%2F2304303331.jpg",
-            "publishedAt": "2026-11-10T03:24:08Z",
-            "content": "Patriots running back Rhamondre Stevenson will miss multiple weeks with a knee issue.\r\nIan Rapoport of NFL Media reports that Stevenson has a plantaris tendon issue in the back of his knee, which won… [+523 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "MLB Trade Rumors"
-            },
-            "author": "Anthony Franco",
-            "title": "Sal Stewart Wins NL Rookie Of The Year, Earns PPI Pick For Reds - MLB Trade Rumors",
-            "description": "Reds first baseman Sal Stewart is the NL Rookie of the Year after racking up the RBI all season. Find out why it earns Cincinnati a draft pick.",
-            "url": "https://www.mlbtraderumors.com/2026/11/sal-stewart-wins-nl-rookie-of-the-year-earns-ppi-pick-for-reds.html",
-            "urlToImage": "https://cdn.mlbtraderumors.com/files/2026/11/2026-09-02T160738Z_1824732233_MT1USATODAY29718645_RTRMADP_3_MLB-SAN-DIEGO-PADRES-AT-CINCINNATI-REDS-1024x683.jpg",
-            "publishedAt": "2026-11-10T03:13:27Z",
-            "content": "The Baseball Writers Association of America announced Monday evening that Reds first baseman Sal Stewart has won the National League Rookie of the Year award. The win earns Cincinnati a pick after th… [+3425 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "NBCSports.com"
-            },
-            "author": "Zachary Krueger",
-            "title": "Blockbuster: Jags acquire Jordan Davis from Eagles - NBC Sports",
-            "description": "Eagles traded DT Jordan Davis to the Jaguars in exchange for a 2027 first-round pick and a 2029 second-round pick.",
-            "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-11-09/blockbuster-jags-acquire-jordan-davis-from-eagles",
-            "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/a4942d6/2147483647/strip/true/crop/100x56+0+39/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F14%2Fc4%2F891dbb6d42109f4e77fb9faa90cc%2Fdavis-jordan.jpg",
-            "publishedAt": "2026-11-10T03:10:45Z",
-            "content": "A Division of NBCUniversal.\r\nDISCLAIMER: This site and the products offered are for entertainment purposes only, and there is no gambling offered on this site. This service is intended for adult audi… [+153 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "MLB.com"
-            },
-            "author": "Manny Randhawa",
-            "title": "Tigers' all-around star and Reds' throwback slugger named Rookies of the Year - MLB.com",
-            "description": "The Baseball Writers’ Association of America has named Tigers infielder Kevin McGonigle the 2026 American League Rookie of the Year, and Reds infielder Sal Stewart the 2026 National League Rookie of the Year.\nMcGonigle, who led the AL with 707 plate appearanc…",
-            "url": "https://www.mlb.com/news/2026-mlb-rookie-of-the-year-award-winners",
-            "urlToImage": "https://img.mlbstatic.com/mlb-images/image/upload/t_2x1/t_w1536/mlb/yhgzcfvll7xujm917gz1.jpg",
-            "publishedAt": "2026-11-10T02:36:45Z",
-            "content": "The Baseball Writers Association of America has named Tigers infielder Kevin McGonigle the 2026 American League Rookie of the Year, and Reds infielder Sal Stewart the 2026 National League Rookie of t… [+4086 chars]"
-        },
-        {
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "author": null,
-            "title": "College Football Playoff committee executive admits they don't care fans are against 24-team playoff | OutKick - Fox News",
-            "description": "The College Football Playoff expands to 24 teams by 2027-2028, but Executive Director Rich Clark acknowledged fans overwhelmingly oppose the change.",
-            "url": "https://www.foxnews.com/outkick-sports/college-football-playoff-committee-executive-admits-dont-care-fans-against-24-team-playoff",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/rich-clark-cfp-host-committee-handoff-fox-news_.jpg",
-            "publishedAt": "2026-11-10T02:29:31Z",
-            "content": "Monday made what was long rumored official: we're moving to a 24-team College Football Playoff starting in the 2027-2028 season.\r\nThe reaction from most fans, commentators, analysts as well as many c… [+6256 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "San Francisco Chronicle"
-            },
-            "author": "Eric Branch",
-            "title": "49ers game review: The sack-less, new-look defense; ‘salty’ Brock Purdy and Kyle Shanahan - San Francisco Chronicle",
-            "description": "The San Francisco 49ers' 38-17 rout of the Raiders on Sunday exposed some shortcomings, including a lack of sacks and misfires with communication on offense.",
-            "url": "https://www.sfchronicle.com/sports/49ers/article/49ers-game-review-sacks-salty-brock-22521020.php",
-            "urlToImage": "https://s.hdnux.com/photos/01/67/70/61/31427651/3/rawImage.jpg",
-            "publishedAt": "2026-11-10T02:27:55Z",
-            "content": "Niners defensive tackle DeForest Buckner rushes in the second half against the Las Vegas Raiders on Sunday at Levis Stadium.\r\nCarlos Avila Gonzalez/S.F. Chronicle\r\nThe only time San Francisco 49ers P… [+7225 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "MLB Trade Rumors"
-            },
-            "author": "Anthony Franco",
-            "title": "Padres Have Expressed Interest In Tarik Skubal - MLB Trade Rumors",
-            "description": "Are the Dodgers facing a challenge from within the division for Tarik Skubal? Read the latest on MLB Trade Rumors.",
-            "url": "https://www.mlbtraderumors.com/2026/11/padres-have-expressed-interest-in-tarik-skubal.html",
-            "urlToImage": "https://cdn.mlbtraderumors.com/files/2026/08/Tarik_Skubal_Dodgers-1024x683.jpg",
-            "publishedAt": "2026-11-10T02:23:44Z",
-            "content": "The Padres are among the teams that have shown interest in Tarik Skubal in the early days of the offseason, reports Jon Morosi of The MLB Network. San Diego has been speculated as a dark horse for th… [+3113 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Yahoo Sports Staff",
-            "title": "Bills vs. Vikings live updates, inactives, where to watch: MVP favorite Josh Allen, Buffalo face Carson Wentz with Kyler Murray injured - Yahoo Sports",
-            "description": "The Bills and Vikings both sit at 6-1 ahead of Monday night's primetime showdown.",
-            "url": "https://sports.yahoo.com/nfl/live/bills-vikings-score-live-updates-inactives-highlights-stats-where-to-watch-week-9-monday-night-football-234804735.html",
-            "urlToImage": "https://s.yimg.com/lo/mysterio/api/dd05c049d52aabcbbff5acf917abf5dd3a7e30f0534dfd1227d8049863b45480/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2F51a137f1-b4be-4e05-9faf-9c1c32cec73a",
-            "publishedAt": "2026-11-10T02:19:00Z",
-            "content": "The Buffalo Bills and Minnesota Vikings will close out Week 9 on \"Monday Night Football,\" with kickoff set for 8:15 p.m. ET at U.S. Bank Stadium in Minneapolis. Both teams sit at 6-1.\r\nThe Bills have… [+7751 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "NBCSports.com"
-            },
-            "author": "Josh Alper",
-            "title": "Report: Browns to start Deshaun Watson against Texans - NBC Sports",
-            "description": "Watson did not play Sunday, but the team is expected to turn back to him in Week 10.",
-            "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-browns-to-start-deshaun-watson-against-texans",
-            "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/b260604/2147483647/strip/true/crop/4495x2528+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F98%2F3c%2Ffa352ad44e5cb8568faf3a8b55ae%2F2303697754.jpg",
-            "publishedAt": "2026-11-10T01:19:47Z",
-            "content": "Browns head coach Todd Monken wasnt interested in answering questions about the teams quarterback plans for Week 10 after Sundays 23-22 overtime loss to the Saints, but it seems the team has done som… [+710 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Sports Illustrated"
-            },
-            "author": "Conor Orr",
-            "title": "In a World of NFL Scaredy-Cats, Be a Jaguar - Sports Illustrated",
-            "description": "Jacksonville is either going to win the Super Bowl or go down swinging. This is what the trade deadline is for.",
-            "url": "https://www.si.com/nfl/world-nfl-scaredy-cats-be-jaguar",
-            "urlToImage": "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_0,w_2942,h_1654/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/ReutersImages/mmsport/si/01m71ffjdn7wz3sna4ht.jpg",
-            "publishedAt": "2026-11-10T01:03:42Z",
-            "content": "You can call the strategy whatever you want. F--- Them Picks, Going All Init doesnt really matter. Most of this is simply narrative building and projecting; we put a mythos and a meaning on everythin… [+5360 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Bbwaa.com"
-            },
-            "author": "Jeff Fletcher",
-            "title": "Tigers’ infielder Kevin McGonigle wins AL Jackie Robinson Rookie of the Year - BBWAA",
-            "description": "Kevin McGonigle of the Detroit Tigers earned 28 of 30 first-place votes on his way to winning the 2026 American League Jackie Robinson Rookie of the Year. McGonigle divided his time almost equally between shortstop (675 2/3 innings over 96 games) and third ba…",
-            "url": "https://bbwaa.com/26-al-roy/",
-            "urlToImage": "https://bbwaa.com/wp-content/uploads/2026/11/mcgonigle26.jpeg",
-            "publishedAt": "2026-11-10T00:59:36Z",
-            "content": "Kevin McGonigle of the Detroit Tigers earned 28 of 30 first-place votes on his way to winning the 2026 American League Jackie Robinson Rookie of the Year.\r\nMcGonigle divided his time almost equally b… [+7500 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "San Francisco Chronicle"
-            },
-            "author": "Harrison Rich",
-            "title": "49ers WR Brandon Aiyuk gets reinstated to NFL. What happens next? - San Francisco Chronicle",
-            "description": "The Brandon Aiyuk saga continues. The San Francisco 49ers wide receiver was reinstated on Monday, and the NFL granted the team a two-week roster exemption.",
-            "url": "https://www.sfchronicle.com/sports/49ers/article/49ers-wr-brandon-aiyuk-reinstated-nfl-grants-22521816.php",
-            "urlToImage": "https://s.hdnux.com/photos/01/55/41/11/28709456/3/rawImage.jpg",
-            "publishedAt": "2026-11-10T00:48:34Z",
-            "content": "Brandon Aiyuk has been reinstated by the NFL, but the 49ers have two weeks to decide what to do with the wayward wide receiver, saying he owes them about $13 million.\r\nCarlos Avila Gonzalez/The Chron… [+2448 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Yahoo Sports Staff",
-            "title": "NFL news, live updates, trade deadline rumors: Puka Nacua likely headed to IR with knee injury; Gardner Minshew feared to have torn UCL in throwing arm; Jaguars trade for Jordan Davis, Jessie Bates III, Davon Godchaux - Yahoo Sports",
-            "description": "Follow along with the latest NFL news coming out of Week 9.",
-            "url": "https://sports.yahoo.com/nfl/live/nfl-news-injury-updates-trade-deadline-rumors-131950109.html",
-            "urlToImage": "https://s.yimg.com/lo/mysterio/api/ea91ae07bfd6f7f517cbacd6cbfd46f88ed2f2cf61a73c99576c911f9d20c872/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2Fbaf792bb-500b-4ee7-a278-3753502ff4a6",
-            "publishedAt": "2026-11-10T00:16:00Z",
-            "content": "Kansas City Chiefs quarterback Patrick Mahomes left Sunday's game against the New York Jets with an injury scare after a hit to his throwing elbow but was able to return to help lead a 35-12 win.\r\nAf… [+1466 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "KTLA Los Angeles"
-            },
-            "author": "KTLA",
-            "title": "‘I was unconscious’: 27 runners fall ill in ‘suspicious’ California half-marathon incident - KTLA",
-            "description": null,
-            "url": "https://ktla.com/news/california/santa-barbara-half-marathon-suspicious-circumstances/",
-            "urlToImage": null,
-            "publishedAt": "2026-11-09T23:51:23Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "espn",
-                "name": "ESPN"
-            },
-            "author": "Marc J. Spears",
-            "title": "Doc Rivers says he apologized to Giannis Antetokounmpo while clarifying critique - ESPN",
-            "description": "Doc Rivers said he reached out to apologize to Giannis Antetokounmpo for questioning the Miami Heat star's basketball IQ, saying he meant more that the force Antetokounmpo plays with can get \"in the way of his feel.\"",
-            "url": "https://www.espn.com/nba/story/_/id/50436679/doc-rivers-apologized-antetokounmpo-clarifies-critiques",
-            "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0906%2Fr1382887_1296x729_16%2D9.jpg",
-            "publishedAt": "2026-11-09T23:43:00Z",
-            "content": "Former Milwaukee Bucks coach Doc Rivers told Andscape on Monday that he reached out to the Miami Heat's Giannis Antetokounmpo to apologize for a remark he made about the star forward on a recent podc… [+2192 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Footballscoop.com"
-            },
-            "author": null,
-            "title": "Georgia Tech firing nearly half their coaching staff - FootballScoop.com",
-            "description": "Georgia Tech has dismissed four staff members amid a 2-7 season that has the Yellow Jackets in last place in the ACC, ESPN’s Pete Thamel first shared this afternoon and FootballScoop can…",
-            "url": "https://www.footballscoop.com/2026/11/09/georgia-tech-firing-nearly-half-their-coaching-staff",
-            "urlToImage": "https://www.footballscoop.com/img/random/brent-key-2026-1600x900.jpg",
-            "publishedAt": "2026-11-09T23:18:48Z",
-            "content": "Georgia Tech has dismissed four staff members amid a 2-7 season that has the Yellow Jackets in last place in the ACC, ESPNs Pete Thamel first shared this afternoon and FootballScoop can confirm. \r\nTh… [+4495 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "NBCSports.com"
-            },
-            "author": "Josh Alper",
-            "title": "Kyle Shanahan: Brandon Aiyuk’s reinstatement means “absolutely nothing” to 49ers - NBC Sports",
-            "description": "Brandon Aiyuk was reinstated from the 49ers' reserve/left squad list on Monday, but head coach Kyle Shanahan's tune has not changed about the wide receiver.",
-            "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kyle-shanahan-brandon-aiyuks-reinstatement-means-absolutely-nothing-to-49ers",
-            "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/7816eef/2147483647/strip/true/crop/3002x1689+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fda%2Fa0%2Fdbdece82457dbccbbc410938271a%2F2177354201.jpg",
-            "publishedAt": "2026-11-09T22:58:03Z",
-            "content": "Brandon Aiyuk was reinstated from the 49ers reserve/left squad list on Monday, but head coach Kyle Shanahans tune has not changed about the wide receiver. \r\nShanahan said last week that he couldnt ca… [+700 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "4for4.com"
-            },
-            "author": "Ryan McDowell",
-            "title": "Fantasy Football Waiver Wire Week 10: Top Pickups & Drops (Stash Seth McGowan) - 4for4",
-            "description": "Ryan McDowell covers the top fantasy football waiver wire targets for Week 10.",
-            "url": "https://www.4for4.com/2026/w10/fantasy-football-waiver-wire-week-10-top-pickups-drops-stash-seth-mcgowan",
-            "urlToImage": "https://www.4for4.com/sites/default/files/articles/2026-09-13T172901Z_1878379834_MT1USATODAY29811153_RTRMADP_3_NFL-BALTIMORE-RAVENS-AT-INDIANAPOLIS-COLTS%20%281%29.jpg",
-            "publishedAt": "2026-11-09T22:50:34Z",
-            "content": "I’ll be here each week for a breakdown of the top waiver wire targets and players it’s time to get off your squad. For this year, the recommended additions will be available in more than 60% of Yahoo… [+627 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CBS Sports"
-            },
-            "author": "Garrett Podell",
-            "title": "Rams All-Pro Puka Nacua likely to go on injured reserve with knee, toe injuries - CBS Sports",
-            "description": "The Rams will now likely be without both Puka Nacua and Davante Adams",
-            "url": "https://www.cbssports.com/nfl/news/rams-all-pro-puka-nacua-likely-to-go-on-injured-reserve/",
-            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2026/10/28/93c90805-974a-4ef2-b11e-c00bc7bed9a7/thumbnail/1200x675/b46d6251fa8982608b3f386a4316d794/puka-nacua-los-angeles-rams-imagn-images.jpg",
-            "publishedAt": "2026-11-09T22:45:37Z",
-            "content": "The Los Angeles Rams (5-4) can't catch a break from the injury. After All-Pro edge rusher Myles Garrett's triumphant return to the lineup in their Week 9 victory over the Washington Commanders, All-P… [+2122 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Niners Nation"
-            },
-            "author": "Jason Aponte",
-            "title": "NFL trade deadline: The Jaguars are all-in; should the 49ers follow suit? - Niners Nation",
-            "description": "The Jaguars are making moves, should the 49ers do the same?",
-            "url": "https://www.ninersnation.com/san-francisco-49ers-analysis/165480/nfl-trade-deadline-the-jaguars-are-all-in-should-the-49ers-follow-suit",
-            "urlToImage": "https://platform.ninersnation.com/wp-content/uploads/sites/115/2026/11/gettyimages-2301948030.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-11-09T22:39:49Z",
-            "content": "The San Francisco 49ers have the best record in the NFL right now, with the Minnesota Vikings playing tonight on Monday Night Football. Trade rumors are swirling, and the team suffered a blow with th… [+2118 chars]"
-        },
-        {
-            "source": {
-                "id": "espn",
-                "name": "ESPN"
-            },
-            "author": "Anthony Olivieri",
-            "title": "Bill Belichick's ex-girlfriend Jordon Hudson sues over 2023 Ring cam video - ESPN",
-            "description": "Bill Belichick's ex-girlfriend, Jordon Hudson, has filed a civil complaint against two Airbnb hosts over a 2023 video of the coach without a shirt at the property.",
-            "url": "https://www.espn.com/college-football/story/_/id/50436013/belichick-ex-girlfriend-hudson-files-suit-ring-cam-video",
-            "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1109%2Fr1743730_1296x729_16%2D9.jpg",
-            "publishedAt": "2026-11-09T22:32:00Z",
-            "content": "Bill Belichick's ex-girlfriend, Jordon Hudson, has filed a civil complaint against two Massachusetts Airbnb hosts related to a 2023 video of the legendary football coach without a shirt, according to… [+2128 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CBS Sports"
-            },
-            "author": "Carter Bahns",
-            "title": "Why NFL trade deadline evolved from afterthought to hectic: In-season transaction boom is league's new normal - CBS Sports",
-            "description": "After a record-breaking trade deadline in 2025 and with an active transaction wire in 2026, the times are a-changin' in the NFL",
-            "url": "https://www.cbssports.com/nfl/news/why-nfl-trade-deadline-evolved-from-afterthought-to-hectic-new-normal/",
-            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2026/11/09/ef84c988-aa5d-45db-a40a-2c3cb04cef35/thumbnail/1200x675/3c6ccff8180142bff1aa9ce5e04b4082/2026-11-09t034323z-183802579-mt1usatoday30317698-rtrmadp-3-nfl-tampa-bay-buccaneers-at-chicago-bears-1.jpg",
-            "publishedAt": "2026-11-09T22:31:25Z",
-            "content": "Less than a decade ago, it was common for the NFL to feature single-digit trades during the course of the regular season. The trade deadline was generally a snoozer in comparison to that of the other… [+8271 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Chris Cwik",
-            "title": "Jaguars acquire Jessie Bates III from Falcons for 2 picks, also get Davon Godchaux, Jordan Davis in trio of defensive trades - Yahoo Sports",
-            "description": "It was a busy day for Jacksonville.",
-            "url": "https://sports.yahoo.com/nfl/breaking-news/article/jaguars-acquire-jessie-bates-iii-from-falcons-for-2-picks-also-get-davon-godchaux-jordan-davis-in-trio-of-defensive-trades-222645643.html",
-            "urlToImage": "https://s.yimg.com/lo/mysterio/api/b731cfb204343d26c05de30fc38b33c89bbfac80940c5edf505b700cc071d12f/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2Fd2d4988e-9a3d-4173-be39-0866f3493cf0",
-            "publishedAt": "2026-11-09T22:26:45Z",
-            "content": "The Atlanta Falcons have apparently decided to play for the future, while the Jacksonville Jaguars are going all-in.\r\nA day after falling to the Cincinnati Bengals 34-17 in Madrid, the Falcons report… [+2022 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Commanders.com"
-            },
-            "author": null,
-            "title": "Commanders vs. Giants Week 10 injury report - Washington Commanders",
-            "description": "The Washington Commanders have released their injury report ahead of their matchup with the New York Giants.",
-            "url": "https://www.commanders.com/news/commanders-vs-giants-week-10-injury-report-2026",
-            "urlToImage": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/commanders/ryhnm1fsdq5vnfiv0aw1",
-            "publishedAt": "2026-11-09T22:04:31Z",
-            "content": "The same problems they have had all season came up again. And for the second time in three games, those attempts fell short in a 20-13 defeat to the Rams, dropping their record to 2-5-1 at the halfwa… [+21 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CBS Sports"
-            },
-            "author": "Cameron Salerno",
-            "title": "College basketball picks for loaded Top 25 schedule: Duke vs. Michigan State, Kentucky vs. Kansas predictions - CBS Sports",
-            "description": "Our experts have picks for all of college basketball's best games on Tuesday's loaded slate",
-            "url": "https://www.cbssports.com/college-basketball/news/picks-loaded-top-25-schedule-duke-michigan-state-kentucky-kansas-predictions/",
-            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2026/11/09/01ff1616-788e-49b6-bd06-249d5c64c7ce/thumbnail/1200x675/cb2cf6a7529bc6b21aa1e48a6ebdc842/gettyimages-2252754290-1.jpg",
-            "publishedAt": "2026-11-09T21:59:00Z",
-            "content": "Tuesday's college basketball schedule is one of the best slates of the nonconference portion of the season. And it gets started early as it all begins with the No. 1 team in the country (Florida) goi… [+7805 chars]"
-        },
-        {
-            "source": {
-                "id": "espn",
-                "name": "ESPN"
-            },
-            "author": "Josh Weinfuss",
-            "title": "Sources: Cardinals' Gardner Minshew has UCL injury; Michael Wilson out for year - ESPN",
-            "description": "Cardinals quarterback Gardner Minshew probably will need season-ending surgery on his right UCL, sources told ESPN. Michael Wilson, Arizona's top wide receiver, is also out for the season because of a neck injury.",
-            "url": "https://www.espn.com/nfl/story/_/id/50435608/cardinals-wr-michael-wilson-neck-miss-rest-season",
-            "urlToImage": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1109%2Fr1743719_1296x729_16%2D9.jpg",
-            "publishedAt": "2026-11-09T21:55:00Z",
-            "content": "TEMPE, Ariz. -- The Cardinals' offense took two major blows Monday.\r\nQuarterback Gardner Minshew II probably needs season-ending surgery on his right ulnar collateral ligament, sources told ESPN, and… [+3139 chars]"
         }
     ]
 }
