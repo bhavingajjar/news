@@ -1,7 +1,384 @@
 {
     "status": "ok",
-    "totalResults": 592,
+    "totalResults": 576,
     "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "NBCSports.com"
+            },
+            "author": "Zachary Krueger",
+            "title": "Belief is Bowers (ankle) avoided major injury - NBC Sports",
+            "description": "NFL Network's Ian Rapoport reports the Raiders believe Brock Bowers (ankle) avoided a major injury in Week 10's loss to the Seahawks.",
+            "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-11-16/belief-is-bowers-ankle-avoided-major-injury",
+            "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/5ab476b/2147483647/strip/true/crop/800x450+0+315/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F37%2F17%2F6c2761ca4c098b8276d8c822422f%2Fbowers-brock-800-1080-f96f3608c68d67c2.jpg",
+            "publishedAt": "2026-11-16T18:22:30Z",
+            "content": "A Division of NBCUniversal.\r\nDISCLAIMER: This site and the products offered are for entertainment purposes only, and there is no gambling offered on this site. This service is intended for adult audi… [+153 chars]"
+        },
+        {
+            "source": {
+                "id": "bleacher-report",
+                "name": "Bleacher Report"
+            },
+            "author": "Joel Reuter",
+            "title": "Ranking Every Player on the 2027 MLB Hall of Fame Ballot - Bleacher Report",
+            "description": "The 2027 Baseball Hall of Fame ballot was released&nbsp;by the Baseball Writers' Association of America on Monday, with Buster Posey and Jon Lester headlining the list of newcomers joining 13 holdovers from last year's ballot.",
+            "url": "https://bleacherreport.com/articles/25532875-ranking-every-player-2027-mlb-hall-fame-ballot",
+            "urlToImage": "https://gsp-image-cdn.wmsports.io/cms/prod/bleacher-report/getty_images/2026-11/2229488105_large_cropped.jpg?w=1120&h=630",
+            "publishedAt": "2026-11-16T18:09:28Z",
+            "content": "13 of 15Stats: 2,784 G, 140 OPS+, 3,115 H, 696 HR, 2,086 RBI, 329 SB\r\nWAR: 117.4\r\nAccolades: 14x All-Star, 2x Gold Glove, 10x Silver Slugger, 3x AL MVP, 1x WS winner\r\nAlex Rodriguez serves as the uno… [+918 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "KSL.com"
+            },
+            "author": "Josh Furlong, KSL",
+            "title": "Josh Furlong's AP Top 25: Georgia likely the team to beat, but UCLA and Utah making a case - KSL",
+            "description": "As we close in on the end of the regular season, there's very few certainties in the sport.",
+            "url": "https://www.ksl.com/article/51646110/josh-furlongs-ap-top-25-georgia-likely-the-team-to-beat-but-ucla-and-utah-making-a-case",
+            "urlToImage": "https://img.ksl.com/slc/3208/320880/32088040.jpg?filter=kslv2/responsive_story_lg",
+            "publishedAt": "2026-11-16T17:01:00Z",
+            "content": "SALT LAKE CITY As we close in on the end of the regular season, there's very few certainties in the sport.\r\nAnd outside of the top 10-15 teams, it's starting to feel like a crapshoot on who \"deserves… [+3644 chars]"
+        },
+        {
+            "source": {
+                "id": "espn",
+                "name": "ESPN"
+            },
+            "author": "Marcel Louis-Jacques",
+            "title": "Dolphins cut kicker Zane Gonzalez a day after costly misses in loss to Colts - ESPN",
+            "description": "The Dolphins waived kicker Zane Gonzalez on Monday, a day after he missed two field goals and an extra point in a 24-22 loss to the Colts.",
+            "url": "https://www.espn.com/nfl/story/_/id/50502391/dolphins-cut-kicker-zane-gonzalez-day-costly-misses",
+            "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1116%2Fr1746667_1296x729_16%2D9.jpg",
+            "publishedAt": "2026-11-16T16:39:00Z",
+            "content": "MIAMI GARDENS, Fla. -- The Dolphins waived kicker Zane Gonzalez, a day after a series of missed kicks hindered Miami in a 24-22 loss to the Indianapolis Colts.\r\nGonzalez joined the Dolphins in Week 7… [+1658 chars]"
+        },
+        {
+            "source": {
+                "id": "espn",
+                "name": "ESPN"
+            },
+            "author": "Rich Cimini",
+            "title": "Jets Aaron Glenn ceded defensive playcalling to DC Brian Duker on Sunday - ESPN",
+            "description": "Amid a prolonged defensive slide, Aaron Glenn handed the playcalling duties Sunday to defensive coordinator Brian Duker, Glenn revealed Monday.",
+            "url": "https://www.espn.com/nfl/story/_/id/50502248/jets-aaron-glenn-ceded-defensive-playcalling-sunday",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1116%2Fr1746660_1296x729_16%2D9.jpg",
+            "publishedAt": "2026-11-16T16:19:00Z",
+            "content": "FLORHAM PARK, N.J. -- New York Jets coach Aaron Glenn, who famously declared last offseason that defensive playcalling is \"my superpower,\" has pulled the plug on himself.\r\nAmid a prolonged defensive … [+3402 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MMA Fighting"
+            },
+            "author": "Alexander K. Lee",
+            "title": "Jon Jones, Josh Hokit trade vicious insults, Hokit makes wild accusation: ‘The wrath of God is coming for you’ - MMA Fighting",
+            "description": "Jon Jones and Josh Hokit took aim at each other on social media following Hokit’s loss at UFC 334.",
+            "url": "https://www.mmafighting.com/ufc/521692/jon-jones-josh-hokit-trade-vicious-insults-hokit-makes-wild-accusation-the-wrath-of-god-is-coming-for-you",
+            "urlToImage": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/08/gettyimages-2285697056.jpg?quality=90&strip=all&crop=0%2C1.1315308857674%2C100%2C78.526785908362&w=1200",
+            "publishedAt": "2026-11-16T16:00:00Z",
+            "content": "Jon Jones and Josh Hokit went at each others throats on social media late Sunday evening.\r\nHokit competed in Saturdays UFC 334 main event, challenging heavyweight champion Ciryl Gane and battling har… [+5730 chars]"
+        },
+        {
+            "source": {
+                "id": "espn",
+                "name": "ESPN"
+            },
+            "author": "Rich Cimini",
+            "title": "Geno Smith remains Jets' QB1 despite ankle injury, coach Aaron Glenn says - ESPN",
+            "description": "Geno Smith is undergoing tests on his injured left ankle, creating uncertainty about his status for the Jets' Week 11 game against the Chargers.",
+            "url": "https://www.espn.com/nfl/story/_/id/50502082/geno-smith-remains-jets-qb1-injury-aaron-glenn-says",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1115%2Fr1746260_1296x729_16%2D9.jpg",
+            "publishedAt": "2026-11-16T16:00:00Z",
+            "content": "FLORHAM PARK, N.J. -- Jets quarterback Geno Smith is undergoing imaging tests Monday on his injured left ankle, creating uncertainty about his status for New York's Week 11 game against the Los Angel… [+1787 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Prideofdetroit.com"
+            },
+            "author": "Erik Schlitt",
+            "title": "Detroit Lions Week 10 snap counts: Derrick Moore steps up after Hutchinson injury - Pride Of Detroit",
+            "description": "Taking a look at the Detroit Lions snap counts from Week 10 and exploring how they will impact the roster moving forward.",
+            "url": "https://www.prideofdetroit.com/detroit-lions-analysis/181321/detroit-lions-week-10-snap-counts-derrick-moore-steps-up-after-hutchinson-injury",
+            "urlToImage": "https://platform.prideofdetroit.com/wp-content/uploads/sites/127/2026/11/reuters-tagreuters.com2026newsml_MT1USATODAY30337702872285920.jpg?quality=90&strip=all&crop=0%2C10.739906030494%2C100%2C78.520187939011&w=1200",
+            "publishedAt": "2026-11-16T15:30:23Z",
+            "content": "In Week 10, the Detroit Lions moved to 7-2 after beating the New England Patriots in Munich, Germany. The Lions dominated the game in every way, and while key injuries will certainly be prominent sto… [+6851 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "On3.com"
+            },
+            "author": "Spencer Haskell",
+            "title": "UNC Safety Greg Smith Suspended For First Half at Virginia - On3",
+            "description": "The ACC announced its ruling on Monday morning after reviewing the postgame incident between UNC and Louisville.",
+            "url": "https://www.on3.com/teams/north-carolina-tar-heels/news/unc-safety-greg-smith-suspended-for-first-half-at-virginia/",
+            "urlToImage": "https://on3static.com/cdn-cgi/image/height=675,width=1200,quality=90,fit=cover,gravity=0.5x0.5,format=auto,metadata=none/uploads/dev/assets/cms/2026/11/16092119/postgamefight-2.jpg",
+            "publishedAt": "2026-11-16T15:22:56Z",
+            "content": "CHAPEL HILL, N.C. North Carolina will be without starting safety Greg Smith for the first half when it travels to take on Virginia on Saturday in Charlottesville.\r\nThe ACC announced Monday morning th… [+1309 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "Josh Edwards",
+            "title": "2027 NFL mock draft: Six quarterbacks go in the first round but none overcome Jeremiah Smith - CBS Sports",
+            "description": "Six quarterbacks still come off the board in the first round even with Texas standout Arch Manning and Missouri passer Austin Simmons projected to stay in school",
+            "url": "https://www.cbssports.com/nfl/draft/news/2027-nfl-mock-draft-six-quarterbacks-jeremiah-smith-week-11/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2026/11/16/a7c8040b-47cb-4d90-9b67-0b2e182fa58b/thumbnail/1200x675/90212868d6082a74b3a4252e7a59d24f/gettyimages-2302893973-1.jpg",
+            "publishedAt": "2026-11-16T15:09:00Z",
+            "content": "The number of opportunities to make an impression on NFL talent evaluators this college football season may be as low as two for some prospects. The once vaunted 2027 NFL Draft class no longer appear… [+1923 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Chris Cwik",
+            "title": "Lions star Aidan Hutchinson reportedly sustains torn ACL while celebrating sack of Drake Maye - Yahoo Sports",
+            "description": "Aidan Hutchinson leapt into the air after a sack and came down hard.",
+            "url": "https://sports.yahoo.com/nfl/breaking-news/article/lions-star-aidan-hutchinson-reportedly-sustains-torn-acl-while-celebrating-sack-of-drake-maye-144314643.html",
+            "urlToImage": "https://s.yimg.com/lo/mysterio/api/caec7d047886bb72b317ecc91042868b0b3a039a3e548a96395398442ff9c6f0/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2F6e561d8a-55fe-456c-904f-f5ca9d012f2d",
+            "publishedAt": "2026-11-16T14:43:14Z",
+            "content": "Detroit Lions star Aidan Hutchinson made his presence known early against the New England Patriots on Sunday. On the Patriots' first offensive drive, Hutchinson broke through the line on third down a… [+1949 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Awful Announcing"
+            },
+            "author": "Tyler Lauletta",
+            "title": "Mike Tomlin expresses concern over Mike Vrabel’s comments - Awful Announcing",
+            "description": "Mike Tomlin thinks all must not be well in the New England locker room after Mike Vrabel gave a telling press conference.",
+            "url": "https://awfulannouncing.com/nfl/mike-tomlin-concerned-mike-vrabel-comments-patriots.html",
+            "urlToImage": "https://cdn1.thecomeback.com/wp-content/uploads/sites/94/2026/11/AA-Photos-17-1024x536.png",
+            "publishedAt": "2026-11-16T14:07:48Z",
+            "content": "The New England Patriots got smoked by the Detroit Lions, 3510, in Munich to kick off Sunday’s NFL slate of action. The Patriots lost several players including starting quarterback Drake Maye to inju… [+2890 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Frank Schwab",
+            "title": "NFL Monday Night Football preview: Ravens look to stay relevant with Jacoby Brissett, Chargers look for a win - Yahoo Sports",
+            "description": "Jacoby Brissett will make his first start of the season for the Ravens.",
+            "url": "https://sports.yahoo.com/nfl/article/nfl-monday-night-football-preview-ravens-look-to-stay-relevant-with-jacoby-brissett-chargers-look-for-a-win-135635040.html",
+            "urlToImage": "https://s.yimg.com/lo/mysterio/api/32c9e69ee8a49db55ffc0887a4005674000992361481d08bbef6b2edcf04334f/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2F7179d25a-d0d4-4189-9aa7-62c5d9ca3331",
+            "publishedAt": "2026-11-16T13:56:35Z",
+            "content": "The Baltimore Ravens would have been excused for packing it up this season and not trading off draft picks for a long shot on a discarded quarterback dragging them to the playoffs.\r\nBut the Ravens ha… [+5000 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Chris Cwik",
+            "title": "Drake Maye reportedly could miss remainder of season with 'significant lower leg injury,' Pats fear ankle fracture - Yahoo Sports",
+            "description": "Drake Maye was injured after an Aidan Hutchinson sack.",
+            "url": "https://sports.yahoo.com/nfl/breaking-news/article/drake-maye-reportedly-could-miss-remainder-of-season-with-significant-lower-leg-injury-pats-fear-ankle-fracture-132048155.html",
+            "urlToImage": "https://s.yimg.com/lo/mysterio/api/ec357f67be12cf97aa733f6a603acc7b286f811c7f3bcd6f07e0229f4660c0d3/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2F4749dfe0-d6d7-4941-a872-6ce08fcf5222",
+            "publishedAt": "2026-11-16T13:20:48Z",
+            "content": "New England Patriots quarterback Drake Maye reportedly could potentially miss the remainder of the season with what is described as a \"significant lower-leg injury,\" NFL Network reported early Monday… [+1355 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Pats Pulpit"
+            },
+            "author": "Pat Lane",
+            "title": "10 things we learned from Patriots vs. Lions - Pats Pulpit",
+            "description": "What we learned from the Patriots’ Week 10 loss to the Lions.",
+            "url": "https://www.patspulpit.com/new-england-patriots-analysis/144521/patriots-vs-lions-10-things-we-learned",
+            "urlToImage": "https://platform.patspulpit.com/wp-content/uploads/sites/121/2026/11/gettyimages-2304776320.jpg?quality=90&strip=all&crop=0%2C18.805076972376%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-11-16T13:00:00Z",
+            "content": "For a second week in a row, the New England Patriots got blown out by an NFC North team on Sunday. Once again, they looked listless and disengaged for the majority of the game.\r\nLets get into our les… [+7927 chars]"
+        },
+        {
+            "source": {
+                "id": "espn",
+                "name": "ESPN"
+            },
+            "author": "Brett Okamoto",
+            "title": "Kayla Harrison could take on a familiar foe in next fight - ESPN",
+            "description": "What options do Ciryl Gane and Kayla Harrison have after the first defenses of their titles at UFC 334?",
+            "url": "https://www.espn.com/mma/story/_/id/50494167/ufc-334-next-ciryl-gane-kayla-harrison-more",
+            "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1115%2Fr1746333_2_1296x729_16%2D9.jpg",
+            "publishedAt": "2026-11-16T12:47:00Z",
+            "content": "Two UFC champions successfully defended their titles for the first time atop the UFC 334 fight card at Madison Square Garden in New York on Saturday. But the victories left the two titleholders in dr… [+6134 chars]"
+        },
+        {
+            "source": {
+                "id": "espn",
+                "name": "ESPN"
+            },
+            "author": "ESPN",
+            "title": "Power Rankings: The top teams hold their positions in Week 11 - ESPN",
+            "description": "Check out how Week 11 caused shifts in this week's top 25.",
+            "url": "https://www.espn.com/college-football/story/_/id/50473507/2026-college-football-power-rankings-top-25-week-11",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1115%2Fr1746229_1296x729_16%2D9.jpg",
+            "publishedAt": "2026-11-16T12:19:15Z",
+            "content": "Nov 16, 2026, 07:10 AM ET\r\nWeek 11 was no Week 10, but it still had its fair share of dramatic finishes.\r\nTexas managed to edge LSU in Death Valley on a last-second touchdown from Arch Manning. And U… [+18793 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NBCSports.com"
+            },
+            "author": "Josh Alper",
+            "title": "Josh Downs \"excited to keep building\" connection with Patrick Mahomes - NBC Sports",
+            "description": "Chiefs wide receiver Josh Downs didn't waste any time making an impact for his new team.",
+            "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/josh-downs-excited-to-keep-building-connection-with-patrick-mahomes",
+            "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/77bd8fe/2147483647/strip/true/crop/2920x1643+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fb5%2Fca%2F8eda8bbd422baaba96de2a63a5ee%2F2026-11-15t193114z-1201778339-mt1usatoday30359057-rtrmadp-3-nfl-kansas-city-chiefs-at-atlanta-falcons.jpg",
+            "publishedAt": "2026-11-16T12:14:48Z",
+            "content": "Chiefs wide receiver Josh Downs didnt waste any time making an impact for his new team. \r\nDowns joined the Chiefs in a trade with the Colts on Tuesday, which meant that he had limited practice time w… [+948 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "FantasyPros"
+            },
+            "author": "Pat Fitzmaurice",
+            "title": "Fantasy Football Waiver Wire Advice: Players to Add, Stash & Drop (Week 11) - FantasyPros",
+            "description": "The bye-pocalypse is upon us! Repent now, lest ye be forced to put Tyjae Spears and Jalen Nailor into lineups. There is no greater mass plague in fantasy football than the six-team bye week. Few fantasy teams will have their &#8230;  read more &raquo;",
+            "url": "https://www.fantasypros.com/2026/11/fantasy-football-waiver-wire-advice-players-to-add-stash-drop-week-11-2026/",
+            "urlToImage": "https://cdn.fantasypros.com/wp-content/images/chris_rodriguez_jaguars_2-1/1470x650.jpg",
+            "publishedAt": "2026-11-16T12:12:06Z",
+            "content": "The bye-pocalypse is upon us! Repent now, lest ye be forced to put Tyjae Spears and Jalen Nailor into lineups.\r\nThere is no greater mass plague in fantasy football than the six-team bye week. Few fan… [+31667 chars]"
+        },
+        {
+            "source": {
+                "id": "bleacher-report",
+                "name": "Bleacher Report"
+            },
+            "author": "Zachary D. Rymer",
+            "title": "Predicting How MLB's Free-Agent Pitching Market Shakes Out - Bleacher Report",
+            "description": "Even if the consensus on this winter's MLB free-agent market is that it consists of a weak crop of players, it's also lopsided in a way that offers a silver lining.",
+            "url": "https://bleacherreport.com/articles/25533546-predicting-how-mlbs-free-agent-pitching-market-shakes-out",
+            "urlToImage": "https://gsp-image-cdn.wmsports.io/cms/prod/bleacher-report/getty_images/2026-11/2290852903_0_large_cropped.jpg?w=945&h=630",
+            "publishedAt": "2026-11-16T12:11:48Z",
+            "content": "9 of 9What's His Market?\r\nTarik Skubal is a two-time Cy Young Award winner with a 2.42 ERA and 0.923 WHIP to show for his last three seasons. His creds don't need more elaboration than that.\r\nAccordi… [+1206 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NBCSports.com"
+            },
+            "author": "Josh Alper",
+            "title": "Mike Macdonald praises Tory Horton’s “tremendous play” on late kickoff return - NBC Sports",
+            "description": "After the Raiders cut the Seahawks' lead to 21-13 by kicking a field goal with 2:04 left in Sunday's game, they wanted to force a touchback that would allow them to use the two-minute warning as a third timeout in hopes of getting the ball back.",
+            "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mike-macdonald-praises-tory-hortons-tremendous-play-on-late-kickoff-return",
+            "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/1bcbc36/2147483647/strip/true/crop/4500x2531+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F80%2F67%2F46e9861f469dabdb5b60b5cc0f88%2F2303530996.jpg",
+            "publishedAt": "2026-11-16T11:56:53Z",
+            "content": "After the Raiders cut the Seahawks lead to 21-13 by kicking a field goal with 2:04 left in Sundays game, they wanted to force a touchback that would allow them to use the two-minute warning as a thir… [+1679 chars]"
+        },
+        {
+            "source": {
+                "id": "espn",
+                "name": "ESPN"
+            },
+            "author": "Dan Graziano",
+            "title": "Judging overreactions to NFL Week 10: Playoff spin for Vikings, Pats, Browns, more - ESPN",
+            "description": "Will Kirk Cousins be the difference in the NFC North? The Browns are going to the playoffs ... but not the Patriots? Patrick Mahomes for MVP and Kyle Shanahan for COY?",
+            "url": "https://www.espn.com/nfl/story/_/id/50491464/week-10-overreactions-2026-graziano-cousins-mahomes",
+            "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1115%2Fr1746347_1296x729_16%2D9.jpg",
+            "publishedAt": "2026-11-16T11:05:00Z",
+            "content": "We did not do post-trade deadline overreactions last week, preferring to see at least one weekend's worth of NFL games before rushing to judgment about the immediate impact of any of the completed de… [+12839 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Deseret News"
+            },
+            "author": "Jay Drew",
+            "title": "Did BYU hold steady in CFP rankings with solid win over Baylor? - Deseret News",
+            "description": "Aside from another lull in the third quarter, BYU looked the part of a CFP-worthy team in Saturday's 28-7 win over Baylor.",
+            "url": "https://www.deseret.com/sports/2026/11/16/byu-football-cougars-baylor-review-bears-next-up-kansas-jayhawks-big-12-race/",
+            "urlToImage": "https://www.deseret.com/resizer/v2/F6RYPL2ELZB47ONCGCZTENQ5SU.JPG?focal=0%2C0&auth=cf724f00e7b17e907b8343a12b32ad33506e92329ba14c4854c19afe0d070c6e&width=630&height=331",
+            "publishedAt": "2026-11-16T11:00:01Z",
+            "content": "Aside from another lull in the third quarter in which they sabotaged themselves with two really costly penalties that negated huge gains, the BYU Cougars looked every bit the part of a top 10 footbal… [+4498 chars]"
+        },
+        {
+            "source": {
+                "id": "espn",
+                "name": "ESPN"
+            },
+            "author": "Jordan Raanan",
+            "title": "Giants QB J.J. McCarthy's growth is showing in the numbers - ESPN",
+            "description": "After only three starts and four games playing for New York, the quarterback's numbers are staggering.",
+            "url": "https://www.espn.com/nfl/story/_/id/50491685/new-york-giants-qb-jj-mccarthy-growth-showing-week-10",
+            "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1020%2Fr1733247_1296x729_16%2D9.jpg",
+            "publishedAt": "2026-11-16T11:00:00Z",
+            "content": "EAST RUTHERFORD, N.J. -- Quarterback J.J. McCarthy played \"very well\" in Thursday night's 24-21 loss to the Washington Commanders, according to coach John Harbaugh. He set a career high with 293 yard… [+4821 chars]"
+        },
+        {
+            "source": {
+                "id": "espn",
+                "name": "ESPN"
+            },
+            "author": "Mike Reiss",
+            "title": "Patriots need to fix defensive effort -- especially if Drake Maye misses time - ESPN",
+            "description": "New England has given up 80 points over the past two games. The bye week will allow the team to reset.",
+            "url": "https://www.espn.com/nfl/story/_/id/50497417/patriots-defense-struggles-lions-drake-maye",
+            "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1116%2Fr1746427_1296x729_16%2D9.jpg",
+            "publishedAt": "2026-11-16T11:00:00Z",
+            "content": "MUNICH -- If quarterback Drake Maye misses time with the ankle injury he suffered on Sunday, the New England Patriots will likely need to rely more on defense to salvage the post-Week 11 bye part of … [+4465 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Eddie Timanus",
+            "title": "Not so fast: The CFP contenders on shaky ground lead Week 11 overreactions - USA Today",
+            "description": "Is the College Football Playoff picture as clear as it seems? The teams that should be on their toes lead our overreactions from Week 11.",
+            "url": "https://www.usatoday.com/story/sports/ncaaf/2026/11/16/cfp-picture-college-football-overreactions-week-11/92802872007/",
+            "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/11/16/USAT/92803733007-20261114-t-024143-z-135803830-mt-1-usatoday-30352345-rtrmadp-3-ncaafootballillinoisatucla.JPG?crop=4015,2259,x0,y213&width=3200&height=1801&format=pjpg&auto=webp",
+            "publishedAt": "2026-11-16T10:10:00Z",
+            "content": "<ul><li>Rivalry games, like Alabama versus Auburn, could introduce unexpected outcomes for playoff contenders.</li><li>Teams like UCLA and Indiana must win their remaining games to secure spots in th… [+3831 chars]"
+        },
+        {
+            "source": {
+                "id": "espn",
+                "name": "ESPN"
+            },
+            "author": "Ben Baby",
+            "title": "Joe Burrow's 4-TD night puts QB in company of Tom Brady, Peyton Manning - ESPN",
+            "description": "Bengals QB Joe Burrow threw for 409 yards with four touchdowns and no interceptions Sunday night, becoming just the third player in NFL history after Tom Brady and Peyton Manning to throw at least 20 passing touchdowns in a five-game span.",
+            "url": "https://www.espn.com/nfl/story/_/id/50499235/bengals-joe-burrow-4-touchdowns-win-vs-steelers-puts-company-tom-brady-peyton-manning",
+            "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1116%2Fr1746518_1296x729_16%2D9.jpg",
+            "publishedAt": "2026-11-16T06:41:00Z",
+            "content": "CINCINNATI -- Even after a performance that was reminiscent of some of the greatest quarterbacks in NFL history and enhanced his case as the current best in the league, Joe Burrow was not in the mood… [+3849 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Sfstandard.com"
+            },
+            "author": "David Lombardi",
+            "title": "‘Holy crap, that’s Brock!’: Purdy’s lead block wows 49ers veterans in wild shootout win - The San Francisco Standard",
+            "description": "The 49ers quarterback threw for a career-high 389 yards, but all his teammates wanted to talk about was a block on Deebo Samuel’s 70-yard touchdown run.",
+            "url": "https://sfstandard.com/2026/11/15/brock-purdy-49ers-qb-mvp-lead-block/",
+            "urlToImage": "https://assets.sfstandard.com/image/994911177489/image_imk709ndsh7mneubtql7eavg49/-C100.00%25x78.75%25%2C0.00%25%2C0.00%25-S1200x630-FPNG",
+            "publishedAt": "2026-11-16T05:15:51Z",
+            "content": "ARLINGTON, Texas  The 49ers, capitalizing on the overaggressiveness of the Dallas Cowboys, ran a reverse. It was Trent Williams job to sell the running action of rookie Kaelon Black.\r\nFlow to the rig… [+5005 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MassLive.com"
+            },
+            "author": "MassLive",
+            "title": "What Cooper Flagg learned from Celtics, who wanted it ‘bad’ Sunday - MassLive",
+            "description": null,
+            "url": "https://www.masslive.com/celtics/2026/11/what-cooper-flagg-learned-from-celtics-who-wanted-it-bad-sunday.html",
+            "urlToImage": null,
+            "publishedAt": "2026-11-16T04:53:00Z",
+            "content": null
+        },
         {
             "source": {
                 "id": null,
@@ -44,6 +421,19 @@
         {
             "source": {
                 "id": null,
+                "name": "Arizona Sports"
+            },
+            "author": "Alex Weiner",
+            "title": "Mike LaFleur tells Cardinals players, ‘There is no magic savior coming’ - Arizona Sports",
+            "description": "The reality for the Cardinals is tough, but LaFleur put it on his players to be much better than what happened on Sunday.",
+            "url": "https://arizonasports.com/nfl/arizona-cardinals/mike-lafleur-tells-cardinals-players-there-is-no-magic-savior-coming",
+            "urlToImage": "https://arizonasports.com/wp-content/uploads/2026/11/GettyImages-2305275669-e1794797927259.jpg",
+            "publishedAt": "2026-11-16T03:14:19Z",
+            "content": "GLENDALE — Arizona Cardinals head coach Mike LaFleur was blunt with his players during Sunday’s 34-6 drubbing at the hands of the Los Angeles Rams: “There’s no magic wand, there’s no magic savior.”\r\n… [+5042 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "Silver Screen and Roll "
             },
             "author": "Jacob Rude",
@@ -82,6 +472,19 @@
         },
         {
             "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Stefan Bondy",
+            "title": "Knicks refind clutch gene to hold on for tight overtime win over Raptors - New York Post",
+            "description": "Jalen Brunson saved his best shot for last and OG Anunoby sealed a win at the foul line Sunday, as the Knicks reaffirmed their longstanding dominance over the Raptors with a 112-108 overtime victor…",
+            "url": "https://nypost.com/2026/11/15/sports/knicks-refind-clutch-gene-for-overtime-win-over-raptors/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/11/newspress-collage-hbl6w81y8-1794795779765.jpg?quality=75&strip=all&1794777893&w=1200",
+            "publishedAt": "2026-11-16T02:34:00Z",
+            "content": "TORONTO At least for one night in Canada, the clutch Knicks were back.\r\nJalen Brunson saved his best shot for last, Karl-Anthony Towns stuffed the boxscore on his 31st birthday, Landry Shamet shined … [+3314 chars]"
+        },
+        {
+            "source": {
                 "id": "associated-press",
                 "name": "Associated Press"
             },
@@ -92,6 +495,45 @@
             "urlToImage": "https://dims.apnews.com/dims4/default/6bc60e6/2147483647/strip/true/crop/7393x4931+0+0/resize/1200x800!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F7d%2F80%2F3be910b4b71a7de71e2538e01732%2Fe83a39a9e330469fa5c45f3cd6f90175",
             "publishedAt": "2026-11-16T02:17:00Z",
             "content": "The Toronto Tempo won the WNBA draft lottery Sunday night and now will have to wait and see who is available for them to pick No. 1 next spring.\r\nThe Tempo, who joined the league as an expansion team… [+2264 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NBCSports.com"
+            },
+            "author": "Mike Florio",
+            "title": "Jaxon Smith-Njigba should be taken seriously as an MVP candidate - NBC Sports",
+            "description": "No player as been more valuable to his team this year than JSN.",
+            "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jaxon-smith-njigba-should-be-taken-seriously-as-an-mvp-candidate",
+            "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/0eba292/2147483647/strip/true/crop/4142x2330+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F02%2Fb0%2F4d6486fa40a08304e18e02f41e19%2F2026-11-15t195727z-1010620652-mt1usatoday30361127-rtrmadp-3-nfl-seattle-seahawks-at-las-vegas-raiders.jpg",
+            "publishedAt": "2026-11-16T02:12:21Z",
+            "content": "As trophy typos go, its one thing to have a mistake on offensive player of the year. A three-letter award is harder to screw up.\r\nAnd, frankly, Seahawks receiver Jaxon Smith-Njigba should be taken ve… [+1498 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Rochester Democrat and Chronicle"
+            },
+            "author": "Sal Maiorana",
+            "title": "Bills report card: Buffalo hits afterburners to pull away from Jets - Democrat and Chronicle",
+            "description": "Here's how Sal Maiorana graded the Bills in their 31-12 victory over the woeful Jets Sunday at MetLife Stadium.",
+            "url": "https://www.democratandchronicle.com/story/sports/football/nfl/bills/2026/11/15/bills-report-card-buffalo-uses-afterburners-to-pull-away-from-jets/92800979007/",
+            "urlToImage": "https://www.democratandchronicle.com/gcdn/authoring/authoring-images/2026/11/15/PROC/92801391007-20261115-t-205155-z-1788543607-mt-1-usatoday-30359952-rtrmadp-3-nflbuffalobillsatnewyorkjets.JPG?crop=2576,1449,x0,y0&width=2576&height=1449&format=pjpg&auto=webp",
+            "publishedAt": "2026-11-16T02:02:08Z",
+            "content": "EAST RUTHERFORD, N.J. - After sleep walking their way on offense through the first half Sunday afternoon, the Buffalo Bills woke up in an angry mood to start the third quarter.\r\nHaving just watched t… [+8239 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Sports Illustrated"
+            },
+            "author": "Conor Orr",
+            "title": "Fernando Mendoza’s Debut Should Call the Raiders’ Plan Into Question - Sports Illustrated",
+            "description": "The No. 1 pick played well, but there were moments that reminded us why the team initially wanted him to sit for a full year.",
+            "url": "https://www.si.com/nfl/fernando-mendoza-debut-call-raiders-plan-into-question",
+            "urlToImage": "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_50,w_4782,h_2689/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/ReutersImages/mmsport/si/01m7h0aw6wxc7crxhj03.jpg",
+            "publishedAt": "2026-11-16T01:55:36Z",
+            "content": "Fernando Mendozas debut\r\n was exceptional and terrifying. It was stoic and panicked. It was white-knuckle and brass-knuckle. After it was all over, there remains the question of why it happened at al… [+4955 chars]"
         },
         {
             "source": {
@@ -174,6 +616,32 @@
         {
             "source": {
                 "id": null,
+                "name": "Minneapolis Star Tribune"
+            },
+            "author": "Ben Goessling",
+            "title": "Vikings defense steals the show in Kirk Cousins’ winning return against Packers - Star Tribune",
+            "description": "The Vikings delivered a historic pass rush against Jordan Love, recording their most sacks ever at Lambeau Field as Cousins provided a much-needed boost on offense.",
+            "url": "https://www.startribune.com/minnesota-vikings-green-bay-packers-score-kirk-cousins-stats-brian-flores-defense-jordan-love-sacks/601911680",
+            "urlToImage": "https://arc.stimg.co/startribunemedia/KHIMOI5ATVELHM7G6RABPJOTM4.jpg?&w=1200&ar=1.91:1&fit=crop",
+            "publishedAt": "2026-11-16T00:51:13Z",
+            "content": "Players talked afterward about the calming influence Cousins had during a week when the Vikings practiced just twice after Monday nights loss to Buffalo. He directed receivers in detail about what he… [+1433 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Frank Schwab",
+            "title": "NFL Week 10 Winners and Losers: Packers and Lions may be in trouble in NFC North race, leaving Vikings and Bears - Yahoo Sports",
+            "description": "A key injury to Aidan Hutchinson will have a big impact on the NFC North race.",
+            "url": "https://sports.yahoo.com/nfl/article/nfl-week-10-winners-and-losers-packers-and-lions-may-be-in-trouble-in-nfc-north-race-leaving-vikings-and-bears-212529269.html",
+            "urlToImage": "https://s.yimg.com/lo/mysterio/api/5577e55e03a984cb10c4dee08d3f77a62ecd34699920ab0bafadacdc9cc33eea/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2Fea2d7e8d-e966-45d4-84fb-b6d3c22c9973",
+            "publishedAt": "2026-11-16T00:48:00Z",
+            "content": "Before Sunday, the NFC North looked like it would be a four-team battle royal until the end.\r\nThen a freak injury and a home blowout crystallized the race. We might be down to two teams for the divis… [+11985 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "CBS Sports"
             },
             "author": null,
@@ -209,6 +677,19 @@
             "urlToImage": "https://www.d2football.com/images/page/blog-2026-playoff-field-announced-17947580663365.jpg",
             "publishedAt": "2026-11-16T00:04:07Z",
             "content": "November 15th, 2026 3:00pm\r\nBy Chuck Bitner, D2Football.com\r\nThirty two teams will compete for the NCAA Division II national championship of 2026. The field for the tournament was announced on Sunday… [+5464 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Sportsnaut"
+            },
+            "author": "Matt Johnson",
+            "title": "Week 11 NFL Power Rankings: Vikings, Jaguars, 49ers Climb Among Best NFL Teams Right Now, Packers Drop After Week 11 - Sportsnaut",
+            "description": "NFL Power Rankings 2026: What is the best NFL team right now? We evaluate all 32 teams after Week 10 in our latest NFL power rankings.",
+            "url": "https://sportsnaut.com/nfl/week-11-nfl-power-rankings-2026",
+            "urlToImage": "https://media.sportsnaut.com/wp-content/uploads/2026/11/NFL-Minnesota-Vikings-at-Green-Bay-Packers-tagreuters-com2026newsml_mt1usatoday3035828892474271-1600x900.jpg",
+            "publishedAt": "2026-11-15T23:56:17Z",
+            "content": "It is safe to say moves made at the 2026 NFL trade deadline had a fairly sizable impact on Week 10. Kirk Cousins helped lead the Minnesota Vikings to a statement win at Lambeau Field, while Josh Down… [+24754 chars]"
         },
         {
             "source": {
@@ -252,15 +733,15 @@
         {
             "source": {
                 "id": null,
-                "name": "Rochester Democrat and Chronicle"
+                "name": "Footballscoop.com"
             },
-            "author": "Sal Maiorana",
-            "title": "Bills report card: Buffalo hits afterburners to pull away from Jets - Democrat and Chronicle",
-            "description": "Here's how Sal Maiorana graded the Bills in their 31-12 victory over the woeful Jets Sunday at MetLife Stadium.",
-            "url": "https://www.democratandchronicle.com/story/sports/football/nfl/bills/2026/11/15/bills-report-card-buffalo-uses-afterburners-to-pull-away-from-jets/92800979007/",
-            "urlToImage": "https://www.democratandchronicle.com/gcdn/authoring/authoring-images/2026/11/15/PROC/92801391007-20261115-t-205155-z-1788543607-mt-1-usatoday-30359952-rtrmadp-3-nflbuffalobillsatnewyorkjets.JPG?crop=2576,1449,x0,y0&width=2576&height=1449&format=pjpg&auto=webp",
-            "publishedAt": "2026-11-15T23:32:00Z",
-            "content": "EAST RUTHERFORD, N.J. - After sleep walking their way on offense through the first half Sunday afternoon, the Buffalo Bills woke up in an angry mood to start the third quarter.\r\nHaving just watched t… [+8239 chars]"
+            "author": null,
+            "title": "Ferris State's record win streak heads into Division II bracket headlined by Harding, Slippery Rock - FootballScoop.com",
+            "description": "The Division II playoff field is set. The NCAA revealed its 32-team bracket Sunday night.",
+            "url": "https://www.footballscoop.com/2026/11/15/ferris-states-record-win-streak-heads-into-division-ii-bracket-headlined-by-harding-slippery-rock",
+            "urlToImage": "https://www.footballscoop.com/img/legacy/ferris-state-21-champs-1600x900.jpg",
+            "publishedAt": "2026-11-15T23:43:47Z",
+            "content": "The Division II playoff field is set. The NCAA revealed its 32-team bracket Sunday night. The field includes automatic qualifiers from 15 conferences, and the NCAA Power Index (NPI) was used for the … [+5235 chars]"
         },
         {
             "source": {
@@ -287,6 +768,19 @@
             "urlToImage": "https://cdn.mlbtraderumors.com/files/2026/11/RyanWalker-2026Giants-1024x683.jpg",
             "publishedAt": "2026-11-15T23:21:34Z",
             "content": "The Brewers announced that right-hander Ryan Walker has been acquired in a trade with the Giants.  Right-handed pitching prospects Blake Holub and Gavin Perry head to San Francisco as the return.  Mi… [+3889 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "Cameron Salerno",
+            "title": "Tomorrow's Top 25 Today: Michigan State makes huge jump after win over Duke in rankings prediction - CBS Sports",
+            "description": "Michigan State and Texas Tech are expected to move up, while Duke and Illinois will drop in Monday's AP Top 25 poll",
+            "url": "https://www.cbssports.com/college-basketball/news/tomorrows-ap-top-25-today-michigan-state-duke-florida/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2026/11/15/d1998403-acb8-4a84-8a8a-e50395d520a1/thumbnail/1200x675/89620942430a8c992faa7b0aee0bac26/projectedtop25-msu.png",
+            "publishedAt": "2026-11-15T23:20:00Z",
+            "content": "After the opening week of the college basketball season featured just one team (Arizona) inside the top 10 of the preseason AP Top 25 poll losing, this week provided some serious drama. On Tuesday, N… [+8427 chars]"
         },
         {
             "source": {
@@ -326,6 +820,19 @@
             "urlToImage": "https://www.footballscoop.com/img/random/stagg-bowl-salem-1600x900.jpg",
             "publishedAt": "2026-11-15T22:33:39Z",
             "content": "Selection Sunday in Division III delivered a 40-team field with a brand new conference in the mix and two familiar names on the outside looking in.\r\nThe NCAA revealed the bracket this evening. This i… [+3795 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Tennishead"
+            },
+            "author": null,
+            "title": "Mirra Andreeva issues strong message after winning the WTA Finals, ‘she is not getting the win’ - Tennishead",
+            "description": "Andreeva is the champion in California! 🏆",
+            "url": "https://tennishead.net/mirra-andreeva-issues-strong-message-after-winning-the-wta-finals-she-is-not-getting-the-win/",
+            "urlToImage": "https://cdn1.tennishead.net/uploads/106/2026/11/GettyImages-2305275452-scaled.jpg",
+            "publishedAt": "2026-11-15T22:33:26Z",
+            "content": "Mirra Andreeva is your 2026 WTA Finals champion.\r\nThe Russian youngster maintained her flawless status at the end-of-year event, beating Elina Svitolina 7-5, 6-3 in Sundays final.\r\nIt was another sup… [+2835 chars]"
         },
         {
             "source": {
@@ -382,6 +889,19 @@
         {
             "source": {
                 "id": null,
+                "name": "Miami Herald"
+            },
+            "author": "Barry Jackson",
+            "title": "Dolphins’ Hafley sizes up McCord, Gonzalez, injuries and more after loss to Colts - Miami Herald",
+            "description": "What Dolphins coach Jeff Hafley said after Sunday’s game.",
+            "url": "https://www.miamiherald.com/sports/nfl/miami-dolphins/article317804947.html",
+            "urlToImage": "https://www.miamiherald.com/public/latest-news/77vghv/picture318036825/alternates/LANDSCAPE_1200/MIA_202DolphinsPract11NEWPPP.JPG",
+            "publishedAt": "2026-11-15T22:10:00Z",
+            "content": "Miami Dolphins\r\nThe Dolphins are in something of a mess at defensive tackle, with Zach Sieler out for the season and their other heavy-usage players (Jordan Phillips and Zeek Biggers) sustaining inju… [+3599 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "CBS Sports"
             },
             "author": "Garrett Podell",
@@ -417,6 +937,32 @@
             "urlToImage": null,
             "publishedAt": "2026-11-15T21:18:00Z",
             "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "cleveland.com"
+            },
+            "author": "Cleveland.com",
+            "title": "Browns get to the bye week as real playoff contenders after another dramatic win: Dan Labbe - Cleveland.com",
+            "description": null,
+            "url": "https://www.cleveland.com/browns/2026/11/browns-get-to-the-bye-week-as-real-playoff-contenders-after-another-dramatic-win-dan-labbe.html",
+            "urlToImage": null,
+            "publishedAt": "2026-11-15T21:18:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Sports Illustrated"
+            },
+            "author": "John Shipley",
+            "title": "8 Instant Observations on Jaguars' Week 10 Win Over Titans: Travis Hunter's All-Pro Case - Sports Illustrated",
+            "description": "Travis Hunter looked like an All-Pro during the Jacksonville Jaguars' important Week 10 win over the Tennessee Titans.",
+            "url": "https://www.si.com/nfl/jaguars/onsi/8-instant-observations-on-jacksonville-week-10-win-over-titans-travis-hunter-s-all-pro-case",
+            "urlToImage": "https://images2.minutemediacdn.com/image/upload/c_crop,x_911,y_174,w_1967,h_1106/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/ReutersImages/mmsport/jaguar_report/01m7ggdb0fhz5djgyath.jpg",
+            "publishedAt": "2026-11-15T21:13:12Z",
+            "content": "JACKSONVILLE, Fla. -- The Jacksonville Jaguars have won, again. \r\nThe Jaguars are one of the NFL's best teams and were widely expected to pull away from the Tennessee Titans in Week 10, and that is e… [+10642 chars]"
         },
         {
             "source": {
@@ -616,6 +1162,32 @@
         {
             "source": {
                 "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "Brad Crawford",
+            "title": "Hot seat watch: Dabo Swinney, Lincoln Riley among coaches reigniting buzz after poor Week 11 showings - CBS Sports",
+            "description": "Crushing Week 11 setbacks ended playoff dreams and left fanbases frustrated, but massive buyouts complicate potential moves down the stretch",
+            "url": "https://www.cbssports.com/college-football/news/college-football-hot-seat-coaching-carousel-week-11/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2026/11/15/fd4278ed-b5cd-4dd3-b47c-5643ca5a714f/thumbnail/1200x675/495a43f4740a9e4feac459dca6289394/dabo-swinney.png",
+            "publishedAt": "2026-11-15T17:04:00Z",
+            "content": "Four Power Four programs have moved on from head coaches this season, and there could be more coming.\r\nUpdating our hot seat watch coming out of Week 11, several speculative candidates negatively aff… [+8249 chars]"
+        },
+        {
+            "source": {
+                "id": "bleacher-report",
+                "name": "Bleacher Report"
+            },
+            "author": "Scott Polacek",
+            "title": "Lane Kiffin LSU Contract Buyout Details After Loss to Arch Manning, Texas and Top-10 Losing Record - Bleacher Report",
+            "description": "Lane Kiffin's first season as LSU's head coach is not going as hoped, and now the head coach's contract is under the spotlight.",
+            "url": "https://bleacherreport.com/articles/25533581-lane-kiffin-lsu-contract-buyout-details-after-loss-arch-manning-texas-and-top-10-losing-record",
+            "urlToImage": "https://gsp-image-cdn.wmsports.io/cms/prod/bleacher-report/getty_images/2026-11/2304658481_large_cropped.jpg?w=1120&h=630",
+            "publishedAt": "2026-11-15T16:59:30Z",
+            "content": "Lane Kiffin's first season as LSU's head coach is not going as hoped, and now the head coach's contract is under the spotlight.\r\nThe Tigers dropped to 6-4 overall and 3-4 in SEC play with Saturday's … [+3128 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "OregonLive"
             },
             "author": "Ryan Clarke | The Oregonian/OregonLive",
@@ -638,6 +1210,19 @@
             "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/20ecb94/2147483647/strip/true/crop/3732x2099+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F8f%2F33%2F458738e84869992933b750e74164%2F2304472490.jpg",
             "publishedAt": "2026-11-15T16:44:47Z",
             "content": "Texans defensive end Will Anderson was added to the teams injury report on Thursday and he missed practice on Friday due to his ankle issue, but he will be on the field against the Browns on Sunday. … [+2317 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "AL.com"
+            },
+            "author": "AL.com",
+            "title": "Vanderbilt’s almost empty student section draws attention during Alabama matchup - AL.com",
+            "description": null,
+            "url": "https://www.al.com/alabamafootball/2026/11/vanderbilts-almost-empty-student-section-draws-attention-during-alabama-matchup.html",
+            "urlToImage": null,
+            "publishedAt": "2026-11-15T16:28:00Z",
+            "content": null
         },
         {
             "source": {
@@ -755,6 +1340,19 @@
             "urlToImage": "https://www.rotoballer.com/wp-content/uploads/2026/10/Kenyon-Sadiq-Fantasy-Football-Rankings-Draft-Sleepers-NFL-Injury-News-icon-rotoballer-1220x813.jpg",
             "publishedAt": "2026-11-15T14:57:00Z",
             "content": "RotoBaller staff's bold predictions for Week 10 of the 2026 fantasy football season. Expert start/sit predictions from RotoBaller, including Jordyn Tyson, Kaleb Johnson, Tyler Higbee, and more.\r\nHey … [+14751 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MMA Mania"
+            },
+            "author": "Alexander Behunin",
+            "title": "Back from the dead? Dana White open to Kayla Harrison-Amanda Nunes rematch at 145 — ‘I’d do it again’ - MMA Mania",
+            "description": "Dana White would book Harrison-Nunes 2 at 145 pounds—but UFC’s women’s Featherweight belt no longer exists",
+            "url": "https://www.mmamania.com/ufc-334-live-stream-fight-card-start-time-gane-vs-hokit/486841/back-from-the-dead-dana-white-open-to-kayla-harrison-amanda-nunes-rematch-at-145-id-do-it-again",
+            "urlToImage": "https://platform.mmamania.com/wp-content/uploads/sites/110/2026/11/gettyimages-2305173873.jpg?quality=90&strip=all&crop=0%2C10.727928671241%2C100%2C78.544142657518&w=1200",
+            "publishedAt": "2026-11-15T14:36:25Z",
+            "content": "Double or nothing?\r\nUltimate Fighting Championship (UFC) Bantamweight queen Kayla Harrison decisively defeated former two-division champion Amanda Nunes in UFC 334s co-main event last night (Sat., No… [+2557 chars]"
         },
         {
             "source": {
@@ -954,6 +1552,19 @@
         {
             "source": {
                 "id": null,
+                "name": "mlive.com"
+            },
+            "author": "MLive.com",
+            "title": "Michigan fans heckle Kyle Whittingham in Oregon: ‘Go back to Utah’ - MLive.com",
+            "description": null,
+            "url": "https://www.mlive.com/wolverines/football/2026/11/michigan-fans-heckle-kyle-whittingham-in-oregon-go-back-to-utah.html",
+            "urlToImage": null,
+            "publishedAt": "2026-11-15T11:00:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "Yahoo Entertainment"
             },
             "author": "Ross Dellenger",
@@ -1015,6 +1626,19 @@
             "urlToImage": "https://virginiatech.sportswar.com/wp-content/uploads/sites/15/2026/11/JLF_261114_VT_Stanford_089.jpg",
             "publishedAt": "2026-11-15T06:39:40Z",
             "content": "© 2026 TechSideline.comPrivacy Policy\r\n |\r\n Terms of Use\r\nPrivacy Manager\r\nTechSideline.com (a.k.a. TSL) is an independent publication that is in no\r\n way affiliated with or sponsored by Virginia Tec… [+553 chars]"
+        },
+        {
+            "source": {
+                "id": "espn",
+                "name": "ESPN"
+            },
+            "author": "Alex Scarborough",
+            "title": "Lane Kiffin understands frustration as LSU's CFP hopes dashed with Texas loss - ESPN",
+            "description": "Lane Kiffin said it was fair to question LSU's 6-4 record after Saturday's loss to Texas, a defeat that likely knocked the Tigers out of playoff contention.",
+            "url": "https://www.espn.com/college-football/story/_/id/50488081/kiffin-understands-frustration-lsu-playoff-hopes-dashed",
+            "urlToImage": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1108%2Fr1743124_1296x729_16%2D9.jpg",
+            "publishedAt": "2026-11-15T06:15:00Z",
+            "content": "BATON ROUGE, La. -- Down five points with six seconds left, Texas quarterback Arch Manning motioned running back Raleek Brown out wide. By the time LSU linebacker Davhon Keys realized what was happen… [+4779 chars]"
         },
         {
             "source": {
@@ -6865,838 +7489,6 @@
             "urlToImage": "https://sportshub.cbsistatic.com/i/r/2026/11/10/cb05a226-b31b-4a58-9f7f-95702d5b5991/thumbnail/1200x675/5affd16c43383f3280c9a26c39a0de15/gettyimages-2298531189-1.jpg",
             "publishedAt": "2026-11-10T20:52:00Z",
             "content": "An influx of reciever talent is headed to the Kansas City Chiefs offense, as the team agreed to terms with the Indianapolis Colts on a trade for wide receiver Josh Downs. According to ESPN, the Chief… [+3854 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Fantasylife.com"
-            },
-            "author": "Danny Cross",
-            "title": "Josh Downs Traded to Chiefs: Fantasy Football Fallout For Kansas City, Tyler Warren, Daniel Jones - FantasyLife",
-            "description": "Josh Downs is heading to Kansas City. What does it mean for his stock and his former teammates in Indy?",
-            "url": "https://www.fantasylife.com/articles/fantasy/josh-downs-traded-to-chiefs-fantasy-football-fallout",
-            "urlToImage": "https://cdn.fantasylife.com/assets/content/large_downs_5fd9e5fb09.webp",
-            "publishedAt": "2026-11-10T20:44:19Z",
-            "content": "Indianapolis Colts wide receiver Josh Downs got his wish on Tuesday, when the team traded him to the Kansas City Chiefs. Downs requested a trade on Oct. 28, shortly after the team fired GM Chris Ball… [+3436 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "KABC-TV"
-            },
-            "author": "J.R. Stone",
-            "title": "San Francisco 49ers and Las Vegas Raiders fans ejected, arrested after violent fights at Levi's Stadium: Santa Clara police - ABC7 Los Angeles",
-            "description": "GRAPHIC CONTENT WARNING: Some of these videos may be disturbing to watch.",
-            "url": "https://abc7.com/post/san-francisco-49ers-las-vegas-raiders-fans-ejected-arrested-violent-fights-levis-stadium-santa-clara-police/20029103/",
-            "urlToImage": "https://cdn.abcotvs.com/dip/images/20030376_111026-kgo-49ers-fight-split-img.jpg?w=1600",
-            "publishedAt": "2026-11-10T20:27:18Z",
-            "content": "SANTA CLARA, Calif. -- Santa Clara police arrested 11 people and ejected 45 others after multiple violent fights broke out during and after Sunday's game between the San Francisco 49ers and the Las V… [+3356 chars]"
-        },
-        {
-            "source": {
-                "id": "espn",
-                "name": "ESPN"
-            },
-            "author": "Jeff Legwold",
-            "title": "Sources: Broncos land LB Daiyan Henley in trade with Chargers before deadline - ESPN",
-            "description": "The Broncos have acquired Daiyan Henley from the Chargers in a trade just before Tuesday's deadline.",
-            "url": "https://www.espn.com/nfl/story/_/id/50445309/sources-broncos-land-daiyan-henley-trade-chargers",
-            "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F0904%2Fr1541094_1296x729_16%2D9.jpg",
-            "publishedAt": "2026-11-10T20:25:00Z",
-            "content": "ENGLEWOOD, Colo. -- On the hunt for some additional depth in the heart of their defense, the Denver Broncos have acquired linebacker Daiyan Henley from the Los Angeles Chargers in a trade just before… [+1828 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CBS Sports"
-            },
-            "author": "Mike Axisa",
-            "title": "MLB rumors: Mets to meet with Tarik Skubal, Braves' Ronald Acuña Jr. plan, plus Blue Jays, Cubs, Red Sox, more - CBS Sports",
-            "description": "Here are your hot stove rumors as the GM meetings open on Tuesday, Nov. 10",
-            "url": "https://www.cbssports.com/mlb/news/mlb-rumors-tarik-skubal-padres-mets-cubs-braves-ronald-acuna-jr-adrian-morejon-red-sox-trevor-story/",
-            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2026/11/10/830b9d2f-8dbf-4521-a100-c9a00340d005/thumbnail/1200x675/a3da9736323c20e6bfac6b432e17d78d/skubal-getty.png",
-            "publishedAt": "2026-11-10T20:21:00Z",
-            "content": "This is an important week on the baseball calendar. First and foremost, it is awards week. Kevin McGonigle and Sal Stewart were named the Rookies of the Year on Monday. The Managers of the Year will … [+9096 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "NBCSports.com"
-            },
-            "author": "Myles Simmons",
-            "title": "Report: Despite multiple offers, Colts will not trade Jonathan Taylor - NBC Sports",
-            "description": "It turns out Jonathan Taylor will not be on the move.",
-            "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-despite-multiple-offers-colts-will-not-trade-jonathan-taylor",
-            "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/1dea469/2147483647/strip/true/crop/3000x1688+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fc0%2F63%2Fc27ee02046a3af4f58deace9895a%2F2303716885.jpg",
-            "publishedAt": "2026-11-10T20:20:52Z",
-            "content": "It turns out Jonathan Taylor will not be on the move. \r\nAccording to Tom Pelissero of Netflix, the Colts will not trade Taylor prior to the 4 p.m. ET deadline on Tuesday. \r\nPelissero notes that while… [+550 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "lakingsinsider.com"
-            },
-            "author": "Zach Dooley For LAKingsInsider.com",
-            "title": "11/10 Preview - Zuccarello To Play Tonight + Ceci In, Gustafsson out \"day-to-day\", Laviolette on communication, special teams impact - LA Kings Insider",
-            "description": "WHO: Los Angeles Kings (5-8-2) vs. Nashville Predators (8-4-5) WHAT: 2026-27 NHL Regular Season, Game 16/84 WHEN: Tuesday, November 10 @ 7:00 PM Pacific WHERE: Crypto.com Arena – Los Angeles, CA HOW TO FOLLOW: VIDEO: ESPN+ / Hulu – VIDEO: 830 AM KLAA, ESPN LA…",
-            "url": "https://lakingsinsider.com/2026/11/10/11-10-preview-zuccarello-to-play-tonight-ceci-in-gustafsson-out-day-to-day-laviolette-on-communication-special-teams-impact/",
-            "urlToImage": "https://lakingsinsider.com/wp-content/uploads/2026/11/GettyImages-2299074158-1.jpg",
-            "publishedAt": "2026-11-10T20:12:55Z",
-            "content": "WHO: Los Angeles Kings (5-8-2) vs. Nashville Predators (8-4-5)WHAT: 2026-27 NHL Regular Season, Game 16/84WHEN: Tuesday, November 10 @ 7:00 PM PacificWHERE: Crypto.com Arena Los Angeles, CAHOW TO FOL… [+11936 chars]"
-        },
-        {
-            "source": {
-                "id": "espn",
-                "name": "ESPN"
-            },
-            "author": "Mark Schlabach",
-            "title": "Missouri's Eli Drinkwitz questions need for conferences in 24-team CFP era - ESPN",
-            "description": "Missouri's Eli Drinkwitz became the latest coach from a Power 4 school to ask if conferences are necessary anymore without title games in the 24-team CFP era.",
-            "url": "https://www.espn.com/college-football/story/_/id/50445136/eli-drinkwitz-questions-need-conferences-24-team-cfp",
-            "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1110%2Fr1744124_1296x729_16%2D9.jpg",
-            "publishedAt": "2026-11-10T20:04:00Z",
-            "content": "One of the ripple effects of the expanded 24-team College Football Playoff, which begins at the end of the 2027 season, is the elimination of Power 4 conference championship games.\r\nSince the announc… [+4334 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Frank Schwab",
-            "title": "Grade the trade: Vikings get a throwback QB, deal with Raiders for old friend Kirk Cousins - Yahoo Sports",
-            "description": "The Raiders got a valuable pick for a QB who was likely to be benched soon.",
-            "url": "https://sports.yahoo.com/nfl/article/grade-the-trade-vikings-get-a-throwback-qb-deal-with-raiders-for-old-friend-kirk-cousins-195109891.html",
-            "urlToImage": "https://s.yimg.com/lo/mysterio/api/1d66e7a903f1b02d2814d892ddbcdad1ff7b437b5107d5216d1f47291a4fe861/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2Fb5884c1f-dc48-49ee-aefc-9507f410539b",
-            "publishedAt": "2026-11-10T19:51:09Z",
-            "content": "After Monday night, the Minnesota Vikings knew they had to try to get a quarterback.\r\nThey landed a familiar face.\r\nThe Vikings traded for Kirk Cousins, who spent six of his 15 NFL seasons in Minneso… [+1812 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "New York Post"
-            },
-            "author": "Joel Sherman",
-            "title": "What could push Yankees to speed up their offseason as major questions linger - New York Post",
-            "description": "Will the Yankees be aggressive in roster building prior to an expected Dec. 1 owner lockout of players?",
-            "url": "https://nypost.com/2026/11/10/sports/what-could-push-yankees-to-speed-up-their-offseason-as-major-questions-linger/",
-            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/11/newspress-collage-iqsn3q4c4-1794338578301.jpg?quality=75&strip=all&1794320665&w=1200",
-            "publishedAt": "2026-11-10T19:49:00Z",
-            "content": "LAS VEGAS Will the Yankees be aggressive in roster building prior to an expected Dec. 1 owner lockout of players?\r\nThere is, for example, no such wonder with the Mets, who have been described by agen… [+1038 chars]"
-        },
-        {
-            "source": {
-                "id": "cbs-news",
-                "name": "CBS News"
-            },
-            "author": null,
-            "title": "Jockey Izzy Neale, 22, dies after her horse suffers fatal fall during race in Australia - CBS News",
-            "description": "Izzy Neale suffered injuries when her horse Marnoo fell and suffered a fatal leg injury in the homestretch of a 1-mile race.",
-            "url": "https://www.cbsnews.com/news/izzy-neale-dies-jockey-horse-fatal-fall-race-australia/",
-            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/10/a4fde329-bab2-41f8-a53a-fce68e03c785/thumbnail/1200x630/285543bc7ca5dd87f226d94462bea5b1/gettyimages-2284563708.jpg",
-            "publishedAt": "2026-11-10T19:42:58Z",
-            "content": "Jockey Izzy Neale died on Tuesday, two days after her horse fell during a race in Australia, the Racing NSW state thoroughbred authority said.\r\nThe 22-year-old Neale suffered injuries Sunday when her… [+1061 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "bostonsportsjournal.com"
-            },
-            "author": "https://facebook.com/BostonSportsJournal",
-            "title": "Giardi: Mike's Musings on Vrabel's multiple personalities; plus the secondary's no good, rotten, very bad day - Boston Sports Journal",
-            "description": "I figured there would be plenty of points during Sunday’s game between the Patriots and Packers. But surrendering 45 to a Green Bay team that, while good, is not without some serious flaws along the offensive line and in the running game is embarrassing.",
-            "url": "https://www.bostonsportsjournal.com/2026/11/10/giardi-mikes-musings-on-vrabels-multiple-personalities-plus-the-secondarys-no-good-rotten-very-bad-day",
-            "urlToImage": "https://www.bostonsportsjournal.com/img/random/11.08.2026_patriots_packers_1953_johnson_bsj_7014-1600x900.jpg",
-            "publishedAt": "2026-11-10T19:22:43Z",
-            "content": "I figured there would be plenty of points during Sundays game between the Patriots and Packers. But surrendering 45 to a Green Bay team that, while good, is not without some serious flaws along the o… [+5254 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "NBCSports.com"
-            },
-            "author": "Myles Simmons",
-            "title": "Titans agree to trade S Amani Hooker to Bills - NBC Sports",
-            "description": "The Bills are bringing in some help for their secondary.",
-            "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/titans-agree-to-trade-s-amani-hooker-to-bills",
-            "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/a30f400/2147483647/strip/true/crop/6853x3855+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F3d%2Fd9%2F098b33cf4c499d973b3882d0a3cb%2F2303037508.jpg",
-            "publishedAt": "2026-11-10T19:21:55Z",
-            "content": "The Bills are bringing in some help for their secondary. \r\nBuffalo has agreed to acquire veteran safety Amani Hooker from Tennessee. \r\nTom Pelissero of Netflix was first to report the trade. Multiple… [+417 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "NBCSports.com"
-            },
-            "author": "Mike Florio",
-            "title": "Raiders-49ers game at Levi’s Stadium resulted in 11 arrests and 45 ejections - NBC Sports",
-            "description": "Technically, it counts as progress.",
-            "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/raiders-49ers-game-at-levis-stadium-resulted-in-11-arrests-and-45-ejections",
-            "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/eb76a0f/2147483647/strip/true/crop/6000x3375+0+314/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F5b%2Fd4%2Fb87377b54790a8cebd88d4734a4d%2F1347939797.jpg",
-            "publishedAt": "2026-11-10T19:20:36Z",
-            "content": "Technically, it counts as progress.\r\nThe last time the 49ers hosted the Raiders in a regular-season game at Levis Stadium, there were 32 arrests. This time, the number dropped significantly.\r\nVia Mat… [+579 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Page Six"
-            },
-            "author": "Jane Herz",
-            "title": "Dianna Russini faces brutal mockery as she makes bold social media return ahead of show launch - Page Six",
-            "description": "She made her return to X on Tuesday.",
-            "url": "https://pagesix.com/2026/11/10/celebrity-news/dianna-russini-faces-brutal-mockery-as-she-makes-bold-social-media-return-ahead-of-show-launch/",
-            "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2026/11/148244981.jpg?quality=75&strip=all&w=1200",
-            "publishedAt": "2026-11-10T19:07:00Z",
-            "content": "Controversial sports reporter Dianna Russini is back — but not everyone’s convinced that she’s better than ever.\r\nRussini re-activated her X account on Tuesday, just months after her bombshell relati… [+3810 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Turf Show Times"
-            },
-            "author": "Steven Ridings",
-            "title": "Rams inquiring about Stefon Diggs trade - Turf Show Times",
-            "description": "With Brian Thomas Jr off the trade block, the Rams may pivot to Stefon Diggs…",
-            "url": "https://www.turfshowtimes.com/los-angeles-rams-rumors/154791/rams-trade-deadline-stefon-diggs",
-            "urlToImage": "https://platform.turfshowtimes.com/wp-content/uploads/sites/170/2026/11/gettyimages-2303342706.jpg?quality=90&strip=all&crop=0%2C10.752607989199%2C100%2C78.494784021602&w=1200",
-            "publishedAt": "2026-11-10T19:00:00Z",
-            "content": "The Los Angeles Rams could be turning to the Washington Commanders for help at wide receiver as they explore potential trade options ahead of the NFL trade deadline. Stefon Diggs has emerged as a pos… [+1367 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "247Sports"
-            },
-            "author": "Chris Nee",
-            "title": "Introductory Press Conference Video: New FSU VP and AD Jeff Purinton introduced - 247Sports",
-            "description": "An introductory press conference was held on Tuesday November 10 in the Dunlap Champions Club at Doak Campbell Stadium to formally introduce new Florida State Vice President and Director of Athletics Jeff Purinton",
-            "url": "https://247sports.com/college/florida-state/longformarticle/fsu-athletics-jeff-purinton-ad-press-conference-updates-292514201/",
-            "urlToImage": "https://s3media.247sports.com/Uploads/Assets/702/647/14647702.png?width=1200&height=628&crop=1.91:1&fit=cover",
-            "publishedAt": "2026-11-10T18:57:34Z",
-            "content": "TALLAHASSEE, Fla. -- An introductory press conference was held at 11 a.m. on Tuesday, November 10, in the Dunlap Champions Club at Doak Campbell Stadium to formally introduce new Florida State Vice P… [+9339 chars]"
-        },
-        {
-            "source": {
-                "id": "espn",
-                "name": "ESPN"
-            },
-            "author": "Nick Wagoner",
-            "title": "Sources: 49ers trade for Colts' Keenan Allen to bolster injury-plagued WR room - ESPN",
-            "description": "The 49ers completed a trade with the Colts for Keenan Allen in a move that will bolster their injury-plagued WR corps.",
-            "url": "https://www.espn.com/nfl/story/_/id/50444457/sources-49ers-acquire-keenan-allen-trade-colts",
-            "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1022%2Fr1734604_1296x729_16%2D9.jpg",
-            "publishedAt": "2026-11-10T18:48:00Z",
-            "content": "SANTA CLARA, Calif. -- The San Francisco 49ers addressed their need at wide receiver before Tuesday's NFL trade deadline, trading for Indianapolis Colts for veteran Keenan Allen.\r\nThe rebuilding Colt… [+2390 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Defector.com"
-            },
-            "author": "Patrick Redford",
-            "title": "Cooper Flagg Makes It All Make Sense - Defector",
-            "description": "The best players make basketball look simple. The effect is mostly illusory, a byproduct of their size and skill warping a complex game, though there’s something to the idea. In essence what a star does is make the game easier for their team and more difficul…",
-            "url": "https://defector.com/cooper-flagg-makes-it-all-make-sense",
-            "urlToImage": "https://lede-admin.defector.com/wp-content/uploads/sites/28/2026/11/GettyImages-2303952904.jpg",
-            "publishedAt": "2026-11-10T18:33:00Z",
-            "content": "The best players make basketball look simple. The effect is mostly illusory, a byproduct of their size and skill warping a complex game, though there's something to the idea. In essence what a star d… [+5754 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Turf Show Times"
-            },
-            "author": "Kenneth Arthur",
-            "title": "NFL Trade Deadline 2026: Los Angeles Rams latest news and rumors - Turf Show Times",
-            "description": "What to know about Los Angeles potentially making a move before Tuesday afternoon’s deadline.",
-            "url": "https://www.turfshowtimes.com/los-angeles-rams-rumors/154792/nfl-trade-deadline-2026-rams-rumors",
-            "urlToImage": "https://platform.turfshowtimes.com/wp-content/uploads/sites/170/2026/11/gettyimages-2304152421.jpg?quality=90&strip=all&crop=0%2C10.736674455369%2C100%2C78.526651089262&w=1200",
-            "publishedAt": "2026-11-10T18:23:18Z",
-            "content": "The Los Angeles Rams have until 1 PM local time to make a trade prior to the NFLs 2026 deadline. Will general manager Les Snead, one of the most aggressive executives in NFL history, be active once a… [+1280 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Action Network"
-            },
-            "author": "Prop Bomb",
-            "title": "NBA Prop Bet for Shai Gilgeous-Alexander on Tuesday, November 10 - Action Network",
-            "description": "We have an excellent NBA slate on tap today — and our NBA betting expert Prop Bomb has locked in his top player prop bet for tonight’s matchup between",
-            "url": "https://www.actionnetwork.com/nba/nba-prop-bet-for-shai-gilgeous-alexander-on-tuesday-november-10",
-            "urlToImage": "https://images.actionnetwork.com/blog/2026/11/PropBomb1110.jpg",
-            "publishedAt": "2026-11-10T18:22:00Z",
-            "content": "We have an excellent NBA slate on tap today and our NBA betting expert Prop Bomb has locked in his top player prop bet for tonight's matchup between the Oklahoma City Thunder and Portland Trail Blaze… [+2689 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Ultiworld.com"
-            },
-            "author": "Aidan Thomas",
-            "title": "2026 Club Men’s Div. Player of the Year: Chicago Machine’s Daan De Marrée - Ultiworld",
-            "description": "Recognizing the top performer of the 2026 season.",
-            "url": "https://ultiworld.com/2026/11/10/2026-club-mens-div-player-of-the-year-chicago-machines-daan-de-marree/",
-            "urlToImage": "https://cdn.ultiworld.com/wordpress/wp-content/uploads/2026/11/2026USAUClubNationals_RC_20261024_164656_98-ZF-3052-81067-1-004.jpg",
-            "publishedAt": "2026-11-10T18:09:29Z",
-            "content": "Recognizing the top performer of the 2026 season.\r\nMachine’s Daan De Marree at the 2026 Club National Championships. Photo: Rodney Chen – UltiPhotos.com\r\nUltiworld is pleased to announce our annual C… [+4596 chars]"
-        },
-        {
-            "source": {
-                "id": "espn",
-                "name": "ESPN"
-            },
-            "author": "Marc Raimondi, Jamison Hensley",
-            "title": "Source -- Falcons cutting kicker Nick Folk, signing Jake Moody - ESPN",
-            "description": "ESPN has confirmed that the Falcons are releasing kicker Nick Folk and signing Jake Moody.",
-            "url": "https://www.espn.com/nfl/story/_/id/50444069/sources-falcons-cutting-kicker-nick-folk-signing-jake-moody",
-            "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1110%2Fr1744066_1296x729_16%2D9.jpg",
-            "publishedAt": "2026-11-10T17:58:00Z",
-            "content": "Nov 10, 2026, 12:58 PM ET\r\nThe Atlanta Falcons are releasing kicker Nick Folk, a source confirmed to ESPN on Tuesday.\r\nFolk was 13-of-18 on field goal tries this season, his first with the Falcons. F… [+1143 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Dan Titus",
-            "title": "30 Fantasy basketball takes on every NBA team: The rookie takeover is changing rotations - Yahoo Sports",
-            "description": "Fantasy basketball analyst Dan Titus takes a look around the league at what's notable as we close out the first month of the 2026-27 season.",
-            "url": "https://sports.yahoo.com/fantasy/article/30-fantasy-basketball-takes-on-every-nba-team-the-rookie-takeover-is-changing-rotations-175527710.html",
-            "urlToImage": "https://s.yimg.com/lo/mysterio/api/c00e6a19a7e07fc2a4cbc221fb7904fde7c078957785a18ec37e992bd408b9c0/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2Fe83a188f-9772-4449-832d-83d19e24d236",
-            "publishedAt": "2026-11-10T17:55:27Z",
-            "content": "Here are five fantasy trends grabbing my attention heading into Week 4 of the fantasy basketball season, plus some rapid-fire notes on every other team.\r\nHeat: One of the bigger surprises has been Mi… [+8824 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "MassLive.com"
-            },
-            "author": "MassLive.com",
-            "title": "Payton Pritchard talks about Jayson Tatum-Jaylen Brown feud without even being asked - MassLive.com",
-            "description": null,
-            "url": "https://www.masslive.com/celtics/2026/11/payton-pritchard-talks-about-jayson-tatum-jaylen-brown-feud-without-even-being-asked.html",
-            "urlToImage": null,
-            "publishedAt": "2026-11-10T17:49:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Footballscoop.com"
-            },
-            "author": null,
-            "title": "Even at LSU, Lane Kiffin is still making everything about himself - FootballScoop.com",
-            "description": "Some new signage went up in the LSU football facility over the weekend. The screed, written in white text across a purple background, is best understood in its original form: as the Facebook screed…",
-            "url": "https://www.footballscoop.com/2026/11/10/even-at-lsu-lane-kiffin-making-everything-about-himself",
-            "urlToImage": "https://www.footballscoop.com/img/random/screenshot-2026-11-10-at-9.05.01-am-1600x900.jpg",
-            "publishedAt": "2026-11-10T17:41:58Z",
-            "content": "Some new signage went up in the LSU football facility over the weekend. The screed, written in white text across a purple background, is best understood in its original form: as the Facebook screed o… [+3414 chars]"
-        },
-        {
-            "source": {
-                "id": "espn",
-                "name": "ESPN"
-            },
-            "author": "Ben Baby",
-            "title": "Bengals nix agreed-upon trade with Eagles, sources say - ESPN",
-            "description": "A trade that would've sent Eagles edge rusher Arnold Ebiketie to Cincinnati has been called off, sources told ESPN's Adam Schefter and NFL Network's Ian Rapoport.",
-            "url": "https://www.espn.com/nfl/story/_/id/50443891/bengals-nix-agreed-trade-eagles-sources-say",
-            "urlToImage": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1110%2Fr1744018_2_1296x729_16%2D9.jpg",
-            "publishedAt": "2026-11-10T17:38:00Z",
-            "content": "CINCINNATI -- Turns out the Bengals will not be adding Philadelphia Eagles edge rusher Arnold Ebiketie after all.\r\nFollowing reports that the deal was tentatively confirmed, the Bengals are expected … [+1144 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Big Cat Country"
-            },
-            "author": "Gus Logue",
-            "title": "Jordan Davis modeled his game after John Henderson. Now he’s a Jaguar. - Big Cat Country",
-            "description": "The Jacksonville Jaguars just traded for a modern version of John Henderson in Jordan Davis.",
-            "url": "https://www.bigcatcountry.com/jacksonville-jaguars-news/91136/jordan-davis-modeled-game-after-john-henderson",
-            "urlToImage": "https://platform.bigcatcountry.com/wp-content/uploads/sites/28/2026/11/gettyimages-1239028421.jpg?quality=90&strip=all&crop=0%2C1.9005917613074%2C100%2C74.740929253973&w=1200",
-            "publishedAt": "2026-11-10T17:36:25Z",
-            "content": "After acquiring three different players the day before the 2026 NFL trade deadline, the Jacksonville Jaguars now have the third-lowest odds to win Super Bowl LXI (+750 on FanDuel Sportsbook).\r\nJessie… [+2273 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "NBCSports.com"
-            },
-            "author": "Myles Simmons",
-            "title": "Falcons signing K Jake Moody, releasing K Nick Folk - NBC Sports",
-            "description": "The Falcons are swapping out one kicker for another.",
-            "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/falcons-signing-k-jake-moody-releasing-k-nick-folk",
-            "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/ef5cd3a/2147483647/strip/true/crop/5709x3211+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ff0%2F84%2F7d0623214f6fbfe4cd8755a7ccad%2F2303747147.jpg",
-            "publishedAt": "2026-11-10T17:33:10Z",
-            "content": "The Falcons are swapping out one kicker for another. \r\nAtlanta is signing Jake Moody off of Baltimores practice squad and releasing Nick Folk, according to Jordan Schultz of The Schultz Report.\r\nFolk… [+556 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "NBCSports.com"
-            },
-            "author": "Eric Samulski",
-            "title": "2026 Fantasy Football Week 10 Defense (DST) Rankings and Streamers - NBC Sports",
-            "description": "Eric Samulski ranks all fantasy football defenses (DSTs) for Week 10 of the 2026 NFL season.",
-            "url": "https://www.nbcsports.com/fantasy/football/news/2026-fantasy-football-week-10-defense-dst-rankings-and-streamers",
-            "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/b183993/2147483647/strip/true/crop/3936x2214+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F0a%2F45%2Fbef8748143e8a952d2cbdb93db96%2F2026-11-08t205354z-1423820512-mt1usatoday30313692-rtrmadp-3-nfl-los-angeles-rams-at-washington-commanders.jpg",
-            "publishedAt": "2026-11-10T17:28:25Z",
-            "content": "We had a pretty solid week this week, hitting on six of our top-ten picks and 13 of our top 16. Of course, the consensus rankings did just as well, so this was just a good week for defense prediction… [+17961 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CBS Sports"
-            },
-            "author": "Tom Fornelli",
-            "title": "Tom Fornelli's College Football Power Ratings: Texas surges to No. 5 as Week 10 hype falls flat - CBS Sports",
-            "description": "Most of last weekend's heavyweight showdowns were duds, paving the way for the Longhorns' climb",
-            "url": "https://www.cbssports.com/college-football/news/college-football-power-ratings-texas-week-10-hype/",
-            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2026/11/09/5c8aad76-7254-4998-9f1b-9aeb88716a68/thumbnail/1200x675/0e2a6a1f1603e7d98c773ddc63fbddc9/longhorns.jpg",
-            "publishedAt": "2026-11-10T17:05:58Z",
-            "content": "College football is an unpredictable sport. Think of all the hype about Week 10 that began in the offseason. It was set up to be one of the biggest weekends of not just the 2026 season, but perhaps o… [+1043 chars]"
-        },
-        {
-            "source": {
-                "id": "usa-today",
-                "name": "USA Today"
-            },
-            "author": "Cameron DaSilva",
-            "title": "5 WRs the Rams could target before today's trade deadline - Rams Wire",
-            "description": "If the Rams are going to make a trade for a receiver, it has to be before the 4 p.m. ET deadline. Here are five potential targets.",
-            "url": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/11/10/nfl-trade-deadline-rams-targets-puka-nacua-thomas/92704006007/",
-            "urlToImage": "https://theramswire.usatoday.com/gcdn/authoring/authoring-images/2026/02/25/SRAM/88865892007-2191771020.jpg?crop=4662,2623,x0,y0&width=3200&height=1801&format=pjpg&auto=webp",
-            "publishedAt": "2026-11-10T16:40:00Z",
-            "content": "The Los Angeles Rams received brutal news on Monday when an MRI revealed that Puka Nacua sprained his MCL and PCL, and he's also dealing with turf toe. Sean McVay said he's likely to land on injured … [+4333 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "PhillyVoice.com"
-            },
-            "author": null,
-            "title": "Report: Eagles trade of EDGE Arnold Ebiketie is off - PhillyVoice",
-            "description": "More selling from Howie Roseman at the trade deadline.",
-            "url": "https://www.phillyvoice.com/report-eagles-trade-edge-arnold-ebiketie-bengals/",
-            "urlToImage": "https://media.phillyvoice.com/media/images/651A3268.79afd2ac.fill-1200x630-c0.jpg",
-            "publishedAt": "2026-11-10T16:20:32Z",
-            "content": "UPDATE [12:25 p.m.] The reported trade between the Eagles and Bengals is now off, due to Cincinnati changing its mind and wanting to preserve a potential compensation pick (that they would have recei… [+1997 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Detroit News"
-            },
-            "author": "Nolan Bianchi",
-            "title": "When do the Lions get to Germany? Dan Campbell details travel plans - The Detroit News",
-            "description": "Dan Campbell details the Lions' travel plans for their upcoming international game against the Patriots in Germany.",
-            "url": "https://www.detroitnews.com/story/sports/nfl/lions/2026/11/10/lions-germany-dan-campbell-travel-plans-patriots/92706055007/",
-            "urlToImage": "https://www.detroitnews.com/gcdn/authoring/authoring-images/2026/11/08/PDTN/92683534007-20261108-rblionsdolphins-2372.jpg?crop=3397,1909,x4,y168&width=3200&height=1799&format=pjpg&auto=webp",
-            "publishedAt": "2026-11-10T16:11:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "espn",
-                "name": "ESPN"
-            },
-            "author": "Ben Strauss",
-            "title": "Futures Basketball League to launch in April for U18 players - ESPN",
-            "description": "The Futures Basketball League announced plans Tuesday to launch in April 2027, targeting the top 120 under-18 players in the country.",
-            "url": "https://www.espn.com/mens-college-basketball/story/_/id/50443078/futures-basketball-league-launch-april-u18-players",
-            "urlToImage": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2016%2F0120%2Fr45750_3_1296x729_16%2D9.jpg",
-            "publishedAt": "2026-11-10T16:06:00Z",
-            "content": "A new league backed by investments from LeBron James and Kevin Durant is aiming to reshape top-level youth basketball.\r\nThe Futures League announced plans Tuesday to launch in April 2027, targeting t… [+6218 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Seattle Times"
-            },
-            "author": "Seattle Times sports staff",
-            "title": "Seahawks NFL trade deadline 2026 tracker: Seahawks face Fernando Mendoza - The Seattle Times",
-            "description": "The NFL trade deadline came and went Tuesday without the Seahawks making a move. Here's a live recap of Tuesday's NFL trade deadline.",
-            "url": "https://www.seattletimes.com/sports/seahawks/seahawks-nfl-trade-deadline-2026-tracker-latest-rumors-news-and-reports/",
-            "urlToImage": "https://images.seattletimes.com/wp-content/uploads/2026/11/11102026_tzr_tzr_115750.jpg?d=1200x630",
-            "publishedAt": "2026-11-10T16:00:40Z",
-            "content": "So if the Vikings are unlikely to trade for Sam Darnold, who might they try to get?\r\nThe speculation on who they might trade for mostly centers on Daniel Jones of the Colts and Kirk Cousins of the Ra… [+1925 chars]"
-        },
-        {
-            "source": {
-                "id": "nfl-news",
-                "name": "NFL News"
-            },
-            "author": "Nick Shook",
-            "title": "NFL Power Rankings, Week 10: Jaguars reach season high; Vikings, Patriots slide after lopsided defeats - NFL.com",
-            "description": "How high do the Jaguars and Packers fly in Nick Shook's NFL Power Rankings? How low do the Vikings and Patriots go after lopsided defeats? Check out the updated pecking order, 1-32, entering Week 10 of the 2026 season.",
-            "url": "https://www.nfl.com/news/nfl-power-rankings-week-10-2026-nfl-season",
-            "urlToImage": "https://static.www.nfl.com/image/upload/t_editorial_landscape_12_desktop/league/acwtm161buw43lseqqye",
-            "publishedAt": "2026-11-10T15:53:17Z",
-            "content": "Sundays result wasnt a low point, but it was a sign were nearing the transition of quarterback power from Kirk Cousins to Fernando Mendoza. Frankly, the Raiders are still operating on the positive si… [+317 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Defector.com"
-            },
-            "author": "Drew Magary",
-            "title": "A Brief Excursion Into The Commanders’ Idiocy - Defector",
-            "description": "Time for your weekly edition of the Defector Funbag. Got something on your mind? Email the Funbag. You can also read Drew over at SFGATE, and buy Drew’s books while you’re at it. Today, we’re talking about forward progress, Queens of the Stone Age, grout, and…",
-            "url": "https://defector.com/a-brief-excursion-into-the-commanders-idiocy",
-            "urlToImage": "https://lede-admin.defector.com/wp-content/uploads/sites/28/2026/11/GettyImages-2304177696.jpg",
-            "publishedAt": "2026-11-10T15:52:00Z",
-            "content": "Time for your weekly edition of the Defector Funbag. Got something on your mind?Email the Funbag. You can also read Drew over atSFGATE, andbuy Drews bookswhileyoure at it. Today, we're talking about … [+15869 chars]"
-        },
-        {
-            "source": {
-                "id": "espn",
-                "name": "ESPN"
-            },
-            "author": "Michael DiRocco",
-            "title": "Sources: Jaguars telling teams they aren't trading WR Brian Thomas Jr. - ESPN",
-            "description": "Jaguars wide receiver Brian Thomas Jr. wasn't traded Tuesday by the NFL's trade deadline.",
-            "url": "https://www.espn.com/nfl/story/_/id/50442903/jaguars-not-planning-trade-wr-brian-thomas-jr",
-            "urlToImage": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1110%2Fr1743983_1296x729_16%2D9.jpg",
-            "publishedAt": "2026-11-10T15:39:00Z",
-            "content": "JACKSONVILLE, Fla. -- The Jacksonville Jaguars held on to wide receiver Brian Thomas Jr. on Tuesday, telling interested teams they aren't interested in dealing the 2024 first-round pick and he remain… [+1207 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "NBCSports.com"
-            },
-            "author": "Mike Florio",
-            "title": "Jaguars trades for Jessie Bates, Jordan Davis could complicate deadline deals - NBC Sports",
-            "description": "It's Let's Make A Deal day in the NFL, with the window on trades closing at 4:00 p.m.",
-            "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jaguars-trades-for-jessie-bates-jordan-davis-could-complicate-deadline-deals",
-            "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/90ad7a8/2147483647/strip/true/crop/457x257+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F3c%2F3b%2F0a896850a42ac9e5603954d6ba05%2Fgettyimages-74280201-e1580684934103.jpg",
-            "publishedAt": "2026-11-10T15:33:44Z",
-            "content": "Its Lets Make A Deal day in the NFL, with the window on trades closing at 4:00 p.m. ET. And the deals made on Monday could become a complication.\r\nThe Jaguars gave up a lot for two of the three playe… [+1602 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Pff.com"
-            },
-            "author": "Gordon McGuinness",
-            "title": "NFL 2026 Midseason Awards: Joe Burrow wins MVP, Will Anderson Jr. is Defensive Player of the Year - PFF",
-            "description": "PFF's 2026 NFL midseason awards picks feature Cincinnati Bengals quarterback Joe Burrow as the MVP front-runner through Week 9. Jaxon Smith-Njigba leads the Offensive Player of the Year race, while Will Anderson Jr. is the selection for Defensive Player of th…",
-            "url": "https://www.pff.com/news/nfl-midseason-awards-2026",
-            "urlToImage": "https://media.pff.com/2026/11/Joe-Burrow-JaMarr-Chase.webp?w=1200&h=675",
-            "publishedAt": "2026-11-10T15:09:18Z",
-            "content": "<ul><li>Joe Burrow leads the MVP race: The Cincinnati Bengals quarterback owns a league-leading 93.7 PFF grade at his position and has generated 2.03 Wins Above Replacement through nine weeks.</li></… [+23334 chars]"
-        },
-        {
-            "source": {
-                "id": "espn",
-                "name": "ESPN"
-            },
-            "author": "Mark Ogden",
-            "title": "Mauricio Pochettino would be open to becoming Man United head coach - sources - ESPN",
-            "description": "Mauricio Pochettino would be open to the prospect of returning to the Premier League with Manchester United, sources have told ESPN.",
-            "url": "https://www.espn.com/soccer/story/_/id/50442407/mauricio-pochettino-man-united-michael-carrick-crisis",
-            "urlToImage": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1110%2Fr1743973_1296x729_16%2D9.jpg",
-            "publishedAt": "2026-11-10T15:01:00Z",
-            "content": "Mauricio Pochettino would be open to the prospect of returning to the Premier League with Manchester United, sources have told ESPN, despite only recently signing a new long-term contract as the Unit… [+2210 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Sports Illustrated"
-            },
-            "author": "Casey Lundquist",
-            "title": "LJ Martin and Evan Johnson Return to BYU Depth Chart for Baylor Game - Sports Illustrated",
-            "description": "On Monday, the BYU football program listed star running back LJ Martin and star cornerback Evan Johnson to the depth chart for the Baylor game. It marked the fi",
-            "url": "https://www.si.com/college/byu/football/lj-martin-and-evan-johnson-return-to-byu-depth-chart-for-baylor-game",
-            "urlToImage": "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_186,w_2560,h_1440/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/cougs_daily/01m6zbnt8ya5p5xn1w90.jpg",
-            "publishedAt": "2026-11-10T14:50:54Z",
-            "content": "On Monday, the BYU football program listed star running back LJ Martin and star cornerback Evan Johnson to the depth chart for the Baylor game. It marked the first time Martin and Johnson had appeare… [+2339 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "On3.com"
-            },
-            "author": "Jonathan Wagner",
-            "title": "Jake Dickert on losing championship games with CFP expansion: 'Why do we have conferences?' - On3",
-            "description": "The College Football Playoff is expanding next season to 24 teams. Because of it, conference championship games are being eliminated. On Monday, Wake",
-            "url": "https://www.on3.com/news/jake-dickert-on-losing-championship-games-with-cfp-expansion-why-do-we-have-conferences/",
-            "urlToImage": "https://on3static.com/cdn-cgi/image/height=675,width=1200,quality=90,fit=cover,gravity=0.5x0.5,format=auto,metadata=none/uploads/dev/assets/cms/2026/11/10084318/On3-Jake-Dickert-conference-championships-hookly.png",
-            "publishedAt": "2026-11-10T14:43:54Z",
-            "content": "The College Football Playoff is expanding next season to 24 teams. Because of it, conference championship games are being eliminated. On Monday, Wake Forest head coach Jake Dickert weighed in.\r\nHe no… [+2152 chars]"
-        },
-        {
-            "source": {
-                "id": "usa-today",
-                "name": "USA Today"
-            },
-            "author": "Matthew Glenesk",
-            "title": "Indiana-Syracuse basketball draws just 5K fans. 'Depressing' - USA Today",
-            "description": "Indiana and Syracuse brought big names and championship history to Indianapolis. The thousands of empty seats delivered a brutal reality check.",
-            "url": "https://www.usatoday.com/story/sports/ncaab/2026/11/10/indiana-basketball-vs-syracuse-draws-tiny-crowd-indianapolis-gainbridge-fieldhouse-no-fans/92704078007/",
-            "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/11/10/PIND/92699847007-ncaa-mens-basketball-indiana-hoosiers-syracuse-orange-110982026-gh-003.jpg?crop=7328,4121,x150,y0&width=3200&height=1800&format=pjpg&auto=webp",
-            "publishedAt": "2026-11-10T14:42:00Z",
-            "content": "Indiana and Syracuse are brand names in men's college basketball and a rematch of the 1987 national championship game.\r\nBoth teams entered Monday's game in Indianapolis unbeaten, marking the first po… [+1440 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Defector.com"
-            },
-            "author": "Tom Ley",
-            "title": "What Use Is Kevin O’Connell? - Defector",
-            "description": "There are times when a team can lose a primetime game and feel hard done-by. A good squad can have an off night, or run into a particularly bad matchup, and suddenly millions of Monday Night Football viewers have incorrectly concluded that those fellas are ba…",
-            "url": "https://defector.com/what-use-is-kevin-oconnell",
-            "urlToImage": "https://lede-admin.defector.com/wp-content/uploads/sites/28/2026/11/GettyImages-2302425612.jpg",
-            "publishedAt": "2026-11-10T14:18:00Z",
-            "content": "There are times when a team can lose a primetime game and feel hard done-by. A good squad can have an off night, or run into a particularly bad matchup, and suddenly millions of Monday Night Football… [+4575 chars]"
-        },
-        {
-            "source": {
-                "id": "espn",
-                "name": "ESPN"
-            },
-            "author": "Mark Schlabach",
-            "title": "Rory McIlroy says Bryson DeChambeau would 'bring eyeballs' to DP World Tour - ESPN",
-            "description": "Rory McIlroy said Bryson DeChambeau would \"bring eyeballs\" to the DP World Tour in 2027 because of \"everything he brings with him, good and bad.\"",
-            "url": "https://www.espn.com/golf/story/_/id/50442176/rory-mcilroy-bryson-dechambeau-bring-eyeballs-dp-world-tour",
-            "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F0925%2Fr1550950_1296x729_16%2D9.jpg",
-            "publishedAt": "2026-11-10T14:15:00Z",
-            "content": "Rory McIlroy said two-time major champion Bryson DeChambeau would \"bring eyeballs\" to the DP World Tour in 2027 because of \"everything he brings with him, good and bad.\"\r\nJoining the European tour mi… [+3106 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "NESN"
-            },
-            "author": "Scott Rafferty",
-            "title": "NBA Expert Changes His Tune on Celtics' Jaylen Brown-Paul George Trade - NESN",
-            "description": "The Sporting News now considers the controversial deal a win-win for both sides.",
-            "url": "https://nesn.com/boston-celtics/news/nba-expert-changes-tune-celtics-jaylen-brown-paul-george-trade/a745955fc757ae730dcbd751",
-            "urlToImage": "https://library.sportingnews.com/styles/crop_style_16_9_1280_webp/s3/2026-11/2026-10-23T234754Z_1128682719_MT1USATODAY30264648_RTRMADP_3_NBA-NEW-YORK-KNICKS-AT-BOSTON-CELTICS.JPG.webp?itok=IraXdV6K",
-            "publishedAt": "2026-11-10T14:04:36Z",
-            "content": "The Jaylen Brown-Paul George trade is looking like a much better decision for the Boston Celtics.\r\nAhead of Tuesday's matchup between the Celtics and 76ers, The Sporting News' Stephen Noh regraded th… [+2051 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "theScore"
-            },
-            "author": null,
-            "title": "NFL Power Rankings - Week 10: How teams stack up at the midway point - theScore",
-            "description": "NFL Power Rankings takes stock of all 32 teams throughout the season.This week, we assess how each team stack up at the regular season's midway point.Jump…",
-            "url": "https://www.thescore.com/nfl/news/3649968/nfl-power-rankings-week-10-how-teams-stack-up-at-the-midway-point",
-            "urlToImage": "https://assets-cms.thescore.com/uploads/image/file/856795/w1280xh720_NFLPowerRankings_Nov10.jpg?ts=1794241240",
-            "publishedAt": "2026-11-10T14:00:20Z",
-            "content": "NFL Power Rankings takes stock of all 32 teams throughout the season.\r\nThis week, we assess how each team stack up at the regular season's midway point.\r\nJump to:ARI | ATL | BAL | BUF | CAR | CHI | C… [+11693 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "MMA Fighting"
-            },
-            "author": "Damon Martin",
-            "title": "Matt Brown: Ciryl Gane and Josh Hokit are ‘fighting for second place’ in the heavyweight division at UFC 334 - MMA Fighting",
-            "description": "Matt Brown says like it or not, Ciryl Gane and Josh Hokit are not competing for a true undisputed title at UFC 334.",
-            "url": "https://www.mmafighting.com/ufc/520242/matt-brown-ciryl-gane-and-josh-hokit-are-fighting-for-second-place-in-the-heavyweight-division-at-ufc-334",
-            "urlToImage": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/08/gettyimages-2281629297.jpg?quality=90&strip=all&crop=0%2C10.735725446123%2C100%2C78.528549107755&w=1200",
-            "publishedAt": "2026-11-10T14:00:00Z",
-            "content": "Ciryl Gane and Josh Hokit are battling for the undisputed heavyweight title in the UFC 334 main event, but is the winner truly the best of the best in that division?\r\nWhile Gane was crowned undispute… [+3572 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CBS Sports"
-            },
-            "author": "Austin Nivison",
-            "title": "Josh Allen, Bills suffocate Vikings; NFL trade deadline day arrives with big names on the market - CBS Sports",
-            "description": "Plus, Georgia has taken over the top spot in our CFB Power Rankings",
-            "url": "https://www.cbssports.com/nfl/news/josh-allen-bills-vikings-mnf-nfl-trade-deadline-market/",
-            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2026/11/10/0543913b-1114-4ccb-b0e2-bbc4ec09c4c8/thumbnail/1200x675/824335dd2f4f5bb3d66a529d1381183f/untitled-design-2026-11-10t011722-806.png",
-            "publishedAt": "2026-11-10T13:49:55Z",
-            "content": "This is an article version of the CBS Sports HQ AM Newsletter, the ultimate guide to every day in sports. You can sign up to get it in your inbox every weekday morning here.\r\n Five things to know Tue… [+6429 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CBS Sports"
-            },
-            "author": "",
-            "title": "2026 NFL trade deadline live updates: Latest rumors, buzz and news in final two days to make deals - CBS Sports",
-            "description": "Keep it locked here for all the news, rumors and deals ahead of Tuesday's 4 p.m. ET deadline",
-            "url": "https://www.cbssports.com/nfl/news/2026-nfl-trade-deadline-live-updates-latest-rumors-buzz-news/live/",
-            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2026/11/09/1ea894dd-8292-44bc-babb-c759b63c67ce/thumbnail/1200x675/baa96448e0b6d620179b870ce2a4f850/jordan-davis-getty.png",
-            "publishedAt": "2026-11-10T13:44:00Z",
-            "content": "With Davante Adams and Puka Nacua both out until at least December, that means the Rams don't have a single wide receiver on the roster who currently has more than 175 yards on the season. During an … [+1936 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Bring Me The News"
-            },
-            "author": "Bring Me The News",
-            "title": "Minnesota Vikings trade deadline latest: Move for a quarterback expected - Bring Me The News",
-            "description": null,
-            "url": "https://bringmethenews.com/minnesota-sports/minnesota-vikings-trade-deadline-latest-move-for-a-quarterback-expected",
-            "urlToImage": null,
-            "publishedAt": "2026-11-10T13:28:45Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Nick Bromberg",
-            "title": "Jordon Hudson files lawsuit over leaked Ring videos that revealed her relationship with Bill Belichick in 2023 - Yahoo Sports",
-            "description": "Belichick and Hudson reportedly broke up in late 2025.",
-            "url": "https://sports.yahoo.com/college-football/breaking-news/article/jordon-hudson-files-lawsuit-over-leaked-ring-videos-that-revealed-her-relationship-with-bill-belichick-in-2023-132441030.html",
-            "urlToImage": "https://s.yimg.com/lo/mysterio/api/3918ca091d79786ab0ffd36f0afc369fe540f58475f5cacc7fdd11a4a01c3c52/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2F3a59d71f-94e6-4988-865c-ccc419040fd5",
-            "publishedAt": "2026-11-10T13:24:41Z",
-            "content": "Jordon Hudson has filed a lawsuit against the owners of a Massachusetts AirBnB over the Ring camera footage from the residence that showed her with former Patriots and current North Carolina coach Bi… [+3051 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": null,
-            "title": "California police investigate after 27 fall ill at half-marathon running event - BBC",
-            "description": "A local hospital says runners had \"unusual\" symptoms after racing on an atypically hot day.",
-            "url": "https://www.bbc.com/news/articles/cq0ldlyd556go",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/ba3d/live/b01d8530-dcfc-11f1-933b-ff2499ee76f6.jpg",
-            "publishedAt": "2026-11-10T13:22:12Z",
-            "content": "\"There is no specific action recommended for the public at this time; however, participants who feel unwell should seek medical attention and follow guidance from healthcare professionals,\" police sa… [+2 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "SB Nation"
-            },
-            "author": "Ricky O'Donnell",
-            "title": "NBA mock draft 2027: Updated projection with a lock at No. 1, but plenty of questions after that - SB Nation",
-            "description": "Here’s our first projection of the 2027 NBA Draft.",
-            "url": "https://www.sbnation.com/nba/1120574/nba-mock-draft-2027-tyran-stokes-jordan-smith-caleb-holt-scouting-reports",
-            "urlToImage": "https://platform.sbnation.com/wp-content/uploads/sites/2/2026/11/gettyimages-2300832400.jpg?quality=90&strip=all&crop=0%2C7.7385479283653%2C100%2C34.908543420983&w=1200",
-            "publishedAt": "2026-11-10T13:01:45Z",
-            "content": "The 2027 NBA Draft class has nowhere to go but up. After star-studded draft classes the previous two years, the class of 2027 has been widely expected to be a letdown for multiple years. Theres no Co… [+24026 chars]"
-        },
-        {
-            "source": {
-                "id": "usa-today",
-                "name": "USA Today"
-            },
-            "author": "Paul Myerberg",
-            "title": "CFP rankings face a major reset. Here are the 5 biggest mysteries - USA Today",
-            "description": "A new No. 1 is coming to the CFP rankings, but Ohio State's plunge and the Notre Dame-Miami debate could steal the show.",
-            "url": "https://www.usatoday.com/story/sports/ncaaf/2026/11/10/cfp-rankings-questions-georgia-ohio-state-notre-dame-college-football-playoff-2026/92690789007/",
-            "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/11/09/USAT/92695884007-20261108-t-014929-z-512687961-mt-1-usatoday-30306394-rtrmadp-3-ncaafootballmiamiatnotredame.JPG?crop=4369,2461,x0,y107&width=3200&height=1803&format=pjpg&auto=webp",
-            "publishedAt": "2026-11-10T12:31:00Z",
-            "content": "There will be a new No. 1.\r\nOhio State is going to drop way down the rankings and may even fall out of the Top 25 entirely.\r\nThe selection committee will have to decide where Notre Dame lands after i… [+4812 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Washingtonsun.com"
-            },
-            "author": "Emma Baccellieri",
-            "title": "Inside the Spirit’s Mad Dash to Keep Its Playoff Game at Audi Field - NOTUS",
-            "description": "The team’s leadership had accepted that a venue change was unavoidable. But at halftime, they began working on a plan.",
-            "url": "https://www.washingtonsun.com/sports/spirit/audi-field-playoffs-michele-kang",
-            "urlToImage": "https://static.washingtonsun.com/dims4/default/8e036a4/2147483647/strip/true/crop/3900x2194+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fk2-prod-aji.s3.us-east-1.amazonaws.com%2Fbrightspot%2F3b%2Fab%2F0c2f534b4495b556645d158cef74%2Fap24072017256686.jpg",
-            "publishedAt": "2026-11-10T12:16:06Z",
-            "content": "Audi Field was busy Sunday. On the pitch, the Washington Spirit dominated the Portland Thorns, breezing through the NWSL quarterfinals with a score of 4-1. And on the phone, across team offices and i… [+5473 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "syracuse.com"
-            },
-            "author": "Syracuse.com",
-            "title": "Cause of mystery illness revealed for 27 runners in Santa Barbara half-marathon - Syracuse.com",
-            "description": null,
-            "url": "https://www.syracuse.com/us-news/2026/11/cause-of-mystery-illness-revealed-for-27-runners-in-santa-barbara-half-marathon.html",
-            "urlToImage": null,
-            "publishedAt": "2026-11-10T12:09:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Pats Pulpit"
-            },
-            "author": "Brian Hines",
-            "title": "6 potential Patriots targets ahead of the NFL trade deadline - Pats Pulpit",
-            "description": "The NFL trade deadline is on Tuesday, Nov. 10.",
-            "url": "https://www.patspulpit.com/new-england-patriots-analysis/143719/patriots-targets-nfl-trade-deadline-2026",
-            "urlToImage": "https://platform.patspulpit.com/wp-content/uploads/sites/121/2026/11/gettyimages-2298509694.jpg?quality=90&strip=all&crop=10.859274291992%2C4.9323015222118%2C89.140725708008%2C70.011002555514&w=1200",
-            "publishedAt": "2026-11-10T12:00:15Z",
-            "content": "The Nov. 10 4 p.m. ET NFL trade deadline is just hours away. Despite being just days removed from an ugly loss, the 5-4 New England Patriots still view themselves as contenders which could impact how… [+3781 chars]"
-        },
-        {
-            "source": {
-                "id": "espn",
-                "name": "ESPN"
-            },
-            "author": "Bill Connelly",
-            "title": "Heisman race after Week 10 - CJ Carr, new contenders emerge - ESPN",
-            "description": "Like so much of this college football season, the Heisman race is officially in a state of flux.",
-            "url": "https://www.espn.com/college-football/story/_/id/50433120/heisman-race-week-10-cj-carr",
-            "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1109%2Fr1743577_1296x729_16%2D9.jpg",
-            "publishedAt": "2026-11-10T12:00:00Z",
-            "content": "Notre Dame's CJ Carr is an excellent quarterback. He is asked to drop back to pass only about 30 times per game, and his stats are therefore simply solid -- he's eighth in QBR (84.4), and projected o… [+14098 chars]"
-        },
-        {
-            "source": {
-                "id": "espn",
-                "name": "ESPN"
-            },
-            "author": "Jeff Passan",
-            "title": "Perfect 2026-27 MLB free agency moves for teams to watch - ESPN",
-            "description": "Who most needs an ace? Which contender should make a blockbuster trade? Jeff Passan digs in.",
-            "url": "https://www.espn.com/mlb/story/_/id/50433101/offseason-2026-27-free-agency-passan-biggest-trades-signings",
-            "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1110%2Fr1744061_1296x729_16%2D9.jpg",
-            "publishedAt": "2026-11-10T12:00:00Z",
-            "content": "LAS VEGAS -- The sense of urgency across Major League Baseball right now is palpable. Everyone in the industry knows the game is shutting down when the clock strikes midnight on Dec. 2 and the owners… [+15647 chars]"
-        },
-        {
-            "source": {
-                "id": "espn",
-                "name": "ESPN"
-            },
-            "author": "John Keim",
-            "title": "Commanders running low on time to 'put it all together' - ESPN",
-            "description": "Dan Quinn knows it's repetitive to say the Commanders are close, but now they're painted into a corner.",
-            "url": "https://www.espn.com/nfl/story/_/id/50437256/commanders-lose-another-one-score-game",
-            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1108%2Fr1743284_1296x729_16%2D9.jpg",
-            "publishedAt": "2026-11-10T11:00:00Z",
-            "content": "LANDOVER, Md. -- Washington Commanders quarterback Jayden Daniels didn't hesitate. After yet another loss, and after falling three games under .500, Daniels -- and his teammates -- know that their se… [+5255 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "NBCSports.com"
-            },
-            "author": "Michael David Smith",
-            "title": "Patriots CB Christian Gonzalez had a game so bad, he did something never seen before - NBC Sports",
-            "description": "When Christian Gonzalez signed a four-year, $135 million contract with the Patriots before the season, it was a new record for a cornerback.",
-            "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/patriots-cb-christian-gonzalez-had-a-game-so-bad-he-did-something-never-seen-before",
-            "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/a831634/2147483647/strip/true/crop/3900x2194+0+208/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F0e%2F1f%2F729a0e2a494398c3b38bf6015d30%2F2303892241.jpg",
-            "publishedAt": "2026-11-10T10:58:17Z",
-            "content": "When Christian Gonzalez signed a four-year, $135 million contract with the Patriots before the season, it was a new record for a cornerback. On Sunday, Gonzalez set a very different kind of record.\r\n… [+937 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Pff.com"
-            },
-            "author": "Nathan Jahnke",
-            "title": "Fantasy Football Waiver Wire Week 10: 5 to add, drop, buy low, sell high - PFF",
-            "description": "Seahawks quarterback is worth adding given Sam Darnold's continued absence, while Texans receiver Marvin Harrison Jr. has fallen down the pecking order.",
-            "url": "https://www.pff.com/news/fantasy-football-waiver-wire-week-10-5-to-add-drop-buy-low-sell-high-2",
-            "urlToImage": "https://media.pff.com/2026/11/3G2C0C7.webp?w=1200&h=675",
-            "publishedAt": "2026-11-10T10:00:00Z",
-            "content": null
         }
     ]
 }
