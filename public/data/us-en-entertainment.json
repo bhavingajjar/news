@@ -1,7 +1,228 @@
 {
     "status": "ok",
-    "totalResults": 433,
+    "totalResults": 437,
     "articles": [
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Los Angeles Times",
+            "title": "Ray Tintori, filmmaker and boyfriend of ‘SNL’ alum Heidi Gardner, has died at 43 - Los Angeles Times",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPakFwLTNKcDFRZWZVTzRwQWNOc3RBVnVORTNadHAzUEsxcFpaZGEtRUZESHFlU0QxSGlCZ2p4Mmp2d1NxaFRkN3UzVW94YV93ZGxOVC1GVG5zMnZOakJ4TV83eHJRbWlTUGdSZUtSMThhSHQxeHpvekdoa240d082djdnSkJoMy1WS0tsRXJOMGlDS010Q3JTUC14eTFZejkyaXp3MzJLeDNhRDZWVDMtOXV0U1JfRTdtcVVKYjgxNA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2026-11-17T03:27:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hollywood Reporter"
+            },
+            "author": "Kirsten Chuba",
+            "title": "Brad Pitt Explains Why Leonardo DiCaprio’s Cameo in ‘Cliff Booth’ Movie Fell Apart - The Hollywood Reporter",
+            "description": "The actor told The Hollywood Reporter at the L.A. premiere that a Rick Dalton appearance in the sequel would have \"required a lot of prosthetics.\"",
+            "url": "http://www.hollywoodreporter.com/movies/movie-news/brad-pitt-explains-leonardo-dicaprio-cameo-cliff-booth-fell-apart-1236756581/",
+            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/Brad-Pitt-getty-H-2026.png?w=1296&h=730&crop=1",
+            "publishedAt": "2026-11-17T03:00:24Z",
+            "content": "Though Brad Pitt and Leonardo DiCaprio both starred in Once Upon a Time in Hollywood, only Pitt appears in the sequel, The Further Mis-Adventures of Cliff Booth — and the star is shedding some light … [+1750 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Deadline"
+            },
+            "author": "Greg Evans",
+            "title": "‘The Fantasticks’ Review: A Welcome Broadway Debut Seven Decades In The Making - Deadline",
+            "description": "The Deadline review of Broadway's 'The Fantasticks'",
+            "url": "http://deadline.com/2026/11/the-fantasticks-broadway-review-1237223063/",
+            "urlToImage": "https://deadline.com/wp-content/uploads/2026/11/THE-FANTASTICKS-Nathan-Levy-and-Maxim-Chlumecky-Joan-Marcus-2026.jpg?w=1024",
+            "publishedAt": "2026-11-17T03:00:00Z",
+            "content": "Two trunks for storing theatrical props share the stage early in the new production of The Fantasticks, opening for the first time ever on Broadway tonight. One is “Hayes Theater” and the other “Sull… [+6340 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Deadline",
+            "title": "'The Further Mis-Adventures Of Cliff Booth' Premiere Red Carpet Photos: Brad Pitt & More - Deadline",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVUhuMmtvc0Q5OG5iMDZSME1fa3NybjMxV0FNZURPOWJjY21HdGVRdXAzWmpaVkJHTXRoUEtvYW00WDM3UTREYWRTV0w3WFRTQXJlcVg3MDBtNkhFcjAzSERTeUlwMk5nUDQxWGxVX3VrNWVnWl8wVlVaYjdIOVhIbjZPRmtSN2N1eGVOWWtlS1lMTmx3allwZ2RpTDU0dw?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2026-11-17T02:32:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "TVLine"
+            },
+            "author": "Nick Caruso",
+            "title": "FBI Season 9, Episode 7 Interview: John Boyd And Shantel VanSanten - TVLine",
+            "description": "FBI's John Boyd and Shantel VanSanten shine a light on all things 'Scolina,' as Nina prepares for some major life changes.",
+            "url": "https://www.tvline.com/2318527/fbi-season-9-episode-7-john-boyd-shantel-vansanten-interview/",
+            "urlToImage": "https://www.tvline.com/img/gallery/fbi-post-mortem-john-boyd-shantel-vansanten/l-intro-1794864421.jpg",
+            "publishedAt": "2026-11-17T02:00:00Z",
+            "content": "TVLINE | Scola and Nina seem to think they can make a long distance relationship work, but they have to be concealing some fears and worries, right?BOYD | If someone in your life says, \"Yeah, I know,… [+4131 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Deadline"
+            },
+            "author": "Armando Tinoco",
+            "title": "'The Hunger Games: Sunrise On The Reaping' NYC Premiere Red Carpet Photos: Jennifer Lawrence, Mckenna Grace, Rachel Zegler & More - Deadline",
+            "description": "New York City welcomed the stars of The Hunger Games: Sunrise on the Reaping for the film's premiere.",
+            "url": "https://deadline.com/gallery/the-hunger-games-sunrise-on-the-reaping-nyc-premiere-red-carpet-photos-lionsgate/",
+            "urlToImage": "https://deadline.com/wp-content/uploads/2026/11/the-hunger-games-sunrise-on-the-reaping-red-carpet-photos-fashion.jpg?w=1024",
+            "publishedAt": "2026-11-16T23:29:00Z",
+            "content": "New York City welcomed the stars of The Hunger Games: Sunrise on the Reaping for the film’s premiere.\r\nThe stars of the Francis Lawrence-directed film have been on a world tour promoting the prequel,… [+23617 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Page Six"
+            },
+            "author": "Jolie Zenna",
+            "title": "‘Bachelor’ star Sam Hartman’s ex issues withering takedown of NFL player: ‘Personality of asparagus’ - Page Six",
+            "description": "The model dated Hartman for about seven months before the athlete was cast as the upcoming “Bachelor.”",
+            "url": "https://pagesix.com/2026/11/16/entertainment/bachelor-star-sam-hartmans-ex-issues-withering-takedown-of-nfl-player/",
+            "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2026/11/148989644.jpg?quality=75&strip=all&w=1200",
+            "publishedAt": "2026-11-16T21:44:00Z",
+            "content": "An unappetizing review.\r\nSam Hartman’s ex-girlfriend Lauren Blake Boultier labeled the next leading man of “The Bachelor” as boring. \r\n“[He has the] personality of asparagus,” the model, who dated Ha… [+3569 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Variety"
+            },
+            "author": "Clayton Davis",
+            "title": "The Next Bond Girl: From Zendaya to Florence Pugh, 19 Actresses Who Could Join Robert Pattinson - Variety",
+            "description": "With Robert Pattinson taking over as James Bond, Variety lists 19 actresses in line to be the next Bond Girl — from Zendaya to Florence Pugh.",
+            "url": "https://variety.com/lists/bond-girl-predictions-robert-pattinson-007/",
+            "urlToImage": "https://variety.com/wp-content/uploads/2026/11/split-image-1000_eb50dc.jpg?crop=0px%2C5px%2C1000px%2C562px&resize=1000%2C563",
+            "publishedAt": "2026-11-16T21:31:00Z",
+            "content": "The name is Pattinson, Robert Pattinson, but who will be his first Bond Girl?\r\nAmazon MGM Studios has made it official, naming the 40-year-old Brit the next James Bond in the exclusive franchise, wit… [+12488 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Noah Sheidlower, Madison Hoff",
+            "title": "Why SNL's 'Sister' sketch about elder care struck such a nerve - Business Insider",
+            "description": "SNL's 'Sister' sketch reflects the real gender gap in elder care, as women often take on more unpaid labor, spending, and career sacrifice.",
+            "url": "https://www.businessinsider.com/snl-sister-sketch-caregiver-elder-care-aging-parent-2026-11#article",
+            "urlToImage": "https://i.insider.com/6afb6fc40b1a00fc0bd50ab4?width=1200&format=jpeg",
+            "publishedAt": "2026-11-16T21:20:00Z",
+            "content": "A dark SNL sketch from this weekend about the gender gap in elder care struck a nerve and there's a strong element of truth behind the joke.\r\nComedian and host John Mulaney featured in the \"Sister\" s… [+6999 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Deadline"
+            },
+            "author": "Nellie Andreeva",
+            "title": "'Reasonable Doubt' Renewed For Season 5 By Hulu (Exclusive) - Deadline",
+            "description": "'Reasonable Doubt' has received an early Season 5 Renewal as Season 4 of the legal drama has become Hulu series' most watched.",
+            "url": "http://deadline.com/2026/11/reasonable-doubt-renewed-season-5-season-4-ratings-hulu-1237225565/",
+            "urlToImage": "https://deadline.com/wp-content/uploads/2025/11/reasonable-doubt-Emayatzy-Corinealdi.jpg?w=1024",
+            "publishedAt": "2026-11-16T21:00:00Z",
+            "content": "EXCLUSIVE: Flying largely under the radar early on, Reasonable Doubt has become a major Hulu success story, leading to a Season 5 renewal ahead of the legal drama’s Season 4 finale on Nov. 24.\r\nThe e… [+2455 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Deadline",
+            "title": "‘The Terminal List’ Prequel ‘Cry Havoc’ In The Works At Amazon - Deadline",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNR3lMUEIzTU9QWEgxTGlmWVlDc1dMMndOZGY3Rmd0ampnTzV3V0dCSkZhazU3TXV4QklIaE9RNGNCNUgtLXBqSkZ5TTUtVjFNdG9Ed0tDV1dFQjZWLXQxNG50S3pTZlpreU44Z2FIZTYtT2tDS3NVTTJ2bjRkbm5qYjNLc2VLaDFzSGtJ?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2026-11-16T20:30:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Page Six",
+            "title": "Leonardo DiCaprio's 52nd birthday party attended by busload of glamorous women as video captures their eye-popping arrival - Page Six",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxORlZ5c3BpWDFfRlpGdzFGSzVIQjdoVmV6UURnb1hNcTRzODFtY0VUZ0w2aU5jaGJ2LVpSWWhZei05anRRNWRiZEFVU0JLMTE5X2NoZE96RWpyZUdPMUdGNnlHUVpaMUFIN2hpVEpFNlhDNDZtYjlOMVBCS0NkeDUxM1hCLUZrRkQ1YVVqeERzcl9ER012VUlFdnJGVWxDWjJSb010elhVTE4xMmw0MEl3UDNhVWhxTTNnMlo4Qmh4T05MdS0tUzNWN2lpRmc3aUtLc3hvUEU5ZkpuZi0zN2xqYnI3ellydGVPTjEzQ2RSZ200dmw0NGtCVFBYbk0?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2026-11-16T19:28:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Harper's BAZAAR",
+            "title": "All the Photos of Princess Kate and Prince William on Their Overseas Tour of Mumbai - Harper's BAZAAR",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxObklQZlcxcVNVZUUtZWRGMy1pUjUzRkVsVF83dm00S3V2LW0taXQzVW9TcmYyd0p6UTgyQm1XM28wakwyaTZJaExGaG1oVDhkUG1fLUZVMkxhT25yWnMtZTlGVXY2MGVjOHpuSXBFODN3NlIxbW9Fb1pBU2kzbm04SHJpNlRFNGFZcWFETTFCZHUyZGxMcnYyZi1JYXJ4UXBVZ2NqM0lrQkRqcnFGeHlscDJ2U1h3clZpR1Y4Q2lRWm9GQ1JqSmpudXE3dVBGR19vNVczajZUZHR4bU9uRE9BSVVMSU5yeDN2Sjd5c2lB?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2026-11-16T18:35:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MovieWeb"
+            },
+            "author": "Federico Furzan",
+            "title": "Goodbye Harlan Coben, Addictive 6-Episode Thriller Becomes the No. 1 Series on Streaming in 4 Days - MovieWeb",
+            "description": "Peacock's new miniseries is as nail-biting as the book it's based on.",
+            "url": "https://movieweb.com/the-good-daughter-peacock-stream-november-2026/",
+            "urlToImage": "https://static0.moviewebimages.com/wordpress/wp-content/uploads/2026/11/a-girl-protects-another-in-the-good-daughter-2.jpg?w=1600&h=900&fit=crop",
+            "publishedAt": "2026-11-16T18:00:17Z",
+            "content": "The best substitute to the Harlan Coben thrillers that keep popping up on Netflix has become the No. 1 series on Peacock. Starring Rose Byrne (Bridesmaids, Insidious) and Meghann Fahy (The White Lotu… [+3129 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "NPR",
+            "title": "Nearly two million people are behind bars in the US. How did we get here? - NPR",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQM01GanpkNmptOFhTM2F6NzYxVzNOODFpSURnaFdVdThiOG55UnR3V2RGTENidUx4d2p2cXZ6VV9lWm5PcWtNbXBQRFhLSm5oMWdFZFJIaVFvUVloc1ZBZXU3cGRwd0U3VHp6STJHVzJnbXYxNHU5cHRhd0o5OUhEV0dvVmxva2dDVm96RjVEamk4YVNLMmQyY2hpMDJ3M0tQQ0o2cDZsMmU5ZkRZODJLeGZHd2N4bE0?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2026-11-16T17:34:07Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Page Six"
+            },
+            "author": "Sarah Jones",
+            "title": "Exclusive | Sahara Ray’s tragic death came 2 days after police responded to reported overdose at her LA home - Page Six",
+            "description": "The model’s shocking death came just nine months after she welcomed her first child, a daughter named Snow, with Michael Bradley Dow in January.",
+            "url": "https://pagesix.com/2026/11/16/celebrity-news/sahara-rays-tragic-death-came-2-days-after-police-responded-to-reported-overdose-at-her-la-home/",
+            "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2026/11/148975298.jpg?quality=75&strip=all&w=1200",
+            "publishedAt": "2026-11-16T17:31:00Z",
+            "content": "An emergency call for a reported overdose was made from Sahara Rays Los Angeles home just two days before the models tragic death.\r\nAccording to police records obtained by Page Six, authorities recei… [+4714 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Cut"
+            },
+            "author": "Olivia Craighead",
+            "title": "Nicola Coughlan Has Zero Interest in the ‘Harry Potter’ Show - The Cut",
+            "description": "Nicola Coughlan, who has publicly spoken out against J.K. Rowling’s transphobia, said she won’t be watching HBO’s ‘Harry Potter’ adaptation and would ‘never be in it.’",
+            "url": "http://www.thecut.com/article/nicola-coughlan-jk-rowling-harry-potter-hbo-show.html",
+            "urlToImage": "https://pyxis.nymag.com/v1/imgs/03b/cbb/69539483ffffac75215e5b7607b0ab5d19-nicola-harry-potter.1x.rsocial.w1200.jpg",
+            "publishedAt": "2026-11-16T17:08:42Z",
+            "content": "It turns out its actually quite simple to have a principled stance on the upcoming HBO adaptation of the Harry Potterseries. You wouldnt know it based on the uneasy answers of some actors whove tried… [+1691 chars]"
+        },
         {
             "source": {
                 "id": null,
@@ -17,6 +238,32 @@
         },
         {
             "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "The Hollywood Reporter",
+            "title": "‘The Office,’ ‘This Is Us’ and Must-See TV Stars Reuniting for NBC 100th Anniversary Special - The Hollywood Reporter",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOT2lvY2hYNDJ3ZmNUWE1UdHdHakk1eFByM3hUMUwwanFWdnd4NENHSzZjajFra0FXbjRvVk5uaUtjNk9aUHFkcUhVLUZWdEVDVVExSHU5dHRLUExrOF9QTnBieXRsMmpYQmZULTVCTXItQXhJVGVndGhpNEJYT2hxcWFsOVcyS0pjYjZnXzhrVTluakdpbkJhdXl3VnRTdlY2RjdBY2xfVHdYS2F2S09QU3BvcE1Jdw?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2026-11-16T16:41:26Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "The Mary Sue",
+            "title": "Skydance reportedly loses $5.6 billion in market value after James Gunn exit, and the internet is not being quiet about it - The Mary Sue",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOS1Z0eVZjX04zN2xIbnNOS09ZTUZrdDdmcEJyUDdmU29nNk9NekxYSkpKWmJxZTNCRHdRQzZFNUljVU56ZEQxNlYzcmYyYjhYelBzck9iNHBMTlpwQzNzc1lOTmxxX3cwaGJuOG9MalhzRmlBYnp3RWY5RTJ2UUJsNFJRMDBKT04xVVU1b1dRSUlwR3RFWUFJMU5VNEMxYzBaTnQxZDFCMG9aNDJIRmgwMWQwamRTVll6QndrYjFSTFE4akxXN0NSVEVvRGhGd19weWoySE5fOHk3YjRWRXNWNVhB?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2026-11-16T16:15:00Z",
+            "content": null
+        },
+        {
+            "source": {
                 "id": null,
                 "name": "Variety"
             },
@@ -27,6 +274,32 @@
             "urlToImage": "https://variety.com/wp-content/uploads/2026/11/split-image-1000-4-1.jpg?w=1000&h=563&crop=1",
             "publishedAt": "2026-11-16T15:58:00Z",
             "content": "Former “Saturday Night Live” host Elon Musk is not a fan of how the comedy show has portrayed him as of late.\r\nThe world’s wealthiest man took to his social platform, X, on Sunday night to criticize … [+1689 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Wcjb.com"
+            },
+            "author": "Ryan Turbeville",
+            "title": "Musician tour bus involved in deadly crash in Marion County - WCJB",
+            "description": "Authorities are investigating a deadly crash in Marion County that appears to involve a tour bus for DJ John Summit",
+            "url": "https://www.wcjb.com/2026/11/16/musician-tour-bus-involved-deadly-crash-marion-county/",
+            "urlToImage": "https://gray-wcjb-prod.gtv-cdn.com/resizer/v2/Q2FLJVRFYBC5ROROPKRSTYJURA.png?auth=2aaab00063f62c8cb60ab598abe596d917083e4713eaafd2e12a813f63275477&width=1200&height=600&smart=false&focal=819%2C420",
+            "publishedAt": "2026-11-16T15:56:00Z",
+            "content": "OCALA, Fla. (WCJB) - Authorities are investigating a deadly crash in Marion County involving a musicians crew tour bus possibly working for DJ John Summit.\r\nFlorida Highway Patrol troopers say a car … [+903 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hollywood Reporter"
+            },
+            "author": "Mark Seal",
+            "title": "Johnny Depp’s Jack Sparrow Panicked Disney Execs: “Is He Gay?” “Is He Incredibly Drunk?” - The Hollywood Reporter",
+            "description": "In an exclusive excerpt from a new biography of the 'Ebenezer' actor, the producers of 'Pirates of the Caribbean' recall their shock at Depp's demented vision for the rogue buccaneer: \"You just got to trust me.\"",
+            "url": "http://www.hollywoodreporter.com/news/general-news/johnny-depp-jack-sparrow-panicked-disney-execs-pirates-1236756163/",
+            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/MCDPIOF_EC028-H-2026.jpg?w=1296&h=730&crop=1",
+            "publishedAt": "2026-11-16T15:44:24Z",
+            "content": "In late 2000, the phone rang in the office of Dick Cook, chairman of the Walt Disney Motion Picture Group. It was Tracey Jacobs, the tenacious Hollywood agent who represented Depp and a stable of hot… [+13228 chars]"
         },
         {
             "source": {
@@ -57,6 +330,19 @@
         {
             "source": {
                 "id": null,
+                "name": "Rolling Stone"
+            },
+            "author": "Larisha Paul",
+            "title": "Don’t Be Surprised That BTS Aren’t Nominated for the 2027 Grammys - Rolling Stone",
+            "description": "BTS receive zero Grammy Award nominations after announcing their decision to not submit their latest album, 'Arirang,' for the 2027 Grammys.",
+            "url": "http://www.rollingstone.com/music/music-news/bts-reminder-2027-grammy-awards-did-not-submit-1235658790/",
+            "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2026/11/reminder-BTS-did-not-submit.jpg?w=1600&h=900&crop=1",
+            "publishedAt": "2026-11-16T14:50:47Z",
+            "content": "BTS fans who haven’t kept up with new developments around the Grammy Awards over the past few months may be surprised to see the seven-piece absent from this year’s slate of nominations. Before any d… [+4016 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "Eonline.com"
             },
             "author": null,
@@ -66,6 +352,32 @@
             "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/202527/cr_1200x1200-250307075207-Snapinsta.app_475045269_17887577691189483_6153961229241766856_n_1080.jpg?fit=around%7C1200:1200&output-quality=90&crop=1200:1200;center,top",
             "publishedAt": "2026-11-16T14:47:00Z",
             "content": "More information has come to light about Ken Urkers death. \r\nA little more than one month after the 34-year-oldwho shared daughter Aurora, 21 months, with Gypsy Rose Blanchardwas found dead in his Lo… [+877 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Billboard",
+            "title": "Madonna & Slayyyter Lead 2027 Dance/Electronic Grammy Nominations - Billboard",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQd0gyUzd0czBsMUxCTkRJeUJ5eFZPRk5BX1VYWVpMNUhJdnFJSTFCSzgxVEE0THJqTlRDRF9oVnlFeDFtTlhDbUcxU0Y4UktIc1NEclN3bnZNTV9nVnZzMmxVNGFIVXFkOFhnVmswZHNBWmNWVkxlbG9RNjRmZ3N3Y3F0TWtLN0JqV1FrQ3N3N0NhbUJGeWo2RUlnNS0xUnVMZl8wU3lOeVNjUQ?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2026-11-16T14:46:46Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Minyvonne Burke",
+            "title": "Richard Sterban, distinctive bass vocalist of The Oak Ridge Boys, dies at 83 - NBC News",
+            "description": "Richard Sterban, a backup vocalist for Elvis Presley and the inimitable bass singer for The Oak Ridge Boys on their hit “Elvira,” died Saturday.",
+            "url": "https://www.nbcnews.com/pop-culture/pop-culture-news/richard-sterban-distinctive-bass-vocalist-oak-ridge-boys-dies-83-rcna609566",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261116-oak-ridge-boys-mn-0745-2d40d9.jpg",
+            "publishedAt": "2026-11-16T14:33:05Z",
+            "content": "Richard Sterban, a backup vocalist for Elvis Presley and the inimitable bass singer for The Oak Ridge Boys, died Saturday from complications of bronchitis and pneumonia after a battle with cancer. \r\n… [+3290 chars]"
         },
         {
             "source": {
@@ -134,6 +446,19 @@
         },
         {
             "source": {
+                "id": null,
+                "name": "Hollywood Reporter"
+            },
+            "author": "Scott Roxborough",
+            "title": "Gerard Depardieu Drops Appeal Against Sexual Assault Conviction, Admits Guilt - The Hollywood Reporter",
+            "description": "\"Justice has spoken. I was found guilty. I hear it and I accept this conviction,\" the actor said in public statement, referring to a conviction for sexually assaulting two woman on the set of Jean Becker’s 'The Green Shutters' in 2021.",
+            "url": "http://www.hollywoodreporter.com/movies/movie-news/gerard-depardieu-drops-appeal-in-sexual-assault-conviction-1236756092/",
+            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2024/08/GettyImages-8432162681.jpg?w=1296&h=730&crop=1",
+            "publishedAt": "2026-11-16T12:23:24Z",
+            "content": "French film star Gérard Depardieu (Green Card, Cyrano de Bergerac) on Monday formally dropped his appeal against a conviction for sexually assaulting two women on the set of Jean Becker’s The Green S… [+1786 chars]"
+        },
+        {
+            "source": {
                 "id": "associated-press",
                 "name": "Associated Press"
             },
@@ -170,6 +495,19 @@
             "urlToImage": "https://variety.com/wp-content/uploads/2026/11/Ebenezer-Ramayana-Godzilla.jpg?w=1000&h=563&crop=1",
             "publishedAt": "2026-11-16T08:22:00Z",
             "content": "Johnny Depp’s return in Paramount’s “Ebenezer” won the global box office this weekend, edging out Indian powerhouse “Ramayana: Rise of a Legend” to claim the worldwide crown, while Toho’s “Godzilla M… [+4935 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "The Associated Press",
+            "title": "A Georgia O’Keeffe painting buried in a New York closet is going up for auction - NBC News",
+            "description": "The painting was buried behind coats and boxes in the closet of a Manhattan apartment for decades.",
+            "url": "https://www.nbcnews.com/pop-culture/pop-culture-news/georgia-okeeffe-painting-buried-new-york-closet-going-auction-rcna609544",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261116-georgia-okeeffe-painting-mb-0758-af55db.jpg",
+            "publishedAt": "2026-11-16T08:03:29Z",
+            "content": "NEW YORK The painting was buried behind coats and boxes in the closet of a Manhattan apartment for decades.\r\nFew if anyone knew about the hidden treasure until the woman in her 90s who lived there no… [+3247 chars]"
         },
         {
             "source": {
@@ -251,6 +589,19 @@
         },
         {
             "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "ARTnews.com",
+            "title": "Sotheby’s $180 M. Van Gogh Sale Faces Eleventh-Hour Nazi-Era Restitution Claim - ARTnews.com",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTFY0ZVF6NWEyMF80dkNXNlZ6UVMtcl9EbzRlS0pKN1ZqNVJOSXQtdF9yQUJTZWFhSExpelJJcmpIWmUyalFWSk9WdEdqeGczWmpHVzNGS0NHdFM2UG0xVURFekJUS3ZTQW9mem5xSGU1ZVJHMWo4ck9tbl9Kd3QyUGV5ckZTWGI3bWJYdHZsRTlhUkUtZmZRN1pSSUU0VTlWMlAybS1WWTU5Ukk?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2026-11-16T01:40:00Z",
+            "content": null
+        },
+        {
+            "source": {
                 "id": null,
                 "name": "Page Six"
             },
@@ -300,6 +651,19 @@
             "urlToImage": "https://www.nbc.com/sites/nbcblog/files/2026/11/nup_212371_00009.jpg",
             "publishedAt": "2026-11-16T00:20:35Z",
             "content": "Comedian John Mulaney's seventh time hosting Saturday Night Livebrought the fresh New York Musical many were hoping for  but the evening also delivered a less expected viral sketch. The pretaped \"Sis… [+3307 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Billboard"
+            },
+            "author": "Katie Atkinson",
+            "title": "Can You Feel It in the Air Tonight? 11 Best Moments From 2026 Rock & Roll Hall of Fame Induction Ceremony - Billboard",
+            "description": "From Travis Barker doing the Phil Collins drum break to the Red Hot Chilli Peppers donning Rick Rubin wigs, these were our Rock Hall highlights.",
+            "url": "http://www.billboard.com/lists/2026-rock-roll-hall-fame-ceremony-recap-best-moments/",
+            "urlToImage": "https://www.billboard.com/wp-content/uploads/2026/11/GettyImages-2305171940-e1794739805719.jpg?w=1024",
+            "publishedAt": "2026-11-16T00:17:03Z",
+            "content": "While many of the headlines leading up to the 2026 Rock &amp; Roll Hall of Fame induction ceremony this weekend were about who wouldn’t be there, our highlights from Saturday night’s (Nov. 14) show a… [+11253 chars]"
         },
         {
             "source": {
@@ -976,19 +1340,6 @@
             "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/sammy-kershaw.jpg",
             "publishedAt": "2026-11-15T12:00:33Z",
             "content": "Sammy Kershaw and Rodney Atkins spoke out about being denied permission to walk the red carpet at this years Country Music Association Awards, prompting criticism over how the organization treats vet… [+12271 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Billboard"
-            },
-            "author": "Katie Atkinson",
-            "title": "Can You Feel It in the Air Tonight? 11 Best Moments From 2026 Rock & Roll Hall of Fame Induction Ceremony - Billboard",
-            "description": "From Travis Barker doing the Phil Collins drum break to the Red Hot Chilli Peppers donning Rick Rubin wigs, these were our Rock Hall highlights.",
-            "url": "http://www.billboard.com/lists/2026-rock-roll-hall-fame-ceremony-recap-best-moments/",
-            "urlToImage": "https://www.billboard.com/wp-content/uploads/2026/11/GettyImages-2305171940-e1794739805719.jpg?w=1024",
-            "publishedAt": "2026-11-15T11:12:25Z",
-            "content": "While many of the headlines leading up to the 2026 Rock &amp; Roll Hall of Fame induction ceremony this weekend were about who wouldn’t be there, our highlights from Saturday night’s (Nov. 14) show a… [+11253 chars]"
         },
         {
             "source": {
@@ -5331,305 +5682,6 @@
             "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/HCI7VIDJUR7W2SIH2Z4BHGEQDQ.jpg&w=1440",
             "publishedAt": "2026-11-11T07:17:23Z",
             "content": "Thomas Wayne Markle Sr., the estranged father of Meghan Markle, Duchess of Sussex, has been taken into custodyafter allegedly cutting off his ankle monitor on Monday, according to court documents.\r\nA… [+123 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The-independent.com"
-            },
-            "author": "Louis Chilton",
-            "title": "Johnny Depp mounts controversial mainstream comeback with Ebenezer as first reactions drop - The Independent",
-            "description": "‘A Christmas Carol’ adaptation is Depp’s first Hollywood film since his 2022 legal battle against ex-wife Amber Heard",
-            "url": "https://www.the-independent.com/arts-entertainment/films/news/johnny-depp-ebenezer-scrooge-comeback-reactions-reviews-b3082876.html",
-            "urlToImage": "https://static.the-independent.com/2026/11/10/09/2304355363..?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
-            "publishedAt": "2026-11-11T06:47:00Z",
-            "content": "Johnny Depp is mounting a Hollywood comeback with Ebenezer, his first Hollywood film since the 2022 court battle against ex-wife Amber Heard, which saw the actor face domestic abuse allegations.\r\nDep… [+3811 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Variety"
-            },
-            "author": "Payton Turkeltaub",
-            "title": "Jamie Dornan Cried When He Was Cast as Aragorn in 'Lord of the Rings' - Variety",
-            "description": "Jamie Dornan, who plays Aragorn in “Lord of the Rings: Hunt for Gollum,” is getting candid about what it means to step into the iconic role.",
-            "url": "https://variety.com/2026/film/news/hunt-for-gollum-jamie-dornan-aragorn-in-lord-of-the-rings-1236944943/",
-            "urlToImage": "https://variety.com/wp-content/uploads/2026/11/GettyImages-2257402331.jpg?w=1000&h=563&crop=1",
-            "publishedAt": "2026-11-11T05:54:00Z",
-            "content": "Jamie Dornan, who is set to star as Aragorn in “Lord of the Rings: The Hunt for Gollum,” is getting candid about what it means to step into the role originated by Viggo Mortensen for the forthcoming … [+1658 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Deadline"
-            },
-            "author": "Glenn Garner",
-            "title": "‘VisionQuest’ Teases Surprise ‘Avengers: Doomsday’ Character Return In Post-Credits Scene - Deadline",
-            "description": "A major player appears to be returning to the MCU following the Season 1 finale of 'VisionQuest'.",
-            "url": "http://deadline.com/2026/11/visionquest-teases-avengers-doomsday-character-post-credits-scene-1237220017/",
-            "urlToImage": "https://deadline.com/wp-content/uploads/2026/11/TCDVISI_G5012.jpg?w=1024",
-            "publishedAt": "2026-11-11T04:43:00Z",
-            "content": "SPOILERS: This post contains details about the VisionQuest Season 1 finale episode “Forever”\r\nA major player appears to be returning to the MCU following the Season 1 finale of VisionQuest.\r\nIn a pos… [+1305 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Eonline.com"
-            },
-            "author": null,
-            "title": "Dancing With the Stars Shockingly Eliminates Frontrunner Before Semi-Finals - E! News",
-            "description": "Dancing With the Stars' Jenna Dewan and pro Val Chmerkovskiy became the last season 35 couple to be eliminated before the semi-finals on week nine's Grammy Night.",
-            "url": "https://www.eonline.com/news/1437975/dancing-with-the-stars-eliminates-jenna-dewan-val-chmerkovskiy",
-            "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/20261006/e3a0b27b-234e-43d4-8868-3ffa8852f77e_1791334798.jpg?fit=around%7C1200:1200&output-quality=90&crop=1200:1200;center,top",
-            "publishedAt": "2026-11-11T03:14:00Z",
-            "content": "A frontrunner has fallen out of the competition on Dancing With the Stars.\r\nJenna Dewan's Nov. 10 performance with pro Val Chmerkovskiy became her last on the showdespite receiving the second-highest… [+943 chars]"
-        },
-        {
-            "source": {
-                "id": "mashable",
-                "name": "Mashable"
-            },
-            "author": "Mashable Team",
-            "title": "NYT Connections hints today: Meanings for each word for Nov. 11, 2026 - Mashable",
-            "description": "Looking for a spoiler-free way to find a connection? We have you covered.",
-            "url": "https://mashable.com/entertainment/nyt-connections-hints-meanings-november-11-2026",
-            "urlToImage": "https://helios-i.mashable.com/imagery/articles/04hWQBFS8bBhzV6J0nlA26g/hero-image.fill.size_1200x675.v1794339420.jpg",
-            "publishedAt": "2026-11-11T03:11:42Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Deadline"
-            },
-            "author": "Katie Campione",
-            "title": "‘Dancing With The Stars’ Recap: Dance Offs On Grammy Night Bring Tough Competition To Quarterfinals - Deadline",
-            "description": "It's the quarterfinals on 'Dancing with the Stars' Season 35, and the remaining contestants are competing to Grammy winning hits.",
-            "url": "http://deadline.com/2026/11/dancing-with-the-stars-season-35-recap-grammy-night-1237218651/",
-            "urlToImage": "https://deadline.com/wp-content/uploads/2026/11/183938_SB105287.jpg?w=1000",
-            "publishedAt": "2026-11-11T03:00:00Z",
-            "content": "SPOILER ALERT! This post contains details from the Season 35 Dancing with the Starsquarterfinals.\r\nIt’s hard to believe Dancing with the Stars Season 35 is nearly over, but we’ve officially reached t… [+3674 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "fox8.com"
-            },
-            "author": "FOX 8 News",
-            "title": "New landscaping changes at Taylor Swift, Travis Kelce’s local mansion draw controversy - FOX 8 News",
-            "description": null,
-            "url": "https://fox8.com/news/new-landscaping-changes-at-taylor-swift-travis-kelces-local-mansion-draw-controversy/",
-            "urlToImage": null,
-            "publishedAt": "2026-11-11T02:26:12Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "YourTango"
-            },
-            "author": "Kate Rose",
-            "title": "Your Love Horoscope Is Here For Wednesday: The 11/11 Portal Brings A Powerful New Beginning - YourTango",
-            "description": "Your zodiac sign's daily love horoscope is here for November 11, 2026. See how the alignment of Mercury and Lilith affects your love life on Wednesday.",
-            "url": "https://www.yourtango.com/2026402627/love-horoscope-wednesday-november-11-2026",
-            "urlToImage": "https://www.yourtango.com/sites/default/files/image_blog/2026-11/daily-love-horoscopes-wednesday-november-11-2026.png",
-            "publishedAt": "2026-11-11T02:05:04Z",
-            "content": "Your zodiac sign's daily love horoscope is here for November 11, 2026. The 11/11 Portal opens on Wednesday, bringing divine new beginnings and soul unions. At the same time, retrograde Mercury aligns… [+7427 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Brandon Caldwell",
-            "title": "Usher, Chris Brown cancel two tour stops on ‘R&B Tour’ amid alleged feud - Yahoo",
-            "description": "The cancellations come after a tense Atlanta performance where the singers reportedly blamed each other for delays and stopped sharing",
-            "url": "https://www.yahoo.com/entertainment/music/concerts/articles/usher-chris-brown-cancel-two-020536201.html",
-            "urlToImage": "https://s.yimg.com/lo/mysterio/api/1a1ab83ca57d450b69457938018d9de446ab8d7876e12973af0575104e25e34a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthegrio_yahoo_articles_946%2F0ad87dc0852f8c30b2ec3c0cdc975d06.png",
-            "publishedAt": "2026-11-11T02:05:00Z",
-            "content": "The cancellations come after a tense Atlanta performance where the singers reportedly blamed each other for delays and stopped sharing the stage.\r\nFans of Usher and Chris Brown who were gearing up to… [+1691 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": null,
-            "title": "Prince George's art features in magazine edited by Prince William - BBC",
-            "description": "The Prince of Wales features his 13-year-old son's drawing of a bird as part of a special edition of the magazine.",
-            "url": "https://www.bbc.com/news/articles/c6q8n8n835vqo",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/be08/live/8611ae10-dd6f-11f1-93e1-3b657b665bcf.jpg",
-            "publishedAt": "2026-11-11T00:46:28Z",
-            "content": "His grandfather, the King, is a keen artist. Both his mother, Catherine, and uncle, the Duke of Sussex, studied art at A-level. Catherine also studied history of art at university."
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Rolling Stone"
-            },
-            "author": "Charisma Madarang",
-            "title": "After Online Uproar, Sammy Kershaw Is Invited to Walk CMA Awards Red Carpet - Rolling Stone",
-            "description": "After Nineties hitmaker Sammy Kershaw caused an uproar online about a lack of access to the CMA Awards red carpet, the organization relented.",
-            "url": "http://www.rollingstone.com/music/music-country/sammy-kershaw-cma-red-carpet-1235655585/",
-            "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2026/11/Sammy-Kershaw-cma-red-carpet.jpg?w=1600&h=900&crop=1",
-            "publishedAt": "2026-11-11T00:37:52Z",
-            "content": "Earlier this week, Sammy Kershaw, the Nineties hitmaker and a lifetime Country Music Association member, riled up the country-music industry after accusing the organization of shutting him and his wi… [+1736 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "TVLine"
-            },
-            "author": "Jaron Pak",
-            "title": "5 Major The Rings Of Power Plot Points To Remember Before Watching Season 3 - TVLine",
-            "description": "The forging of the Rings, Gandalf's journey east, and growing tensions on Númenor are among the \"Rings of Power\" plot points you need to know before Season 3.",
-            "url": "https://www.tvline.com/2311406/the-lord-of-the-rings-the-rings-of-power-season-3-plot-details-remember-before-watching/",
-            "urlToImage": "https://www.tvline.com/img/gallery/5-major-the-rings-of-power-plot-points-to-remember-before-watching-season-3/l-intro-1793878601.jpg",
-            "publishedAt": "2026-11-11T00:12:00Z",
-            "content": "A significant portion of Season 2 focuses on the Elves, and especially the enclave of smiths, led by Celebrimbor, located in the realm of Eregion. Early in the season, Sauron arrives in Eregion and d… [+1095 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Rolling Stone"
-            },
-            "author": "Althea Legaspi",
-            "title": "Sade Are Not Attending Rock & Roll Hall of Fame Induction Ceremony - Rolling Stone",
-            "description": "Sade have confirmed they will not be attending the Rock & Roll Hall of Fame induction ceremony on Saturday in Los Angeles.",
-            "url": "http://www.rollingstone.com/music/music-news/sade-not-attending-rock-roll-hall-fame-induction-ceremony-1235655607/",
-            "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2026/11/Sade2011-1.jpg?w=1600&h=900&crop=1",
-            "publishedAt": "2026-11-11T00:07:44Z",
-            "content": "Sade are not attending the Rock &amp; Roll Hall of Fame induction ceremony, which is set to take place on Saturday at Peacock Theater in Los Angeles. The band confirmed the news on Tuesday via their … [+1823 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "HELLO!"
-            },
-            "author": "Ella Rayment-Ward",
-            "title": "Prince William makes poignant confession: 'My children may ask what I did' - Yahoo",
-            "description": "Prince William has opened up about his family life and children in his new guest edit of Country Life magazine, which came out on 11 November.",
-            "url": "https://www.hellomagazine.com/royalty/934148/prince-william-makes-poignant-fatherhood-confession/",
-            "urlToImage": "https://s.yimg.com/lo/mysterio/api/2610fb00b58b1dfa9dacae385be851546c11725a40f20c6cd83d0a51491ca95e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhello_us_861%2Fb2216ad6ed2f1ab4ba1976ae4d1f7a87.jpg",
-            "publishedAt": "2026-11-11T00:01:00Z",
-            "content": "Prince William has opened up about his private family life and how his children motivate him in his new guest edit of Country Life magazine.\r\nThe Prince of Wales has spent the past six months working… [+3070 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Vulture"
-            },
-            "author": "Hershal Pandya",
-            "title": "Dave Chappelle Versus Charlie Kirk Versus … Tony Hinchcliffe? - Vulture",
-            "description": "Conservatives who once defended Dave Chappelle are turning against him after jokes about Charlie Kirk from his recent show leaked online. What happened, and what does Tony Hinchcliffe have to do with it?",
-            "url": "http://www.vulture.com/article/dave-chappelle-charlie-kirk-tony-hinchcliffe-jokes-controversy.html",
-            "urlToImage": "https://pyxis.nymag.com/v1/imgs/a81/b28/d7bdb77892e104bef66e6bca4e1f59da14-davesplit.1x.rsocial.w1200.jpg",
-            "publishedAt": "2026-11-10T23:20:04Z",
-            "content": "Evidently, there are not enough Yondr pouches in the world to stop people who are intent on secretly recording Dave Chappelles stand-up performances. Over the weekend, despite the comedians strict po… [+5179 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Variety"
-            },
-            "author": "Clayton Davis",
-            "title": "Is 'I Play Rocky' Original or Adapted? Inside the Oscar Category Fight - Variety",
-            "description": "Is “I Play Rocky” original or adapted? The Sylvester Stallone biopic faces a “Barbie”-style Oscar screenplay debate with the WGA and the Oscars.",
-            "url": "https://variety.com/2026/film/awards/i-play-rocky-oscars-original-adapted-screenplay-1236944423/",
-            "urlToImage": "https://variety.com/wp-content/uploads/2026/11/I-PLAY-ROCKY-2026-1000.jpg?w=1000&h=563&crop=1",
-            "publishedAt": "2026-11-10T23:20:00Z",
-            "content": "Sylvester Stallone wrote “Rocky” in three days. Figuring out which Oscar screenplay category the movie about him writing it belongs in is taking a lot longer.\r\nAmazon MGM Studios’ “I Play Rocky” has … [+8105 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Ringside News"
-            },
-            "author": "Steve Carrier",
-            "title": "Shawn Michaels Announces Two More WWE NXT Stars Will Join John Cena Classic - Ringside News",
-            "description": "John Cena isn't done handing out invitations to the John Cena Classic, and WWE NXT is about to find out who gets the next big opportunity. Just two hours",
-            "url": "https://www.ringsidenews.com/shawn-michaels-announces-two-more-wwe-nxt-stars-will-join-john-cena-classic/",
-            "urlToImage": "https://www.ringsidenews.com/wp-content/uploads/2026/11/shawn-michaels-announces-two-more-wwe-nxt-stars-will-join-john-cena-classic-09.jpg",
-            "publishedAt": "2026-11-10T23:18:54Z",
-            "content": "John Cena isn’t done handing out invitations to the John Cena Classic, and WWE NXT is about to find out who gets the next big opportunity. Just two hours before the November 10 episode of NXT, Shawn … [+2460 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Alaskasnewssource.com"
-            },
-            "author": "Hannah Lee, Charlie Fellows",
-            "title": "Son of famed Hollywood stars charged in fatal Anchorage hit-and-run - Alaska's News Source",
-            "description": "Anchorage Police have arrested a 31-year-old Anchorage resident in connection to the fatal hit and run on Monday morning.",
-            "url": "https://www.alaskasnewssource.com/2026/11/10/anchorage-man-arrested-connection-fatal-hit-run/",
-            "urlToImage": "https://gray-ktuu-prod.gtv-cdn.com/resizer/v2/UAO2Q6FYMJBFXMQHJD6ZQMMNNE.png?auth=e451ea5a6585d83915c43286330a12ef7946a9000ec5d0d994c3dbf495da7f3f&width=1200&height=600&smart=true",
-            "publishedAt": "2026-11-10T22:31:00Z",
-            "content": "ANCHORAGE, Alaska (KTUU) - Anchorage Police arrested a 32-year-old Anchorage resident in connection to the fatal hit-and-run on Monday morning.\r\nCharging documents state that 32-year-old Jack Sabàto … [+2655 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Eonline.com"
-            },
-            "author": null,
-            "title": "Kerr Smith Reveals Why Joshua Jackson Was Only Dawson's Creek Costar Not Interviewed in Memoir - E! News",
-            "description": "In Kerr Smith’s new memoir I Don’t Want to Wait: My Life on Dawson’s Creek, Joshua Jackson was not interviewed like this fellow cast—and Smith shared why in an exclusive E! News interview.",
-            "url": "https://www.eonline.com/news/1437993/why-joshua-jackson-was-only-dawsons-creek-star-not-interviewed-in-memoir",
-            "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/20261110/d031e9a4-8037-4d87-b796-e581537fccac_1794343316.jpg?fit=around%7C1200:1200&output-quality=90&crop=1200:1200;center,top",
-            "publishedAt": "2026-11-10T22:23:00Z",
-            "content": "Before starring on One Tree Hill, Chad Michael Murray had an arc on Dawson's Creek playing Charlie, a love interest for Jen and Joey.\r\nBut while Charlie got around, Murray didn't seem to make a lot o… [+1006 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Page Six"
-            },
-            "author": "Antoinette Bueno",
-            "title": "Johnny Depp’s massive pay cut revealed for comeback ‘Ebenezer’ role - Page Six",
-            "description": "“Ebenezer” marks the actor’s first major film since winning his 2022 defamation case against ex-wife Amber Heard.",
-            "url": "https://pagesix.com/2026/11/10/entertainment/johnny-depps-massive-pay-cut-revealed-for-comeback-ebenezer-role/",
-            "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2026/11/148253583.jpg?quality=75&strip=all&w=1200",
-            "publishedAt": "2026-11-10T22:21:00Z",
-            "content": "Johnny Depp made just a fraction of his usual salary for his comeback role as Ebenezer Scrooge.\r\nThe actor, 63, plays the title role in the upcoming movie “Ebenezer” the latest take on Charles Dicken… [+3685 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Variety"
-            },
-            "author": "Alex Ritman",
-            "title": "‘We Need to Bring Tom Cruise Home to Make Movies Here’: U.S. Film Incentive Takes Center Stage at AFM - Variety",
-            "description": "The American Film Market opened with a panel discussing how the proposed federal film incentive could transform Hollywood",
-            "url": "https://variety.com/2026/film/global/bring-tom-cruise-home-federal-film-incentive-afm-1236944222/",
-            "urlToImage": "https://variety.com/wp-content/uploads/2026/02/Tom-Cruise.jpg?w=1000&h=563&crop=1",
-            "publishedAt": "2026-11-10T22:16:00Z",
-            "content": "Tom Cruise may not have much of a presence at the American Film Market, more accustomed to selling movies with considerably lower budgets than those the star is used to. But on the opening day of the… [+3833 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Eonline.com"
-            },
-            "author": null,
-            "title": "Dancing With the Stars ' Jenna Johnson Breaks Bone Night Before Quarter Finals - E! News",
-            "description": "Dancing With the Stars pro Jenna Johnson—partnered with Harry Shum Jr. in season 35—revealed that she broke her nose while rehearsing for Grammy Night and how the injury could impact her performance.",
-            "url": "https://www.eonline.com/news/1437997/dancing-with-the-stars-jenna-johnson-breaks-nose-before-quarter-finals",
-            "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/20261110/bd1561b8-61df-48c4-97d3-7a8ec0e26fca_1794347598.jpg?fit=around%7C1200:1200&output-quality=90&crop=1200:1200;center,top",
-            "publishedAt": "2026-11-10T22:04:00Z",
-            "content": "Jenna Johnson can smell the finish linewell, at least metaphorically.\r\nAs the Dancing With the Stars pro salsaed one step closer to clinching the Mirrorball Trophy with celebrity partner Harry Shum J… [+733 chars]"
-        },
-        {
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "author": null,
-            "title": "Rising country singer CJ Beach dead at 22 - Fox News",
-            "description": "CJ Beach, known for his country and Southern rock blend with CJ & The Deadmen, died after a single-car crash on a notorious Florida road curve.",
-            "url": "https://www.foxnews.com/entertainment/rising-country-singer-cj-beach-dead-22",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/cj-beach-playing-guitar.jpg",
-            "publishedAt": "2026-11-10T21:16:21Z",
-            "content": "Rising country singer CJ Beach has died. He was 22.\r\nThe Florida singer died in the early morning hours on Saturday in a car accident. His death was confirmed by his father, Charles Beach, on Faceboo… [+2003 chars]"
         }
     ]
 }

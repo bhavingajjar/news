@@ -1,7 +1,150 @@
 {
     "status": "ok",
-    "totalResults": 248,
+    "totalResults": 257,
     "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "WLOS"
+            },
+            "author": "Kelly Doty",
+            "title": "Mountain Energy warns of potentially dangerous fuel mix in kerosene sold in Candler - WLOS",
+            "description": "Mountain Energy urges customers who purchased kerosene from its location at 1501 Smokey Park Highway on Nov. 12 or 13 not to burn it because of a potentially dangerous fuel mix.",
+            "url": "https://wlos.com/news/local/mountain-energy-kerosene-safety-warning-smokey-park-highway-fuel-mix",
+            "urlToImage": "https://wlos.com/resources/media2/16x9/1920/1320/center/90/69ed31ed-cb54-4197-8b11-e78ad0d25a83-5VBADKEROSENE.mp4frame343.png",
+            "publishedAt": "2026-11-17T02:36:41Z",
+            "content": "CANDLER, N.C. (WLOS) Mountain Energy urges customers who purchased kerosene from its location at 1501 Smokey Park Highway on Nov. 12 or 13 not to burn it because of a potentially dangerous fuel mix.\r… [+439 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Aria Bendix",
+            "title": "U.S. loses measles-elimination status, erasing decades of progress - NBC News",
+            "description": "Measles is no longer eliminated in the U.S., a United Nations commission determined, reversing one of the country’s greatest public health achievements this century.",
+            "url": "https://www.nbcnews.com/health/health-news/measles-no-longer-eliminated-us-rcna607920",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261116-paho-vsb-2205-a49d08.jpg",
+            "publishedAt": "2026-11-17T00:41:00Z",
+            "content": "Endemic measles poses a serious risk to people who are unvaccinated, said Walter Orenstein, former director of the U.S. Immunization Program at the Centers for Disease Control and Prevention. The ris… [+3766 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Lena H. Sun",
+            "title": "CDC declined to alert risk of measles in pregnancy. A journal released the data. - The Washington Post",
+            "description": "As measles roars back, doctors are seeing pregnant women and newborns developing serious conditions.",
+            "url": "https://www.washingtonpost.com/health/2026/11/16/cdc-declined-alert-risk-measles-pregnancy-journal-released-data/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/USJDSRPSEC5ZVDH6QNIQYTAX54_size-normalized.jpg&w=1440",
+            "publishedAt": "2026-11-17T00:38:17Z",
+            "content": "Months after the CDC denied a request from federal health scientists to issue a national alert warning doctors about the risks of measles during pregnancy, the information was published Monday in an … [+27 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SFGate"
+            },
+            "author": "Gillian Mohney",
+            "title": "New E. coli case found in SLO after rare person-to-person transmission - SFGATE",
+            "description": "A sixth infection of Shiga toxin-producing E. coli was reported in San Luis Obispo after a suspected transmission at a local preschool.",
+            "url": "https://www.sfgate.com/bayarea/article/e-coli-slo-transmission-22533554.php",
+            "urlToImage": "https://s.hdnux.com/photos/01/67/75/04/31445254/3/rawImage.jpg",
+            "publishedAt": "2026-11-16T23:30:49Z",
+            "content": "FILE: Escherichia coli (intestinal bacteria) that resides in the digestive tract of humans and warm-blooded animals seen in an electron microscope. \r\nCavallini James/BSIP/Universal Images Group via G… [+2837 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Thetimes.com"
+            },
+            "author": "Rhys Blakely",
+            "title": "Neanderthal gene linked to smaller brains — but there’s an upside - The Times",
+            "description": "DNA inherited from our extinct relatives may reduce the risk of schizophrenia without affecting intelligence",
+            "url": "https://www.thetimes.com/uk/science/article/neanderthal-gene-smaller-brain-schizophrenia-study-t28srvt2x",
+            "urlToImage": "https://www.thetimes.com/imageserver/image/e2b5d5b4-4d65-485b-b1a2-0aebaa5c9ca5.jpg?strip=all&format=webp&crop=1600px%2C900px%2C0px%2C0px&resize=1200",
+            "publishedAt": "2026-11-16T20:38:33Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Swns.live"
+            },
+            "author": "SWNS",
+            "title": "One-third of caregivers don’t know about this potentially deadly heart condition — despite seeing the warning signs - New York Post",
+            "description": "Heart valve failure, also known as severe aortic stenosis, occurs when the aortic valve stiffens and fails to open properly due to severe calcium buildup.",
+            "url": "https://swns.live/stories/for-you/200811/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/11/148982007.jpg?quality=75&strip=all&w=1200",
+            "publishedAt": "2026-11-16T20:23:00Z",
+            "content": "Over a third of caregivers don’t know what heart valve failure is, despite caring for seniors who are exhibiting symptoms of it, according to a new study.\r\nThe survey of 2,000 American caregivers of … [+7115 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "KREM.com"
+            },
+            "author": "KREM",
+            "title": "Rathdrum mom battling breast cancer, insurance denial has died - KREM",
+            "description": null,
+            "url": "https://www.krem.com/article/news/local/rathdrum-mom-battling-breast-cancer-insurance-denial-died/293-946f7400-b89f-4aca-af93-4e0442e675cf",
+            "urlToImage": null,
+            "publishedAt": "2026-11-16T20:12:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Fox News",
+            "title": "Widely used antidepressant outperformed by 3 other drugs in major study of 30,000 people - Fox News",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWjBEbkRMdmYxb21HejNuV1lpeXZlWDExbmxoVldEQnVyT0s1M3VGY3M0TXpmRTNCR2ppbGJIUnBmWFlXc3BiVFR5OWhLbXpZSVBuSDBzR0E3dHRndHMyTkNtTmRLRjlyb1gwand5MlV3V0JfLWxGYTlxa2gtLW5rMWl2ZzJLaHBGeWstdlF4NnFUVzN4c3NSRnhsNWdCZFhza0tCMkJMakxNcnVTcFHSAbMBQVVfeXFMTjNqY2xXT3pQd2hidVhsdDVjTGRSU1lmcUtFWW1DbGRvMVFlM001b3VkMUpsWGZwbGMzNXdFanJwX1NNNHJrdkE2TzFLQmRXX1d2UUlsd1pFZzJWUXJINGpZaG5XXzZsYUJLSnhiLVRsaFlQV3Q3djJUeGN1QU5lV3RhSkdFZ1dMbnNPU3JGY2VFWkpwd1F3YXZXQzc1RjVDa0NCRjI2bktvU1V2Wm9HVTlxOVE?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2026-11-16T18:51:59Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "fox8.com"
+            },
+            "author": "FOX 8 News",
+            "title": "Cleveland, Cuyahoga County ‘vulnerable’ amid Ohio measles outbreaks, says health director - FOX 8 News",
+            "description": null,
+            "url": "https://fox8.com/news/cleveland-health-officials-to-give-update-on-us-measles-outbreaks/",
+            "urlToImage": null,
+            "publishedAt": "2026-11-16T18:00:21Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "TODAY"
+            },
+            "author": "A. Pawlowski",
+            "title": "9 Best Fruits to Reduce Dementia Risk And Protect Brain Health - TODAY.com",
+            "description": "Fruit reduces dementia risk by fighting inflammation and protecting brain health. Dietitians recommend eating berries, apples, pears, grapes, citrus and more.",
+            "url": "https://www.today.com/health/diet-fitness/fruits-to-reduce-dementia-risk-brain-health-rcna609231",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2026-11/fruit-reduce-dementia-as11162026-fd708e.jpg",
+            "publishedAt": "2026-11-16T17:04:11Z",
+            "content": "Fruit can be a sweet way to reduce your risk of dementia, the devastating loss of memory and cognitive function that can strike older adults.\r\nWhat people eat can play an important role in brain heal… [+5938 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Eatingwell.com"
+            },
+            "author": "https://www.facebook.com/EatingWell/",
+            "title": "Prunes vs. Dates: Which Is the Better High-Fiber Snack? - EatingWell",
+            "description": "Prunes and dates both offer fiber and nutrients in a snackable package. But which dried fruit is the better high-fiber snack when it comes to nutrition and digestive health benefits? Here’s what the science says.",
+            "url": "https://www.eatingwell.com/prunes-vs-dates-high-fiber-snack-12249465",
+            "urlToImage": "https://www.eatingwell.com/thmb/3S3uKqqeJhO_DyxabXtZaDu9K14=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Prunes-vs-Dates-Which-Is-the-Better-High-Fiber-Snack-6cc7e5e8865949318128efa828bd11a9.jpg",
+            "publishedAt": "2026-11-16T17:00:00Z",
+            "content": "Fiber is having a moment. Between the fibermaxxing trend on social media and the rise of fiber-packed sodas, youd think we were all getting plenty. Yet, about 95% of Americans still fall short of mee… [+6215 chars]"
+        },
         {
             "source": {
                 "id": "ars-technica",
@@ -31,6 +174,19 @@
         {
             "source": {
                 "id": null,
+                "name": "wtvr.com"
+            },
+            "author": "Scott Wise",
+            "title": "Goochland entrepreneur Parker Forcke dies of stage 4 colon cancer at 24: 'How does this even happen?' - WTVR.com",
+            "description": "Goochland entrepreneur Parker Forcke died at 24 after battling stage 4 colon cancer. His family hopes his story encourages others to seek answers.",
+            "url": "https://www.wtvr.com/news/local-news/parker-forcke-obit-nov-16-2026",
+            "urlToImage": "https://ewscripps.brightspotcdn.com/dims4/default/b87610c/2147483647/strip/true/crop/1280x672+0+24/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2Fd6%2F77%2F464507fb44b4a79e70b5fb804818%2Fparker-forcke-02.png",
+            "publishedAt": "2026-11-16T14:40:49Z",
+            "content": "GOOCHLAND COUNTY, Va. Parker Forcke spent much of his young life building something. \r\nAs a teenager, it was a lawn care business he started before he could drive. Years later, it was a home and a fu… [+7680 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "Gizmodo.com"
             },
             "author": "Matthew Phelan",
@@ -40,6 +196,32 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2026/11/Angus-Beef-Cattle-in-Pasture-1200x675.jpg",
             "publishedAt": "2026-11-16T14:25:05Z",
             "content": "It was a medical mystery. For 11 years, a middle-aged man who described himself as a workout fanatic, according to one doctor who treated him, had suffered from bouts of fatigue, insomnia, kidney tro… [+3701 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Eatingwell.com"
+            },
+            "author": "https://www.facebook.com/EatingWell/",
+            "title": "Common Mistakes to Avoid When Adding Beans to Your Diet, According to Dietitians - EatingWell",
+            "description": "Avoid common mistakes when adding beans to your diet. Learn tips from dietitians on preparation, portions, and digestion for the best results.",
+            "url": "https://www.eatingwell.com/avoid-this-when-adding-beans-to-your-diet-12253033",
+            "urlToImage": "https://www.eatingwell.com/thmb/EBDhEcrurJmtzqRFMdfXl6z-MhA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Common-Mistakes-to-Avoid-When-Adding-Beans-to-Your-Diet-According-to-Dietitians-3a46731c9d594131a39a13ffba65ec54.gif",
+            "publishedAt": "2026-11-16T14:00:00Z",
+            "content": "Adding beans to your diet can be simple, but a few common missteps can make it harder to build them into your routine. Beans should be a regular part of your routine, says Chelsea Didinger, Ph.D. Yet… [+6608 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ScienceAlert"
+            },
+            "author": "David Nield",
+            "title": "Millions of People Could Be Misdiagnosed With Obesity, And Scientists Have Revealed a Fix - ScienceAlert",
+            "description": "Diagnosis definitions matter when it comes to public health – for everything from tailoring individual treatments to tracking conditions across populations – and a new study concludes that millions of people worldwide could be misdiagnosed with obesity.",
+            "url": "https://www.sciencealert.com/millions-of-people-could-be-misdiagnosed-with-obesity-and-scientists-have-revealed-a-fix",
+            "urlToImage": "https://www.sciencealert.com/images/2026/11/FeetWearingSocksStandingOnWeighingScales-1200x675.png",
+            "publishedAt": "2026-11-16T13:04:25Z",
+            "content": "Diagnosis definitions matter when it comes to public health for everything from tailoring individual treatments to tracking conditions across populations and a new study concludes that millions of pe… [+4245 chars]"
         },
         {
             "source": {
@@ -82,6 +264,19 @@
         },
         {
             "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "azcentral.com and The Arizona Republic",
+            "title": "Arizona's extreme heat could scramble the brain. What scientists found - azcentral.com and The Arizona Republic",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMzV3OThFRGNnd01sUmRlWDItNElTMTV5TWx0bjVJUlNFRHlSX2dCazU2aWFseW1yc2gyWDVta3N1VE5WMmJrUXJCVnk3bmNCWk1OWTlkSVh0cEJVRmV6Yi0xMDNVMkNsMndRMVV0Y3poSXQ0cHFhcE8tTHh2Y0V0aU5aTVN2SHp5b25kcVhqTkp1NEJqZ29Rb0c1MHJUZEx1?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2026-11-16T12:01:00Z",
+            "content": null
+        },
+        {
+            "source": {
                 "id": null,
                 "name": "ScienceAlert"
             },
@@ -105,6 +300,19 @@
             "urlToImage": "https://qtxasset.com/quartz/qcloud5/media/image/fiercest_women_in_life_sciences_3.png?VersionId=zE0IoSqlsey69dH_Y6n1nV_0fbcYvFdQ",
             "publishedAt": "2026-11-16T11:00:00Z",
             "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Science Daily"
+            },
+            "author": null,
+            "title": "A 19-year study reveals a troubling link between napping and death - Science Daily",
+            "description": "A surprising new study suggests that when and how often older adults nap could reveal hidden warning signs about their health. Researchers followed 1,338 people for up to 19 years and discovered that longer, more frequent naps were linked to higher mortality,…",
+            "url": "https://www.sciencedaily.com/releases/2026/11/261112230505.htm",
+            "urlToImage": "https://www.sciencedaily.com/images/1920/senior-man-book-sleeping-on-couch.webp",
+            "publishedAt": "2026-11-16T10:50:43Z",
+            "content": "A daily nap may seem like a harmless way to recharge, but new research suggests that certain napping habits could provide important clues about a person's health as they age. Scientists have found th… [+6845 chars]"
         },
         {
             "source": {
@@ -157,6 +365,19 @@
             "urlToImage": "https://thedispatch.com/wp-content/uploads/2026/11/bodykeepsthescore.jpg?w=1024",
             "publishedAt": "2026-11-16T06:04:54Z",
             "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Medscape"
+            },
+            "author": "Marilynn Larkin",
+            "title": "Fat Distribution, Not Fat-Free Mass, Key to Metabolic Health - Medscape",
+            "description": "The connection between fat-free mass and metabolic health may be more complicated than previously thought; muscle quantity alone may not provide the full picture.",
+            "url": "https://www.medscape.com/viewarticle/fat-distribution-not-amount-fat-free-mass-key-metabolic-2026a10018h1",
+            "urlToImage": "https://img.medscapestatic.com/vim/live/professional_assets/medscape/images/thumbnail_library/dt-261113-fat-cells-800x450.jpg",
+            "publishedAt": "2026-11-16T05:47:30Z",
+            "content": "Where fat is stored in the body plays a key role in the relationship between fat-free mass and metabolic health, found a new study based on a UK Biobank cohort.\r\n“Our study points out that it is qual… [+7490 chars]"
         },
         {
             "source": {
@@ -1941,6 +2162,19 @@
         },
         {
             "source": {
+                "id": null,
+                "name": "MedPage Today"
+            },
+            "author": "Charles Bankhead",
+            "title": "Advances and Unmet Needs in Pediatric Sickle Cell Disease - MedPage Today",
+            "description": "It's better care that has led to better survival, not new treatment options",
+            "url": "https://www.medpagetoday.com/spotlight/sickle-cell-anemia/123862",
+            "urlToImage": "https://assets.medpagetoday.net/media/images/123xxx/123862.jpg",
+            "publishedAt": "2026-11-12T20:45:56Z",
+            "content": "As the 1970s came to a close, sickle cell disease (SCD) remained largely a pediatric condition because few children born in the U.S. with the condition survived to adulthood. Today, about 95% of chil… [+8151 chars]"
+        },
+        {
+            "source": {
                 "id": "fox-news",
                 "name": "Fox News"
             },
@@ -3108,123 +3342,6 @@
             "urlToImage": "https://assets.newsweek.com/wp-content/uploads/2026/11/GettyImages-2226756753.jpg?w=1200&crop=1",
             "publishedAt": "2026-11-11T09:02:00Z",
             "content": "Scientists have eliminated an aggressive childhood brain cancer in every mouse tested using an experimental immune-cell therapy designed to switch on only after it enters the brain.\r\nThe findings cou… [+4312 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Science Daily"
-            },
-            "author": null,
-            "title": "Cancer-fighting chewing gum slashes HPV levels by up to 93% - Science Daily",
-            "description": "A surprising new weapon against microbes linked to head and neck cancer could be as simple as chewing gum. Scientists developed a bioengineered gum that reduced HPV levels by up to 93% in oral samples from cancer patients and nearly eliminated two harmful bac…",
-            "url": "https://www.sciencedaily.com/releases/2026/11/261108203832.htm",
-            "urlToImage": "https://www.sciencedaily.com/images/1920/young-woman-biting-chewing-gum.webp",
-            "publishedAt": "2026-11-11T04:29:14Z",
-            "content": "A specially engineered chewing gum could offer an unexpected new weapon against viruses and bacteria linked to head and neck cancer. In laboratory tests using samples from cancer patients, researcher… [+7592 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": null,
-            "title": "Antidepressant escitalopram more effective at preventing relapse, analysis finds - BBC",
-            "description": "Three pills came top and outperformed Prozac for preventing relapse in a large number of patients.",
-            "url": "https://www.bbc.com/news/articles/cv62yyng00jyo",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/ea69/live/913e2170-dda0-11f1-93e1-3b657b665bcf.jpg",
-            "publishedAt": "2026-11-11T00:17:42Z",
-            "content": "\"Nevertheless, our study can help inform the decisions that prescribers and patients make together: if you start an antidepressant, choose one that not only helps you to get well, but also keeps you … [+5 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Medical Xpress"
-            },
-            "author": null,
-            "title": "Study identifies antidepressants that get patients well and keep them well - Medical Xpress",
-            "description": "Worldwide, nearly 6% of people experience depression. Many of them continue taking antidepressants after achieving symptomatic improvement, among other reasons to prevent a relapse of depression. An international team of researchers investigated which antidep…",
-            "url": "https://medicalxpress.com/news/2026-11-antidepressants-patients.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/content-person.jpg",
-            "publishedAt": "2026-11-10T23:30:22Z",
-            "content": "Worldwide, nearly 6% of people experience depression. Many of them continue taking antidepressants after achieving symptomatic improvement, among other reasons to prevent a relapse of depression. An … [+2938 chars]"
-        },
-        {
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "author": "Fox News",
-            "title": "Viral ‘heightmaxxing’ trend has teen boys taking cancer drugs to grow taller despite doctors' warnings - New York Post",
-            "description": "Doctors warn that teens taking erdafitinib, a cancer drug, to grow taller in a trend called heightmaxxing face severe health risks.",
-            "url": "https://www.foxnews.com/health/viral-heightmaxxing-trend-teen-boys-taking-cancer-drugs-grow-taller-doctors-warn-risks",
-            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/11/148264269.jpg?quality=75&strip=all&w=1200",
-            "publishedAt": "2026-11-10T23:06:00Z",
-            "content": "Medical experts are warning of a dangerous new social media trend known as “heightmaxxing,” amid reports that teenagers are taking black-market cancer medications in an effort to grow taller.\r\nAdoles… [+4534 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "WCAX"
-            },
-            "author": "Lizzie Jensen",
-            "title": "Newport’s hospital prepares for possible measles patients - WCAX",
-            "description": "North Country Hospital hasn’t treated a measles patient yet, but staff say they expect to soon.",
-            "url": "https://www.wcax.com/2026/11/10/newport-hospital-prepares-possible-measles-patients/",
-            "urlToImage": "https://gray-wcax-prod.gtv-cdn.com/resizer/v2/IZ67GA73UVDFPN6BS7XG7OC6NE.png?auth=755bf9300a9683379c331317679cfba15a3e3680d65c226d833fe3c9a1834e85&width=1200&height=600&smart=true",
-            "publishedAt": "2026-11-10T22:55:00Z",
-            "content": "NEWPORT, Vt. (WCAX) - North Country Hospital hasnt treated a measles patient, but staff are preparing for that to change after multiple cases were confirmed in Orleans County on Monday.\r\nMost people … [+2955 chars]"
-        },
-        {
-            "source": {
-                "id": "nbc-news",
-                "name": "NBC News"
-            },
-            "author": "Jiachuan Wu, Jane Weaver, Mustafa Fattah, M.D., Joe Murphy, Olivia Eckstine",
-            "title": "What are childhood vaccination rates in your community and schools? - NBC News",
-            "description": "This is part of The Vaccine Divide, an updated data investigation into America potentially losing its measles-free status as the deadly virus roars back and childhood vaccine defenses continue to crack and crumble.",
-            "url": "https://www.nbcnews.com/health/health-news/maps-measles-herd-immunity-vaccination-rates-school-counties-rcna608387",
-            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/map-exemption-cover-2x14x-765033.png",
-            "publishedAt": "2026-11-10T22:00:40Z",
-            "content": "The measles-mumps-rubella vaccine is highly effective in preventing illness in children and adults. To control the spread of measles in a community, a vaccination rate of 95% or higher is needed. A g… [+154 chars]"
-        },
-        {
-            "source": {
-                "id": "nbc-news",
-                "name": "NBC News"
-            },
-            "author": "Mustafa Fattah, M.D., Joe Murphy",
-            "title": "Tracking the drop in U.S. childhood vaccinations: Our methodology - NBC News",
-            "description": "How an NBC News data investigation tracked vaccination and school exemption rates across thousands of counties in the U.S.",
-            "url": "https://www.nbcnews.com/health/health-news/vaccine-data-tracking-rate-vaccination-methodology-rcna608370",
-            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/vaccine-mmr-cover-2x14x-ff68b5.png",
-            "publishedAt": "2026-11-10T22:00:40Z",
-            "content": "Editors note: This 2026 NBC News data investigation is an update of The Vaccine Divide, which was originally published in September 2025. The methodology for both projects is similar. The new data wa… [+5309 chars]"
-        },
-        {
-            "source": {
-                "id": "cbs-news",
-                "name": "CBS News"
-            },
-            "author": "Dan  Raby",
-            "title": "Health officials confirm additional measles infections connected with case in Macon County - CBS News",
-            "description": "Officials believe the original infection in Georgia's Macon County was connected with a confirmed measles case in Pennsylvania.",
-            "url": "https://www.cbsnews.com/atlanta/news/health-officials-confirm-additional-measles-infections-connected-with-case-in-macon-county/",
-            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/10/dd1801f0-252f-438f-b240-868b2a0ddf24/thumbnail/1200x630/ba761064cb579adbf03c11850f783042/gettyimages-2216873572.jpg",
-            "publishedAt": "2026-11-10T21:59:01Z",
-            "content": "Georgia health officials say they have confirmed three new cases of measles connected to an outbreak in Macon County.\r\nAccording to the Georgia Department of Public Health, all three new cases were c… [+2015 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "ZME Science"
-            },
-            "author": "Mihai Andrei",
-            "title": "Scientists Found an Unusual Way to Predict Lyme Disease Risk: Count the Acorns - ZME Science",
-            "description": "Acorns and ticks go hand in hand.",
-            "url": "https://www.zmescience.com/science/news-science/scientists-found-an-unusual-way-to-predict-lyme-disease-risk-count-the-acorns/",
-            "urlToImage": "https://cdn.zmescience.com/wp-content/uploads/2026/11/juliet-sarmiento-uKHqy_6NQfU-unsplash-scaled.jpg",
-            "publishedAt": "2026-11-10T21:13:47Z",
-            "content": "The next time you walk through an oak forest in autumn, look down. Those acorns scattered across the ground might be telling you something about the future. Specifically, whether or not ticks will ha… [+5399 chars]"
         }
     ]
 }
