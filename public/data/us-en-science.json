@@ -4,6 +4,84 @@
     "articles": [
         {
             "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Passant Rabie",
+            "title": "Tiny Deep-Sea Creatures Live Inside Rocks Targeted for Mining - Gizmodo",
+            "description": "Thousands of organisms inhabit the cavities of metal-rich rocks, which may be under threat from deep-sea mining.",
+            "url": "https://gizmodo.com/deep-sea-miners-want-these-rocks-for-their-metals-scientists-found-them-teeming-with-life-2000841181",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/11/tiny_habitat-1200x675.jpg",
+            "publishedAt": "2026-11-17T21:10:16Z",
+            "content": "At the bottom of the Pacific Ocean, seemingly unremarkable, stone-like formations are hiding a surprisingly rich ecosystem. Known as polymetallic nodules, these mineral deposits are home to a variety… [+3740 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Phys.Org"
+            },
+            "author": "Krystal Kasal",
+            "title": "Over a decade of atmospheric data from NASA's Curiosity rover hints at small amounts of surface water on Mars - Phys.org",
+            "description": "NASA's Curiosity rover has been collecting data about Mars' thin, carbon dioxide–rich atmosphere since 2012. Now, a study published in the Proceedings of the National Academy of Sciences has analyzed over a decade of this data to determine whether the daily a…",
+            "url": "https://phys.org/news/2026-11-decade-atmospheric-nasa-curiosity-rover.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/over-a-decade-of-atmos.jpg",
+            "publishedAt": "2026-11-17T20:00:10Z",
+            "content": "NASA's Curiosity rover has been collecting data about Mars' thin, carbon dioxiderich atmosphere since 2012. Now, a study published in the Proceedings of the National Academy of Sciences has analyzed … [+5578 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "13newsnow.com WVEC"
+            },
+            "author": "13newsnow.com",
+            "title": "Leonid meteor shower peaks this week - 13newsnow.com",
+            "description": null,
+            "url": "https://www.13newsnow.com/article/weather/knowledge/leonid-meteor-shower-peaks-this-week/291-ddaabd34-5d0d-423f-bf0f-0172454b3571",
+            "urlToImage": null,
+            "publishedAt": "2026-11-17T19:54:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Nature.com"
+            },
+            "author": null,
+            "title": "Voyager 1 is about to achieve a cosmic first: one ‘light day’ from Earth - Nature",
+            "description": "Its power supply is faltering and most of its instruments are off, but the probe is still gathering data.",
+            "url": "https://www.nature.com/articles/d41586-026-03672-1",
+            "urlToImage": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03672-1/d41586-026-03672-1_53974994.jpg",
+            "publishedAt": "2026-11-17T19:21:51Z",
+            "content": "NASAs Voyager 1 spacecraft (artists illustration) is still sailing through space even as its power supply fails.Credit: NASA/JPL-Caltech\r\nA spacecraft is about to set a profound cosmic record. At 5.1… [+3391 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Space.com"
+            },
+            "author": "Robert Lea",
+            "title": "Astronomers discover rare black holes that formed when stars failed to go supernova - Space",
+            "description": "\"Black holes are born in some of the most extreme environments in the universe, so the prospect of better understanding their formation is very exciting.\"",
+            "url": "https://www.space.com/astronomy/black-holes/astronomers-discover-rare-black-holes-that-formed-when-stars-failed-to-go-supernova",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/8igT6ZMQ99oyByjRB3923n-2000-80.png",
+            "publishedAt": "2026-11-17T19:00:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Passant Rabie",
+            "title": "Scientists Solve the Mystery of Antarctica's Rapidly Rising Bedrock - Gizmodo",
+            "description": "Scientists mapped the hidden structure beneath West Antarctica to understand how the Earth reacts to the ice above.",
+            "url": "https://gizmodo.com/the-bedrock-beneath-antarctica-isnt-behaving-as-it-should-scientists-finally-know-why-2000841046",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/11/thwaites-glacier-1200x675.jpg",
+            "publishedAt": "2026-11-17T18:30:21Z",
+            "content": "Antarctica’s ice sheets hold enough frozen water to dramatically reshape coastlines around the world if they were to melt completely. But as glaciers in West Antarctica shed ice into the ocean, anoth… [+3435 chars]"
+        },
+        {
+            "source": {
                 "id": "fox-news",
                 "name": "Fox News"
             },
@@ -18,6 +96,71 @@
         {
             "source": {
                 "id": null,
+                "name": "Newser"
+            },
+            "author": "Arden Dier",
+            "title": "Scientist Suggests Odd Space Object Is a Long-Lost Probe - Newser",
+            "description": "Study indicates 1998 KY26 is not a comet, while NASA backs asteroid theory",
+            "url": "https://www.newser.com/story/400172/scientist-suggests-odd-space-object-is-a-long-lost-probe.html",
+            "urlToImage": "https://cdn.newser.com/image/1725049-12-20261117114303.jpeg",
+            "publishedAt": "2026-11-17T17:15:00Z",
+            "content": "A mysterious object floating through space keeps refusing to play by the rules for space rocks, leaving experts flummoxed about its true nature. The 36-foot-wide 1998 KY26 zips around the sun in a wa… [+1304 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ExtremeTech"
+            },
+            "author": "Jon Martindale",
+            "title": "Dream Chaser Space Plane Approved for 2027 Debut Spaceflight - ExtremeTech",
+            "description": "After more than two decades of development, Dream Chaser will get its first free-flying orbital flight test next spring.",
+            "url": "https://www.extremetech.com/aerospace/dream-chaser-space-plane-approved-for-2027-debut-spaceflight",
+            "urlToImage": "https://i.extremetech.com/imagery/content-types/039kYcghJWDwG4fuBhP4szD/hero-image.fill.size_1200x675.jpg",
+            "publishedAt": "2026-11-17T16:18:46Z",
+            "content": "After more than two decades of development, the Dream Chaser space plane is scheduled for its first full-scale flight in 2027. The FAA approved the orbital flight after reviewing the potential for so… [+1675 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "IFLScience"
+            },
+            "author": "James Felton",
+            "title": "Japan Cancels Mission To Asteroid 1998 KY26, As Astrophysicist Avi Loeb Argues It Is Human-Made Anyway - IFLScience",
+            "description": "We will now not see asteroid 1998 KY26 up close. But one astronomer argues we got a much better look at it when we assembled it, anway.",
+            "url": "https://www.iflscience.com/japan-cancels-mission-to-asteroid-1998-ky26-as-astrophysicist-avi-loeb-argues-it-is-human-made-anyway-85205",
+            "urlToImage": "https://assets.iflscience.com/assets/articleNo/85205/aImg/93618/ryugu-meta.png",
+            "publishedAt": "2026-11-17T15:58:25Z",
+            "content": "Japan's space agency JAXA has cancelled an upcoming mission to asteroid 1998 KY26, an interesting little object which has astronomers a little puzzled. Meanwhile, the sometimes controversial astronom… [+5393 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Universe Today"
+            },
+            "author": "Evan Gough",
+            "title": "China Signals Its Intention to Land on Jupiter's Moon Callisto - Universe Today",
+            "description": "China is outlining plans to place a small lander on the surface of Jupiter's moon Callisto, the outermost of the four Galilean moons. It's an ambitious plan, and would be only the second time anything's landed on a Solar System body beyond Mars. But the payof…",
+            "url": "https://www.universetoday.com/articles/china-signals-its-intention-to-land-on-jupiters-moon-callisto",
+            "urlToImage": "https://www.universetoday.com/article_images/s4-1280_20261116_225532.jpg",
+            "publishedAt": "2026-11-17T14:33:00Z",
+            "content": "The China National Space Administration (CNSA) has been talking about a mission to the Jovian system since 2018. It's named Tianwen-4, and it will build on the success of other recent missions like C… [+7793 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ScienceAlert"
+            },
+            "author": "David Nield",
+            "title": "Scientists Have Discovered Strange Glaciers With Towering Cliffs Inside Martian Craters - ScienceAlert",
+            "description": "Mars is a long way away – almost 600 times farther away than the Moon – but scientists continue to make intriguing new discoveries about the red planet across the empty vastness of space.",
+            "url": "https://www.sciencealert.com/scientists-have-discovered-strange-glaciers-with-towering-cliffs-inside-martian-craters",
+            "urlToImage": "https://www.sciencealert.com/images/2026/11/MarsIce.jpg",
+            "publishedAt": "2026-11-17T14:03:12Z",
+            "content": "Mars is a long way away almost 600 times farther away than the Moon but scientists continue to make intriguing new discoveries about the red planet across the empty vastness of space.\r\nIn a new study… [+4570 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "Popular Mechanics"
             },
             "author": "Darren Orf",
@@ -27,6 +170,45 @@
             "urlToImage": "https://s.yimg.com/lo/mysterio/api/d7525476d2e8d8ec6a2bd74feec481cf472bcc80e959a2c1692e87b31a9d55e8/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpopular_mechanics_642%2F1b07ed9ee327c8fd4fd1167d616a0712.jpg",
             "publishedAt": "2026-11-17T13:30:00Z",
             "content": "\"Hearst Magazines and Yahoo may earn commission or revenue on some items through these links.\"\r\nAt first glance, polymetallic nodules don't look like much. To the uninitiated, these strange potato-si… [+3797 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Phys.Org"
+            },
+            "author": "Ingrid Fadelli",
+            "title": "DNA offers clues to the Bombay duck's rise in the East China Sea - Phys.org",
+            "description": "The Bombay duck (Harpadon nehereus) is a small marine fish that lives in the northern Indian Ocean and western Pacific, including the East China Sea. For many years, fisheries in the East China Sea caught very few Bombay ducks.",
+            "url": "https://phys.org/news/2026-11-dna-clues-bombay-duck-east.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/dna-offers-clues-to-th.jpg",
+            "publishedAt": "2026-11-17T13:00:08Z",
+            "content": "The Bombay duck (Harpadon nehereus) is a small marine fish that lives in the northern Indian Ocean and western Pacific, including the East China Sea. For many years, fisheries in the East China Sea c… [+8952 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Weather Channel"
+            },
+            "author": "Jonathan Erdman",
+            "title": "Snow is heavy enough to shift the planet's center of mass, NASA finds - The Weather Channel",
+            "description": "Shoveling snow can tire you out. A recent study found all that snow can even move Earth's center a little, and that's important for today's technology.",
+            "url": "https://weather.com/2026/11/17/science/space/snow-weight-shifts-earths-center-of-mass",
+            "urlToImage": "https://s.w-x.co/wxnext/img/earth-snow-cover-NASA-1b9593.jpg",
+            "publishedAt": "2026-11-17T11:30:00Z",
+            "content": "This animation shows snow and ice cover from 2019 through 2021 over the Northern Hemisphere, changing with the seasons. This top down view shows the North Pole at the center of the map, with North Am… [+3225 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "World Atlas"
+            },
+            "author": "Andrea Kresge Phillips",
+            "title": "The Ocean Animals That Survive Being Frozen Solid - WorldAtlas",
+            "description": "From barnacles to microscopic tardigrades, these ocean animals survive freezing temperatures using remarkable biological adaptations.",
+            "url": "https://www.worldatlas.com/oceans/the-ocean-animals-that-survive-being-frozen-solid.html",
+            "urlToImage": "https://www.worldatlas.com/r/w1200-q80/upload/8d/76/36/chionodraco-rastrospinosus-s3cdn.jpg",
+            "publishedAt": "2026-11-17T11:00:00Z",
+            "content": "A barnacle clinging to a rock along Alaska's coast can freeze when temperatures plunge, yet survive to become active again after thawing. For most animals, ice forming inside the body can be deadly. … [+7439 chars]"
         },
         {
             "source": {
@@ -92,6 +274,32 @@
             "urlToImage": "https://www.sciencedaily.com/images/1920/heavy-fermion-at-interface.webp",
             "publishedAt": "2026-11-17T01:27:36Z",
             "content": "Scientists at the University of Osaka in Japan have made a significant discovery in quantum physics, directly observing an unusual electronic state forming where a material just one atom thick meets … [+2981 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Nautil.us"
+            },
+            "author": "jschollmeyer",
+            "title": "Scientists Just Found Something Strange Under the Skin of Sea Pigs - Yahoo",
+            "description": "The translucent blobs of flesh that are sea pigs are some of the most unusual sights in the deep ocean. They're also difficult to study. Some of them live mo...",
+            "url": "https://nautil.us/scientists-just-found-something-strange-under-the-skin-of-sea-pigs-1286685/",
+            "urlToImage": "https://s.yimg.com/lo/mysterio/api/3fe658c0241531fc827913133d48eb3e32158de5d1619bc5d7e7d8d096315188/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fnautilus_articles_455%2F4de6b8d3c2c4ad58f22375ff5dc073cc.jpg",
+            "publishedAt": "2026-11-17T01:00:00Z",
+            "content": "The translucent blobs of flesh that are sea pigs are some of the most unusual sights in the deep ocean. They're also difficult to study. Some of them live more than 32,800 feet below the surface, so … [+2496 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SciTechDaily"
+            },
+            "author": null,
+            "title": "Earth’s Ancient Oceans May Have Fooled Scientists About the Rise of Oxygen - SciTechDaily",
+            "description": "Some of Earth's best-known oxygen milestones may belong to the oceans, not the atmosphere, reshaping our understanding of the conditions that allowed complex life to evolve.",
+            "url": "https://scitechdaily.com/earths-ancient-oceans-may-have-fooled-scientists-about-the-rise-of-oxygen/",
+            "urlToImage": null,
+            "publishedAt": "2026-11-17T00:24:35Z",
+            "content": "New research challenges the established timeline of Earth’s oxygenation, suggesting that major atmospheric changes occurred much earlier than previously believed. Credit: Stock\r\nSome of Earth’s best-… [+4585 chars]"
         },
         {
             "source": {
@@ -469,6 +677,19 @@
             "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/disc-of-m81-feat-holmb.jpg",
             "publishedAt": "2026-11-15T20:00:01Z",
             "content": "UBC researchers have helped uncover 15,000 new potential strong gravitational lensesthe largest collection of these cosmic tools that help astronomers investigate dark matter.\r\nThe first major releas… [+5713 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Earth.com"
+            },
+            "author": null,
+            "title": "A tube made of tiny speakers is called ‘the closest thing to magic’ this scientist has ever seen - Earth.com",
+            "description": "Finnish physicists turned ultrasound into a sound tube with no walls that steers water, powder, gas and even sparks along bendable paths.",
+            "url": "https://www.earth.com/science/a-tube-made-of-tiny-speakers-is-called-the-closest-thing-to-magic-this-scientist-has-ever-seen/",
+            "urlToImage": "https://www.earth.com/img/16x9/1920/media-2026/2026/11/15130134/ultrasonic-tube-helsinki-image-1-veikko-somerpuro_1m.jpg",
+            "publishedAt": "2026-11-15T18:11:04Z",
+            "content": "Finnish physicists turned ultrasound into a sound tube with no walls that steers water, powder, gas and even sparks along bendable paths.Making water flow horizontally through the air without spillin… [+6572 chars]"
         },
         {
             "source": {
@@ -2042,227 +2263,6 @@
             "urlToImage": "https://scx2.b-cdn.net/gfx/news/2026/asteroid-strike.jpg",
             "publishedAt": "2026-11-12T09:07:30Z",
             "content": "A European spacecraft has begun close inspections of an asteroid rammed by NASA four years ago in a planetary defense test.\r\nThe European Space Agency announced Wednesday that the Hera spacecraft is … [+1859 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "EurekAlert"
-            },
-            "author": null,
-            "title": "Sea pigs from the abyss host unusual bacteria - EurekAlert!",
-            "description": "In the deep ocean, translucent sea pigs trundle across the seafloor. Researchers at the University of Tokyo have discovered an unusual bacterium beneath the sea pig&rsquo;s &ldquo;skin.&rdquo; Through fluorescent imaging, they determined the location of the b…",
-            "url": "https://www.eurekalert.org/news-releases/1151591",
-            "urlToImage": "https://mediasvc.eurekalert.org/Api/v1/Multimedia/d16a43d3-864f-4980-9214-472e35f8caee/Rendition/thumbnail/Content/Public",
-            "publishedAt": "2026-11-12T05:06:07Z",
-            "content": "image: The plump, soft-bodied sea pig can grow to around 15 centimeters long and walks on enlarged, leglike tube feet. Sea pigs sometimes gather in large groups to feed on organic-rich seafloor sedim… [+7391 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "ScienceAlert"
-            },
-            "author": "Peter Dockrill",
-            "title": "Study Shows a Single Nuclear Blast Could Disable 99% of Satellites in a Matter of Days - ScienceAlert",
-            "description": "High above your head, it's getting a bit crowded.",
-            "url": "https://www.sciencealert.com/a-single-nuclear-explosion-in-orbit-could-disable-99-of-satellites-in-a-matter-of-days",
-            "urlToImage": "https://www.sciencealert.com/images/2026/11/explosion-in-orbit.jpg",
-            "publishedAt": "2026-11-12T01:04:33Z",
-            "content": "High above your head, it's getting a bit crowded.\r\nIn low-Earth orbit, more than 13,000 satellites are currently circling the planet. They're the backbone of your daily weather forecast, telephone an… [+4504 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Nature.com"
-            },
-            "author": null,
-            "title": "How I balance my life as a professional surfer and a university researcher - Nature",
-            "description": "Cliff Kapono shares his advice on ways to navigate and grow two different careers.",
-            "url": "https://www.nature.com/articles/d41586-026-03183-z",
-            "urlToImage": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03183-z/d41586-026-03183-z_53883252.jpg",
-            "publishedAt": "2026-11-12T00:38:59Z",
-            "content": "During my graduate studies at the University of California, San Diego, long hours in the laboratory were often stressful, and not just because of the research. Most of my anxiety came from looking ou… [+5256 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Phys.Org"
-            },
-            "author": null,
-            "title": "Independent technique validates landmark M87* image - Phys.org",
-            "description": "The 2019 Event Horizon Telescope (EHT) image was the work of hundreds of scientists and captured the first direct view of a black hole's shadow—becoming one of the most recognized scientific images of the modern era. A team of four from CSIRO, Australia's nat…",
-            "url": "https://phys.org/news/2026-11-independent-technique-validates-landmark-m87.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/2026/a-fuzy-organge-glowing.jpg",
-            "publishedAt": "2026-11-12T00:00:04Z",
-            "content": "The 2019 Event Horizon Telescope (EHT) image was the work of hundreds of scientists and captured the first direct view of a black hole's shadowbecoming one of the most recognized scientific images of… [+4070 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Dharma Niles",
-            "title": "Spot a fireball during tonight’s Northern Taurid meteor shower - CNN",
-            "description": "Fireballs will shine under a waxing crescent moon as the Northern Taurid meteor shower puts on a show Wednesday night into Thursday.",
-            "url": "https://www.cnn.com/2026/11/11/science/northern-taurid-meteor-shower",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1364432356-20261111151829167.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2026-11-11T23:00:15Z",
-            "content": "Those who missed last weeks Southern Taurids meteor shower have another chance to watch a fireball blaze across the sky, as the Northern Taurids reach their peak.\r\nWith dark skies expected after Mond… [+3958 chars]"
-        },
-        {
-            "source": {
-                "id": "google-news",
-                "name": "Google News"
-            },
-            "author": "Chemical & Engineering News",
-            "title": "How Avogadro’s number became constant - Chemical & Engineering News",
-            "description": null,
-            "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNGxUdW5tNk1IcUZNTlhQRUFkQ2duZnIxVm84bF9hc045TzBfam5ENW84STBoU3VTemE3b3dNU24tdFB5R3ZRT2ItWXB4T3prdWJqUmN2OVVvYXNCODJ2VWRtX2lfSXRzNl8wV2d1enM3TVVwa21PWkkzZzQ3ZmxnaUJjaEpYN1RlclJuY19kZWFtWUw4NEFUeE9INDVLR0ZOd0cteFRSRVNXYlRwbE94b2RBb2tHYmZMQkgyYjZmeGx4OExJWkZDRA?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2026-11-11T22:21:02Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Acs.org"
-            },
-            "author": "Ananya Palivela",
-            "title": "How Avogadro’s number became constant - Chemical & Engineering News",
-            "description": "100 years ago, scientists proved that atoms really exist, and the famous 6 × 10<sup>23</sup> number was settled",
-            "url": "https://cen.acs.org/physical-chemistry/theoretical-chemistry/avogadro-mole-atoms-history-brownian-motion-einstein/104/web/2026/11",
-            "urlToImage": "https://s7d1.scene7.com/is/image/CENODS/Avogadro-Anniversary---541352:Widescreen?$responsive$&qlt=90,0&resMode=sharp2&fmt=webp&op_sharpen=1",
-            "publishedAt": "2026-11-11T22:21:02Z",
-            "content": "<ul><li>Into the early 1900s, prominent scientists were unsure about the existence of atoms. Jean Perrins calculations of Avogadros constant convinced them that atoms are real.</li><li>Pinning down t… [+764 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Nature.com"
-            },
-            "author": null,
-            "title": "Glycosylation and importins liquefy the FG barrier in live nuclear pores - Nature",
-            "description": "Nuclear pore proteins maintain a fluid, spatially organized barrier through coordinated molecular interactions, explaining how cells achieve selective transport and reconciling competing models of pore structure.",
-            "url": "https://www.nature.com/articles/s41586-026-11258-0",
-            "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11258-0/MediaObjects/41586_2026_11258_Fig1_HTML.png",
-            "publishedAt": "2026-11-11T22:14:40Z",
-            "content": "Cell culture, transfection and labelling\r\nCell culture\r\nCOS-7 cells (Sigma, 87021302) and HEK293T cells (Beyotime, C6008) were cultured in Dulbeccos Modified Eagle Medium (Thermo Fisher, 41965-039) s… [+42188 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Nature.com"
-            },
-            "author": null,
-            "title": "Scale-rich network-based metamaterials - Nature",
-            "description": "A network-science-based framework that embeds network heterogeneity into mechanical metamaterials is used to produce scale-rich metamaterials that exhibit properties inaccessible to traditional single-scale systems.",
-            "url": "https://www.nature.com/articles/s41586-026-11191-2",
-            "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11191-2/MediaObjects/41586_2026_11191_Fig1_HTML.png",
-            "publishedAt": "2026-11-11T22:14:32Z",
-            "content": "We begin by determining the mechanical characteristics of SR microstructures, comparing them against three single-scale microstructures frequently used in engineering applications: the square lattice… [+25480 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Nature.com"
-            },
-            "author": null,
-            "title": "Transient nuclear softening for zygotic gene activation in mice - Nature",
-            "description": "A distinct physical nuclear state acquired by embryos at the beginning of life supports the initiation of the zygotic transcription program.",
-            "url": "https://www.nature.com/articles/s41586-026-11240-w",
-            "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11240-w/MediaObjects/41586_2026_11240_Fig1_HTML.png",
-            "publishedAt": "2026-11-11T22:14:23Z",
-            "content": "Animals\r\nMice (ICR and B6C3F1/Jc1 or slc (BCF1)) aged 515weeks53 were purchased from CLEA Japan, Japan SLC or Kiwa Laboratory Animals, maintained in light-controlled (light: 08:00 to 20:00; dark: 20:… [+79969 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Nature.com"
-            },
-            "author": null,
-            "title": "A plant RNA-binding protein senses 2′,3′-cNMP produced by insect effectors - Nature",
-            "description": "The rice RNA-binding protein NIB1 detects 2′,3′-cyclic nucleotide products from insect saliva&nbsp;RNase, forming nuclear condensates that recruit EDS1 to activate defence, revealing a conserved messenger-based immune pathway in plants.",
-            "url": "https://www.nature.com/articles/s41586-026-11259-z",
-            "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11259-z/MediaObjects/41586_2026_11259_Fig1_HTML.png",
-            "publishedAt": "2026-11-11T22:14:23Z",
-            "content": "Plant materials and growth conditions\r\nRice plants (Oryza sativa L. subsp. japonica cv. ZH11) grown in experimental fields in Shanghai or Hainan, or under controlled greenhouse conditions, were used … [+31221 chars]"
-        },
-        {
-            "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
-            },
-            "author": "Marcia Dunn",
-            "title": "Europe's Hera spacecraft begins close inspections of an asteroid rammed by NASA in a 2022 test - AP News",
-            "description": "A European spacecraft has begun close inspections of a harmless asteroid rammed by NASA four years ago in a planetary defense test. The European Space Agency said Wednesday that the Hera spacecraft is studying Didymos and its moonlet from just 15 miles to 18 …",
-            "url": "https://apnews.com/article/asteroid-nasa-hera-didymos-dimorphos-c161a53a58e95b23a6c5a08315dd679a",
-            "urlToImage": "https://dims.apnews.com/dims4/default/9b64dbf/2147483647/strip/true/crop/1020x680+0+0/resize/1020x680!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F32%2Fed%2Fbaf14f41705483eafccf597389d9%2F0646db88349a44cd9affc2ffaa157891",
-            "publishedAt": "2026-11-11T22:12:00Z",
-            "content": "CAPE CANAVERAL, Fla. (AP) A European spacecraft has begun close inspections of an asteroid rammed by NASA four years ago in a planetary defense test. \r\nThe European Space Agency announced Wednesday t… [+1568 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Space.com"
-            },
-            "author": "Leonard David",
-            "title": "NASA kick-starts a fresh push to bring Mars samples home - Space",
-            "description": "China is making progress on its Tianwen-3 Mars Sample Return mission, which",
-            "url": "https://www.space.com/astronomy/mars/nasa-kick-starts-a-fresh-push-to-bring-mars-samples-home",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/wsr2acqzfeTWK9CbDiQQJi-1920-80.jpg",
-            "publishedAt": "2026-11-11T22:00:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "PetaPixel"
-            },
-            "author": "Michael Bonocore",
-            "title": "Plan Ahead: Seven Places to Point Your Camera in 2028 - PetaPixel",
-            "description": "What makes a great photography adventure? People travel with their cameras for different reasons. For some, travel itself is the main attraction, with",
-            "url": "https://petapixel.com/2026/11/11/plan-ahead-seven-places-to-point-your-camera-in-2028/",
-            "urlToImage": "https://petapixel.com/assets/uploads/2026/11/Muench-Plan-Ahead-2028-Featured-Image.jpg",
-            "publishedAt": "2026-11-11T21:56:18Z",
-            "content": "What makes a great photography adventure? People travel with their cameras for different reasons. For some, travel itself is the main attraction, with photography opening the door to longer, richer e… [+14263 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Gayoung Lee",
-            "title": "Earth's Plate Tectonics Evolved Dramatically 2.7 Billion Years Ago - Gizmodo",
-            "description": "Scientists long suspected that plate tectonics was partly responsible for how Earth evolved but couldn’t quite tell when—until now.",
-            "url": "https://gizmodo.com/something-switched-on-inside-earth-2-7-billion-years-ago-and-it-made-the-planet-we-know-2000838503",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/11/archean-eon-artists-depiction-earth-1200x675.jpg",
-            "publishedAt": "2026-11-11T21:30:12Z",
-            "content": "In many ways, life on Earth feels like a miracle. Had things gone differently, Earth might have looked more like our neighbors in the solar system. Scientists long suspected that plate tectonics was … [+3923 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Phys.Org"
-            },
-            "author": null,
-            "title": "Deep-sea mollusk houses bacteria in tiny 'dragon balls,' revealing a new symbiotic structure - Phys.org",
-            "description": "Researchers at The Hong Kong University of Science and Technology (HKUST) have discovered a previously unknown specialized organelle structure in a deep-sea mollusk living at cold seeps in the South China Sea. Dedicated to maintaining bacterial symbiosis, thi…",
-            "url": "https://phys.org/news/2026-11-deep-sea-mollusk-houses-bacteria.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/hkust-researchers-disc.jpg",
-            "publishedAt": "2026-11-11T21:00:01Z",
-            "content": "Researchers at The Hong Kong University of Science and Technology (HKUST) have discovered a previously unknown specialized organelle structure in a deep-sea mollusk living at cold seeps in the South … [+8387 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Live Science"
-            },
-            "author": "Stephanie Pappas",
-            "title": "The Grand Canyon is missing over a billion years of rocks. Now scientists know why. - Live Science",
-            "description": "The mission 1.2 billion years of geological history at the Grand Canyon finally has an explanation.",
-            "url": "https://www.livescience.com/planet-earth/geology/the-grand-canyon-is-missing-over-a-billion-years-of-rocks-now-scientists-know-why",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/HNLR45efqbypeZkyEQHsDb-2000-80.jpg",
-            "publishedAt": "2026-11-11T20:53:42Z",
-            "content": null
         }
     ]
 }

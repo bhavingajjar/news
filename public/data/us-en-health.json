@@ -1,7 +1,111 @@
 {
     "status": "ok",
-    "totalResults": 261,
+    "totalResults": 262,
     "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Newsnationnow.com"
+            },
+            "author": "Stephanie Sokol",
+            "title": "Coffee completely transforms your gut microbiome: Study - NewsNation",
+            "description": "Higher microbial richness was found in those who enjoyed coffee on more than three of the eight days.",
+            "url": "https://www.newsnationnow.com/health/study-coffee-impacts-gut-health/",
+            "urlToImage": "https://www.newsnationnow.com/wp-content/uploads/sites/108/2026/02/FEATURE_new-coffee-dementia-study.jpg?w=1280",
+            "publishedAt": "2026-11-18T03:57:00Z",
+            "content": "Master Your Money: Join Elizabeth Vargas for a live NewsNation special featuring experts from the Ramsey Team to find out how to navigate your financial challenges. This live special airs Thursday, N… [+2103 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Newsnationnow.com"
+            },
+            "author": "Taylor Delandro",
+            "title": "Respiratory illnesses surge across US as CDC warns of unusual trends - NewsNation",
+            "description": "The CDC is monitoring four illnesses, including strep, rhinovirus, walking pneumonia and whooping cough.",
+            "url": "https://www.newsnationnow.com/health/respiratory-illnesses-surge-cdc-warning/",
+            "urlToImage": "https://www.newsnationnow.com/wp-content/uploads/sites/108/2026/11/Untitled-November-17-2026-at-08.51.44-2.png?w=1280",
+            "publishedAt": "2026-11-18T03:32:35Z",
+            "content": "(NewsNation) Several respiratory illnesses are circulating across the U.S., with health officials warning some viruses are showing unusual trends for this time of year.\r\nAccording to the Centers for … [+2837 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Post Magazine"
+            },
+            "author": null,
+            "title": "Chinese scientists’ magic comb restores hair growth by nearly 100% in mice study - South China Morning Post",
+            "description": "The device generates a pulsed electric field while delivering medication deep into the hair follicle with a simple combing action.",
+            "url": "https://www.scmp.com/news/china/science/article/3374723/chinese-scientists-magic-comb-restores-hair-growth-nearly-100-mice-study",
+            "urlToImage": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/11/17/eedbe2e7-fc7e-4a5a-9d5e-f0eb4e07e846_4dd0dc34.jpg?itok=Sv0BRp0Z&v=1794905335",
+            "publishedAt": "2026-11-18T01:00:07Z",
+            "content": "For the more than 1.5 billion people worldwide who suffer from androgenetic alopecia, combing their hair before the mirror each morning is a routine that is often accompanied by quiet anxiety.\r\nHowev… [+423 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Largest British study to check social media ban's effect on youth mental health - BBC",
+            "description": "Ten different research teams will look at how well teenagers are coping without social media.",
+            "url": "https://www.bbc.com/news/articles/cm0evw0d2wq4o",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/02cd/live/6ddfb5f0-e2bd-11f1-a094-5fdc692f3e33.jpg",
+            "publishedAt": "2026-11-18T00:49:31Z",
+            "content": "Groups have been set up at Cardiff University, the University of Oxford, the University of Birmingham, King's College London, the University of Edinburgh, the University of Manchester, the London Sch… [+67 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PBS"
+            },
+            "author": null,
+            "title": "Doctors are raising concerns about U.S. babies born with measles - PBS",
+            "description": "Congenital measles happens when a pregnant woman passes the virus to her fetus in the womb and can lead to serious complications or even be deadly for newborns.",
+            "url": "https://www.pbs.org/newshour/health/doctors-are-raising-concerns-about-u-s-babies-born-with-measles",
+            "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/measles-1024x683.jpg",
+            "publishedAt": "2026-11-17T22:52:41Z",
+            "content": "For the first time in decades, U.S. doctors are sounding the alarm about babies coming into the world with measles.\r\nCongenital measles happens when a pregnant woman passes the virus to her fetus in … [+5469 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Monseyscoop.com"
+            },
+            "author": "Sruly, Sruly",
+            "title": "Hatzoloh EMS of Rockland Honors Light It Up Owner Ari Stern for Sponsoring Lifesaving Cardiac Monitor - Monsey Scoop",
+            "description": "Hatzoloh EMS of Rockland recently presented a plaque of appreciation to Ari Stern, owner of Light It Up, in recognition of his generous sponsorship of a LIFEPAK",
+            "url": "https://monseyscoop.com/hatzoloh-ems-of-rockland-honors-light-it-up-owner-ari-stern-for-sponsoring-lifesaving-cardiac-monitor/",
+            "urlToImage": "https://monseyscoop.com/wp-content/uploads/2026/11/IMG-20261117-WA0831.jpg",
+            "publishedAt": "2026-11-17T22:07:58Z",
+            "content": "Hatzoloh EMS of Rockland recently presented a plaque of appreciation to Ari Stern, owner of Light It Up, in recognition of his generous sponsorship of a LIFEPAK 15 cardiac monitor/defibrillator for o… [+764 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Health.com"
+            },
+            "author": "https://www.facebook.com/Health/",
+            "title": "The Best Nutrient for Lowering Blood Pressure, According to a Cardiologist - Health.com",
+            "description": "Your diet plays a major role in managing blood pressure. Discover which nutrient a cardiologist recommends.",
+            "url": "https://www.health.com/best-nutrient-lower-blood-pressure-12160823",
+            "urlToImage": "https://www.health.com/thmb/c52LP3XhGOBdu9y3wGjlaQksIDA=/4000x0/filters:no_upscale():max_bytes(150000):strip_icc()/Health-GettyImages-2228265305-9aebea4b0c1649f9b7cccfe43246ca1f.jpg",
+            "publishedAt": "2026-11-17T20:20:00Z",
+            "content": "Nearly half of adults in the U.S. have high blood pressure (hypertension), a serious health problem that increases the risk of heart failure, heart attack, and stroke. Your diet plays a key role in m… [+2702 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Rachel Sacks",
+            "title": "Vapes cause ‘irreversible’ internal damage, study finds: ‘This should be a wake-up call’ - New York Post",
+            "description": "Early findings from a study on the effects of prolonged vaping have shown irreversible damage to young people, putting them at risk for long-term respiratory diseases.",
+            "url": "https://nypost.com/2026/11/17/health/vapes-cause-irreversible-internal-damage-new-study-finds/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/11/crop-41924603.jpg?quality=75&strip=all&w=1200",
+            "publishedAt": "2026-11-17T20:05:00Z",
+            "content": "The case for a healthier vape has gone up in smoke.\r\nFramed as the “healthier alternative” to traditional cigarettes, vaping has long been found to be just as destructive to health in a myriad of way… [+3235 chars]"
+        },
         {
             "source": {
                 "id": "the-washington-post",
@@ -14,6 +118,19 @@
             "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QH4RP6RVWL5WMAO2626COE7XWM_size-normalized.jpg&w=1440",
             "publishedAt": "2026-11-17T20:02:10Z",
             "content": "Around 1 in 300 women are exposed to GLP-1 medications during pregnancy, according to the American College of Obstetricians and Gynecologists, but data is unclear about the effects of the weight-loss… [+30 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Fci Academy"
+            },
+            "author": "Chad Murphy",
+            "title": "Another person may have spread measles for 4 days at several Ohio sites - The Columbus Dispatch",
+            "description": "One person infected with measles visited five locations in Northwest Ohio over four days while contagious with the virus. Here's where.",
+            "url": "https://www.dispatch.com/story/news/2026/11/17/ohio-measles-cases-2026-spread-paulding-defiance-counties/92827568007/",
+            "urlToImage": "https://www.dispatch.com/gcdn/authoring/authoring-images/2026/07/24/USAT/91036479007-getty-images-1196157315.jpg?crop=2120,1193,x0,y0&width=2120&height=1193&format=pjpg&auto=webp",
+            "publishedAt": "2026-11-17T18:02:00Z",
+            "content": null
         },
         {
             "source": {
@@ -31,6 +148,19 @@
         {
             "source": {
                 "id": null,
+                "name": "Health.com"
+            },
+            "author": "https://www.facebook.com/Health/",
+            "title": "5 Supplements To Avoid if You Have High Blood Pressure - Health.com",
+            "description": "Certain supplements, such as licorice root and St. John’s wort, can affect your blood pressure or how well blood pressure medications work.",
+            "url": "https://www.health.com/supplements-to-avoid-high-blood-pressure-12257961",
+            "urlToImage": "https://www.health.com/thmb/TsZjDewBPNfJ5zX5w7pf45P8u_c=/2121x0/filters:no_upscale():max_bytes(150000):strip_icc()/Health-GettyImages-2095806325-d4d356b94c914e64a1f7459f169e0e58.jpg",
+            "publishedAt": "2026-11-17T17:01:03Z",
+            "content": "If you have high blood pressure, the supplements you take deserve a closer look. Some can raise your blood pressure or make your medication less effective, making it harder to protect your heart.\r\n T… [+4793 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "New York Post"
             },
             "author": "Rachel Sacks",
@@ -44,6 +174,45 @@
         {
             "source": {
                 "id": null,
+                "name": "KOAT New Mexico"
+            },
+            "author": "Peyton Spellacy",
+            "title": "Rise in shigellosis cases in Bernalillo County - KOAT",
+            "description": "The New Mexico Department of Health has linked 102 cases since late 2025 to an ongoing outbreak in Bernalillo County, with the majority occurring among people experiencing homelessness.",
+            "url": "https://www.koat.com/article/rise-in-shigellosis-cases-in-bernalillo-county/74444823",
+            "urlToImage": "https://kubrick.htvapps.com/vidthumb/6cebf7c7-d552-40d5-8626-e7774f280de1/96cfac4a-501b-4906-a06e-5de85682c2b2.jpg?crop=0.831xw%3A0.829xh%3B0.0831xw%2C0&resize=1200%3A*",
+            "publishedAt": "2026-11-17T15:39:00Z",
+            "content": "ALBUQUERQUE, N.M.Health officials are reporting a rise in shigellosis cases in Bernalillo County.\r\nAccording to the New Mexico Department of Health (NMDOH), the state has reported 233 cases this year… [+4055 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Medical Xpress"
+            },
+            "author": null,
+            "title": "Key immune driver of pancreatic cancer points to combination treatment for slowing progression - Medical Xpress",
+            "description": "Researchers from The University of Texas MD Anderson Cancer Center have discovered that the IL-18 inflammatory protein helps pancreatic tumors grow and evade the immune system, highlighting its potential as a therapeutic target for pancreatic cancer.",
+            "url": "https://medicalxpress.com/news/2026-11-key-immune-driver-pancreatic-cancer.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/scientists-identify-ke.jpg",
+            "publishedAt": "2026-11-17T14:40:01Z",
+            "content": "Researchers from The University of Texas MD Anderson Cancer Center have discovered that the IL-18 inflammatory protein helps pancreatic tumors grow and evade the immune system, highlighting its poten… [+3264 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Conversation Africa"
+            },
+            "author": "Zheng Kuang",
+            "title": "Your gut bacteria helps your body keep track of time, and when you eat influences how much nutrition you get from food - The Conversation",
+            "description": "Both light and food provide signals your body listens to as it calibrates essential functions, including metabolism.",
+            "url": "https://theconversation.com/your-gut-bacteria-helps-your-body-keep-track-of-time-and-when-you-eat-influences-how-much-nutrition-you-get-from-food-295323",
+            "urlToImage": "https://images.theconversation.com/files/771742/original/file-20261112-64-h5owk3.jpg?ixlib=rb-4.1.1&rect=0%2C163%2C2291%2C1145&q=45&auto=format&w=1356&h=668&fit=crop",
+            "publishedAt": "2026-11-17T13:41:39Z",
+            "content": "How your body processes food is significantly influenced by daily rhythms tied to 24-hour light-dark cycles. In new research published in the scientific journal Cell Host &amp; Microbe, my colleagues… [+3713 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "TODAY"
             },
             "author": "Caroline Kee",
@@ -53,6 +222,19 @@
             "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2026-11/Expert-tip-of-the-day-walk-time-of-day-as11162026-923f03.jpg",
             "publishedAt": "2026-11-17T13:00:00Z",
             "content": "If youre starting a new fitness journey or getting back into exercise after a long break, youre not alone. \r\nEveryone has to begin somewhere, even if its just getting up off the couch. And if youre s… [+2829 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SciTechDaily"
+            },
+            "author": null,
+            "title": "Scientists Discover a Powerful New Way To Kill Prostate Cancer Cells - SciTechDaily",
+            "description": "Even prostate tumors resistant to standard treatments responded to an experimental molecule in animal studies, raising the possibility of a different approach to advanced disease.",
+            "url": "https://scitechdaily.com/scientists-discover-a-powerful-new-way-to-kill-prostate-cancer-cells/",
+            "urlToImage": null,
+            "publishedAt": "2026-11-17T12:32:59Z",
+            "content": "The gears represent the androgen receptor (AR) and p300, which are linked together in a non-native interaction by the monkey wrench, representing DALTAC-1. This leads to inhibition of oncogenic AR tr… [+4999 chars]"
         },
         {
             "source": {
@@ -212,6 +394,19 @@
         },
         {
             "source": {
+                "id": null,
+                "name": "Minneapolis Star Tribune"
+            },
+            "author": "Nicole Garrison",
+            "title": "Garrison: This menopause symptom can be scary ― but it’s more common than you think - Star Tribune",
+            "description": "Millions of women experience brain fog as a symptom of perimenopause.",
+            "url": "https://www.startribune.com/womens-health-midlife-perimenopause-brain-fog-memory-stress/601915745",
+            "urlToImage": "https://arc.stimg.co/startribunemedia/Z3EABZ3OCRGLVMM34A6VNA7IA4.jpg?&w=1200&ar=1.91:1&fit=crop",
+            "publishedAt": "2026-11-17T11:00:00Z",
+            "content": "Opinion editors note:StribVoices publishes a mix of material from 10 contributing columnists, along with other commentary online and in print each day. To contribute, click here.\r\nI was born with the… [+1481 chars]"
+        },
+        {
+            "source": {
                 "id": "fox-news",
                 "name": "Fox News"
             },
@@ -252,15 +447,15 @@
         {
             "source": {
                 "id": null,
-                "name": "Newsnationnow.com"
+                "name": "STAT"
             },
-            "author": "Stephanie Sokol",
-            "title": "Coffee competely transforms your gut: Study - NewsNation",
-            "description": "Higher microbial richness was found in those who enjoyed coffee on more than three of the eight days.",
-            "url": "https://www.newsnationnow.com/health/study-coffee-impacts-gut-health/",
-            "urlToImage": "https://www.newsnationnow.com/wp-content/uploads/sites/108/2026/02/FEATURE_new-coffee-dementia-study.jpg?w=1280",
-            "publishedAt": "2026-11-17T06:35:50Z",
-            "content": "Master Your Money: Join Elizabeth Vargas for a live NewsNation special featuring experts from the Ramsey Team to find out how to navigate your financial challenges. This live special airs Thursday, N… [+2103 chars]"
+            "author": "Jason Mast",
+            "title": "After death in gene therapy trial for a brain disease, progress is reported - STAT",
+            "description": "An unexpected patient death rattled researchers who sought to pierce the blood-brain barrier. Now some think they have a better way of mitigating risks.",
+            "url": "https://www.statnews.com/2026/11/17/capsida-gene-therapy-trial-death-follow-up-investigation/",
+            "urlToImage": "https://www.statnews.com/wp-content/uploads/2026/11/AdobeStock_331634765-1024x576.jpeg",
+            "publishedAt": "2026-11-17T09:34:31Z",
+            "content": "Researchers on Friday presented detailed investigations into a gene therapy death that sparked fear and uncertainty last year among scientists who felt they had been approaching powerful treatments f… [+711 chars]"
         },
         {
             "source": {
@@ -304,6 +499,32 @@
         {
             "source": {
                 "id": null,
+                "name": "WCNC.com"
+            },
+            "author": "WCNC",
+            "title": "Possible measles exposure at Hickory church, pediatric office - WCNC",
+            "description": null,
+            "url": "https://www.wcnc.com/article/news/health/possible-measles-exposure-at-hickory-church-pediatric-office/275-36ba7b76-45c5-4e3e-811b-84fbacc25629",
+            "urlToImage": null,
+            "publishedAt": "2026-11-17T03:29:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SFGate"
+            },
+            "author": "Gillian Mohney",
+            "title": "New E. coli case found in SLO after rare person-to-person transmission - SFGATE",
+            "description": "A sixth infection of Shiga toxin-producing E. coli was reported in San Luis Obispo after a suspected transmission at a local preschool.",
+            "url": "https://www.sfgate.com/bayarea/article/e-coli-slo-transmission-22533554.php",
+            "urlToImage": "https://s.hdnux.com/photos/01/67/75/04/31445254/3/rawImage.jpg",
+            "publishedAt": "2026-11-17T03:08:35Z",
+            "content": "FILE: Escherichia coli (intestinal bacteria) that resides in the digestive tract of humans and warm-blooded animals seen in an electron microscope. \r\nCavallini James/BSIP/Universal Images Group via G… [+2837 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "WLOS"
             },
             "author": "Marisa Sardonia",
@@ -326,6 +547,19 @@
             "urlToImage": "https://wlos.com/resources/media2/16x9/1920/1320/center/90/69ed31ed-cb54-4197-8b11-e78ad0d25a83-5VBADKEROSENE.mp4frame343.png",
             "publishedAt": "2026-11-17T02:36:41Z",
             "content": "CANDLER, N.C. (WLOS) Mountain Energy urges customers who purchased kerosene from its location at 1501 Smokey Park Highway on Nov. 12 or 13 not to burn it because of a potentially dangerous fuel mix.\r… [+439 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WFAA.com"
+            },
+            "author": "WFAA",
+            "title": "UT Southwestern marks construction milestone on $177 million cancer treatment center in Fort Worth - WFAA",
+            "description": null,
+            "url": "https://www.wfaa.com/article/news/health/ut-southwestern-marks-construction-milestone-on-177-million-cancer-treatment-center-in-fort-worth/287-8b828ab3-c440-425b-8056-41ed41590246",
+            "urlToImage": null,
+            "publishedAt": "2026-11-17T01:42:40Z",
+            "content": null
         },
         {
             "source": {
@@ -352,19 +586,6 @@
             "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/USJDSRPSEC5ZVDH6QNIQYTAX54_size-normalized.jpg&w=1440",
             "publishedAt": "2026-11-17T00:38:17Z",
             "content": "Months after the CDC denied a request from federal health scientists to issue a national alert warning doctors about the risks of measles during pregnancy, the information was published Monday in an … [+27 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "SFGate"
-            },
-            "author": "Gillian Mohney",
-            "title": "New E. coli case found in SLO after rare person-to-person transmission - SFGATE",
-            "description": "A sixth infection of Shiga toxin-producing E. coli was reported in San Luis Obispo after a suspected transmission at a local preschool.",
-            "url": "https://www.sfgate.com/bayarea/article/e-coli-slo-transmission-22533554.php",
-            "urlToImage": "https://s.hdnux.com/photos/01/67/75/04/31445254/3/rawImage.jpg",
-            "publishedAt": "2026-11-16T23:30:49Z",
-            "content": "FILE: Escherichia coli (intestinal bacteria) that resides in the digestive tract of humans and warm-blooded animals seen in an electron microscope. \r\nCavallini James/BSIP/Universal Images Group via G… [+2837 chars]"
         },
         {
             "source": {
@@ -443,6 +664,19 @@
             "urlToImage": null,
             "publishedAt": "2026-11-16T20:12:00Z",
             "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ScienceAlert"
+            },
+            "author": "Michelle Starr",
+            "title": "A Gene Inherited From Neanderthals Is Still Shaping Human Brains – And May Affect Schizophrenia Risk - ScienceAlert",
+            "description": "Tens of thousands of years ago, the last Neanderthal disappeared from our world.",
+            "url": "https://www.sciencealert.com/a-gene-inherited-from-neanderthals-is-still-shaping-human-brains-and-may-affect-schizophrenia-risk",
+            "urlToImage": "https://www.sciencealert.com/images/2026/11/skulls.png",
+            "publishedAt": "2026-11-16T20:02:51Z",
+            "content": "Tens of thousands of years ago, the last Neanderthal disappeared from our world.\r\nBut the ghost of this ancient human relative lives on its lingering traces haunting the Homo sapiens genetic code.\r\nI… [+7125 chars]"
         },
         {
             "source": {
@@ -677,6 +911,19 @@
             "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/20261014-perimenopause-body-language-final.jpg?c=16x9&q=w_800,c_fill",
             "publishedAt": "2026-11-16T13:00:15Z",
             "content": "Half the worlds population faces an important health issue with wide-ranging symptoms insomnia, memory and cognition problems, achy muscles and joints, temperature dysregulation, depression and anxie… [+12903 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Eatingwell.com"
+            },
+            "author": "https://www.facebook.com/EatingWell/",
+            "title": "Dietitians Reveal the Store-Bought Breads They Always Buy - EatingWell",
+            "description": "From sprouted grains to sourdough, discover the dietitian-approved store-bought breads that deliver maximum taste and nutrition.",
+            "url": "https://www.eatingwell.com/dietitians-reveal-their-favorite-store-bought-breads-12176074",
+            "urlToImage": "https://www.eatingwell.com/thmb/U0tSgfAiY36FNkFoDb7DN9fuQ48=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Dietitians-Reveal-the-Store-Bought-Breads-b7a96823c44d4fc0a4ec8a206d3184bd.jpg",
+            "publishedAt": "2026-11-16T13:00:00Z",
+            "content": "One thing most people can agree on is that bread is amazing. Its satisfying, versatile and a staple in many countries around the world. But the bread aisle can seem like its overflowing with options … [+7085 chars]"
         },
         {
             "source": {
@@ -1275,6 +1522,19 @@
             "urlToImage": "https://kubrick.htvapps.com/htv-prod/images/4694cc61-46b1-4340-a57d-cf9fbf56c817.png?crop=1.00xw%3A1.00xh%3B0%2C0&resize=1200%3A*",
             "publishedAt": "2026-11-15T11:18:28Z",
             "content": "WASHINGTONThe season of sniffles is back, with data showing an earlier-than-normal flu season and a rise in other respiratory illnesses.\r\nAcute respiratory illnesses that cause people to seek health … [+1430 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "cleveland.com"
+            },
+            "author": "Cleveland.com",
+            "title": "Scientists compared antidepressants over the long term. Three drugs stood out - Cleveland.com",
+            "description": null,
+            "url": "https://www.cleveland.com/news/2026/11/scientists-compared-antidepressants-over-the-long-term-three-drugs-stood-out.html",
+            "urlToImage": null,
+            "publishedAt": "2026-11-15T10:30:00Z",
+            "content": null
         },
         {
             "source": {
@@ -1980,6 +2240,19 @@
         },
         {
             "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Hallie Levine",
+            "title": "I hit my goal weight on a GLP‑1 — what now? - Yahoo Health",
+            "description": "After losing nearly 60 pounds on Zepbound, I asked obesity specialists whether I could take less medication. Here's what I learned about maintenance doses an...",
+            "url": "https://health.yahoo.com/your-body/weight-management/weight-loss/article/i-hit-my-goal-weight-on-a-glp1--what-now-235058237.html",
+            "urlToImage": "https://s.yimg.com/lo/mysterio/api/fbb1350bd0acb534ed74309d34f5bb2824f23c1eef217cac606f178a18ccc9f4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fgoal-weight_9988.png",
+            "publishedAt": "2026-11-13T23:50:58Z",
+            "content": "After losing close to 60 pounds in 12 months on a GLP-1 medication, I knew my clothes had gotten looser. But nothing prepared me for the shock I experienced when I tried on my bathing suit for the fi… [+10922 chars]"
+        },
+        {
+            "source": {
                 "id": "the-times-of-india",
                 "name": "The Times of India"
             },
@@ -2159,6 +2432,19 @@
             "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/woman-holding-prescription-bottle.jpg",
             "publishedAt": "2026-11-13T19:19:36Z",
             "content": "For decades, doctors have relied on metformin to help people with type 2 diabetes manage their blood sugar. Now, new research suggests the widely prescribed drug may offer benefits beyond blood sugar… [+4267 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "AOL"
+            },
+            "author": "Camryn Rabideau",
+            "title": "Doctors say this 'underrated' benefit of collagen for women over 50 has nothing to do with looks - AOL.com",
+            "description": "Collagen peptides can improve your skin, hair, and nails, but there are other major benefits to consider, as well.",
+            "url": "https://www.aol.com/shopping/doctors-say-this-underrated-benefit-of-collagen-for-women-over-50-has-nothing-to-do-with-looks-191009000.html",
+            "urlToImage": "https://hermes.media.transform.aol.com/c34ea8e86355560b331038a15ab38df981b9e471/w_1200,c_scale,f_auto,q_auto/https://hermes.media.static.aol.com/uploads/2026/11/13/a0e3b543-6fc0-4ccd-838c-f365da55adbf.jpg",
+            "publishedAt": "2026-11-13T19:10:09Z",
+            "content": "If you're looking for ways to improve your hair, skin, and nails, you'll definitely come across collagen peptides in your research. This supplement has skyrocketed in popularity thanks to its ability… [+3731 chars]"
         },
         {
             "source": {
@@ -2410,6 +2696,19 @@
         {
             "source": {
                 "id": null,
+                "name": "Cdc.gov"
+            },
+            "author": "CDC",
+            "title": "Weekly US Influenza Surveillance Report: Key Updates for Week 44, ending November 7, 2026 | FluView - Centers for Disease Control and Prevention | CDC (.gov)",
+            "description": "Seasonal influenza activity is increasing in many parts of the country but remains low.",
+            "url": "https://www.cdc.gov/fluview/surveillance/2026-week-44.html",
+            "urlToImage": "https://www.cdc.gov/fluview/media/images/2026/flu-view-sm.png?_=75438",
+            "publishedAt": "2026-11-13T08:00:00Z",
+            "content": "All data are preliminary and may change as more reports are received.\r\nA description of the CDC influenza surveillance system, including methodology and detailed descriptions of each data component, … [+26377 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "DogTime"
             },
             "author": "Khushali Srivastava",
@@ -2605,6 +2904,19 @@
         {
             "source": {
                 "id": null,
+                "name": "ScienceAlert"
+            },
+            "author": "Peter Dockrill",
+            "title": "The Number of Teeth in Your Mouth Could Be a Major Warning Sign of Dementia - ScienceAlert",
+            "description": "We still don't fully understand the causes of dementia, but scientists are making progress.",
+            "url": "https://www.sciencealert.com/the-number-of-teeth-in-your-mouth-could-be-a-major-warning-sign-of-dementia",
+            "urlToImage": "https://www.sciencealert.com/images/2026/11/dental-x-ray.jpg",
+            "publishedAt": "2026-11-12T21:04:27Z",
+            "content": "We still don't fully understand the causes of dementia, but scientists are making progress.\r\nMost encouragingly, research suggests that almost half of dementia cases could be reduced, at least tempor… [+6211 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "New York Post"
             },
             "author": "Allie Yang",
@@ -2614,19 +2926,6 @@
             "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/11/newspress-collage-gcfb7jeg0-1794513155881.jpg?quality=75&strip=all&1794495169&w=1200",
             "publishedAt": "2026-11-12T21:04:00Z",
             "content": "About one in six adults are on an antidepressant  and over half of them are on selective serotonin reuptake inhibitors (SSRIs).\r\nBecause they’ve been around for almost four decades, we know a lot abo… [+3044 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "ScienceAlert"
-            },
-            "author": "Peter Dockrill",
-            "title": "The Number of Teeth in Your Mouth Could Be a Major Warning Sign of Dementia - ScienceAlert",
-            "description": "We still don't fully understand the causes of dementia, but scientists are making progress.",
-            "url": "https://www.sciencealert.com/the-number-of-teeth-in-your-mouth-could-be-a-major-warning-sign-of-dementia",
-            "urlToImage": "https://www.sciencealert.com/images/2026/11/dental-x-ray.jpg",
-            "publishedAt": "2026-11-12T21:01:59Z",
-            "content": "We still don't fully understand the causes of dementia, but scientists are making progress.\r\nMost encouragingly, research suggests that almost half of dementia cases could be reduced, at least tempor… [+6211 chars]"
         },
         {
             "source": {
@@ -2848,6 +3147,19 @@
             "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/11/148485677.jpg?quality=75&strip=all&w=1200",
             "publishedAt": "2026-11-12T17:51:00Z",
             "content": "Taking shots of olive oil has become a popular trend on social media, with celebrities like Kourtney Kardashian and Hailey Bieber touting the practice for its supposed health benefits.\r\nHowever, some… [+3119 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Abcnews.com"
+            },
+            "author": "ABC News - Breaking News, Latest News and Videos",
+            "title": "Cancer society issues most specific prostate cancer screening guidelines yet - ABC News - Breaking News, Latest News and Videos",
+            "description": null,
+            "url": "https://abcnews.com/GMA/Wellness/cancer-society-issues-specific-prostate-cancer-screening-guidelines/story?id\\\\u003d138053060",
+            "urlToImage": null,
+            "publishedAt": "2026-11-12T16:43:09Z",
+            "content": null
         },
         {
             "source": {
@@ -3095,305 +3407,6 @@
             "urlToImage": "https://assets.cureus.com/uploads/figure/file/2192630/article_river_e99e3a60db9f11f1950005efc7e38020-Group-1.png",
             "publishedAt": "2026-11-12T08:57:58Z",
             "content": "ISSN: 2168-8184\r\nPublic user content licensed CC-BY 4.0\r\nCUREUS® is a registered trademark of Cureus, Inc. in the United States."
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "9News.com KUSA"
-            },
-            "author": "9News",
-            "title": "Lung scans save lives: Denver man's early screening underscores dire need for more testing - 9News",
-            "description": null,
-            "url": "https://www.9news.com/article/news/health/lung-scans-save-lives-denver-mans-early-screening-underscores-dire-need-for-more-testing/73-8903685d-0598-4b5e-a8fe-734b6368da73",
-            "urlToImage": null,
-            "publishedAt": "2026-11-12T05:37:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "KCCI Des Moines"
-            },
-            "author": "Abigail Kurten",
-            "title": "Health experts encourage vaccination as Iowa sees 50th measles case this year - KCCI",
-            "description": "A new measles case in Polk County has prompted health officials to address exposure risks and vaccination rates as the disease spreads.",
-            "url": "https://www.kcci.com/article/health-experts-encourage-vaccination-as-iowa-sees-50th-measles-case-this-year/74405768",
-            "urlToImage": "https://kubrick.htvapps.com/vidthumb/27b8f5c9-2269-46aa-9ce2-c3dc188fc226/4faf471a-ee56-4731-b6d1-8a257c42c5c8.jpg?crop=0.829xw%3A0.829xh%3B0.155xw%2C0&resize=1200%3A*",
-            "publishedAt": "2026-11-12T03:13:00Z",
-            "content": "DES MOINES, IowaThe Polk County Health Department confirmed a new case of measles on Wednesday, with exposure sites including Blank Children's Hospital in downtown Des Moines and grocery stores in An… [+1596 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": null,
-            "title": "Trying Tourette's device was the best day of my life - BBC",
-            "description": "Katie is one of many that say a device developed by researchers in Nottingham helped calm her symptoms.",
-            "url": "https://www.bbc.com/news/articles/cmp3g3e5q4zxo",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8c24/live/cdba35d0-ddc3-11f1-a50f-85eebf9e50e5.jpg",
-            "publishedAt": "2026-11-12T01:07:47Z",
-            "content": "According to the Tourettes Action charity, there are two versions of the device: Neupulse-C - which is available as a consumer wellness device - and Neupulse-M, which is intended to be marketed as a … [+143 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Whec.com"
-            },
-            "author": "Evan Bourtis",
-            "title": "DEC adds new requirements after chronic wasting disease found in Livingston County deer - WHEC.com",
-            "description": "The Department of Environmental Conservation is ramping up its deer testing after a Livingston County deer tested positive for chronic wasting disease.",
-            "url": "https://www.whec.com/top-news/dec-adds-new-requirements-after-chronic-wasting-disease-found-in-livingston-county-deer/",
-            "urlToImage": "https://www.whec.com/wp-content/uploads/2026/11/Deer-file-photo.png",
-            "publishedAt": "2026-11-12T01:00:33Z",
-            "content": "LIVINGSTON COUNTY, N.Y. The Department of Environmental Conservation is ramping up its deer testing after a Livingston County deer tested positive for chronic wasting disease. \r\nIt’s the state’s firs… [+1469 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "KCCI Des Moines"
-            },
-            "author": "Kelby Wingert",
-            "title": "Map shows central Iowa locations where you may have been exposed to measles - KCCI",
-            "description": "Our map shows the locations where you may have been exposed to measles in central Iowa.",
-            "url": "https://www.kcci.com/article/iowa-measles-exposure-central-iowa-ankeny-des-moines-map/74403050",
-            "urlToImage": "https://kubrick.htvapps.com/htv-prod/images/0170236d-c943-4a61-a293-9319d6add5f9.jpg?crop=1.00xw%3A0.844xh%3B0%2C0&resize=1200%3A*",
-            "publishedAt": "2026-11-12T00:20:00Z",
-            "content": "DES MOINES, IowaThe Polk County Health Department has confirmed a measles case in a child who visited locations in Ankeny and Des Moines while contagious. The department has identified those location… [+1908 chars]"
-        },
-        {
-            "source": {
-                "id": "nbc-news",
-                "name": "NBC News"
-            },
-            "author": "Erika Edwards",
-            "title": "She’s delivered 2,000 babies. The measles outbreak changed her mind about vaccines. - NBC News",
-            "description": "Traditional midwives like Roberta Devers could be key to increasing vaccination as outbreaks spread in rural communities such as those in Pennsylvania.",
-            "url": "https://www.nbcnews.com/health/health-news/measles-pregnant-vaccines-midwife-pennsylvania-outbreak-rcna607118",
-            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261111-midwife-penn-ch-0950-2babaf.jpg",
-            "publishedAt": "2026-11-12T00:17:00Z",
-            "content": "Babies gasping for air, children needing oxygen and respiratory support, patients on ventilators. We see babies and children coming in with infections of organs within the abdomen, their liver, dehyd… [+2652 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Nature.com"
-            },
-            "author": null,
-            "title": "Bistable regulation of adipocyte heterogeneity governs thermogenesis - Nature",
-            "description": "IL-1β from neutrophils and macrophages stabilizes nearby brown adipocytes in a low-UCP1 state; cold temperature reduces IL-1β&nbsp;via sympathetic nerves, leading to transition to a high-UCP1&nbsp;state and increased thermogenesis, while higher temperatures h…",
-            "url": "https://www.nature.com/articles/s41586-026-11308-7",
-            "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11308-7/MediaObjects/41586_2026_11308_Fig1_HTML.png",
-            "publishedAt": "2026-11-11T23:27:36Z",
-            "content": "Mouse lines\r\nAll animal experiments were approved by the Institutional Animal Care and Use Committees of City of Hope (protocol 17014). Mice were maintained under a 12h12h darklight cycle in a temper… [+34385 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "fox8.com"
-            },
-            "author": "FOX 8 News",
-            "title": "Measles exposure reported at several locations and events in Lake and Geauga counties - FOX 8 News",
-            "description": null,
-            "url": "https://fox8.com/news/measles-exposure-at-several-locations-and-events-in-lake-and-geauga-counties/",
-            "urlToImage": null,
-            "publishedAt": "2026-11-11T22:36:44Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Nature.com"
-            },
-            "author": null,
-            "title": "Suppression of epithelial proliferation and tumorigenesis by IgA - Nature",
-            "description": "Experiments in mouse models show that immunoglobulin A in the gut lumen has a role in regulating the turnover of colon epithelial cells and reduces the susceptibility of mice to colorectal cancer.",
-            "url": "https://www.nature.com/articles/s41586-026-11264-2",
-            "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11264-2/MediaObjects/41586_2026_11264_Fig1_HTML.png",
-            "publishedAt": "2026-11-11T22:16:41Z",
-            "content": "<li>Fagarasan, S. Evolution, development, mechanism and function of IgA in the gut. Curr. Opin. Immunol.20, 170177 (2008).\r\nArticle \r\n CAS \r\n PubMed \r\nGoogle Scholar \r\n</li><li>Pabst, O. &amp; Slack,… [+15608 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Nature.com"
-            },
-            "author": null,
-            "title": "Domain-alteration chimeras rewire oncogenic complexes in prostate cancer - Nature",
-            "description": "A novel therapeutic modality enforces non-native androgen receptor (AR)–p300/CBP interactions to collapse AR transcriptional programs, producing super-inhibitory, lineage-selective suppression of metastatic prostate cancer and establishing domain-alteration c…",
-            "url": "https://www.nature.com/articles/s41586-026-11262-4",
-            "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11262-4/MediaObjects/41586_2026_11262_Fig1_HTML.png",
-            "publishedAt": "2026-11-11T22:16:41Z",
-            "content": "Cell lines\r\nVCaP, LNCaP, 22Rv1, DU145, PC-3, MCF-7, HepG2, A549, K562, HL-60, U937, HEK293, WPMY-1, U-87 MG, BJAB, SK-ES-1, RD-ES, A204, PBMC, NCI-H526, AU565, MM1.S, SU-DHL-8 and NCI-H211 were purch… [+42149 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Nature.com"
-            },
-            "author": null,
-            "title": "Epigenetic heterogeneity in breast tumours informs diagnosis and prognosis - Nature",
-            "description": "Single-cell epigenetic analyses reveal a conserved epigenetic signature across patients that may help identify those at increased risk for disease relapse in breast cancer.",
-            "url": "https://www.nature.com/articles/s41586-026-11230-y",
-            "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11230-y/MediaObjects/41586_2026_11230_Fig1_HTML.png",
-            "publishedAt": "2026-11-11T22:16:41Z",
-            "content": "Human participants\r\nCollection and analyses of breast cancer tissue samples and matching blood samples were approved by the Israeli Ministry of Health Ethics Committees (Helsinki applications KMC-002… [+64053 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Nature.com"
-            },
-            "author": null,
-            "title": "Evolutionary dynamics in the years preceding acute myeloid leukaemia - Nature",
-            "description": "The somatic evolutionary histories of haematopoietic cells in the years preceding acute myeloid leukaemia diagnosis show that the clonal dynamics of blood comply with a set of simple evolutionary rules.",
-            "url": "https://www.nature.com/articles/s41586-026-11269-x",
-            "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11269-x/MediaObjects/41586_2026_11269_Fig1_HTML.png",
-            "publishedAt": "2026-11-11T22:16:41Z",
-            "content": "Longitudinal peripheral blood DNA samples\r\nLongitudinal peripheral blood DNA samples were obtained from blood serum samples biobanked as part of UKCTOCS (ISRCTN22488978; ClinicalTrials.gov identifier… [+35636 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Nature.com"
-            },
-            "author": null,
-            "title": "Validation of clinical and preclinical obesity across global cohorts - Nature",
-            "description": "A large-scale data analysis assesses the Lancet Commission’s proposed diagnostic framework for obesity, finding that this framework, in which BMI is combined with other criteria, such as waist circumference&nbsp;and organ function, is more useful than classif…",
-            "url": "https://www.nature.com/articles/s41586-026-11237-5",
-            "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11237-5/MediaObjects/41586_2026_11237_Fig1_HTML.png",
-            "publishedAt": "2026-11-11T22:14:49Z",
-            "content": "To our knowledge, this is the first large-scale, multinational study to comprehensively evaluate the Lancet Commission diagnostic framework1 against the widely used BMI-based classification. Previous… [+13557 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "KTLA Los Angeles"
-            },
-            "author": "Jocelyn Fiset",
-            "title": "Death reported from E. coli outbreak tied to California pumpkin farm - KTLA",
-            "description": "Health officials in California reported on Tuesday that a person has died in connection with an E. coli outbreak that sickened people who all visited the same San Luis Obispo pumpkin farm in October. The San Luis Obispo County Public Health Department confirm…",
-            "url": "https://ktla.com/news/california/san-luis-obispo-pumpkin-farm-ecoli-outbreak-death/",
-            "urlToImage": "https://ktla.com/wp-content/uploads/sites/4/2026/09/2026-pumpkin-picking-tips.png?w=1280",
-            "publishedAt": "2026-11-11T22:12:04Z",
-            "content": "Health officials in California reported on Tuesday that a person has died in connection with an E. coli outbreak that sickened people who all visited the same San Luis Obispo pumpkin farm in October.… [+3945 chars]"
-        },
-        {
-            "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
-            },
-            "author": null,
-            "title": "Ebola tops 11,000 cases in Congo’s deadliest outbreak - AP News",
-            "description": "Congo's Ebola outbreak has topped 11,000 cases, highlighting the severity of the situation. The health ministry reported on Wednesday 11,042 infections and 5,387 deaths, making it Congo's deadliest outbreak. The crisis began in mid-May, and authorities have s…",
-            "url": "https://apnews.com/article/congo-ebola-outbreak-cae4cef6e48c1d2210a59c72676bff29",
-            "urlToImage": "https://dims.apnews.com/dims4/default/5f943a2/2147483647/strip/true/crop/5760x3840+0+0/resize/1200x800!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F7d%2Fb9%2Ffa4d3b90a22667fdf5f88d5e8129%2Fb65ffd8607e84373bd39315c520bc508",
-            "publishedAt": "2026-11-11T22:10:27Z",
-            "content": "BUNIA, Congo (AP) Congos Ebola outbreak has topped 11,000 cases, the government said Wednesday, a stark figure that underscores the severity of the situation as the country grapples with the spread o… [+2720 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "WIVB.com - News 4"
-            },
-            "author": "Gabriella Baiano",
-            "title": "Catholic Health to encourage masks at medical facilities - WIVB News 4",
-            "description": "BUFFALO, N.Y. (WIVB) — Masks will be “strongly encouraged” for visitors at Catholic Health and Trinity Medical facilities beginning Nov. 16 as flu season is underway. Associates, providers, students and volunteers will also be required to wear a surgical or a…",
-            "url": "https://www.wivb.com/news/local-news/western-new-york/catholic-health-to-require-masks-at-medical-facilities/",
-            "urlToImage": "https://www.wivb.com/wp-content/uploads/sites/97/2021/12/coronavirus-mask_121321_1.jpg?w=1280",
-            "publishedAt": "2026-11-11T21:51:29Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "WKYC.com"
-            },
-            "author": "WKYC",
-            "title": "Measles exposure reported at 7 locations in Geauga, Lake counties - WKYC",
-            "description": null,
-            "url": "https://www.wkyc.com/article/news/health/measles-geauga-lake-counties-exposure-public-health-berkshire-kent-state-virus/95-6489a533-b341-4850-9587-bb726df35181",
-            "urlToImage": null,
-            "publishedAt": "2026-11-11T21:42:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "New York Post"
-            },
-            "author": "Allie Yang",
-            "title": "The ‘dessert flip’ can help you eat healthier — while still getting a sweet treat - New York Post",
-            "description": "It’ll keep your favorite dessert on the menu while lowering the fat and sugar and boosting whole-food nutrients and fiber. No artificial sugar, cream or butter substitutes required.",
-            "url": "https://nypost.com/2026/11/11/health/dessert-flip-keeps-favorite-sweet-treat-for-healthier-benefits/",
-            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/11/crop-41791452_56db40.jpg?quality=75&strip=all&w=1200",
-            "publishedAt": "2026-11-11T21:28:00Z",
-            "content": "Do you have a terrible sweet tooth? Researchers have figured out a better way to satisfy it.\r\nIt’ll keep your favorite dessert on the menu while lowering the fat and sugar and boosting whole-food nut… [+3695 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "KING5.com"
-            },
-            "author": "king5.com",
-            "title": "Bird flu in Washington dairy cows: Union warns of undetected cases after worker’s death - king5.com",
-            "description": null,
-            "url": "https://www.king5.com/article/news/health/bird-flu-at-washington-dairy-farms-farmworkers-union-warns-of-undetected-cases-amid-one-death/281-8c6dcfd0-3b3c-496b-87af-ec45f94ee634",
-            "urlToImage": null,
-            "publishedAt": "2026-11-11T21:19:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "author": null,
-            "title": "New weight-loss drug wipes out chronic knee pain in some patients, researchers say - Fox News",
-            "description": "Northwestern University-led trials found retatrutide helped two-thirds of obese knee osteoarthritis patients cut pain by half in late-stage studies.",
-            "url": "https://www.foxnews.com/health/weight-loss-drug-wipes-chronic-knee-pain-patients-researchers-say",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/mature-woman-knee-pain.jpg",
-            "publishedAt": "2026-11-11T21:10:40Z",
-            "content": "An experimental weight-loss drug significantly reduced chronic knee pain and improved mobility in people with obesity and knee osteoarthritis, according to two clinical trials led by researchers at N… [+4712 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "WGRZ.com"
-            },
-            "author": "WGRZ",
-            "title": "Catholic Health initiates masking policy during flu season - WGRZ",
-            "description": null,
-            "url": "https://www.wgrz.com/article/news/health/catholic-health-initiates-masking-policy/71-fa9ffa60-9e98-4160-9cbe-26a4e1791959",
-            "urlToImage": null,
-            "publishedAt": "2026-11-11T21:08:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Ed Cara",
-            "title": "Rare Condition Makes Man See His Cat's Eyes on Human Faces - Gizmodo",
-            "description": "Scientists have documented a 28-year-old man with a rare condition that causes his brain to see swapped facial features.",
-            "url": "https://gizmodo.com/a-man-had-brain-surgery-now-he-sees-his-cats-eyes-on-other-peoples-faces-2000838368",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/11/Brain-Surgery-Cat-Eyes-Faces-1200x675.jpg",
-            "publishedAt": "2026-11-11T20:50:31Z",
-            "content": "The brain is an intricate organ, one that we still barely understand. And sometimes, as a recent case study shows, we can change the brain in ways that no one would have expected.\r\nResearchers at Dar… [+4447 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "KCCI Des Moines"
-            },
-            "author": null,
-            "title": "New measles case confirmed in central Iowa; potential exposure locations in Ankeny, Des Moines - KCCI",
-            "description": "Central Iowa health officials have confirmed another case of measles in a child.",
-            "url": "https://www.kcci.com/article/measles-in-iowa-cases-exposure-locations-ankeny-des-moines/74402453",
-            "urlToImage": "https://kubrick.htvapps.com/vidthumb/b1bfd656-64a1-4481-8141-f608a1a2aeea/d7624cae-88ee-4caa-8fa3-646f5d262626.jpg?crop=0.798xw%3A0.798xh%3B0%2C0&resize=1200%3A*",
-            "publishedAt": "2026-11-11T20:38:00Z",
-            "content": "DES MOINES, IowaCentral Iowa health officials have confirmed another case of measles in a child.\r\nPrevious video above: UnityPoint Health urges vaccinations as measles surge spreads nationwide and in… [+1512 chars]"
         }
     ]
 }

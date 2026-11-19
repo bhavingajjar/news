@@ -1,7 +1,215 @@
 {
     "status": "ok",
-    "totalResults": 423,
+    "totalResults": 422,
     "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Hollywood Reporter"
+            },
+            "author": "McKinley Franklin",
+            "title": "‘Dancing With the Stars’ Couples Perform Double Dances as Another Top-Scoring Duo Exits Before Season 35 Finale: See the Scores, Who Went Home - The Hollywood Reporter",
+            "description": "Contestants performed a ballroom dance, and a second performance in the Latin style in Tuesday's semi-finals.",
+            "url": "http://www.hollywoodreporter.com/tv/tv-news/dwts-season-35-semi-finals-week-10-recap-scores-elimination-1236757850/",
+            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/183939_EM200591-e1794971423243.jpg?w=1440&h=810&crop=1",
+            "publishedAt": "2026-11-18T03:40:46Z",
+            "content": "[This story contains spoilers for episode 11 of Dancing With the Stars season 35.]\r\nCouples are competing for a chance to appear in the Dancing With the Stars season 35 finale next week, but first th… [+4493 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9News.com KUSA"
+            },
+            "author": "9News",
+            "title": "Anne Hathaway and her husband welcome baby No. 3 - 9News",
+            "description": null,
+            "url": "https://www.9news.com/article/news/nation-world/anne-hathaway-baby-adam-shulman/507-dfb541dd-8373-425e-bd04-06a6922190fb",
+            "urlToImage": null,
+            "publishedAt": "2026-11-18T02:11:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": null,
+            "title": "‘Landman’ star Ali Larter sizzles in low-cut mini dress in behind-the-scenes Season 3 photos - Fox News",
+            "description": "Ali Larter shares behind-the-scenes photos from \"Landman\" Season 3 in Texas, including a selfie with Sam Elliott and a TCU football game appearance.",
+            "url": "https://www.foxnews.com/entertainment/landman-star-ali-larter-sizzles-low-cut-mini-dress-behind-the-scenes-season-three-photos",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/01/ali-larter-smiles-landman.jpg",
+            "publishedAt": "2026-11-18T02:05:09Z",
+            "content": "Ali Larter is sharing a little bit of \"Landman\" love with a fiery behind-the-scenes Instagram photo dump.\r\nOn Monday, Larter took to social media and shared a few photos from filming Season 3 in Texa… [+2345 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WJCL News"
+            },
+            "author": null,
+            "title": "A long-lost Georgia O’Keeffe painting was buried in a New York apartment closet. It just sold for $4.8 million - WJCL",
+            "description": "The painting was buried behind coats and boxes in the closet of a Manhattan apartment for decades. Here's how much the long-lost Georgia O’Keeffe painting just sold for",
+            "url": "https://www.wjcl.com/article/georgia-o-keeffe-painting-auction-new-york-apartment/74457050",
+            "urlToImage": "https://kubrick.htvapps.com/htv-prod/images/d1f9c272-3770-4413-b2b0-5beda47b60b9.jpg?crop=1.00xw%3A1.00xh%3B0%2C0&resize=1200%3A*",
+            "publishedAt": "2026-11-18T01:49:00Z",
+            "content": "NEW YORKA long-lost Georgia OKeeffe painting that had been buried in the closet of a Manhattan apartment for decades sold at auction Tuesday for $4.8 million.\r\nThe 1930 landscape painting Near Abiqui… [+1668 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Deadline"
+            },
+            "author": "Peter White",
+            "title": "‘Dancing With The Stars’ Finale Will Go Live Across The Country For The First Time - Deadline",
+            "description": "The move will see ABC air the finale on November 24 at 5pm PT/8pm ET. Normally, viewers on the west coast are forced to wait until 8pm PT.",
+            "url": "http://deadline.com/2026/11/dancing-with-the-stars-finale-live-across-the-country-1237226920/",
+            "urlToImage": "https://deadline.com/wp-content/uploads/2026/11/183937_CW_01248.jpg?w=1024",
+            "publishedAt": "2026-11-18T01:35:00Z",
+            "content": "EXCLUSIVE: ABC is going all in for the season finale of Dancing with the Stars.\r\nDeadline understands that the Disney-owned network is going to air the Season 35 finale live around the country for th… [+2295 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hollywood Reporter"
+            },
+            "author": "Carly Thomas",
+            "title": "Ron Howard Cautions ‘Grinch’ Sequel With Jim Carrey Will Only Move Forward If “One Thing” Happens - The Hollywood Reporter",
+            "description": "The actor is open to reprising his titular role in the follow-up to the beloved 2000 Christmas film.",
+            "url": "http://www.hollywoodreporter.com/movies/movie-news/ron-howard-grinch-sequel-only-move-forward-perfect-script-1236758080/",
+            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2025/11/MSDDRSE_UV005.jpg?w=1296&h=730&crop=1",
+            "publishedAt": "2026-11-18T01:21:46Z",
+            "content": "Ron Howard is opening up about the one thing that must be perfect for the How the Grinch Stole Christmas sequel to move forward with Jim Carrey.\r\nThe Hollywood Reporter exclusively revealed earlier t… [+2041 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "TMZ"
+            },
+            "author": "TMZ Staff",
+            "title": "Rod Wave Indicted on Drug Possession, Gun Charges - TMZ",
+            "description": "Rod Wave has been indicted on drug and gun charges ... after he was arrested last year for allegedly blowing through a stop sign.",
+            "url": "https://www.tmz.com/2026/11/17/rod-wave-indicted/",
+            "urlToImage": "https://imagez.tmz.com/image/90/16by9/2026/11/17/9069d504da714638bf0bbc7bc3a4a69a_xl.jpg",
+            "publishedAt": "2026-11-18T00:00:20Z",
+            "content": "Rod Wave has been indicted on drug and gun charges ... after he was arrested last year for allegedly blowing through a stop sign.\r\nThe rapper has been charged in Georgia with possession of a Schedule… [+1752 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Deadline"
+            },
+            "author": "Peter White",
+            "title": "Skydance Shake Ups Cable Programming Team - Deadline",
+            "description": "Betsy Sanner Ayala, Jason Sarlanis, Tina Perry and Michael Ouweleen will oversee Skydance cable programming, with Howard Lee set to exit.",
+            "url": "http://deadline.com/2026/11/skydance-global-cable-media-restructure-1237227161/",
+            "urlToImage": "https://deadline.com/wp-content/uploads/2026/11/split-image-1500-1-2.jpg?w=1024",
+            "publishedAt": "2026-11-17T23:25:00Z",
+            "content": "EXCLUSIVE: Skydance has restructured its cable network division and named four executives to oversee programming, weeks after bringing together Warner Bros Discovery and Paramount.\r\nThe company has f… [+8522 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Variety"
+            },
+            "author": "Alex Ritman",
+            "title": "Netflix Eyes Return to Cannes After 10 Years as Festival Lobbies for Joel Coen’s ‘Jack of Spades,’ Starring Josh O’Connor - Variety",
+            "description": "After almost a decade away from Cannes, Netflix is hoping to return to the festival with Joel Coen's Jack of Spades starring Josh O'Connor.",
+            "url": "https://variety.com/2026/film/global/netflix-return-to-cannes-joel-coen-jack-of-spades-1236948245/",
+            "urlToImage": "https://variety.com/wp-content/uploads/2024/11/Josh-Oconnor.jpg?crop=0px%2C3px%2C1000px%2C562px&resize=1000%2C563",
+            "publishedAt": "2026-11-17T23:15:00Z",
+            "content": "The ice appears to be thawing between Netflix and Cannes.\r\nThe streamer, which hasn’t debuted a film at the festival in almost a decade due to France’s strict rules around theatrical releases, is eye… [+4081 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Thomas Markle charged over child sex abuse material in Philippines - BBC",
+            "description": "Markle is being held in custody in the US after one charge and has previously denied all of the allegations.",
+            "url": "https://www.bbc.com/news/articles/ckg5ry8m49ggo",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5b0e/live/040fc640-dd79-11f1-93e1-3b657b665bcf.jpg",
+            "publishedAt": "2026-11-17T22:44:15Z",
+            "content": "Earlier this month, Markle, 82, was separately arrested and charged in the US with possession of child sexual abuse material. The FBI said agents, after searching storage units Markle rented, seized … [+111 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Deadline"
+            },
+            "author": "Greg Evans",
+            "title": "‘Much Ado About Nothing’ With Tom Hiddleston & Hayley Atwell Takes Hefty $2.4M; Billy Crystal’s ‘860’ Breaks House Record – Broadway Box Office - Deadline",
+            "description": "Deadline's Broadway box office report for the week ending November 15, 2026.",
+            "url": "http://deadline.com/2026/11/broadway-box-office-much-ado-about-nothing-billy-crystal-1237226593/",
+            "urlToImage": "https://deadline.com/wp-content/uploads/2026/11/bo.jpg?w=1000",
+            "publishedAt": "2026-11-17T22:33:00Z",
+            "content": "Broadway got an early jump on the usual holiday business boost, with star-driven productions like Much Ado About Nothing, Billy Crystal’s 860and Other Desert Cities with Julia Louis-Dreyfus doing exc… [+3741 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": "Sophia Paliza-Carre",
+            "title": "Why an SNL comedy sketch about caretaking went viral - NPR",
+            "description": "The SNL ad parody \"Sister\" hit home for daughters caring for parents without help from their brothers. NPR's Juana Summers speaks with writer Liz Plank about her Substack essay on why it resonated.",
+            "url": "https://www.npr.org/2026/11/17/nx-s1-6044081/why-an-snl-comedy-sketch-about-caretaking-went-viral",
+            "urlToImage": "https://media.npr.org/include/images/facebook-default-wide-s1400-c85.jpg",
+            "publishedAt": "2026-11-17T21:51:46Z",
+            "content": "TranscriptJUANA SUMMERS, HOST: \r\n Sometimes comedy hits a little too close to home. One sketch from this weekend's \"Saturday Night Live\" hosted by John Mulaney is going viral. Here's the setup - a fa… [+7837 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Deadline"
+            },
+            "author": "Jill Goldsmith",
+            "title": "'Hunger Games' Helmer Hails Cast Past, Present At 'Sunrise On The Reaping' Premiere - Deadline",
+            "description": "Director Francis Lawrence hails three generations of 'Hunger Games' actors at the 'Sunrise On The Reaping' premiere in New York.",
+            "url": "http://deadline.com/2026/11/francis-lawrence-hunger-games-sunrise-on-the-reaping-premiere-1237226905/",
+            "urlToImage": "https://deadline.com/wp-content/uploads/2026/11/GettyImages-2305449140.jpg?w=1024",
+            "publishedAt": "2026-11-17T21:44:00Z",
+            "content": "Director Francis Lawrence called the night “historic” as the world premiere of The Hunger Games: Sunrise On The Reaping turned into an epic cast reunion for the film franchise launched in 2012.\r\n“Thr… [+3403 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Page Six"
+            },
+            "author": "Sarah Jones",
+            "title": "Exclusive | KJ Biermann prosecutors reveal 16 alleged offenses including incest and child molestation in shocking prior juvenile case - Page Six",
+            "description": "The shocking details emerged in new court documents filed Monday and obtained by Page Six.",
+            "url": "https://pagesix.com/2026/11/17/celebrity-news/kj-biermann-prosecutors-reveal-16-alleged-offenses-including-incest-and-child-molestation-in-shocking-juvenile-case-exposed/",
+            "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2026/11/149130541.jpg?quality=75&strip=all&w=1200",
+            "publishedAt": "2026-11-17T21:18:00Z",
+            "content": "Warning: The content of this story contains graphic details.\r\nKJ Biermanns troubled legal past came under renewed scrutiny after prosecutors revealed that his previous juvenile case involved 16 alleg… [+5697 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hollywood Reporter"
+            },
+            "author": "Max Gao",
+            "title": "Paul Bettany and Ruaridh Mollica Can Finally Talk About Those ‘VisionQuest’ Spoilers - The Hollywood Reporter",
+            "description": "A week on from that buzzy finale, the co-stars, who play synthezoid Vision and his superpowered son Tommy Maximoff, tell all to THR about filming the final chapter of the ‘WandaVision’ trilogy and what that heartfelt family reunion (minus one key character) m…",
+            "url": "http://www.hollywoodreporter.com/tv/tv-features/visionquest-finale-spoilers-paul-bettany-ruaridh-mollica-1236757670/",
+            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/SVG1520_108_comp_LAB_v0003.1035-601x249-456186a.jpg?w=600&h=249&crop=1",
+            "publishedAt": "2026-11-17T20:21:56Z",
+            "content": "[This story contains MAJOR spoilers from the finale of VisionQuest, “Forever.”]\r\nFor all its existential theatrics, Marvel’s VisionQuest was always going to tell a profoundly human love story between… [+24526 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Variety"
+            },
+            "author": "Selome Hailu",
+            "title": "‘The Body’ Debuts With 5.1 Million Views in Five Days - Variety",
+            "description": "'The Body' reached 5.1 million views in five days, reaching No. 3 on the Netflix Top 10.",
+            "url": "https://variety.com/2026/tv/news/the-body-ratings-netflix-views-1236950624/",
+            "urlToImage": "https://variety.com/wp-content/uploads/2026/11/The_Body_n_S1_E6_00_42_33_11RC.jpg?w=1000&h=563&crop=1",
+            "publishedAt": "2026-11-17T20:00:00Z",
+            "content": "“The Body,” a teen psychological drama created by Quinn Shephard, debuted as the No. 3 TV title on Netflix for the week of Nov. 9-16. The series premiered on Nov. 11, and in its first five days of st… [+1341 chars]"
+        },
         {
             "source": {
                 "id": "nbc-news",
@@ -18,6 +226,32 @@
         {
             "source": {
                 "id": null,
+                "name": "InStyle"
+            },
+            "author": "https://www.facebook.com/InStyle",
+            "title": "Ines de Ramon, 33, Stuns in Sheer Cutout Gown for Red Carpet Date Night With Brad Pitt, 62 - InStyle",
+            "description": "Brad Pitt’s girlfriend Ines de Ramon supported him at the Los Angeles premiere of ‘The Further Mis-Adventures of Cliff Booth’ on November 16. Here’s a closer look at their rare outing, including de Ramon’s stunning cutout dress.",
+            "url": "https://www.instyle.com/ines-de-ramon-sheer-cutout-gown-brad-pitt-the-further-mis-adventures-cliff-booth-12260994",
+            "urlToImage": "https://www.instyle.com/thmb/COaSEZu_vw1rKbc6hZKQXp00HrI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Ines-de-Ramon-Brad-Pitt-Lead-9cc8b7f526694cae9370586eb41c0e7d.jpg",
+            "publishedAt": "2026-11-17T19:19:55Z",
+            "content": "Brad Pitt and Ines de Ramon opted for monochromatic hues during their latest date night. The couple attended the Los Angeles premiere of Pitts new film, The Further Mis-Adventures of Cliff Booth, on … [+1643 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Entertainment Weekly"
+            },
+            "author": "https://www.facebook.com/entertainmentweekly",
+            "title": "Billy Evans says Elizabeth Holmes thinks You Can See Everything showing him naked was a ‘violation of our intimacy’ - Entertainment Weekly",
+            "description": "Billy Evans is continuing to speak for Elizabeth Holmes, sharing that she feels like their ‘intimacy’ was ‘violated’ by his nude scene in ‘You Can See Everything.’",
+            "url": "https://ew.com/billy-evans-says-elizabeth-holmes-you-can-see-everything-nude-scene-violation-of-our-intimacy-12261003",
+            "urlToImage": "https://ew.com/thmb/nwZ6XbljloA-xOtTjuG-Auicm3o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Elizabeth-Holmes-and-Billy-Evans012-10152026-edd215d7fe614001a0f8d9fdc869fc71.jpg",
+            "publishedAt": "2026-11-17T19:17:02Z",
+            "content": "Billy Evans insists that he didnt know you would see every part of him.\r\nNathan Fielder and Lance Oppenheims Elizabeth Holmes documentary You Can See Everything earned an R-rating due to a full-front… [+3300 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "BBC News"
             },
             "author": null,
@@ -27,6 +261,19 @@
             "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7619/live/c9b38b90-e2ae-11f1-99b6-a35a62fa4264.jpg",
             "publishedAt": "2026-11-17T18:20:36Z",
             "content": "The princess, who presented an award, also said: \"Just as the natural world finds ways to adapt and flourish, so too can we, when we nurture new ideas and give them the opportunity to grow."
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "The Hollywood Reporter",
+            "title": "‘Hershey’ Review: Finn Wittrock Plays the American Chocolate Titan in a Sickly Sweet Biopic - The Hollywood Reporter",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPT0tQNW5IQmV3c0YwTWUtX1NoNEx1ek0yaWF3Ykw1QkF4WHFwT1pSYVNNWkNtMnQyYWxHWUJqYjFrZk1NZDMwaVl5VEdMV0dHY1dxSzBnVEsyM1pGdUJtWll0VHNVZkE5SXg2VGh4VW4xRDUxRTlyNnJUMGVaa2FBejd4V3FraUpyZ0QxQ0p5ZDUwX2p4NURUdmJ2cTVTdjhaLXRXcUdNSHNTYldEYV9Rd1EzMHd0N3lVWFdmdmt5MktEZw?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2026-11-17T18:18:51Z",
+            "content": null
         },
         {
             "source": {
@@ -82,6 +329,19 @@
         },
         {
             "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": null,
+            "title": "Russell Brand sparks prison investigation after wife reads defiant message following rape conviction - Fox News",
+            "description": "Russell Brand's prison message claiming he is \"not guilty\" is being urgently investigated after Andy Burnham's spokesperson called it \"appalling.\"",
+            "url": "https://www.foxnews.com/entertainment/russell-brand-sparks-prison-investigation-after-wife-reads-defiant-message-following-rape-conviction",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/russell-brand-10.jpg",
+            "publishedAt": "2026-11-17T16:45:15Z",
+            "content": "Russell Brand's recent message from behind prison bars is being \"urgently investigated\" by authorities as the \"appalling\" move proves to have \"broken the rules.\"\r\nOn Sunday, Brand who was sentenced t… [+4448 chars]"
+        },
+        {
+            "source": {
                 "id": null,
                 "name": "BBC News"
             },
@@ -131,6 +391,32 @@
             "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261117-selena-gomez-mb-1215-3b90c4.jpg",
             "publishedAt": "2026-11-17T15:15:27Z",
             "content": "A lawsuit filed against Selena Gomezs mental health startup, Wondermind, has been voluntarily dismissed, according to court documents.\r\nInvestors filed suit against Wondermind in August, alleging the… [+2739 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Travel+Leisure"
+            },
+            "author": "https://www.facebook.com/travelandleisure/",
+            "title": "THE 50 BEST PLACES TO TRAVEL IN 2027 - Travel + Leisure",
+            "description": "Where to go in 2027, according to Travel + Leisure editors—for the food, culture, nature, adventure, and more.",
+            "url": "https://www.travelandleisure.com/best-places-to-go-2027-12167055",
+            "urlToImage": "https://www.travelandleisure.com/thmb/6b64Yiz6ItIBrRls74m2vXhxCUg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/TAL-where-to-go-still-recirc-3x2-KEYWTGIN2027-f541bfa5fca04b0492bacb819ba7ebb0.jpg",
+            "publishedAt": "2026-11-17T15:05:56Z",
+            "content": "As 2026 comes to a close, were naturally starting to look ahead. This year, Travel + Leisure covered the whole world, with compelling stories from Iceland and Zanzibar, Mexico and Italy.\r\nBut a new y… [+68528 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The-independent.com"
+            },
+            "author": "Carsen Holaday",
+            "title": "Good Morning America anchor announces shocking health diagnosis at 41: ‘My worst fear’ - The Independent",
+            "description": "‘It shocked me because I feel totally fine — I eat right, I exercise, I do all the right things,’ anchor said on Tuesday’s broadcast",
+            "url": "https://www.the-independent.com/life-style/gio-benitez-diagnosis-update-good-morning-america-b3086427.html",
+            "urlToImage": "https://static.the-independent.com/2026/11/17/13/2275880976..?trim=186,466,3962,755&width=1200&height=800&crop=1200:800",
+            "publishedAt": "2026-11-17T14:30:00Z",
+            "content": "Good Morning America anchor Gio Benitez has shared the news of his shocking diagnosis with coronary artery disease.\r\nThe 41-year-old Sunday morning co-anchor and ABC News transportation correspondent… [+2142 chars]"
         },
         {
             "source": {
@@ -251,6 +537,19 @@
         },
         {
             "source": {
+                "id": null,
+                "name": "The Blast"
+            },
+            "author": "Evie Scott",
+            "title": "Zendaya ‘Steals The Show’ In Gold Mesh Dress At Governors Awards - Yahoo",
+            "description": "Zendaya is being told she “stole the show” as she stuns in a glamorous look at this year’s Governors Awards. […]",
+            "url": "https://theblast.com/886315/zendaya-gold-dress-governors-awards/",
+            "urlToImage": "https://s.yimg.com/lo/mysterio/api/74cb6ae52f6619e9d913dc5ce22010e6f36ab4b99973710aa8838f309fd62cf8/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftheblast_73%2F7a600048fba3faaaa20c8814d691c4b9.jpg",
+            "publishedAt": "2026-11-17T03:30:00Z",
+            "content": "Zendaya is being told she \"stole the show\" as she stuns in a glamorous look at this year's Governors Awards. The actress, 30, looked a vision in a shimmering gold mesh gown at this year's star-studde… [+2775 chars]"
+        },
+        {
+            "source": {
                 "id": "google-news",
                 "name": "Google News"
             },
@@ -261,6 +560,19 @@
             "urlToImage": null,
             "publishedAt": "2026-11-17T03:27:00Z",
             "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "1minutecritic.com"
+            },
+            "author": "Billy McEntee",
+            "title": "Boy meets boy as ‘The Fantasticks’ finally bows on Broadway - 1 Minute Critic",
+            "description": "You’ve probably seen The Fantasticks before, just maybe not like this. The familiar: two young lovers who believe their parents don’t want them to wed. The new: an updated twist on the story, where boy meets boy.  After decades reigning as Off-Broadway’s long…",
+            "url": "https://1minutecritic.com/the-fantasticks-broadway-review/",
+            "urlToImage": "https://1minutecritic.com/wp-content/uploads/2026/11/THE-FANTASTICKS-Nathan-Levy-and-Maxim-Chlumecky-Joan-Marcus-2026.jpg",
+            "publishedAt": "2026-11-17T03:01:10Z",
+            "content": "Youve probably seen The Fantasticksbefore, just maybe not like this. The familiar: two young lovers who believe their parents dont want them to wed. The new: an updated twist on the story, where boy … [+2827 chars]"
         },
         {
             "source": {
@@ -316,6 +628,19 @@
         },
         {
             "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Ethan Beck",
+            "title": "Women lead Grammy nominations as Noah Kahan gets snubbed - The Washington Post",
+            "description": "Familiar artists such as Taylor Swift and Olivia Rodrigo notched several nominations, alongside upstarts such as Raye and Ella Langley.",
+            "url": "https://www.washingtonpost.com/entertainment/music/2026/11/16/young-women-lead-grammy-nominations-noah-kahan-snubbed/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5VSZX7KEUL5HIWMPN5MNJ75GLY_size-normalized.jpg&w=1440",
+            "publishedAt": "2026-11-17T02:30:00Z",
+            "content": "Singer-songwriters Raye, Rosalía and Ella Langley led the Grammy nominations Monday across a class where women dominated. \r\nThose three artists, who had major years with their versions of R&amp;B, cl… [+200 chars]"
+        },
+        {
+            "source": {
                 "id": null,
                 "name": "TVLine"
             },
@@ -326,6 +651,19 @@
             "urlToImage": "https://www.tvline.com/img/gallery/fbi-post-mortem-john-boyd-shantel-vansanten/l-intro-1794864421.jpg",
             "publishedAt": "2026-11-17T02:00:00Z",
             "content": "TVLINE | Scola and Nina seem to think they can make a long distance relationship work, but they have to be concealing some fears and worries, right?BOYD | If someone in your life says, \"Yeah, I know,… [+4131 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Lifehacker.com"
+            },
+            "author": "Tim Mulkerin",
+            "title": "Today's NYT Connections Hints (and Answer) for Tuesday, November 17, 2026 - Lifehacker",
+            "description": "Here are some hints to help you win NYT Connections #1,255.",
+            "url": "https://lifehacker.com/entertainment/nyt-connections-answer-today-november-17-2026",
+            "urlToImage": "https://lifehacker.com/imagery/articles/01M7FSZX1BH859Y56MXFYVNXTP/hero-image.fill.size_1200x675.jpg",
+            "publishedAt": "2026-11-17T02:00:00Z",
+            "content": null
         },
         {
             "source": {
@@ -499,6 +837,19 @@
         {
             "source": {
                 "id": null,
+                "name": "Realtor.com News"
+            },
+            "author": "Kelsi Karruli",
+            "title": "EXCLUSIVE: Jenny McCarthy and Donnie Wahlberg Sell Longtime Illinois Home for $2.6 Million - Realtor.com",
+            "description": "The singer, 57, and the actress, 53, owned the residence for more than a decade, having purchased it for $1.1 million in 2015.",
+            "url": "https://www.realtor.com/news/celebrity-real-estate/jenny-mccarthy-donnie-wahlberg-sell-longtime-illinois-home/",
+            "urlToImage": "https://na.rdcpix.com/fc4fc42816b0f139a086b07a1f6b9c54w-c394732542srd_w1200_q80.jpg",
+            "publishedAt": "2026-11-16T19:22:40Z",
+            "content": "Jenny McCarthy and Donnie Wahlberg have sold their Illinois residence for $2.6 milliontwo months after listing the sprawling St. Charles property for $2.8 million.\r\nThe singer, 57, and the actress, 5… [+4472 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "Hollywood Reporter"
             },
             "author": "James Hibberd",
@@ -612,6 +963,19 @@
             "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2026/11/148975298.jpg?quality=75&strip=all&w=1200",
             "publishedAt": "2026-11-16T17:31:00Z",
             "content": "An emergency call for a reported overdose was made from Sahara Rays Los Angeles home just two days before the models tragic death.\r\nAccording to police records obtained by Page Six, authorities recei… [+4714 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Latenighter.com"
+            },
+            "author": "Jed Rosenzweig",
+            "title": "NBC100 to Bring Back All Four 'Late Night' Hosts—Including Letterman and Conan - LateNighter",
+            "description": "NBC is getting the whole Late Night family back together for its 100th birthday celebration—including two former hosts whose relationships with the network didn't exactly end on the best of terms.",
+            "url": "https://latenighter.com/news/nbc100-all-four-late-night-hosts/",
+            "urlToImage": "https://latenighter.com/wp-content/uploads/2026/11/latenighthosts1500.png",
+            "publishedAt": "2026-11-16T17:27:00Z",
+            "content": null
         },
         {
             "source": {
@@ -859,6 +1223,19 @@
             "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261116-oak-ridge-boys-mn-0745-2d40d9.jpg",
             "publishedAt": "2026-11-16T14:33:05Z",
             "content": "Richard Sterban, a backup vocalist for Elvis Presley and the inimitable bass singer for The Oak Ridge Boys, died Saturday from complications of bronchitis and pneumonia after a battle with cancer. \r\n… [+3290 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Seattle Times"
+            },
+            "author": "Joseph O’Sullivan",
+            "title": "New PBS prison doc, produced by Ken Burns, screens at WA prison - The Seattle Times",
+            "description": "As PBS director Lynn Novick sat nearby, dozens of incarcerated women learned about the roots of American prisons. The first episode airs Monday.",
+            "url": "https://www.seattletimes.com/seattle-news/law-justice/new-pbs-prison-doc-produced-by-ken-burns-screens-at-wa-prison/",
+            "urlToImage": "https://images.seattletimes.com/wp-content/uploads/2026/11/11152026_tzr_tzr_151722.jpg?d=1200x630",
+            "publishedAt": "2026-11-16T14:00:00Z",
+            "content": "GIG HARBOR The audience, dressed in sweats, filtered toward the folding chairs facing a flat-screen TV set up on the floor of a basketball court. They had come for a sneak preview of a new national P… [+7984 chars]"
         },
         {
             "source": {
@@ -5110,396 +5487,6 @@
             "urlToImage": "https://www.justjared.com/wp-content/uploads/2026/11/khloe-kardashian-slams-lamar-odom.jpg",
             "publishedAt": "2026-11-12T07:19:45Z",
             "content": "Credit: Getty\r\nKhloe Kardashian is done with ex-husband Lamar Odom.\r\nDuring the Thursday (November 12) episode of Hulus The Kardashians, Khloe, 42, reflected on taking part in the 47-year-old former … [+1850 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Suntimes.com"
-            },
-            "author": "Georgia Nicols",
-            "title": "Horoscope for Thursday, November 12, 2026 - Chicago Sun-Times",
-            "description": null,
-            "url": "https://chicago.suntimes.com/horoscopes/2026/11/12/horoscopes-today-thursday-november-12-2026",
-            "urlToImage": "https://cst.brightspotcdn.com/dims4/default/2145dbd/2147483647/strip/true/crop/870x497+0+67/resize/1461x834!/quality/90/?url=https%3A%2F%2Fchorus-production-cst-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fac%2Ffd%2F790f04b15195427014757adc0272%2Fgeorgia-nicols.jpg",
-            "publishedAt": "2026-11-12T06:01:00Z",
-            "content": "Moon Alert\r\nAvoid shopping (except food and gas) and important decisions from 5 a.m. to 3 p.m. After that, the moon moves from Sagittarius into Capricorn.\r\nAries (March 21-April 19)\r\n This is your ki… [+3845 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Pitchfork"
-            },
-            "author": "Sam Sodomsky",
-            "title": "U2: Carnaval De Luz Album Review - Pitchfork",
-            "description": "Read Sam Sodomsky’s review of the album.",
-            "url": "https://pitchfork.com/reviews/alums/u2-carnaval-de-luz/",
-            "urlToImage": "https://media.pitchfork.com/photos/6ab55679b4d4f67701eb12f2/16:9/w_1280,c_limit/U2-%20Carnaval%20De%20Luz%20.jpg",
-            "publishedAt": "2026-11-12T05:03:00Z",
-            "content": "Around the time that Vertigo was achieving mainstream ubiquity in the mid-2000s, Bono had a profound disagreement with music journalist Greg Kot about the definition of rocknroll. To Kota professed f… [+2152 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Eonline.com"
-            },
-            "author": null,
-            "title": "Mormon Wives ' Aspyn Ovard Shares Daughter's Terminal Cancer Diagnosis - E! News",
-            "description": "Aspyn Ovard shared during the premiere episode of Hulu's Secret Lives of Mormon Wives: Orange County that her and ex-husband Parker Ferris' daughter was diagnosed with terminal cancer.",
-            "url": "https://www.eonline.com/news/1437669/mormon-wives-aspyn-ovards-daughter-diagnosed-with-terminal-cancer",
-            "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/20261111/0366e06c-c44b-4362-a348-e1d50304b302_1794442930.jpg?fit=around%7C1200:1200&output-quality=90&crop=1200:1200;center,top",
-            "publishedAt": "2026-11-12T05:00:00Z",
-            "content": "Aspyn Ovard's family is navigating an unimaginable health journey.\r\nThe Secret Lives of Mormon Wives: Orange County star, mom to daughters Cove, 7, Lola, 5, and Elle, 2, with ex-husband Parker Ferris… [+717 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Forbes"
-            },
-            "author": "Forbes",
-            "title": "‘I Play Rocky’ Knocks Out Most Rotten Tomatoes Critics As Film Expands To More Theaters This Weekend - Forbes",
-            "description": null,
-            "url": "https://www.forbes.com/sites/timlammers/2026/11/11/i-play-rocky-knocks-out-most-rotten-tomatoes-critics-as-film-expands-to-more-theaters-this-weekend/",
-            "urlToImage": null,
-            "publishedAt": "2026-11-12T04:29:25Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "WESH Orlando"
-            },
-            "author": "Brandon Hogan, Hayley Crombleholme",
-            "title": "Frankie Muniz released from hospital after crash at Daytona International Speedway - WESH",
-            "description": "Actor and NASCAR driver Frankie Muniz has been released from the hospital after being involved in an incident Wednesday at Daytona International Speedway, according to his team.",
-            "url": "https://www.wesh.com/article/frankie-muniz-daytona-speedway-incident/74404157",
-            "urlToImage": "https://kubrick.htvapps.com/htv-prod/images/cf6ba9b5-55b4-4dd7-8e44-22ed90aec71c.jpg?crop=1.00xw%3A1.00xh%3B0%2C0&resize=1200%3A*",
-            "publishedAt": "2026-11-12T04:21:00Z",
-            "content": "DAYTONA BEACH, Fla.Actor and NASCAR driver Frankie Muniz has been released from the hospital after being involved in an incident Wednesday at Daytona International Speedway, according to Ford Racing.… [+1905 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Variety"
-            },
-            "author": "Payton Turkeltaub",
-            "title": "Keanu Reeves' Constantine 2 Gets Renewed Hope After James Gunn DC Exit - Variety",
-            "description": "Francis Lawrence is feeling a “renewed hope” about his long-awaited sequel to ”Constantine.\"",
-            "url": "https://variety.com/2026/film/news/keanu-reeves-constantine-2-james-gunns-dc-exit-1236945816/",
-            "urlToImage": "https://variety.com/wp-content/uploads/2026/11/MCDCONS_EC003.jpg?w=1000&h=563&crop=1",
-            "publishedAt": "2026-11-12T03:20:00Z",
-            "content": "Following the news that James Gunn and Peter Safran are out as co-studio heads at DC, “Constantine” director Francis Lawrence is feeling a “renewed hope” about his long-awaited sequel to the “Hellbla… [+1788 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Entertainment Weekly"
-            },
-            "author": "https://www.facebook.com/entertainmentweekly",
-            "title": "‘Survivor 51’ recap: The paired elimination is back! - Entertainment Weekly",
-            "description": "It’s two eliminations for the price of one this week on ‘Survivor 51’ with the return of the paired elimination. We recap who paid that price and why.",
-            "url": "https://ew.com/survivor-51-recap-episode-8-paired-elimination-is-back-12247312",
-            "urlToImage": "https://ew.com/thmb/8KA_frP2w5n71E4t7s7inMutS6E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Survivor-51-110926-4-e3570277f36748999f70ad5e987c34aa.jpg",
-            "publishedAt": "2026-11-12T02:30:00Z",
-            "content": "Well, thats a brutal way to get voted out of Survivor, with just a single vote cast against you. Actually, it was worse than that this week on Survivor 51. Because of Survivors paired elimination twi… [+15394 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Entertainment Weekly"
-            },
-            "author": "https://www.facebook.com/entertainmentweekly",
-            "title": "Jeff Probst explains reasons behind bringing back ‘Survivor 51’ Double Duo twist - Entertainment Weekly",
-            "description": "‘Survivor 51’ host Jeff Probst gets into all the reasons behind putting the diabolical Double Duo twist back in the game.",
-            "url": "https://ew.com/jeff-probst-explains-reasons-behind-survivor-51-double-duo-twist-12249359",
-            "urlToImage": "https://ew.com/thmb/rYpcVsGYdojRnB-pb5VAEkjwoMI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/survivor-4-ee8d3f139dc849aab604075bfe04ab3c.jpg",
-            "publishedAt": "2026-11-12T02:30:00Z",
-            "content": "Its baaaaaaaaack! Survivor 51 voted out two players for the price of one this week with the return of the paired elimination twist. The Double Duo was introduced last season during Survivor 50 and ca… [+3760 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "TheWrap"
-            },
-            "author": "Drew Taylor",
-            "title": "Michael B. Jordan’s ‘Thomas Crown Affair’ Remake Gives 1999 Writers Screenplay Credit | Exclusive - TheWrap",
-            "description": "The Thomas Crown Affair, in theaters in March, has a long and storied history, with the writers of the 1999 getting screenplay credit.",
-            "url": "https://www.thewrap.com/creative-content/movies/michael-b-jordan-thomas-crown-affair-2027-to-credit-1999-writers/",
-            "urlToImage": "https://www.thewrap.com/wp-content/uploads/2026/11/Thomas-Crown-Affair-2027-1.jpg",
-            "publishedAt": "2026-11-12T02:00:01Z",
-            "content": "Michael B. Jordans Thomas Crown Affair may be a fresh take on the classic heist story, but its writing credits reach back to an earlier incarnation. TheWrap has learned that Kurt Wimmer and Leslie Di… [+3607 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Eonline.com"
-            },
-            "author": null,
-            "title": "Gwen Stefani and Blake Shelton’s Rare Outing Alongside Her Ex Gavin Rossdale Will No Doubt Raise Eyebrows - E! News",
-            "description": "Gwen Stefani and Gavin Rossdale both attended their son Kingston’s concert in Los Angeles Nov. 10, which also saw the No Doubt singer’s husband Blake Shelton in the audience.",
-            "url": "https://www.eonline.com/news/1438040/gwen-stefani-ex-gavin-rossdale-blake-shelton-go-to-son-kingstons-concert",
-            "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/20261111/23e4a8dd-4f9a-4844-93d1-72cb10800195_1794442620.jpg?fit=around%7C1200:1200&output-quality=90&crop=1200:1200;center,top",
-            "publishedAt": "2026-11-12T01:53:00Z",
-            "content": "Gwen Stefaniand Gavin Rossdale shared a sweet escape to a special concert.\r\nA decade after the No Doubt singer and Bush frontman finalized their divorce following a contentious breakup, they proved t… [+863 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "KABC-TV"
-            },
-            "author": "JONATHAN LANDRUM Jr. AP Entertainment Writer",
-            "title": "Irma P. Hall, 'Soul Food' and 'The Ladykillers' actor with Chicago roots who found fame at 60, dies at 91 - ABC7 Los Angeles",
-            "description": "Irma P. Hall, the veteran actor who brought warmth and authority to matriarchal roles in \"Soul Food\" and \"The Ladykillers,\" and whose acting career took off after decades as a teacher, died Tuesday in Dallas.",
-            "url": "https://abc7.com/post/irma-hall-soul-food-ladykillers-actor-chicago-roots-found-fame-60-dies-91/20034473/",
-            "urlToImage": "https://cdn.abcotvs.com/dip/images/20034481_111126-wls-irma-hall-obit-5pvo-vid.jpg?w=1600",
-            "publishedAt": "2026-11-12T01:29:39Z",
-            "content": "CHICAGO -- Irma P. Hall, the veteran actor who brought warmth and authority to matriarchal roles in \"Soul Food\" and \"The Ladykillers,\" and whose acting career took off after decades as a teacher, die… [+3102 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Motorsport.com"
-            },
-            "author": "Nick DeGroot",
-            "title": "Frankie Muniz transported to hospital after Daytona practice crash - Motorsport.com",
-            "description": "Muniz is being described as \"awake and alert\" after crashing during practice for Wednesday's 'Proud to Honor' Ford charity race at Daytona International Speedway",
-            "url": "https://www.motorsport.com/general/news/frankie-muniz-transported-to-daytona-hospital-after-practice-crash/10873949/",
-            "urlToImage": "https://cdn-4.motorsport.com/images/amp/0RrXgyg0/s6/frankie-muniz-reaume-brothers-.jpg",
-            "publishedAt": "2026-11-12T00:59:09Z",
-            "content": "Read Also:\r\nOn Wednesday, 12 Ford drivers are set to compete in a special all-Mustang charity race around Daytona International Speedway this evening, honoring Veteran's Day. The entry list includes … [+1903 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "TMZ"
-            },
-            "author": "TMZ Staff",
-            "title": "Jason Sudeikis and Olivia Wilde's Former Nanny Gets Nothing in Battle - TMZ",
-            "description": "Jason Sudeikis and Olivia Wilde's former nanny lost all of her claims against the actors in a lengthy arbitration battle … TMZ has learned.",
-            "url": "https://www.tmz.com/2026/11/11/jason-sudeikis-olivia-wilde-nanny-arbitration-results/",
-            "urlToImage": "https://imagez.tmz.com/image/ef/16by9/2026/11/11/ef9810ccf40842b6a50aabf7dfd9a4a6_xl.jpg",
-            "publishedAt": "2026-11-12T00:40:15Z",
-            "content": "Jason Sudeikis and Olivia Wilde's former nanny lost all of her claims against the actors in a lengthy arbitration battle TMZ has learned.\r\nAccording to court documents obtained by TMZ ... Jason and O… [+1533 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Entertainment Weekly"
-            },
-            "author": "https://www.facebook.com/entertainmentweekly",
-            "title": "Son of Virginia Madsen and Antonio Sabàto Jr. arrested after allegedly fleeing scene of fatal hit-and-run - Entertainment Weekly",
-            "description": "Jack Sabàto, the son of Hollywood stars Virginia Madsen and Antonio Sabàto Jr., has been arrested on suspicion of fleeing the scene of a deadly hit-and-run in Alaska.",
-            "url": "https://ew.com/virginia-madsen-antonio-sabato-jr-son-arrested-allegedly-fleeing-fatal-crash-12249538",
-            "urlToImage": "https://ew.com/thmb/ravqiHQaLZuTR2UYhxad5ChBvok=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/jack-sabato-1-fd79d004688d46948b3f0a05236216e8.jpg",
-            "publishedAt": "2026-11-12T00:06:08Z",
-            "content": "Jack Antonio Sabàto, the son of Hollywood stars Virginia Madsen and Antonio Sabàto Jr., has been arrested in Alaska on suspicion of fleeing the scene of a fatal hit-and-run crash.\r\nSabàto, 32, has be… [+2548 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Eonline.com"
-            },
-            "author": null,
-            "title": "Dancing With the Stars ’ Connor Wood Responds to Fans Wanting Him to Date Rylee Arnold - E! News",
-            "description": "Dancing With the Stars' Connor Wood had a candid reaction when pro dancer Ezra Sosa suggested that fans were \"shipping\" him and dance partner Rylee Arnold to date.",
-            "url": "https://www.eonline.com/news/1438035/dwts-connor-wood-reacts-to-fans-wanting-him-to-date-rylee-arnold",
-            "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/20261111/1147afd0-5e12-4d51-a7dc-ebacf303df35_1794436805.jpg?fit=around%7C1200:1200&output-quality=90&crop=1200:1200;center,top",
-            "publishedAt": "2026-11-11T23:53:00Z",
-            "content": "Dancing With the Stars' Connor Wood is quickstepping past chatter about his friendship with dance partner Rylee Arnold.\r\nIn fact, the comedian also known as Fibula had a hilarious response when DWTS … [+767 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Deadline"
-            },
-            "author": "Armando Tinoco",
-            "title": "‘Focker-In-Law’ Red Carpet Premiere Photos: Ariana Grande, Ben Stiller, Skyler Gisondo, Owen Wilson & More - Deadline",
-            "description": "The stars of Focker-in-Law reunited at the Beacon Theatre in New York City to celebrate its world premiere.",
-            "url": "https://deadline.com/gallery/focker-in-law-red-carpet-premiere-photos-ariana-grande/",
-            "urlToImage": "https://deadline.com/wp-content/uploads/2026/11/focker-in-law-red-carpet-photos-nyc.jpg?w=1024",
-            "publishedAt": "2026-11-11T23:40:00Z",
-            "content": "The stars of Focker-in-Law reunited at the Beacon Theatre in New York City to celebrate its world premiere.\r\nAriana Grande, Ben Stiller, Owen Wilson, Robert De Niro, and Blythe Danner star in the com… [+13385 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Vulture"
-            },
-            "author": "Alejandra Gularte",
-            "title": "Below Deck’s João Franco Arrested After Fistfight Leaves Teenager Dead - Vulture",
-            "description": "Below Deck’s João Franco and his brother Karlos Franco were both arrested in Turkey after a fistfight left a 17-year-old teenager dead after head injuries.",
-            "url": "http://www.vulture.com/article/below-deck-joao-franco-arrested-turkey-fight-death.html",
-            "urlToImage": "https://pyxis.nymag.com/v1/imgs/513/e6d/d7ed96c5e6dac042035e9bd573309210d8-joaofranco.1x.rsocial.w1200.jpg",
-            "publishedAt": "2026-11-11T23:07:06Z",
-            "content": "Below Deck star João Franco and his brother Karlos Franco have been arrested in Turkey after a fistfight left a teenager dead, Page Six reports. The brothers reportedly got into a verbal and physical… [+969 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Variety"
-            },
-            "author": "Zack Sharf",
-            "title": "Tarantino Fired Mélanie Laurent From ‘Inglourious Basterds’ After ‘Terrible’ Table Read and Axed Isabelle Huppert for Not Showing Up: ‘I Don’t Owe You Jack S—‘ - Variety",
-            "description": "Quentin Tarantino fired Melanie Laurent and Isabelle Huppert from \"Inglourious Basterds\" because of horrible table reads, but only Laurent came back.",
-            "url": "https://variety.com/2026/film/news/tarantino-fired-melanie-laurent-inglourious-basterds-isabelle-huppert-1236945454/",
-            "urlToImage": "https://variety.com/wp-content/uploads/2026/11/MCDINBA_EC065.jpg?w=1000&h=563&crop=1",
-            "publishedAt": "2026-11-11T22:56:00Z",
-            "content": "Quentin Tarantino gets brutally honest in Jay Glennie’s new book, “The Making of Quentin Tarantino’s Inglourious Basterds,” about his decision to fire Mélanie Laurent and Isabelle Huppert before prod… [+3740 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Hollywood Reporter"
-            },
-            "author": "Max Gao",
-            "title": "‘VisionQuest’ Creator Terry Matalas Tells All About That Supersized Finale and Post-Credits Surprise - The Hollywood Reporter",
-            "description": "The former 'Picard' showrunner also pays tribute to the late Patrick Stewart in a spoiler-filled chat with THR about the final chapter of the WandaVision trilogy: \"All endings need to touch on the beginning.\"",
-            "url": "http://www.hollywoodreporter.com/tv/tv-features/visionquest-finale-post-credits-creator-interview-1236753419/",
-            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/SVG1520_108_comp_LAB_v0003.1035-601x249-456186a.jpg?w=600&h=249&crop=1",
-            "publishedAt": "2026-11-11T22:42:13Z",
-            "content": "[This story contains MAJOR spoilers from the finale of VisionQuest, “Forever.”]\r\nFor showrunner Terry Matalas, VisionQuest was always going to be a Marvel show about fathers and sons.\r\nWhen he was ta… [+18213 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Page Six"
-            },
-            "author": "Audrey Rock",
-            "title": "Katy Perry said her ex ‘should be in jail’ — months before Russell Brand’s guilty verdict - Page Six",
-            "description": "Perry and Brand finalized their divorce in 2012.",
-            "url": "https://pagesix.com/2026/11/11/celebrity-news/katy-perry-said-her-ex-should-be-in-jail-months-before-russell-brands-guilty-verdict/",
-            "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2026/11/148379733.jpg?quality=75&strip=all&w=1200",
-            "publishedAt": "2026-11-11T22:27:00Z",
-            "content": "Katy Perry reportedly said her ex “should be in jail” months before Russell Brand’s guilty verdict on rape and sexual assault charges.\r\nPerry was onstage in Oxfordshire, England her ex-husband’s home… [+3121 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "fox8.com"
-            },
-            "author": "FOX 8 News",
-            "title": "Frankie Muniz hospitalized after accident while practicing at Daytona - FOX 8 News",
-            "description": null,
-            "url": "https://fox8.com/news/frankie-muniz-hospitalized-after-accident-while-practicing-at-daytona/",
-            "urlToImage": null,
-            "publishedAt": "2026-11-11T22:07:27Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "author": null,
-            "title": "Lori Loughlin's daughter Olivia Jade showcases her toned figure in pink string bikini - Fox News",
-            "description": "Olivia Jade's pink bikini photos drew praise from fans and a fire emoji from mom Lori Loughlin, while Victoria Justice called her \"stunning.\"",
-            "url": "https://www.foxnews.com/entertainment/lori-loughlins-daughter-olivia-jade-showcases-her-toned-figure-pink-string-bikini",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/olivia-jade-fashion-week.jpg",
-            "publishedAt": "2026-11-11T22:00:29Z",
-            "content": "Olivia Jade is bringing the summer heat with a new set of photos on Instagram.\r\nIn a recent Instagram post, the 27-year-old influencer shared a series of photos of herself in a pink Monday Swimwear s… [+3088 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Hollywood Reporter"
-            },
-            "author": "Mike Barnes",
-            "title": "Randall England, ‘General Hospital’ Actor, Dies at 75 - The Hollywood Reporter",
-            "description": "He played the villainous Jack Slater on the ABC soap opera and, later, Bill Clinton on the stage.",
-            "url": "http://www.hollywoodreporter.com/tv/tv-news/randall-england-dead-general-hospital-1236753374/",
-            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/Randall-England-Obit-Template-Headshot-Publicity-H-2026.jpg?w=1296&h=730&crop=1",
-            "publishedAt": "2026-11-11T21:52:20Z",
-            "content": "Randall England, who portrayed Jack Slater, a villain fond of red cowboy boots, for eight months in the mid-1980s on the ABC soap General Hospital, has died. He was 75.\r\nEngland died Sept. 25 after a… [+1676 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Hollywood Reporter"
-            },
-            "author": "Winston Cho",
-            "title": "Netflix Poised to Buy Radford Studio Lot at Auction for Steep Discount - The Hollywood Reporter",
-            "description": "The purchase will reshape the entertainment giant's production and office operations in Los Angeles.",
-            "url": "http://www.hollywoodreporter.com/business/business-news/netflix-radford-studio-lot-at-auction-for-steep-discount-1236753290/",
-            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2022/02/CBSRadford160265-H-2022.jpg?w=1296&h=730&crop=1",
-            "publishedAt": "2026-11-11T21:36:28Z",
-            "content": "Nine months after lenders repossessed the historic Radford Studio Center lot from Hackman Capital Partners, the property is headed to auction.\r\nNetflix had been in talks to buy the 55-acre Studio Cit… [+4790 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Cut"
-            },
-            "author": "Sam Reed",
-            "title": "Maybe It Shouldn’t Have Changed the Slogan - The Cut",
-            "description": "In a campaign with Miley Cyrus, Maybelline New York revealed an updated version of its iconic tagline that’s so confusing, the ‘Succession’ writers’ room couldn’t make it up.",
-            "url": "http://www.thecut.com/article/maybellines-new-slogan-has-too-much-punctuation.html",
-            "urlToImage": "https://pyxis.nymag.com/v1/imgs/acf/aca/3f262a97db8eebc713176d2ee6d38304f7-maybelline.1x.rsocial.w1200.jpg",
-            "publishedAt": "2026-11-11T21:35:48Z",
-            "content": "On Tuesday, Maybelline New York rolled out a new Miley Cyrusfronted campaign and a revamped slogan that immediately earned comparisons to the Succession writers room. In an effort to modernize its fa… [+2167 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "NPR"
-            },
-            "author": "Juana Summers",
-            "title": "Trisha Paytas comes clean in 'Crying on the Kitchen Floor' - NPR",
-            "description": "NPR's Juana Summers talks with Trisha Paytas about her memoir, <em>Crying on the Kitchen Floor,</em> and what it's been like to share her life on YouTube since she was 18 years old.",
-            "url": "https://www.npr.org/2026/11/11/nx-s1-5862026/trisha-paytas-comes-clean-in-crying-on-the-kitchen-floor",
-            "urlToImage": "https://media.npr.org/include/images/facebook-default-wide-s1400-c85.jpg",
-            "publishedAt": "2026-11-11T21:23:54Z",
-            "content": "NPR's Juana Summers talks with Trisha Paytas about her memoir, Crying on the Kitchen Floor, and what it's been like to share her life on YouTube since she was 18 years old."
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Hollywood Reporter"
-            },
-            "author": "Lexi Carson",
-            "title": "Amanda Seyfried Talks You Can See Everything, Billy Evans, Nathan Fielder - The Hollywood Reporter",
-            "description": "The actress is finally — really — opening up about her involvement in Nathan Fielder and Lance Oppenheim's documentary. \"There was no reason for him to get that aggressive,\" she said of Elizabeth Holmes' partner.",
-            "url": "http://www.hollywoodreporter.com/movies/movie-news/amanda-seyfried-you-can-see-everything-billy-evans-nathan-1236753116/",
-            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/GettyImages-2304198491-H-2026.jpg?w=1296&h=730&crop=1",
-            "publishedAt": "2026-11-11T21:19:15Z",
-            "content": "[This story contains spoilers from You Can See Everything.]\r\nAmanda Seyfried is finally — really — opening up about her involvement in Nathan Fielder and Lance Oppenheim’s documentary, You Can See Ev… [+5638 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Variety"
-            },
-            "author": "Jordan Moreau",
-            "title": "DC Actor Frank Grillo Praises James Gunn and Peter Safran After They Exit the Studio: ‘It’s Just Been Extraordinary’ - Variety",
-            "description": "DC actor Frank Grillo sends a message of support to James Gunn and Peter Safran after their DC Studios exits.",
-            "url": "https://variety.com/2026/film/news/frank-grillo-james-gunn-peter-safran-dc-studios-exit-1236945547/",
-            "urlToImage": "https://variety.com/wp-content/uploads/2026/11/MCDSUPE_WB047.jpg?w=1000&h=563&crop=1",
-            "publishedAt": "2026-11-11T21:15:00Z",
-            "content": "Frank Grillo, who’s been a mainstay in the DC Universe with his role as Rick Flag Sr. in “Superman,” “Peacemaker,” “Creature Commandos” and next summer’s “Man of Tomorrow,” posted a video message sup… [+1723 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Entertainment Weekly"
-            },
-            "author": "https://www.facebook.com/entertainmentweekly",
-            "title": "Willie Nelson reveals he begged his wife to ‘let me die’ twice during harrowing bout of COVID-19 - Entertainment Weekly",
-            "description": "In his new book ‘The Last Leaf,’ Willie Nelson recalls a harrowing bout of COVID-19 that led to him asking his wife, Annie D’Angelo, to ‘let me die.’",
-            "url": "https://ew.com/willie-nelson-begged-wife-let-him-die-twice-covid-12249332",
-            "urlToImage": "https://ew.com/thmb/wtm9gclt75A9XXBugQVXD3H78a8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Willie-Nelson-participates-in-a-press-conference-during-Farm-Aid-2026-111126-5cc5e5b3ae454e37ae901259ab847942.jpg",
-            "publishedAt": "2026-11-11T21:09:28Z",
-            "content": "Willie Nelson is reflecting on a harrowing battle with COVID-19 in 2022.\r\nIn his new bookThe Last Leaf: Reflections on Late-Life Creativity  and My Longest Love Affair, the country singer recalls how… [+3055 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "TMZ"
-            },
-            "author": "TMZ Staff",
-            "title": "'DWTS' Pro Gleb Savchenko Splits From OnlyFans Model Kaitlin Trujillo - TMZ",
-            "description": "Gleb Savchenko is back on the market ... the \"Dancing with the Stars\" pro has split from his OnlyFans model girlfriend, Kaitlin Trujillo, after nearly a year of dating.",
-            "url": "https://www.tmz.com/2026/11/11/gleb-savchenko-kaitlin-trujillo-break-up/",
-            "urlToImage": "https://imagez.tmz.com/image/d1/16by9/2026/11/11/d15e53c17c354e3bb4402df68254e9a6_xl.jpg",
-            "publishedAt": "2026-11-11T20:45:06Z",
-            "content": "Gleb Savchenko is back on the market ... the \"Dancing with the Stars\" pro has split from his OnlyFans model girlfriend, Kaitlin Trujillo, after nearly a year of dating.\r\nGleb confirmed the breakup to… [+1002 chars]"
         }
     ]
 }

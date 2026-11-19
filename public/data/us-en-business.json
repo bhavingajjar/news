@@ -1,7 +1,254 @@
 {
     "status": "ok",
-    "totalResults": 451,
+    "totalResults": 466,
     "articles": [
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Todd C. Frankel",
+            "title": "FAA oversaw and signed off on repair work before nationwide ground stop - The Washington Post",
+            "description": "A person familiar with the investigation said blame placed on contractor L3Harris overlooked the FAA’s role.",
+            "url": "https://www.washingtonpost.com/transportation/2026/11/17/faa-oversaw-signed-off-repair-work-before-nationwide-ground-stop/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/7QS5W3LKZUOLYWRRCKOJTFK2WI.JPG&w=1440",
+            "publishedAt": "2026-11-18T06:23:31Z",
+            "content": "A Federal Aviation Administration official was supervising a contractor in rural Arkansas as he switched vital air traffic communications lines from an old copper-wire network to a new fiber-optic on… [+114 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Daniel Wu",
+            "title": "Leukemia vaccine passes key trial, adding to breakthrough year for cancer drugs - The Washington Post",
+            "description": "The vaccine reduced risk of death for certain acute myeloid leukemia patients, according to drugmaker",
+            "url": "https://www.washingtonpost.com/health/2026/11/17/leukemia-vaccine-passes-key-trial-adding-breakthrough-year-cancer-drugs/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/GQZ7F57GNVY6PA2GAPS25ODAUE.jpg&w=1440",
+            "publishedAt": "2026-11-18T04:40:05Z",
+            "content": "A first of its kind vaccine for acute myeloid leukemia, a deadly blood cancer, succeeded in a Phase 3 clinical trial, drugmaker Sellas Life Sciences and Memorial Sloan Kettering Cancer Center announc… [+86 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Internet"
+            },
+            "author": "The Hacker News",
+            "title": "Java4Shell (CVE-2026-114938) Enables Pre-Auth RCE in Jira, Jenkins, Keycloak on Java 17+ AVX-512 VBMI Servers - The Hacker News",
+            "description": "Java4Shell (CVE-2026-114938) could enable unauthenticated code execution in six applications on affected AVX-512 Java servers.",
+            "url": "https://thehackernews.com/2026/11/java4shell-cve-2026-114938-enables-pre.html",
+            "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTrbBEjGUxldrJAnxC5ilrZqnNHyexGDTR-zS3vAX-Qw_ZNtNNEsomeDRYT40hQkUZt3G4T6y9oKi7G88dN0gatwvi03ItVtDmFCA8V7Zrb2lh5l4oGf8BUVF0UUbvybU0XuGpBnynGfvsCS_y4aWYtzvD_eNyqtids_c8w1auCGMWMYlxrReU-iS0FWc/s1600/java.jpg",
+            "publishedAt": "2026-11-18T04:27:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Ananya Chetia, Lim Hui Jie",
+            "title": "Stock futures rise as Nvidia gains on earnings beat and solid outlook: Live updates - CNBC",
+            "description": "Nvidia shares rose in extended trading after the company’s first earnings report since co-founder Jensen Huang resigned last week.",
+            "url": "https://www.cnbc.com/2026/11/17/stock-market-today-live-updates.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108553540-1794952143693-gettyimages-2305599962-anotherday38811092_xy4ugih4.jpeg?v=1794952227&w=1920&h=1080",
+            "publishedAt": "2026-11-18T03:30:06Z",
+            "content": "Stock futures climbed Tuesday night after the S&amp;P 500 fell for a fourth straight day. Traders also weighed Nvidia's better-than-expected earnings report.\r\nNasdaq-100 futures were up 1.4%, whileS&… [+1914 chars]"
+        },
+        {
+            "source": {
+                "id": "axios",
+                "name": "Axios"
+            },
+            "author": "Ina Fried",
+            "title": "\"We will remain thoughtful\": Nvidia says it will continue to backstop AI ecosystem - Axios",
+            "description": "Interim CEO Collette Kress says the chip giant is rigorously evaluating future funding.",
+            "url": "https://www.axios.com/2026/11/17/nvidia-ai-startup-investment-discipline-kress",
+            "urlToImage": "https://images.axios.com/e13HZ_jK5Ck3JXCJhF3cfyzSUIU=/0x0:1920x1080/1366x768/2026/11/10/1794338777261.jpeg",
+            "publishedAt": "2026-11-18T02:07:40Z",
+            "content": "What they're saying: \"Our momentum is real,\" interim CEO Colette Kress said on at the end of conference call with investors and analysts. \"Our demand is accelerating. Our supply is growing. Our custo… [+2084 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Mary Walrath-Holdridge",
+            "title": "Do not eat these breakfast items, says USDA health alert - USA Today",
+            "description": "The warning is part of a larger recall impacting office spaces, break rooms and vending machines.",
+            "url": "https://www.usatoday.com/story/money/consumer-protection/recalls-alerts/2026/11/17/breakfast-items-biscuits-recall-health-alert/92830906007/",
+            "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/11/17/USAT/92833738007-getty-images-679488154.jpg?crop=2118,1191,x0,y111&width=2118&height=1191&format=pjpg&auto=webp",
+            "publishedAt": "2026-11-18T01:44:00Z",
+            "content": "The United States Department of Agriculture is warning consumers to stay away from certain breakfast products sold at workplaces and in vending machines.\r\nIn a public health alert issued on Nov. 14, … [+2892 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "Josh Kelety",
+            "title": "Waymo suspends all rides on freeways after California banned the vehicles from its state freeways - AP News",
+            "description": "The company Waymo said it temporarily stopped offering driverless taxi rides on freeways after California banned the vehicles from state highways following recent traffic incidents. A Waymo spokesperson said the company has “temporarily restricted commercial …",
+            "url": "https://apnews.com/article/waymo-driverless-vehicle-california-freeway-ban-37bcd5371a4699a1850b7666b271946b",
+            "urlToImage": "https://dims.apnews.com/dims4/default/7472254/2147483647/strip/true/crop/6609x4406+0+0/resize/1200x800!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fb7%2Fba%2F579bf33621978747a4de633b9f2b%2Ffb565d3b06cd40c899b4e26f027ba1bc",
+            "publishedAt": "2026-11-18T01:30:00Z",
+            "content": "Waymo has temporarily stopped offering driverless taxi rides on freeways after California banned the vehicles from state freeways following recent traffic incidents.\r\nThe company had allowed riders t… [+2166 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Alexa LoMonaco",
+            "title": "Nvidia's Colette Kress tells Cramer: Employees and customers are not going anywhere - CNBC",
+            "description": "Interim CEO Colette Kress said exclusively on \"Mad Money\" that the chipmaker's customers and employees remain committed to the company.",
+            "url": "https://www.cnbc.com/2026/11/17/nvidias-colette-kress-tells-cramer-customers-and-employees-are-not-going-anywhere.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108553673-1794958809316-Screenshot_2026-11-17_at_63623_PM.png?v=1794959300&w=1920&h=1080",
+            "publishedAt": "2026-11-18T00:48:00Z",
+            "content": "Nvidia's customers and employees remain committed to the company despite last week's abrupt departure of longtime leader Jensen Huang. That's the message interim CEO Colette Kress conveyed exclusivel… [+2362 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Victoria Bisset",
+            "title": "AAA forecasts slight drop in Thanksgiving travel, in part due to higher costs - The Washington Post",
+            "description": "Around 81.5 million Americans will leave town for Thanksgiving, according to the AAA — a slight dip from 2025.",
+            "url": "https://www.washingtonpost.com/nation/2026/11/17/aaa-forecasts-slight-drop-thanksgiving-travelers/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MX5R663Y3ELDOKGRPB3KW7RIOI_size-normalized.jpg&w=1440",
+            "publishedAt": "2026-11-18T00:38:44Z",
+            "content": "An estimated 81.5 million Americans are expected to travel for Thanksgiving next week, according to AAA. \r\nThe projected number of people traveling at least 50 miles from home between next Tuesday an… [+211 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "Jasper Goodman",
+            "title": "Jensen Huang agrees to testify in Senate - Politico",
+            "description": "The former Nvidia CEO will appear before the Senate Banking Committee.",
+            "url": "https://www.politico.com/live-updates/2026/11/17/congress/jensen-huang-agrees-to-testify-in-senate-01171740",
+            "urlToImage": "https://www.politico.com/dims4/default/1ea9317/2147483647/resize/1200x/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2Fcc%2F48%2Fd6f2d539401f89ae9bcb0040235f%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2299248530",
+            "publishedAt": "2026-11-18T00:37:38Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Katherine Li",
+            "title": "Jeff Bezos has tips for the Nvidia board in choosing a successor for Jensen Huang - Business Insider",
+            "description": "Jeff Bezos advised Nvidia's board to look internally for Jensen Huang's successor, saying that an outsider would have little chance of succeeding.",
+            "url": "https://www.businessinsider.com/jeff-bezos-advice-for-nvidias-board-on-replacing-jensen-huang-2026-11#article",
+            "urlToImage": "https://i.insider.com/6afcec6d68dc6b6660b84090?width=1200&format=jpeg",
+            "publishedAt": "2026-11-18T00:35:00Z",
+            "content": "Jeff Bezos has some advice for Nvidia's board as it searches for a permanent successor to Jensen Huang:\r\nThe Amazon founder told Semafor's Liz Hoffman during theSilicon Valley &amp; The World confere… [+1965 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Maggie Eastland",
+            "title": "Interim Nvidia CEO Says It’s No Longer Sending AI Chips to China - Bloomberg.com",
+            "description": "Nvidia Corp. is no longer shipping Hopper data center chips to China, despite winning the US government’s blessing to sell a version of that model to the Asian nation last year.",
+            "url": "https://www.bloomberg.com/news/articles/2026-11-18/interim-nvidia-ceo-says-it-s-no-longer-sending-ai-chips-to-china",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ijk3g_oJ.kjE/v0/1200x800.jpg",
+            "publishedAt": "2026-11-18T00:09:00Z",
+            "content": "Nvidia Corp. is no longer shipping Hopper data center chips to China, despite winning the US governments blessing to sell a version of that model to the Asian nation last year.\r\nThe worlds leading AI… [+405 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Rob Wile, Kayla Steinberg, Madison Lambert",
+            "title": "Apple outages appear to be resolved after internal update takes popular services offline - NBC News",
+            "description": "Outages affecting several popular Apple services appeared to be resolved Tuesday night, after an internal update had taken them offline during the afternoon.",
+            "url": "https://www.nbcnews.com/business/corporations/apple-outages-working-get-systems-back-online-rcna609861",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-03/230328-apple-store-logo-ew-100p-9c4302.jpg",
+            "publishedAt": "2026-11-17T23:42:43Z",
+            "content": "Outages affecting several of Apples popular consumer-facing services appeared to be resolved Tuesday night after an internal update caused tech issues for much of the afternoon.\r\nThe Apple system sta… [+1263 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Sarah Perez",
+            "title": "Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit - TechCrunch",
+            "description": "Nvidia's interim CEO reaffirmed its open source AI strategy and plans to acquire Hugging Face, despite Jensen Huang's sudden departure.",
+            "url": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2290097570.jpg?w=1024",
+            "publishedAt": "2026-11-17T23:04:35Z",
+            "content": "Nvidia interim CEO Colette Kress reaffirmed the company’s commitment to open source AI during Tuesday’s earnings call with analysts — the first since CEO Jensen Huang’s resignation.\r\n“At Nvidia, we a… [+2507 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MarketWatch"
+            },
+            "author": "Isabel Wang, Tomi Kilgore, Victor Reklaitis, Steve Goldstein, Jamie Chisholm, Nora Redmond",
+            "title": "Stock Market News, Nov. 17, 2026: Dow ends down 850 points, S&P 500 and Nasdaq also plunge as tech names come under further pressure ahead of Nvidia’s earnings - MarketWatch",
+            "description": "Follow all the latest U.S. market action for Tuesday here ahead of Nvidia's third-quarter financial results.",
+            "url": "https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-p-500-nasdaq-nvidia-q3-financial-results-retail-sales-import-prices",
+            "urlToImage": "https://images.mktw.net/im-51746529/social",
+            "publishedAt": "2026-11-17T23:00:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": null,
+            "title": "US Fed’s Lisa Cook refuses to attend White House hearing - Al Jazeera",
+            "description": "US President Donald Trump has been trying to fire Cook since August 2025.",
+            "url": "https://www.aljazeera.com/economy/2026/11/17/us-feds-lisa-cook-refuses-to-attend-white-house-hearing",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/11/epa_6914e1b57b8c-1762976181.jpg?resize=1920%2C1440",
+            "publishedAt": "2026-11-17T22:05:27Z",
+            "content": "United States Federal Reserve Governor Lisa Cook has declined, through her lawyers, to appear next month before a Trump administration committee that is considering whether she should be fired, calli… [+2562 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Abcnews.com"
+            },
+            "author": "ABC News - Breaking News, Latest News and Videos",
+            "title": "Open-source AI tool has been used to automate cyber intrusions: FBI - ABC News - Breaking News, Latest News and Videos",
+            "description": null,
+            "url": "https://abcnews.com/Politics/open-source-ai-tool-automate-cyber-intrusions-fbi/story?id\\\\u003d138224347",
+            "urlToImage": null,
+            "publishedAt": "2026-11-17T21:39:32Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Fox Business"
+            },
+            "author": "Stepheny Price, Liz Claman",
+            "title": "Jay Clayton addresses concerns amid widespread tech outages - Fox Business",
+            "description": "Director of National Intelligence Jay Clayton says no signs of a coordinated cyberattack or state-sponsored activity behind tech outages, citing patching.",
+            "url": "https://www.foxbusiness.com/technology/jay-clayton-addresses-concerns-amid-widespread-tech-outages",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/09/0/0/students-using-tech.png?ve=1&tl=1",
+            "publishedAt": "2026-11-17T21:35:36Z",
+            "content": "Director of National Intelligence Jay Clayton said Tuesday that officials see no signs of a coordinated cyberattack or state-sponsored activity behind a wave of technology outages, pointing instead t… [+2992 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "WSJ",
+            "title": "Exclusive | SEC Is Probing Nvidia Amid Departure of CEO Jensen Huang - WSJ",
+            "description": null,
+            "url": "https://www.wsj.com/business/sec-is-probing-nvidia-amid-departure-of-ceo-jensen-huang-ee7643f8",
+            "urlToImage": null,
+            "publishedAt": "2026-11-17T20:56:00Z",
+            "content": null
+        },
         {
             "source": {
                 "id": null,
@@ -17,6 +264,19 @@
         },
         {
             "source": {
+                "id": null,
+                "name": "WRAL.com"
+            },
+            "author": "Liz McLaughlin, WRAL Climate Change Reporter",
+            "title": "NC approves Duke Energy rate hikes, new rules for data centers - WRAL",
+            "description": "Residential electricity rates are expected to rise more than 9% over two years as state regulators establish new financial requirements for large data centers aimed at protecting other customers.",
+            "url": "https://www.wral.com/news/state/nc-approves-duke-energy-rate-hikes-new-rules-for-data-centers-november-2026/",
+            "urlToImage": "https://images.wral.com/a6f2b464-1c03-57d4-9a69-0a352cd6435b?w=1200&h=630&height=630",
+            "publishedAt": "2026-11-17T20:05:18Z",
+            "content": "Duke Energy customers across North Carolina are facing higher electricity bills starting in January, but new rules will require large data centers to shoulder more of the financial risks associated w… [+8376 chars]"
+        },
+        {
+            "source": {
                 "id": "the-washington-post",
                 "name": "The Washington Post"
             },
@@ -27,6 +287,58 @@
             "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/2G5QMNEYR5Z2JG6GUKWGCHUI2U.JPG&w=1440",
             "publishedAt": "2026-11-17T19:51:36Z",
             "content": "Federal Reserve governor Lisa Cook wont take part in a White House hearing next month on whether to fire her unless the panel and its rules change, her lawyer told President Donald Trumps aides Monda… [+1 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "OregonLive"
+            },
+            "author": "OregonLive.com",
+            "title": "Oregon sues OpenAI for $2 billion, says ChatGPT puts kids in harm’s way - OregonLive.com",
+            "description": null,
+            "url": "https://www.oregonlive.com/business/2026/11/oregon-sues-openai-for-2-billion-says-chatgpt-puts-kids-in-harms-way.html",
+            "urlToImage": null,
+            "publishedAt": "2026-11-17T19:46:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Annie Bang, Elizabeth Rembert",
+            "title": "Costco Shoppers Are Panic-Buying Due to Outages, Analysts Say - Bloomberg.com",
+            "description": "Costco Wholesale Corp. is getting a lift from anxious consumers flocking to emergency preparedness products.",
+            "url": "https://www.bloomberg.com/news/articles/2026-11-17/costco-shoppers-are-panic-buying-due-to-outages-analysts-say",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iYl_Mb_tVxqY/v0/1200x800.jpg",
+            "publishedAt": "2026-11-17T19:45:57Z",
+            "content": "Costco Wholesale Corp. is getting a lift from anxious consumers flocking to emergency preparedness products.\r\nLast weeks Microsoft Outlook outage, the Federal Aviation Administrations nationwide grou… [+375 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Andy Greenberg, Lily Hay Newman",
+            "title": "How to Tell If It’s a Cyberattack or Just an Outage - WIRED",
+            "description": "Email, flights, banks; network failures are piling up. Here’s how WIRED investigates if they’re the result of hacker mayhem. (Hint: usually not.)",
+            "url": "https://www.wired.com/story/how-to-tell-if-its-a-cyberattack-or-just-an-outage/",
+            "urlToImage": "https://media.wired.com/photos/6afc8dfac68fff6545ac192a/191:100/w_1280,c_limit/Security_How%20to%20Tell%20If%20an%20Outage%20Is%20Caused%20by%20a%20Cyberattack_v1.jpg",
+            "publishedAt": "2026-11-17T19:40:57Z",
+            "content": "Even with those network clues, however, Meng advises returning to step two: Once an affected service is identified, its actual owners are often the best source to monitor for updates. Usually the ope… [+4141 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "Declan Harty",
+            "title": "Kalshi halts trading on Trump's speeches - Politico",
+            "description": "A Wall Street regulator ordered the prediction market giant to press pause on such trading over concerns that the products are at risk of manipulation.",
+            "url": "https://www.politico.com/news/2026/11/17/kalshi-trading-trumps-speeches-01170138",
+            "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F70%2Fcb%2Fd0b133cb42f18fbe55479d4f3c93%2Fgettyimages-2303208994.jpg",
+            "publishedAt": "2026-11-17T19:17:00Z",
+            "content": "Kalshi has halted trading on some prediction markets tied to what President Donald Trump will say after a top Wall Street regulator sounded the alarm.\r\nThe prediction market giant said in a statement… [+1145 chars]"
         },
         {
             "source": {
@@ -44,6 +356,19 @@
         {
             "source": {
                 "id": null,
+                "name": "Space.com"
+            },
+            "author": "Mike Wall",
+            "title": "ULA lost a Vulcan Centaur rocket 10 minutes after launch — but the failure began just after liftoff - Space",
+            "description": "United Launch Alliance's Vulcan Centaur rocket failed during its launch on Sunday (Nov. 15) because of an issue with its first-stage booster, according to the company.",
+            "url": "https://www.space.com/space-exploration/launches-spacecraft/ula-lost-a-vulcan-centaur-rocket-carrying-40-amazon-satellites-10-minutes-after-launch-but-the-failure-began-just-after-liftoff",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/GgxpCgxz6Za9eZSyQTxTxN-2560-80.jpg",
+            "publishedAt": "2026-11-17T18:48:18Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "CNBC"
             },
             "author": "Liz Napolitano, Jenni Reid, Jenny Lee, Fred Imbert",
@@ -53,6 +378,19 @@
             "urlToImage": "https://image.cnbcfm.com/api/v1/image/108553207-1794932257620-Traders-Photo-20261116-KK-PRESS-008.jpg?v=1794932755&w=1920&h=1080",
             "publishedAt": "2026-11-17T18:24:59Z",
             "content": "The European Union's executive body on Tuesday upgraded its growth forecasts for the bloc, attributing an \"upward surprise\" across the first three quarters to a rebound in exports and solid consumpti… [+1594 chars]"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Jon Brodkin",
+            "title": "OpenAI sued by California after admitting to 80 loss-of-control incidents - Ars Technica",
+            "description": "AG: OpenAI tested dangerous AI without proper oversight and misled public about it.",
+            "url": "https://arstechnica.com/tech-policy/2026/11/california-sues-openai-to-stop-public-nuisance-of-out-of-control-ai-agents/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/openai-chip-logo-1152x648.jpg",
+            "publishedAt": "2026-11-17T18:13:34Z",
+            "content": null
         },
         {
             "source": {
@@ -212,6 +550,32 @@
         },
         {
             "source": {
+                "id": null,
+                "name": "Investor's Business Daily"
+            },
+            "author": null,
+            "title": "Berkshire Hathaway Slashes This Top 5 Stock; Nvidia Boosts SpaceX - Investor's Business Daily",
+            "description": "Details of Berkshire Hathaway's Q3 buys and sells came in a filing Monday.",
+            "url": "https://www.investors.com/news/berkshire-hathaway-stock-buys-sells-q3-13f-bac-nvidia-alphabet-spacex/",
+            "urlToImage": "https://www.investors.com/wp-content/uploads/2026/10/A1-Greg-Abel-2-AP.jpg",
+            "publishedAt": "2026-11-17T15:35:00Z",
+            "content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. … [+1064 chars]"
+        },
+        {
+            "source": {
+                "id": "the-hill",
+                "name": "The Hill"
+            },
+            "author": "Ryan Mancini",
+            "title": "Google: ‘The era of autonomous attacks has arrived’ - The Hill",
+            "description": "Google on Tuesday warned the threat posed by autonomous AI models reached a new threshold, ominously stating that “the era of autonomous attacks has arrived.” “Imagine a hacker that doesn’t eat, sleep, or get tired, and never stops searching for a way in,” th…",
+            "url": "https://thehill.com/policy/technology/6224604-autonomous-ai-threats-google-report/",
+            "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2026/09/6a9871d65c6372.27147675-e1793305477109.jpeg?w=1280",
+            "publishedAt": "2026-11-17T15:27:00Z",
+            "content": "Skip to content\r\nGoogle on Tuesday warned the threat posed by autonomous AI models reached a new threshold, ominously stating that “the era of autonomous attacks has arrived.”\r\n“Imagine a hacker that… [+2734 chars]"
+        },
+        {
+            "source": {
                 "id": "fox-news",
                 "name": "Fox News"
             },
@@ -264,6 +628,19 @@
         },
         {
             "source": {
+                "id": null,
+                "name": "Financial Times"
+            },
+            "author": null,
+            "title": "JPMorgan Chase elevates Bregje de Best to finance chief - Financial Times",
+            "description": "Appointment of senior woman comes after exit earlier this year of leading female contender to succeed Jamie Dimon",
+            "url": "https://www.ft.com/content/cc080db6-46c1-49fb-a3d5-2680b3360b6d?syn-25a6b1a6\\\\u003d1",
+            "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fb74f18aa-0eaa-4446-a887-4b8b195dbc31.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+            "publishedAt": "2026-11-17T14:46:49Z",
+            "content": "Then $75 per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial."
+        },
+        {
+            "source": {
                 "id": "bloomberg",
                 "name": "Bloomberg"
             },
@@ -274,6 +651,19 @@
             "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ik0w.6Yf.Y2s/v1/1200x800.jpg",
             "publishedAt": "2026-11-17T14:45:22Z",
             "content": "Anthropic PBC is guiding prospective investors in its initial public offering it expects to price the shares at the high end of the price range or above, according to people familiar with the matter.… [+304 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Forbes",
+            "title": "Fed Issues Possible Bank Run Warning As Outages Fuel Wild Nov. 17 ‘Blackout’ Theories - Forbes",
+            "description": null,
+            "url": "https://www.forbes.com/sites/digital-assets/2026/11/17/fed-governor-issues-warnings-about-ai-bank-runs/",
+            "urlToImage": null,
+            "publishedAt": "2026-11-17T14:42:48Z",
+            "content": null
         },
         {
             "source": {
@@ -339,6 +729,19 @@
             "urlToImage": "https://image.cnbcfm.com/api/v1/image/108416285-1792098090028-gettyimages-2240688732-INDIA_MUMBAI.jpeg?v=1794847533&w=1920&h=1080",
             "publishedAt": "2026-11-17T12:00:01Z",
             "content": "Nike said Tuesday ahead of its first investor day in nine years that it was reaffirming its 2027 financial guidance. \r\nThe retailer also laid out a financial framework and said that by the end of fis… [+3162 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "OPB News"
+            },
+            "author": "Monica Samayoa",
+            "title": "Google announces world’s first deal to buy commercial superhot rock geothermal energy from Central Oregon - OPB",
+            "description": "Texas-based geothermal developer Quaise is set to sell 50 megawatts of power from its Newberry Volcano site to the company as early as 2030. The energy will power Googles data centers in The Dalles.",
+            "url": "https://www.opb.org/article/2026/11/17/google-oregon-bend-la-pine-superhot-rocks-technology-energy-power/",
+            "urlToImage": "https://opb-opb-prod.cdn.arcpublishing.com/resizer/v2/OUXZR7463BF5TPLGAUQARRTEZ4.jpg?auth=1bc1c85fc52fa45065bb22c472493526abdb7ead8022c6bbcc13ba6481c739b9&width=1200&height=675&smart=true",
+            "publishedAt": "2026-11-17T11:52:38Z",
+            "content": "A Texas-based geothermal company has inked the worlds first commercial-scale superhot rock geothermal energy deal with Google. The tech giant will use the energy from Central Oregons Newberry Volcano… [+7100 chars]"
         },
         {
             "source": {
@@ -447,6 +850,19 @@
         {
             "source": {
                 "id": null,
+                "name": "Www.ftm.eu"
+            },
+            "author": null,
+            "title": "Deutsche Bank protected Trump from scrutiny, leak shows - Follow the Money - Platform for investigative journalism",
+            "description": "The German multinational assured US authorities that Donald Trump had “no bank-related connections” to Russia after its client won the presidency in 2016. A trove of leaked documents, which shine a light on other controversies at Deutsche Bank stretching back…",
+            "url": "https://www.ftm.eu/articles/deutsche-bank-trump-scrutiny-leak-controversies",
+            "urlToImage": "https://www.ftm.eu/uploads/media_filter/6aeda1b7b0ce4/article_1400_nocrop/IMG_4537.jpg?v=0",
+            "publishedAt": "2026-11-17T06:00:00Z",
+            "content": "This article in one minute\r\nWhats the news?\r\n<ul><li>A massive leak of confidential documents shows how Deutsche Bank repeatedly failed to tackle suspicious financial activity involving powerful clie… [+19838 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "The-independent.com"
             },
             "author": "Kevin E G Perry",
@@ -508,6 +924,19 @@
             "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/11/16/USAT/92814402007-20161025-t-120000-z-973659214-s-1-aeujbtfhaa-rtrmadp-3-usabusiness.JPG?crop=5248,2953,x0,y343&width=3200&height=1801&format=pjpg&auto=webp",
             "publishedAt": "2026-11-17T00:37:00Z",
             "content": "7:25 pm ET November 16, 2026Share this update\r\nChase transactions 'being processed normally'\r\nJames Powel\r\nJPMorgan Chase said in an email to USA TODAY shortly after 7 p.m. ET that \"transactions are … [+7749 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Rob Wile, Kayla Steinberg",
+            "title": "Chase says transactions back to normal after outage online and at some branches - NBC News",
+            "description": "Chase Bank said transactions were posting normally Monday evening after a nationwide outage that had some customers reporting trouble accessing their accounts and withdrawing funds.",
+            "url": "https://www.nbcnews.com/business/consumer/outages-chase-banking-online-branches-rcna609673",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-07/240725-atm-chase-bank-vl-351p-c1d6e8.jpg",
+            "publishedAt": "2026-11-16T23:54:46Z",
+            "content": "Chase Bank said transactions were posting normally Monday evening after a nationwide outage that had some customers reporting trouble accessing their accounts and withdrawing funds. \r\nTransactions ar… [+4220 chars]"
         },
         {
             "source": {
@@ -768,6 +1197,19 @@
             "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6afb5ac02af8bcffe233e084/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
             "publishedAt": "2026-11-16T19:37:48Z",
             "content": "At least nine major corporationsincluding the parent company of TJ Maxx and toolmaker Stanley Black &amp; Deckerwill funnel federal tariff refunds from the Trump administration into corporate bonuses… [+5027 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Nature.com"
+            },
+            "author": null,
+            "title": "Assessing the carbon emissions and energy consumption of US hyperscale data centres - Nature",
+            "description": "The growing number of hyperscale data centres raises concerns about their environmental impacts. This study presents a facility-resolved attributional framework to assess the carbon footprint of hyperscale data centres in the USA using plant-level electricity…",
+            "url": "https://www.nature.com/articles/s41893-026-01985-7",
+            "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41893-026-01985-7/MediaObjects/41893_2026_1985_Fig1_HTML.png",
+            "publishedAt": "2026-11-16T19:24:46Z",
+            "content": "<li>Crawford, K. Generative AIs environmental costs are soaringand mostly secret. Nature626, 693 (2024).\r\nArticle \r\n CAS \r\nGoogle Scholar \r\n</li><li>Erdenesanaa, D. A.I. could soon need as much elect… [+7500 chars]"
         },
         {
             "source": {
@@ -5617,253 +6059,6 @@
             "urlToImage": "https://www.allrecipes.com/thmb/1FsNiMO_Pj2jidIStVaMHizDYpk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ar-reeses-most-tempting-treat-ar-reeses-2x1-e211eccfb49b42d6a61236043e3c2f74.jpg",
             "publishedAt": "2026-11-12T08:00:00Z",
             "content": "As a staunch lover of peanut butter and chocolate, the first thing I reach for when I want a small treat is a Reeses Cup (or, if its the right season, a holiday shape like Reeses Pumpkins). The combo… [+2498 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Ayushman Ojha",
-            "title": "Alibaba, Tencent shares fall on report U.S. weighs curbs on remote AI chip access - Yahoo Finance",
-            "description": "Investing.com -- Shares of Alibaba (HK:9988) and Tencent (HK:0700) fell on Thursday after The Information reported that the U.S. Commerce Department was prep...",
-            "url": "https://finance.yahoo.com/technology/ai/articles/alibaba-tencent-shares-fall-report-054436336.html",
-            "urlToImage": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-            "publishedAt": "2026-11-12T05:44:00Z",
-            "content": "Investing.com -- Shares of Alibaba (HK:9988) and Tencent (HK:0700) fell on Thursday after The Information reported that the U.S. Commerce Department was preparing to finalise rules preventing Chinese… [+1482 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Investor's Business Daily"
-            },
-            "author": null,
-            "title": "Tech Futures Fall; Nvidia Dives, Mulls Ousting CEO Huang - Investor's Business Daily",
-            "description": "Stocks had a big AI-led rally, but the winners have been huge losers recently.",
-            "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-coreweave-sandisk-nvidia-amd-nebius-bloom/",
-            "urlToImage": "https://www.investors.com/wp-content/uploads/2026/03/stock-nvidia-ceo-jensen-huang-company.jpg",
-            "publishedAt": "2026-11-12T04:08:00Z",
-            "content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. … [+1064 chars]"
-        },
-        {
-            "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
-            "author": "Miriam Waldvogel, Nancy Cook, Ian Duncan",
-            "title": "Nvidia board weighs fate of CEO Jensen Huang after affair with alleged Chinese spy - The Washington Post",
-            "description": "The powerful chief executive of the AI chipmaker recently admitted to the affair.",
-            "url": "https://www.washingtonpost.com/technology/2026/11/11/nvidia-board-weighs-fate-jensen-huang-after-affair-with-alleged-spy/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/7XRPN7H2TJGPREFD257N53AB4Y.jpg&w=1440",
-            "publishedAt": "2026-11-12T03:43:00Z",
-            "content": "The board of chipmaking giant Nvidia will meet to weigh the future of its embattled chief executive Jensen Huang, according to two people familiar with the matter, days after he admitted to an affair… [+28 chars]"
-        },
-        {
-            "source": {
-                "id": "the-wall-street-journal",
-                "name": "The Wall Street Journal"
-            },
-            "author": "WSJ",
-            "title": "Oil Futures Halt Slide Awaiting Clarity on Middle East Talks - WSJ",
-            "description": null,
-            "url": "https://www.wsj.com/finance/commodities-futures/oil-rises-as-middle-east-risks-linger-53d39c2e",
-            "urlToImage": null,
-            "publishedAt": "2026-11-12T03:07:28Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Benzinga"
-            },
-            "author": "Ananya Gairola",
-            "title": "Jim Cramer Wants to ‘Throw Up’ Over Nvidia CEO Jensen Huang’s Ouster News, But Elon Musk Says There’s a B - Benzinga",
-            "description": "Jim Cramer slammed reports of Jensen Huang’s potential ouster, while Elon Musk backed a shareholder vote on his future at Nvidia.",
-            "url": "https://www.benzinga.com/markets/tech/26/11/63171662/jim-cramer-elon-musk-jensen-huang-nvidia",
-            "urlToImage": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/11/12/Taipei--Taiwan-On-June-1--2023--Jen-hsun.jpg",
-            "publishedAt": "2026-11-12T02:59:33Z",
-            "content": "On Wednesday, Jim Cramer expressed shock over reports that Nvidia Corp.s(NASDAQ:NVDA) board is preparing to removeJensen Huang, while Elon Musk backed calls for shareholders to have a say in the CEOs… [+2951 chars]"
-        },
-        {
-            "source": {
-                "id": "axios",
-                "name": "Axios"
-            },
-            "author": "Marc Caputo, Maria Curi",
-            "title": "Scoop: Lutnick stalled curbing Nvidia chip sales to China — again — after Oval Office showdown - Axios",
-            "description": "Trump approved action three times, sources say.",
-            "url": "https://www.axios.com/2026/11/11/trump-lutnick-nvidia-china-chip-export-controls",
-            "urlToImage": "https://images.axios.com/SEQvf7tge4VgxJEzb2shzd4FYqs=/0x243:4000x2493/1366x768/2026/11/11/1794427506540.jpeg",
-            "publishedAt": "2026-11-12T00:10:42Z",
-            "content": "<ul><li>This report was assembled from interviews with six high-level sources who were briefed on or, in some cases, heard the discussions.</li></ul>Inside the room: On Thursday, as the spy scandal r… [+3764 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Electrek"
-            },
-            "author": "Michelle Lewis",
-            "title": "Europe’s electric car sales jump 49% as global EV sales grow - Electrek",
-            "description": "Global EV sales hit 2.09 million in October as Europe surged, but North America's return to growth comes with an important caveat.",
-            "url": "http://electrek.co/2026/11/11/europes-electric-car-sales-jump-49-as-global-ev-sales-grow/",
-            "urlToImage": "https://electrek.co/wp-content/uploads/sites/3/2026/11/BYD-new-Seal-07-EV.jpeg?quality=82&strip=all&resize=1200,628",
-            "publishedAt": "2026-11-12T00:01:00Z",
-            "content": "BYD second-generation Seal 07 (Source: Zhang Zhuo)\r\nGlobal EV sales climbed 8% in October, with Europes battery electric vehicle (BEV) sales jumping 49% and North America posting its first year-over-… [+5874 chars]"
-        },
-        {
-            "source": {
-                "id": "cbs-news",
-                "name": "CBS News"
-            },
-            "author": "Alain  Sherter",
-            "title": "Nvidia's stock dives as chipmaker's board weighs move to oust CEO Jensen Huang - CBS News",
-            "description": "Nvidia shares fall sharply in after-hours trading as the company's board considers whether to remove Jensen Huang as CEO.",
-            "url": "https://www.cbsnews.com/news/nvidia-stock-dives-report-board-prepares-oust-jensen-huang/",
-            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/09/7cd77987-b350-45d8-9962-a1b0bb0f17b0/thumbnail/1200x630g2/1aff2fe445d98a6a82116adbe5e7bc2e/gettyimages-2299493080.jpg",
-            "publishedAt": "2026-11-11T23:20:00Z",
-            "content": "Nvidia's stock price tumbled after the close of trading on Wednesday on news that the chipmaker's board of directors is preparing to oust longtime CEO Jensen Huang. \r\nNvidia this week launched an inv… [+3457 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Dallas Morning News"
-            },
-            "author": "Jordan Parker",
-            "title": "Avelo Airlines launches McKinney Airport’s first-ever commercial flight - Dallas News",
-            "description": "Avelo launched the first commercial flight from McKinney National Airport, opening a new North Texas option for Florida and beyond.",
-            "url": "https://www.dallasnews.com/business/airlines/article/mckinney-airport-first-flight-avelo-airlines-22521524.php",
-            "urlToImage": "https://s.hdnux.com/photos/01/67/67/06/31420851/3/rawImage.jpg",
-            "publishedAt": "2026-11-11T23:11:48Z",
-            "content": "The ticketing and check-in area at McKinney National Airport is shown during a community preview Friday, Nov. 6, 2026, in McKinney, Texas.\r\nShafkat Anowar/The Dallas Morning News\r\nIt was a moment yea… [+3601 chars]"
-        },
-        {
-            "source": {
-                "id": "nbc-news",
-                "name": "NBC News"
-            },
-            "author": "Rob Wile, Allie Canal",
-            "title": "Record credit card balances, fewer trips to McDonald’s: More signs of strain ahead of the holidays - NBC News",
-            "description": "Federal data shows savings rates have dipped below 4% of total income, well below pre-pandemic levels, revealing a fraying financial safety cushion.",
-            "url": "https://www.nbcnews.com/business/economy/us-consumers-credit-card-debt-spending-holiday-season-rcna608731",
-            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261111-shoppers-new-york-mn-1100-e0b015.jpg",
-            "publishedAt": "2026-11-11T22:28:26Z",
-            "content": "Big credit card bills are supposed to show up after the holiday shopping season. This year, Christmas came early.\r\nJust one week after affordability took center stage in the midterm elections, fresh … [+1566 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": null,
-            "title": "Lego marketplace BrickLink offline after 'unusual activity' detected - BBC",
-            "description": "Known as the eBay of Lego, it has been down for three days and is yet to disclose what caused the shutdown.",
-            "url": "https://www.bbc.com/news/articles/c6rmgw8zynr4o",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/38f3/live/c4e58c50-de1a-11f1-9f86-23852740988a.jpg",
-            "publishedAt": "2026-11-11T22:26:18Z",
-            "content": "\"That means containing the issue, investigating how it happened and checking for related issues,\" Lego said. It did not provide any further detail about whether the site has been breached or hacked, … [+42 chars]"
-        },
-        {
-            "source": {
-                "id": "cbs-news",
-                "name": "CBS News"
-            },
-            "author": "Megan  Cerullo",
-            "title": "United Airlines bans AI agents from booking flights on behalf of travelers - CBS News",
-            "description": "Using an artificial intelligence agent to make flight reservations poses security risks and could violate federal rules, according to United.",
-            "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
-            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/11/abfecdbe-5571-42df-95f8-6c22131067aa/thumbnail/1200x630/526b47f241e8e11c31cb47bc82f1f68c/gettyimages-2296986024-1.jpg",
-            "publishedAt": "2026-11-11T22:22:06Z",
-            "content": "United Airlines said on Wednesday that it is banning artificial intelligence agents from making flight reservations on behalf of travelers, citing security risks and the possibility that such actions… [+2337 chars]"
-        },
-        {
-            "source": {
-                "id": "the-wall-street-journal",
-                "name": "The Wall Street Journal"
-            },
-            "author": "Katherine Hamilton",
-            "title": "Pfizer Signs $1.5 Billion Deal With Blackstone to Fund Weight-Loss-Drug Development - WSJ",
-            "description": "Pfizer doesn’t currently have a GLP-1 medication approved for weight loss on the market",
-            "url": "https://www.wsj.com/health/pharma/pfizer-signs-1-5-billion-deal-with-blackstone-to-fund-weight-loss-drug-development-b6b08b5d",
-            "urlToImage": "https://images.wsj.net/im-44883217/social",
-            "publishedAt": "2026-11-11T22:00:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
-            },
-            "author": "Stan Choe",
-            "title": "AI stocks rebound, and Wall Street nearly returns to where it was before last week’s sell-off - AP News",
-            "description": "A rebound for AI stocks lifted the U.S. market. The S&P 500 rose 1.3% Wednesday and got close to recovering all of its brutal sell-off from last week triggered by worries about a potential slowdown for AI businesses. The Nasdaq composite rallied a market-lead…",
-            "url": "https://apnews.com/article/stock-markets-ai-earnings-oil-297d040c83844a9563327340b370c24e",
-            "urlToImage": "https://dims.apnews.com/dims4/default/dcd192e/2147483647/strip/true/crop/8640x5760+0+0/resize/1200x800!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F67%2F4f%2Fb67b38f4ebe3e7eb31ca40b671e9%2F97be9a42db8b4d86ae35140c4ab31954",
-            "publishedAt": "2026-11-11T21:42:00Z",
-            "content": "NEW YORK (AP) A rebound for stocks in the artificial intelligence industry lifted the U.S. market on Wednesday.\r\nThe S&amp;P 500 rose 1.3% and got close to recovering all of its brutal sell-off from … [+4501 chars]"
-        },
-        {
-            "source": {
-                "id": "bloomberg",
-                "name": "Bloomberg"
-            },
-            "author": "Judy Lagrou",
-            "title": "Nasdaq 100 Advances 3% as Easing AI Anxiety Draws Dip Buyers In - Bloomberg.com",
-            "description": "US technology stocks rallied Wednesday, with the technology-heavy Nasdaq 100 index nearly erasing losses since the US midterm election, as renewed excitement over the artificial intelligence trade lured dip buyers in.",
-            "url": "https://www.bloomberg.com/news/articles/2026-11-11/us-equity-futures-rise-as-ai-enthusiasm-counters-hot-inflation",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ipI1S9ybeHuE/v1/1200x800.jpg",
-            "publishedAt": "2026-11-11T21:34:58Z",
-            "content": "US technology stocks rallied Wednesday, with the technology-heavy Nasdaq 100 index nearly erasing losses since the US midterm electionBloomberg Terminal\r\n, as renewed excitement over the artificial i… [+358 chars]"
-        },
-        {
-            "source": {
-                "id": "usa-today",
-                "name": "USA Today"
-            },
-            "author": "Keith Laing",
-            "title": "Toyota to bring 'really cute' tiny trucks favored by Trump to the US - USA Today",
-            "description": "Tiny Kei trucks are popular in Japan. Now Toyota plans to build one for American buyers as interest in smaller, practical pickups grows.",
-            "url": "https://www.usatoday.com/story/cars/news/2026/11/11/toyota-scion-kei-truck-america/92727212007/",
-            "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/11/11/USAT/92727993007-toyota-news-scion-by-toyota-001-09.jpg?crop=1599,900,x0,y83&width=1599&height=900&format=pjpg&auto=webp",
-            "publishedAt": "2026-11-11T21:16:00Z",
-            "content": "Toyota is planning to build what it says will be North America's first Kei truck for sale in the United States at its Indiana plant.\r\nThe Japanese company announced Nov. 9 it is reviving its former S… [+4249 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Barron's"
-            },
-            "author": "George Glover",
-            "title": "Costco’s Special Dividend Is Just One Reason It’s a Good Place to Shelter From AI Chaos - Barron's",
-            "description": "Costco declares a special cash dividend of $30 a share, showing why it’s ‘a high-quality, defensive compounder.’",
-            "url": "https://www.barrons.com/articles/costco-stock-special-dividend-dc9dc159",
-            "urlToImage": "https://images.barrons.com/im-99774623/social",
-            "publishedAt": "2026-11-11T21:15:00Z",
-            "content": "The artificial-intelligence reboundmet its matchon Tuesday, as hotter-than-expected inflation data dragged down stocks.\r\nCopyright ©2026Dow Jones &amp; Company, Inc. All Rights Reserved. 87990cbe8568… [+19 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "OilPrice.com"
-            },
-            "author": "Michael Kern",
-            "title": "Yttrium's 125-Fold Price Gap Looms Over Trump-Xi Talks in Shenzhen - Crude Oil Prices Today | OilPrice.com",
-            "description": "China extended its rare earth export pause to Jan. 10, but yttrium, priced 125 times higher in Europe than in China, was never covered by it.",
-            "url": "https://oilprice.com/Metals/Commodities/Yttriums-125-Fold-Price-Gap-Looms-Over-Trump-Xi-Talks-in-Shenzhen.html",
-            "urlToImage": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-11-11_p8qrd4ut6h.jpg",
-            "publishedAt": "2026-11-11T21:00:00Z",
-            "content": "Copper futures in London reached…\r\nU.S. manufacturers remain heavily dependent…\r\nUBS is urging investors to…\r\nSet us as your preferred Google source\r\nBy Michael Kern - Nov 11, 2026, 3:00 PM CSTChina … [+3229 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Fox Business"
-            },
-            "author": "Eric Revell",
-            "title": "Nvidia stock faces rare downgrades as board investigates CEO Jensen Huang's admitted affair - Fox Business",
-            "description": "Baird issued a rare downgrade of Nvidia stock to neutral as CEO Jensen Huang's affair with an alleged Chinese spy clouds the AI giant's outlook.",
-            "url": "https://www.foxbusiness.com/markets/nvidia-stock-faces-rare-downgrades-board-investigates-ceo-jensen-huangs-admitted-affair",
-            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/09/0/0/jensen-huang-nvidia-ceo-g20.jpg?ve=1&tl=1",
-            "publishedAt": "2026-11-11T20:51:00Z",
-            "content": "Artificial intelligence giant Nvidia is facing investor scrutiny due to concerns about the company's future amid its internal investigation into CEO Jensen Huang's affair with an alleged Chinese spy.… [+3022 chars]"
         }
     ]
 }
