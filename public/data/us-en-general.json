@@ -1,7 +1,319 @@
 {
     "status": "ok",
-    "totalResults": 343,
+    "totalResults": 333,
     "articles": [
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Anand Krishnamoorthy",
+            "title": "Asian Stocks Set to Fall Ahead of Anthropic Debut: Markets Wrap - Bloomberg.com",
+            "description": "US equity-index futures rose while Asian shares fell as traders assessed whether Anthropic PBC’s record initial public offering can revive confidence in the artificial intelligence trade following a recent selloff in technology stocks. The Australian dollar w…",
+            "url": "https://www.bloomberg.com/news/articles/2026-11-18/stock-market-today-dow-s-p-live-updates",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ivXtZyt86hRY/v0/1200x800.jpg",
+            "publishedAt": "2026-11-19T05:47:01Z",
+            "content": "US equity-index futures rose while Asian shares fell as traders assessed whether Anthropic PBCs record initial public offering can revive confidence in the artificial intelligence trade following a r… [+446 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Lena H. Sun",
+            "title": "Eighth measles death reported as Pennsylvania nears 1,600 cases - The Washington Post",
+            "description": "The United States is confronting its worst measles resurgence in decades and has lost its status as a country that has eliminated measles.",
+            "url": "https://www.washingtonpost.com/health/2026/11/18/eighth-measles-death-reported-pennsylvania-nears-1600-cases/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QTU2VWMPLILRLPJ6DU34A3STBQ_size-normalized.jpg&w=1440",
+            "publishedAt": "2026-11-19T03:55:39Z",
+            "content": "Pennsylvania health officials on Wednesday reported another measles-associated death, bringing the states death toll to eight as it confronts one of the nations largest outbreaks.\r\nThe unvaccinated r… [+315 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Alexei Koseff, Mariana Alfaro",
+            "title": "Leading House Democrat targets Trump’s inner circle for first investigations - The Washington Post",
+            "description": "Incoming Oversight Committee Chairman Robert Garcia wants to investigate the president’s sons, the vice president and others.",
+            "url": "https://www.washingtonpost.com/politics/2026/11/18/leading-house-democrat-targets-trumps-inner-circle-first-investigations/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/FBBOW65MNRGXNNPWT6SXCI6Q7I.jpg&w=1440",
+            "publishedAt": "2026-11-19T03:54:47Z",
+            "content": "The top Democrat on the House Oversight Committee demanded Wednesday thatPresident Donald Trumps sons, closest advisers and top administration officials including Vice President JD Vance preserve doc… [+201 chars]"
+        },
+        {
+            "source": {
+                "id": "bleacher-report",
+                "name": "Bleacher Report"
+            },
+            "author": "Timothy Rapp",
+            "title": "RJ Luis Jr. Makes Debut for No. 25 LSU vs. ULM After NBA Stint With Celtics - Bleacher Report",
+            "description": "RJ Luis Jr. made his LSU debut on Wednesday night, coming off the bench for the team in the first half during a matchup against UL Monroe.",
+            "url": "https://bleacherreport.com/articles/25535113-rj-luis-jr-makes-debut-no-25-lsu-vs-ulm-after-nba-stint-celtics",
+            "urlToImage": "https://gsp-image-cdn.wmsports.io/cms/prod/bleacher-report/getty_images/2026-11/2239462974_large_cropped.jpg?w=1120&h=630",
+            "publishedAt": "2026-11-19T03:50:44Z",
+            "content": "RJ Luis Jr. made his LSU debut on Wednesday night, coming off the bench for the team in the first half during a matchup against UL Monroe. \r\nHe ultimately recorded 11 points (on 3-of-9 shooting) and … [+945 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Formula 1"
+            },
+            "author": "F1",
+            "title": "'We can get rid of the noise' – Valtteri Bottas relieved to have Cadillac future confirmed for 2027 - Formula 1",
+            "description": "Valtteri Bottas admits that being confirmed for the 2027 season with Cadillac ahead of the Las Vegas Grand Prix \"gives me a peace\", after weeks of speculation he would not be retained.",
+            "url": "https://www.formula1.com/en/latest/article/we-can-get-rid-of-the-noise-bottas-relieved-to-have-cadillac-future-confirmed-for-2027.5LE0fIkWvK7hk8syPThmkE",
+            "urlToImage": "https://media.formula1.com/image/upload/t_16by9Centre/c_lfill,w_2048/q_auto/v1740000001/trackside-images/2026/F1_Grand_Prix_of_Las_Vegas___Previews/2305798292.webp",
+            "publishedAt": "2026-11-19T03:13:00Z",
+            "content": "Speculation had grown in recent weeks that IndyCar race winner and reserve driver Colton Herta would replace Bottas, with Cadillac potentially keen to get an American on the grid.\r\nHerta has competed… [+995 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "KABC-TV"
+            },
+            "author": null,
+            "title": "2026 CMA Awards live updates: A look at the top highlights and biggest moments - ABC7 Los Angeles",
+            "description": "Watch the 60th CMA Awards on ABC and Disney+. Stream the next day on Hulu.",
+            "url": "https://abc7.com/live-updates/2026-cma-awards-live-updates-see-winners-red-carpet-highlights-best-moments-country-musics-biggest-night/20045142/",
+            "urlToImage": "https://cdn.abcotvs.com/dip/images/20053552_111826-cc-ap-taylor-swift-cma-swing-img.jpg?w=1600",
+            "publishedAt": "2026-11-19T02:38:00Z",
+            "content": "Taylor Swift had a good laugh during the CMA Awards opening monologue, when host Lainey Wilson and Brad Paisley mentioned her wedding at Madison Square Garden to Kansas City Chiefs star Travis Kelce.… [+761 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Trump, Xi and Putin set to hold historic meeting on Apec sidelines - BBC",
+            "description": "Chinese leader Xi Jinping personally met the US president at the airport, a first for a foreign leader, ahead of the highly anticipated talks.",
+            "url": "https://www.bbc.com/news/live/cmlye926e2eet",
+            "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bd0c/live/d2c96c30-e3a9-11f1-919c-0bc91a1089fc.jpg",
+            "publishedAt": "2026-11-19T02:32:21Z",
+            "content": "BBC Chinese\r\nA little later today, the trio will reportedly be heading to the Kylin Villa in Shenzhen.\r\nThe state-owned compound, which opened in 1997, has long hosted Chinese and foreign leaders.\r\nB… [+787 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Alex DeLuca",
+            "title": "More than a foot of overnight rain in South Florida causes widespread flooding - The Washington Post",
+            "description": "Up to 15 inches of rain had fallen in parts of Broward County by Wednesday morning, the National Weather Service said in preliminary estimates.",
+            "url": "https://www.washingtonpost.com/nation/2026/11/18/more-than-foot-overnight-rain-south-florida-causes-widespread-flooding/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZCWHRAC6Q456G465T7QJWX7ZGI_size-normalized.jpg&w=1440",
+            "publishedAt": "2026-11-19T02:28:59Z",
+            "content": "An intense overnight storm dumped rain across South Florida, flooding roads, inundating homes and forcing schools to close.\r\nBy Wednesday morning, up to 15 inches of rain had fallen in parts of Browa… [+161 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Joe  Walsh",
+            "title": "Elon Musk says he's \"not MAGA,\" feels \"foolish\" about how much he spent in midterms - CBS News",
+            "description": "After opening his wallet to assist GOP candidates in the 2026 midterms, billionaire Elon Musk said Wednesday he feels \"pretty foolish\" about spending hundreds of millions of dollars in the race.",
+            "url": "https://www.cbsnews.com/news/elon-musk-not-maga-midterm-spending-trump/",
+            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/10/21/3af5ed25-5828-4100-9045-e7035e355151/thumbnail/1200x630/21a754481eda37325a9e35aab0fd711d/gettyimages-2296349180.jpg",
+            "publishedAt": "2026-11-19T02:16:00Z",
+            "content": "After opening his wallet to assist Republican candidates in the 2026 midterms, billionaire Elon Musk said Wednesday he feels \"pretty foolish\" about spending hundreds of millions of dollars.\r\nThe worl… [+3618 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": null,
+            "title": "American surfer Kurt Van Dyke's girlfriend and another man arrested for his murder - Yahoo",
+            "description": "American Kurt Van Dyke, who comes from a legendary surfing family, was killed in his Costa Rica home months ago. Now, his girlfriend and another man have been arrested in connection with his murder. Carter Evans has the story.",
+            "url": "https://www.cbsnews.com/video/american-surfer-kurt-van-dykes-girlfriend-and-another-man-arrested-on-suspicion-of-murder/",
+            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/19/93b3f6e4-ab57-4d30-9650-9a6dc0b44f9c/thumbnail/1200x630/40ce22eb843df5b4e16992a4db4f90fc/cbsn-fusion-surf-legend-kurt-van-dykes-girlfriend-and-another-man-arrested-for-his-murder-thumbnail.jpg",
+            "publishedAt": "2026-11-19T01:23:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "Garrett Podell",
+            "title": "Cowboys' handling of DC Christian Parker is bizarre, leaving Dallas with more questions than answers - CBS Sports",
+            "description": "Dallas head coach Brian Schottenheimer maintains Parker has an \"incredibly bright future\" with the Cowboys despite taking play-calling away from his first-year coordinator",
+            "url": "https://www.cbssports.com/nfl/news/cowboys-handling-defensive-coordinator-christian-parker-mike-pettine/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2026/11/18/47717fd8-d6bb-4dda-ba26-5dcc54c1af99/thumbnail/1200x675/c1c6df165af12baa3dcdbc79b4de6548/christian-parker-dallas.jpg",
+            "publishedAt": "2026-11-18T22:36:00Z",
+            "content": "FRISCO, Texas -- The Dallas Cowboys have always operated a little bit differently than the NFL's 31 other teams, mainly thanks to vocal owner Jerry Jones, who doubles as the team's general manager. H… [+9763 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Israeli military launches rare ground operation in Gaza beyond Yellow Line - BBC",
+            "description": "Hamas condemns the incursion, which the Israeli military says is dismantling a \"terror tunnel\", as a \"flagrant\" ceasefire violation.",
+            "url": "https://www.bbc.com/news/articles/cw8r7510degno",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/ee79/live/56061990-e382-11f1-a094-5fdc692f3e33.jpg",
+            "publishedAt": "2026-11-18T22:34:56Z",
+            "content": "\"IDF troops under the Southern Command are deployed in the area in accordance with the ceasefire agreement and will continue to operate to remove any immediate threat and thwart attempts by the Hamas… [+103 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": null,
+            "title": "Flu activity rises across US as 6 states reach high levels, CDC data shows - Fox News",
+            "description": "Cases of the flu are spiking early nationwide, with the CDC reporting Louisiana at very high activity and influenza A (H1N1) the top virus this season.",
+            "url": "https://www.foxnews.com/health/flu-activity-rises-across-us-6-states-reach-high-levels-cdc-data-shows",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/01/woman-sick-blowing-nose.jpg",
+            "publishedAt": "2026-11-18T22:33:23Z",
+            "content": "Cases of the flu are already cropping up across the country in an early spike.\r\nIn its weekly influenza update, the Centers for Disease Control and Prevention has alerted that seasonal flu activity i… [+2720 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Space.com"
+            },
+            "author": "Charles Q. Choi",
+            "title": "Astronomers witness a star eating its companion in 1st-of-its-kind observation - Space",
+            "description": "\"I was absolutely flabbergasted when we saw this.\"",
+            "url": "https://www.space.com/astronomy/stars/astronomers-witness-a-star-eating-its-companion-in-1st-of-its-kind-observation",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/ymKLsjWDynHPya4mqALR6S-2048-80.jpg",
+            "publishedAt": "2026-11-18T22:00:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Eugene Kim, Geoff Weiss",
+            "title": "Inside Nvidia's all-hands meeting, executives confront the elephant in the room: Jensen Huang - Business Insider",
+            "description": "At Nvidia's first all-hands since Jensen Huang's exit, executives addressed employees' concerns and revealed what's next.",
+            "url": "https://www.businessinsider.com/inside-nvidia-first-all-hands-meeting-after-jensen-huang-ouster-2026-11#article",
+            "urlToImage": "https://i.insider.com/6afe16b473f126f9eccb803c?width=1200&format=jpeg",
+            "publishedAt": "2026-11-18T21:52:00Z",
+            "content": "Nvidia leaders used the company's first all-hands meeting since Jensen Huang's resignation to assure employees that its road map, customer relationships, and execution strategy remain intact.\r\nInteri… [+7273 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5google.com"
+            },
+            "author": "Abner Li",
+            "title": "Google launches Gemini 4 Neon with Carbon quality at Flash speeds, live for AI Pro - 9to5Google",
+            "description": "Following last week’s release of Carbon and Hydrogen, Google today is rolling out Gemini 4 Neon. The model offers “frontier-level...",
+            "url": "http://9to5google.com/2026/11/18/gemini-4-neon-announcement/",
+            "urlToImage": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/gemini-4-neon-cover.webp?resize=1200,628",
+            "publishedAt": "2026-11-18T21:34:00Z",
+            "content": "Following last weeks release of Carbon and Hydrogen, Google today is rolling out Gemini 4 Neon. The model offers “frontier-level reasoning for complex, high-frequency workflows faster and more cost e… [+4226 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5google.com"
+            },
+            "author": "Ben Schoon",
+            "title": "Google Pixel officially re-releases App Lock in beta, Samsung Galaxy gets it too - 9to5Google",
+            "description": "It’s been a wild ride for Google Pixel’s App Lock feature, but the company is officially re-releasing the feature today,...",
+            "url": "http://9to5google.com/2026/11/18/google-pixel-app-lock-release-beta/",
+            "urlToImage": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/google-pixel-app-lock.jpg?quality=82&strip=all&resize=1200,628",
+            "publishedAt": "2026-11-18T21:20:00Z",
+            "content": "It’s been a wild ride for Google Pixel’s App Lock feature, but the company is officially re-releasing the feature today, right alongside its debut on Samsung Galaxy devices.\r\nApp Lock debuted on Goog… [+1648 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PBS"
+            },
+            "author": null,
+            "title": "Cornyn blocks top Justice Department official nominated for judicial vacancy in Texas - PBS",
+            "description": "A senior outgoing Republican senator said Wednesday that he will block one of President Donald Trump’s final judicial picks for a court vacancy in Texas, as the GOP-led Senate scrambles to fill all the remaining vacancies in the federal courts before Democrat…",
+            "url": "https://www.pbs.org/newshour/politics/cornyn-blocks-top-justice-department-official-nominated-for-judicial-vacancy-in-texas",
+            "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/2026-11-10T211113Z_1942347810_RC27LOAJQ4E6_RTRMADP_3_USA-CONGRESS-REPUBLICANS-1024x683.jpg",
+            "publishedAt": "2026-11-18T21:02:57Z",
+            "content": "WASHINGTON (AP) A senior outgoing Republican senator said Wednesday that he will block one of President Donald Trump's final judicial picks for a court vacancy in Texas, as the GOP-led Senate scrambl… [+3489 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NewsCenterMaine.com WCSH-WLBZ"
+            },
+            "author": "newscentermaine.com",
+            "title": "3 dead after contracting respiratory viruses in Washington County - newscentermaine.com",
+            "description": null,
+            "url": "https://www.newscentermaine.com/article/news/health/3-dead-contracting-respiratory-viruses-washington-county-health-illness-maine/97-a1836dfe-fa44-4d0d-a508-85a007e19b99",
+            "urlToImage": null,
+            "publishedAt": "2026-11-18T20:53:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PBS"
+            },
+            "author": null,
+            "title": "Duffy keeps blaming L3Harris after FAA ground stop, even as cause remains unknown - PBS",
+            "description": "U.S. Transportation Secretary Sean Duffy continues to blame a contractor for the events that prompted the Federal Aviation Administration to order a ground stop last week, even though investigators haven't determined the root cause.",
+            "url": "https://www.pbs.org/newshour/politics/dot-secretary-sean-duffy-keeps-blaming-l3harris-after-faa-ground-stop-even-as-cause-remains-unknown",
+            "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/2026-11-18T044447Z_62003492_RC2YPOAL9ELZ_RTRMADP_3_USA-AVIATION-DUFFY-1024x678.jpg",
+            "publishedAt": "2026-11-18T20:50:38Z",
+            "content": "U.S. Transportation Secretary Sean Duffy continues to blame a contractor for the events that prompted the Federal Aviation Administration to order a ground stop last week, even though investigators h… [+4976 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Eonline.com"
+            },
+            "author": null,
+            "title": "KJ Biermann Faced 16 Alleged Sex Offenses, Including Incest and Child Molestation, in Prior Case - E! News",
+            "description": "Prosecutors in the sexual assault case against Kim Zolciak and Kroy Biermann's son KJ shared insight into an April 2025 sexual assault case, in which he was charged with 16 offenses, including incest.",
+            "url": "https://www.eonline.com/news/1438220/kj-biermann-faced-16-alleged-sex-offenses-incest-in-prior-case",
+            "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/20261118/f951b2ee-0a4b-4cfe-bf95-72f79cb531d8_1795027245.jpg?fit=around%7C1200:1200&output-quality=90&crop=1200:1200;center,top",
+            "publishedAt": "2026-11-18T20:21:00Z",
+            "content": "The docs argued that it was \"even more concerning\" since KJ had completed \"all or the vast majority\" of his court-mandated therapy sessions at the time of his second alleged offense.\r\nThe filing adde… [+826 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Anna Liss-Roy, Mariana Alfaro",
+            "title": "Democrat Hakeem Jeffries nominated to be first Black speaker of House next year - The Washington Post",
+            "description": "The full House, including Republicans, is scheduled to vote Jan. 3 for the chamber’s next leader.",
+            "url": "https://www.washingtonpost.com/politics/2026/11/18/house-democrats-nominate-hakeem-jeffries-speaker-next-year/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/34HYOUPHIN4CER7JMGMZU5V7HU_size-normalized.jpg&w=1440",
+            "publishedAt": "2026-11-18T20:02:57Z",
+            "content": "House Democrats voted overwhelmingly Wednesday to nominate Rep. Hakeem Jeffries (D-New York) as speaker of the House next year, putting him on the precipice of history as the first Black American to … [+15 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PBS"
+            },
+            "author": null,
+            "title": "Voyager 1 is now a light-day from Earth. Here's what to know about NASA's longest-running mission - PBS",
+            "description": "It's the little space probe that could: Nearly 50 years after it was launched, NASA's Voyager 1 on Wednesday became the first human-made object to travel one light-day — or 16 billion miles — away from Earth.",
+            "url": "https://www.pbs.org/newshour/science/voyager-1-is-now-a-light-day-from-earth-heres-what-to-know-about-nasas-longest-running-mission",
+            "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/pia17462-1024x576.jpg",
+            "publishedAt": "2026-11-18T18:55:55Z",
+            "content": "It's the little space probe that could: Nearly 50 years after it was launched, NASA's Voyager 1 on Wednesday became the first human-made object to travel one light-day or 16 billion miles away from E… [+4418 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Stevie Bonifield",
+            "title": "The first Nvidia RTX Spark mini PCs launch today from Asus, Dell, and MSI - The Verge",
+            "description": "Asus, Dell, and MSI launched the first mini PCs with Nvidia’s RTX Spark chip, available starting today.",
+            "url": "https://www.theverge.com/tech/1036880/nvidia-rtx-spark-ai-mini-pc-desktops",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/asus-proart-gr1x-nvidia-rtx-spark-white-background.jpeg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+            "publishedAt": "2026-11-18T18:34:55Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThese desktop PCs can pair Nvidias superchip with up to 128GB of memory for running local AI models.\r\nThese desktop PCs can pair Nvidias superchip with up to 128… [+3017 chars]"
+        },
         {
             "source": {
                 "id": "the-wall-street-journal",
@@ -14,6 +326,32 @@
             "urlToImage": "https://images.wsj.net/im-925349/social",
             "publishedAt": "2026-11-18T17:03:00Z",
             "content": "Nvidias blockbuster earnings failed to give tech stocks a lift, a sign that worries about the AI trade continue to haunt investors after days of drama over the chip makers ousted CEO Jensen Huang.\r\nT… [+856 chars]"
+        },
+        {
+            "source": {
+                "id": "nfl-news",
+                "name": "NFL News"
+            },
+            "author": "Grant Gordon",
+            "title": "Bengals' Joe Burrow, Lions' Jahmyr Gibbs highlight Players of the Week - NFL.com",
+            "description": "Detroit running back Jahmyr Gibbs and Cincinnati Bengals quarterback Joe Burrow earned top offensive honors after monster Week 10 outings.",
+            "url": "https://www.nfl.com/news/players-of-the-week-2026-week-10-joe-burrow-jahmyr-gibbs",
+            "urlToImage": "https://static.www.nfl.com/image/upload/t_editorial_landscape_12_desktop/league/ujtudq59qxhwx2rmrggn",
+            "publishedAt": "2026-11-18T17:00:22Z",
+            "content": "A wide receiver and kick returner, Horton had no catches and no returns on Sunday in the Seahawks' 21-13 win over the Raiders. However, his awareness on one of the most heady plays you'll see helped … [+902 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera Staff",
+            "title": "Kuwait, Bahrain face new Iran attacks after US strike on Qeshm Island - Al Jazeera",
+            "description": "Iranian attacks on the Gulf countries draw condemnation from across the region.",
+            "url": "https://www.aljazeera.com/news/2026/11/18/kuwait-bahrain-face-new-iran-attacks-after-us-strike-on-qeshm-island",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-18T071442Z_913088351_RC27QOA8QSRZ_RTRMADP_3_IRAN-CRISIS-1795018749.jpg?resize=1200%2C630",
+            "publishedAt": "2026-11-18T16:56:45Z",
+            "content": "Iran has launched new attacks on its Gulf neighbours, targeting an airbase used by the United States military in Kuwait and carrying out several attacks on Bahrain after the US bombed Irans Qeshm Isl… [+2869 chars]"
         },
         {
             "source": {
@@ -274,6 +612,19 @@
             "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1116%2F261118_cfb_jordan%2Dreid%2Dmock%2Ddraft_16x9.jpg",
             "publishedAt": "2026-11-18T11:35:00Z",
             "content": "Now that the NFL trade deadline has passed and we're in the second half of the 2026 season, it's a great time to look ahead to the 2027 NFL draft. Some teams whose playoff hopes are mostly dashed are… [+22458 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "The New York Times",
+            "title": "What to Know About the Myanmar Genocide Case at the World Court - The New York Times",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMHJpYkFmNFJ4WWUwUDA2YU5nWGJGRUFsZnZHOEtPSndaT01CYTI1MVNVWTdDbG1PSFJYTWgweXBNb3ZkeUx2RWNGZVpERi1WNzlxRTNVbEtnRU56LVJrUG5fVXdCaWdKeS1JMG1Rd1FuZi0zRmlJdU0zaHZrNVBJZ3ZoRVRlSnMwNVh5Vms5SlJ6YWN2Ri1fNmdRRQ?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2026-11-18T10:03:51Z",
+            "content": null
         },
         {
             "source": {
@@ -3979,487 +4330,6 @@
             "urlToImage": "https://deadline.com/wp-content/uploads/2026/11/GettyImages-2302359779-e1793702400683.jpg?w=1024",
             "publishedAt": "2026-11-13T07:21:00Z",
             "content": "Russell Brand has been accused of sexual misconduct and predatory behavior by six new women after being jailed for rape and sexual assault.\r\nThe Times of Londonreported on the fresh allegations after… [+3050 chars]"
-        },
-        {
-            "source": {
-                "id": "bloomberg",
-                "name": "Bloomberg"
-            },
-            "author": "Andy Lin, Mackenzie Hawkins, Kari Soo Lindberg",
-            "title": "Alice Huang-Linked Firm Procured Banned Nvidia Chips in China - Bloomberg.com",
-            "description": "A Chinese company founded by Alice Huang, the woman at the center of a controversy dogging Nvidia Corp., procured smuggled AI chips that were installed at a Shanghai data center with links to Megaspeed International Pte, according to documents reviewed by Blo…",
-            "url": "https://www.bloomberg.com/news/articles/2026-11-13/banned-nvidia-chips-installed-at-china-data-center-linked-to-alice-huang",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/it4gyrRNn6ZA/v0/1200x880.jpg",
-            "publishedAt": "2026-11-13T06:48:00Z",
-            "content": "A Chinese company founded by Alice Huang, the woman at the center of a controversy dogging Nvidia Corp., procured smuggled AI chips that were installed at a Shanghai data center with links to Megaspe… [+302 chars]"
-        },
-        {
-            "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
-            },
-            "author": "Stephen Whyno",
-            "title": "Jayden Daniels and Commanders rally to stun the Giants 24-21 and keep their hopes alive - AP News",
-            "description": "Jayden Daniels threw his third touchdown pass of the game, a 32-yarder to Stefon Diggs with 57 seconds left, and the Washington Commanders rallied to defeat the New York Giants 24-21 in what was essentially a must-win game. Daniels connection with Diggs came …",
-            "url": "https://apnews.com/article/giants-commanders-score-d0962af1b40a7fc129b86828670b45ab",
-            "urlToImage": "https://dims.apnews.com/dims4/default/0ac9a47/2147483647/strip/true/crop/7333x4889+0+0/resize/1200x800!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F28%2Fd7%2Fa95f5c1d85dfc0c9a88c481a729e%2Fbbdee273746c4481b57f927bf010bea7",
-            "publishedAt": "2026-11-13T05:30:00Z",
-            "content": "EAST RUTHERFORD, N.J. (AP) Even after Jayden Daniels threw two interceptions and it looked like the Washington Commanders were hurtling toward a painful loss at the New York Giants, teammates remembe… [+3764 chars]"
-        },
-        {
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "author": null,
-            "title": "Highly contagious bird flu detected in Wisconsin as officials euthanize infected flock - Fox News",
-            "description": "Wisconsin officials euthanized a backyard poultry flock in Rusk County after confirming a case of highly pathogenic avian influenza in the birds.",
-            "url": "https://www.foxnews.com/health/highly-contagious-bird-flu-detected-wisconsin-officials-euthanize-infected-flock",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/wisconsin-bird-flu-outbreak-rusk-county.jpg",
-            "publishedAt": "2026-11-13T05:20:20Z",
-            "content": "A highly contagious strain of bird flu has struck a backyard poultry flock in Wisconsin, prompting officials to euthanize the birds amid ongoing concerns about the spread of the potentially deadly di… [+1572 chars]"
-        },
-        {
-            "source": {
-                "id": "cbs-news",
-                "name": "CBS News"
-            },
-            "author": "Allen  Devlin",
-            "title": "Video taken inside apartment shows moment Brooklyn building collapsed - CBS News",
-            "description": "New video from inside an apartment shows the moment a Brooklyn building collapsed Wednesday.",
-            "url": "https://www.cbsnews.com/newyork/news/brooklyn-building-collapse-video-inside-apartment/",
-            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/13/4dab95c8-94cc-41ef-9bad-0f032e04c730/thumbnail/1200x630/822a7b4dd2273364e66c726fc5eaa34c/new-collapse-video-11p-wcbsjmbb-hi-res-still.jpg",
-            "publishedAt": "2026-11-13T04:55:30Z",
-            "content": "New video from inside an apartment shows the moment a Brooklyn building collapsed Wednesday.\r\nAnderson Velez shared the video with CBS News New York's Allen Devlin.\r\nVelez said he was not home when t… [+801 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Techpowerup.com"
-            },
-            "author": null,
-            "title": "Xbox Confirms Wolfenstein 3 Coming Soon and Id Software Teases Next Doom Game - TechPowerUp",
-            "description": "It's been a busy week at Xbox Game Studios, with the gaming giant celebrating its 25th anniversary with a slew of new additions to its Xbox Backwards Compatibility on PC program, but it seems as though Xbox CEO, Asha Sharma, had one more trick up her sleeve, …",
-            "url": "https://www.techpowerup.com/354770/xbox-confirms-wolfenstein-3-coming-soon-and-id-software-teases-next-doom-game",
-            "urlToImage": "https://www.techpowerup.com/img/TuL11dwliNqllxF2.jpg",
-            "publishedAt": "2026-11-13T04:53:42Z",
-            "content": "Chrispy_I'm optimistic about the output from MachineGames. They have been spectacularly competent with Wolfenstein, Indy, and show that they really understand how to make fun single-player gunplay wi… [+1798 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "NBCSports.com"
-            },
-            "author": "Charean Williams",
-            "title": "Thursday Night Football: Stefon Diggs’ late TD gives Commanders 24-21 win - NBC Sports",
-            "description": "The wide receiver caught a 32-yard touchdown pass from Jayden Daniels with 57 seconds left.",
-            "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/thursday-night-football-stefon-diggs-late-td-gives-commanders-24-21-win",
-            "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/9bc1f66/2147483647/strip/true/crop/3384x1904+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F07%2Fbc%2F85538b6941558078239e936018e9%2F2304876440.jpg",
-            "publishedAt": "2026-11-13T04:30:40Z",
-            "content": "With 3:27 remaining in Thursdays game, the Giants lined up with Jameis Winston under center on fourth-and-1 from their own 11. The teams backup quarterback, who runs the teams quarterback sneaks, yel… [+1778 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Phys.Org"
-            },
-            "author": null,
-            "title": "Research advances quantum computing that harnesses speed of light - Phys.org",
-            "description": "Quantum computers have the potential to perform calculations more quickly than supercomputers, but they could be even faster and more energy-efficient if they were built with photons as their basic units, called qubits.",
-            "url": "https://phys.org/news/2026-11-advances-quantum-harnesses.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/2026/purdue-professor-vladi.jpg",
-            "publishedAt": "2026-11-13T03:40:01Z",
-            "content": "Quantum computers have the potential to perform calculations more quickly than supercomputers, but they could be even faster and more energy-efficient if they were built with photons as their basic u… [+10240 chars]"
-        },
-        {
-            "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
-            },
-            "author": "Maria Sherman",
-            "title": "Daddy Yankee and Rosalía shine at the 2026 Latin Grammy Awards with stunning performances and wins - AP News",
-            "description": "Rosalía has won album and song of the year at the 27th annual Latin Grammy Awards. She also opened the Thursday night show. Juanes won the first award for best pop/rock album. Performers at this year’s bash included Karol G, Anitta, Jorge Drexler and Silvana …",
-            "url": "https://apnews.com/article/latin-grammys-2026-70584c66afd078de1df5143f6dc10398",
-            "urlToImage": "https://dims.apnews.com/dims4/default/259cb93/2147483647/strip/true/crop/3000x2000+0+0/resize/1200x800!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fa1%2F6d%2F5204afe9dff92577271b84f6db68%2F660a749ec86147e09078dc128d183fbf",
-            "publishedAt": "2026-11-13T03:38:00Z",
-            "content": "Spanish singer Rosalía won album of the year at the 27th annual Latin Grammy Awards on Thursday night, capping an electrifying night full of stellar performances across genres.\r\nThrough tears, she st… [+6166 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": null,
-            "title": "What we know about Brooklyn building collapse that killed eight people - BBC",
-            "description": "Two construction workers and two children were killed when a residential building fell into an adjacent construction site on Wednesday.",
-            "url": "https://www.bbc.com/news/articles/cm20v66jq611o",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4351/live/bf5dd100-decb-11f1-86d5-71a9f29d1c99.jpg",
-            "publishedAt": "2026-11-13T03:26:47Z",
-            "content": "A senior official with the NYPD identified the victims as Nicole Daniela Salvada Rodriguez, 9, Juan Daniel Salvada Guzman, 31, Kevin Santiago Reyes Gonzalez, 10, Barry Mamadou, 23, and Ndiaye Mamadou… [+96 chars]"
-        },
-        {
-            "source": {
-                "id": "nbc-news",
-                "name": "NBC News"
-            },
-            "author": "Kyla Guilfoil",
-            "title": "Howard Lutnick agrees to testify as bipartisan pressure grows over Nvidia scandal - NBC News",
-            "description": "Former Nvidia CEO Jensen Huang, who was also requested to testify, had previously praised the commerce secretary for his support and involvement in the industry.",
-            "url": "https://www.nbcnews.com/politics/congress/commerce-secretary-howard-lutnick-testify-pressure-nvidia-scandal-rcna609093",
-            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261113-lutnik-rs-8047a9.jpg",
-            "publishedAt": "2026-11-13T02:45:00Z",
-            "content": "Earlier Thursday, Sen. Richard Blumenthal, D-Conn., told reporters that Lutnick should appear voluntarily, though if he doesnt, He may need to be subpoenaed.\r\nBlumenthal said one thing he wants to kn… [+3336 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNBC"
-            },
-            "author": "Tobias Burns",
-            "title": "Stock futures rise after market dips amid Nvidia woes: Live updates - CNBC",
-            "description": "Major indexes sagged in Thursday's regular trading as Nvidia shares dove on Jensen Huang's exit.",
-            "url": "https://www.cnbc.com/2026/11/12/stock-market-today-live-updates.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108550258-1794502895373-gettyimages-2304263485-US_STOCKS.jpeg?v=1794502956&w=1920&h=1080",
-            "publishedAt": "2026-11-13T02:29:00Z",
-            "content": "U.S. equity futures rose Thursday evening after major indexes dipped and Nvidia shares fell, following the exit of its founder and CEO Jensen Huang amid an ongoing scandal.\r\nFutures tied to the Dow J… [+2060 chars]"
-        },
-        {
-            "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
-            "author": "Alex Horton, Tara Copp",
-            "title": "Hegseth awards medal to soldier who admonished him, his team at Tomb of the Unknowns - The Washington Post",
-            "description": "Video elicited furious backlash from critics incredulous that a defense secretary would behave disrespectfully at one of the nation’s most sacred memorials.",
-            "url": "https://www.washingtonpost.com/national-security/2026/11/12/hegseth-awards-spec-thomas-iglesias-who-scolded-him-tomb-unknowns/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/A5S6CZCW44H6WKASITUKTGUO7E.JPG&w=1440",
-            "publishedAt": "2026-11-13T02:19:19Z",
-            "content": "Defense Secretary Pete Hegseth on Thursday awarded a commendation medal to the soldier who admonished him and his entourage for their disruptive behavior at the Tomb of the Unknowns in Arlington Nati… [+13 chars]"
-        },
-        {
-            "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
-            },
-            "author": "Jill Lawless",
-            "title": "US envoys meet with Putin in Moscow on Ukraine talks, then see Zelenskyy in Dublin - AP News",
-            "description": "U.S. envoys have met with Russian President Vladimir Putin in the Kremlin and with Ukrainian President Volodymyr Zelenskyy in Ireland as Washington seeks new momentum in peace efforts. Envoys Steve Witkoff and Jared Kushner brokered talks this week between de…",
-            "url": "https://apnews.com/article/russia-ukraine-war-putin-kushner-witkoff-683810203340077f33611fd1d1757b23",
-            "urlToImage": "https://dims.apnews.com/dims4/default/ba83b0b/2147483647/strip/true/crop/6754x4463+0+0/resize/1200x793!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fbc%2Fac%2Fedaab786dc6da3fb823e032f102e%2F26d9ac290f55483da5fb4b7188da8cda",
-            "publishedAt": "2026-11-13T02:09:00Z",
-            "content": "DUBLIN (AP) U.S. envoys met Thursday with Russian President Vladimir Putin in the Kremlin before heading to Ireland for talks with Ukrainian President Volodymyr Zelenskyy as Washington sought new mom… [+7193 chars]"
-        },
-        {
-            "source": {
-                "id": "nbc-news",
-                "name": "NBC News"
-            },
-            "author": "Frank Thorp V, Sahil Kapur",
-            "title": "Sen. Chris Van Hollen says he will challenge Sen. Chuck Schumer for majority leader - NBC News",
-            "description": "Sen. Chris Van Hollen, D-Md., announced Thursday he will run for Senate majority leader, becoming the first to challenge Sen. Chuck Schumer, D-N.Y.",
-            "url": "https://www.nbcnews.com/politics/congress/sen-chris-van-hollen-says-will-challenge-sen-chuck-schumer-majority-le-rcna609100",
-            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261112-schumer-van-hollen-split-ww-1806-750458.jpg",
-            "publishedAt": "2026-11-13T02:03:00Z",
-            "content": "WASHINGTON Sen. Chris Van Hollen, D-Md., announced Thursday he will run for Senate majority leader, becoming the first to challenge Sen. Chuck Schumer, D-N.Y., for the position.\r\nIn this election, th… [+2089 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Eduardo Cuevas, Tori B. Powell, Tyler Ory, Gloria Pazmino, Taylor Galgano, Jeff Winter, Taylor Romine, Brynn Gingras, Graham Hurley, Ray Sanchez, John Miller, Holly Yan, Mary Gilbert, Sara Smart, Aditi Sangal, Lauren Mascarenhas, Andy Rose, Rebekah Riess, Thomas Bordeaux, Chris Boyette, Karina Tsui, Chris Dolce, Martin Goillandeau, Jillian Sykes, Aidan Johnstone, Dalia Faheid, Emma Tucker, Shimon Prokupecz",
-            "title": "Live updates: Investigation into deadly New York building collapse widens as rescuers complete search for survivors - CNN",
-            "description": "New York officials are investigating what caused the deadly collapse of a mixed-use, three-story building in Brooklyn on Wednesday. Follow live updates.",
-            "url": "https://www.cnn.com/2026/11/11/us/live-news/brooklyn-building-collapse-nyc",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/2026-11-12t000842z-1299700098-rc2zloawl11z-rtrmadp-3-new-york-building.JPG?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2026-11-13T01:58:00Z",
-            "content": "The owner of the collapsed building in Brooklyn had a troubling history that reportedly landed him in jail for 12 days in 2006 for failing to repair hundreds of violations across multiple buildings.\r… [+2468 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Notebookcheck.net"
-            },
-            "author": "Adam Corsetti",
-            "title": "Rockstar says GTA 6 PS5 Pro build ran at 60 fps with major performance compromises - Notebookcheck",
-            "description": "Rockstar may have experimented with a higher framerate mode on the PS5 Pro. In a leaked interview, the studio explained that Leonida traffic and realistic NPCs proved obstacles. As with the Xbox Series X and base PS5, GTA 6 won’t exceed 30 fps on the enhanced…",
-            "url": "https://www.notebookcheck.net/Rockstar-says-GTA-6-PS5-Pro-build-ran-at-60-fps-with-major-performance-compromises.1449081.0.html",
-            "urlToImage": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/GTA6PS5ProBannerNewest.jpg",
-            "publishedAt": "2026-11-13T01:58:00Z",
-            "content": "The recently revealed GTA 6 PS5 Pro specs disappointed owners of Sonys flagship hardware. Targeting 30 fps, Rockstar prioritized visual fidelity even on the pricey PlayStation console. In a leaked in… [+1888 chars]"
-        },
-        {
-            "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
-            "author": "Danielle Paquette, Douglas MacMillan, Paul Schwartzman, Aaron Schaffer",
-            "title": "D.C. gunman attributed attack to frustrations with building maintenance - The Washington Post",
-            "description": "Washington, D.C., gunman Matt Lambert had complained about conditions at his Metropole condo, according to court records, neighbors and social media posts.",
-            "url": "https://www.washingtonpost.com/dc-md-va/2026/11/12/logan-circle-shooter-matt-lambert-appeared-frustrated-over-metropole-maintenance/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/US4LPG5FRP2UHQORC2T4OTHQA4.jpg&w=1440",
-            "publishedAt": "2026-11-13T01:12:33Z",
-            "content": "The gunman who killed one person and wounded four others in Northwest Washington on Thursday attributed the attack to his long-running frustrations with the management of the condominium complex wher… [+89 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CBS Sports"
-            },
-            "author": "Matt Snyder",
-            "title": "Cubs superstar Pete Crow-Armstrong wins National League MVP unanimously, beating Shohei Ohtani - CBS Sports",
-            "description": "After a slow start to 2026, the 24-year-old slugger turned in a dominant performance in just his third full MLB season",
-            "url": "https://www.cbssports.com/mlb/news/mlb-2026-national-league-mvp-pete-crow-armstrong-cubs/",
-            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2026/11/12/c4cc76c0-35da-48b3-8a57-e465c4862d75/thumbnail/1200x675/02bc3fa6fa23440f4ac0e9e3a398df4d/pca-getty.png",
-            "publishedAt": "2026-11-13T01:02:00Z",
-            "content": "Cubs center fielder Pete Crow-Armstrong won the National League MVP award for the 2026 season unanimously, the BBWAA revealed Thursday evening. \r\nThe Baseball Writers' Association of America ballot u… [+6342 chars]"
-        },
-        {
-            "source": {
-                "id": "espn",
-                "name": "ESPN"
-            },
-            "author": "Jesse Rogers",
-            "title": "Cubs' Pete Crow-Armstrong, Astros' Yordan Alvarez unanimous MVP winners - ESPN",
-            "description": "Cubs star Pete Crow-Armstrong and the Astros' Yordan Alvarez each earned all 30 first-place votes to win the MVP awards in their respective leagues Thursday night.",
-            "url": "https://www.espn.com/mlb/story/_/id/50466186/cubs-pete-crow-armstrong-astros-yordan-alvarez-win-mvp-honors",
-            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0816%2Fr1702680_1296x729_16%2D9.jpg",
-            "publishedAt": "2026-11-13T00:55:00Z",
-            "content": "Chicago Cubs center fielder Pete Crow-Armstrong and Houston Astros DH/OF Yordan Alvarez were named unanimous winners of the Most Valuable Player award in their respective leagues Thursday night.\r\nCro… [+4485 chars]"
-        },
-        {
-            "source": {
-                "id": "espn",
-                "name": "ESPN"
-            },
-            "author": "Kevin Seifert",
-            "title": "Vikings 'hyped' to welcome back 'leader' Cousins on 1st day of practice - ESPN",
-            "description": "The Minnesota Vikings reveled Thursday in quarterback Kirk Cousins' first full day back with the organization.",
-            "url": "https://www.espn.com/nfl/story/_/id/50466164/vikings-hyped-welcome-back-leader-kirk-cousins-1st-day-practice",
-            "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1111%2Fr1744583_1296x729_16%2D9.jpg",
-            "publishedAt": "2026-11-13T00:54:00Z",
-            "content": "EAGAN, Minn. -- The Minnesota Vikings reveled Thursday in quarterback Kirk Cousins' first full day back with the organization.\r\nTheir operations staff opened practice by playing Creed's \"Higher\" on t… [+3707 chars]"
-        },
-        {
-            "source": {
-                "id": "the-hill",
-                "name": "The Hill"
-            },
-            "author": "Sarah Davis",
-            "title": "US Army officer involved in alleged Russian spying scheme identified: Reports - The Hill",
-            "description": "The U.S. Army officer arrested in the United Kingdom this week for his alleged involvement in a Russian espionage scheme has been identified as Lt. Col. Brandon Tyner, according to multiple reports.  The 41-year-old soldier was detained Tuesday following a st…",
-            "url": "https://thehill.com/policy/defense/6217738-brandon-tyner-army-russia-espionage-arrest/",
-            "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2026/11/AP22118649217599-e1794530334744.jpg?w=1280",
-            "publishedAt": "2026-11-13T00:39:00Z",
-            "content": "Skip to content\r\nThe U.S. Army officer arrested in the United Kingdom this week for his alleged involvement in a Russian espionage scheme has been identified as Lt. Col. Brandon Tyner, according to m… [+1754 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "PEOPLE"
-            },
-            "author": "https://www.facebook.com/peoplemag",
-            "title": "Travis Barker Reveals He Was Diagnosed with ‘Precancer of the Esophagus’ Before Quitting Smoking - Yahoo",
-            "description": "Rocker Travis Barker opened up about the reason that led to him quitting smoking during an appearance on the ‘Big Bro with Kid Cudi’ podcast. “I thought I could be like Willie Nelson and smoke to the day I die,” the Blink-182 drummer said.",
-            "url": "https://people.com/travis-barker-reveals-precancer-diagnosis-before-quitting-smoking-12251569",
-            "urlToImage": "https://people.com/thmb/FruXwhvtQ1wS-NoswB5r-G0ke6U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(710x236:712x238)/Big-Bro-Podcast-Kid-Cudi-Travis-Barker-d0d74a3189324f2bae7c5e03e5248a28.jpg",
-            "publishedAt": "2026-11-13T00:35:00Z",
-            "content": "<ul><li>Travis Barker revealed his doctor urged him to stop smoking immediately after his precancerous diagnosis</li><li>Barker said he smoked blunts heavily and believed he might never have quit wit… [+2142 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Brian Stelter, Hilary Whiteman, Ramishah Maruf",
-            "title": "Massive Microsoft outage disrupts businesses, schools and governments around the world - CNN",
-            "description": "A massive Microsoft outage has left people around the world without access to Outlook email, Teams meeting tools and other staples of modern office life.",
-            "url": "https://www.cnn.com/2026/11/12/tech/microsoft-outage-cripples-office-workers-nationwide",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap26313848345213.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2026-11-13T00:27:00Z",
-            "content": "A massive Microsoft outage has left people around the world without access to Outlook email, Teams meeting tools and other staples of modern office life.\r\nIn the United States, fed-up workers at some… [+3085 chars]"
-        },
-        {
-            "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
-            "author": "Mary Ilyushina, Ellen Francis",
-            "title": "After meeting Putin, U.S. envoys say Europe to join talks on ending Ukraine war - The Washington Post",
-            "description": "Russia had resisted a European role in the negotiations, and President Vladimir Putin on Thursday reiterated his opposition to European peacekeepers.",
-            "url": "https://www.washingtonpost.com/world/2026/11/12/after-meeting-putin-us-envoys-say-europe-join-talks-ending-ukraine-war/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/WGEUX6ENZCJT3OWNF3OYNNDP54.JPG&w=1440",
-            "publishedAt": "2026-11-13T00:26:16Z",
-            "content": "After meeting Russian President Vladimir Putin in Moscow, President Donald Trumps envoy Steve Witkoff said Thursday that European officials would join the next round of talks on ending Moscows war in… [+71 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Tom Warren",
-            "title": "Xbox announces Wolfenstein 3 - The Verge",
-            "description": "Xbox announced that Wolfenstein 3 is in production at Bethesda’s MachineGames.",
-            "url": "https://www.theverge.com/news/1032431/xbox-bethesda-wolfenstein-3",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/ss_c195852422ed8e92ffa4d68ea4bfd34291823c3e.1920x1080.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-            "publishedAt": "2026-11-13T00:11:00Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nXbox CEO Asha Sharma revealed a new entry in the Wolfenstein series with a brief tease.\r\nXbox CEO Asha Sharma revealed a new entry in the Wolfenstein series with… [+2265 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Hollywood Reporter"
-            },
-            "author": "Scott Feinberg",
-            "title": "New Clarity About Amanda Seyfried’s ‘You Can See Everything’ Awards Eligibility, Actress Is Excited to Campaign: “They’re Going to Let Me Loose” (Exclusive) - The Hollywood Reporter",
-            "description": "In her first one-on-one interview about the film, the actress, who could become the only person ever nominated at a major award show for a performance in a documentary, says she's excited to hit the trail: \"I’m very proud of the film, so I’m fully ready to en…",
-            "url": "http://www.hollywoodreporter.com/movies/movie-news/amanda-seyfried-awards-eligibility-you-can-see-everything-1236753138/",
-            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/GettyImages-23045719211.jpg?w=1440&h=810&crop=1",
-            "publishedAt": "2026-11-12T23:37:42Z",
-            "content": "Can Amanda Seyfried receive awards recognition for her acclaimed portrayal of Theranos founder Elizabeth Holmes in Nathan Fielder and Lance Oppenheim’s blockbuster documentary You Can See Everything?… [+9534 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "NPR"
-            },
-            "author": "Larry Kaplow",
-            "title": "Cindy Holscher wins in Kansas, holding governor’s office for Democrats - NPR",
-            "description": "Holscher, a state senator, overcame a more well-known Republican who had Trump's endorsement in the state that has gone to the GOP in most other statewide races.",
-            "url": "https://www.npr.org/2026/11/12/g-s1-151239/kansas-governor-midterms-holscher-masterson",
-            "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4500x2531+0+234/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F8a%2F54%2F5f034a3f48afb04565b5438e329b%2Fmdt-holscher.jpg",
-            "publishedAt": "2026-11-12T23:36:19Z",
-            "content": "Midterms coverage:Live results | What to know | Stories around the countryStay connected: NPR Politics Podcast | NPR Politics newsletter | NPR app\r\nDemocratic state Sen. Cindy Holscher will hold onto… [+1563 chars]"
-        },
-        {
-            "source": {
-                "id": "cbs-news",
-                "name": "CBS News"
-            },
-            "author": "Isabel  Vincent",
-            "title": "Lutnick should have prevented the diversion of sensitive Nvidia AI chips to China, critics charge - CBS News",
-            "description": "Commerce Secretary Howard Lutnick is under fire by critics asking whether his ties to Chinese companies friendship with ex-Nvidia CEO Jensen Huang contributed to a lack of oversight over Nvidia AI chip sales.",
-            "url": "https://www.cbsnews.com/news/lutnick-nvidia-ai-chips-china/",
-            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/12/73508e43-6341-467c-bcbf-632b42569709/thumbnail/1200x630g2/61044eb5f98dad85bd5183415c964918/gettyimages-2292676553.jpg",
-            "publishedAt": "2026-11-12T23:33:00Z",
-            "content": "Commerce Secretary Howard Lutnick is under fire by critics asking whether his ties to Chinese companies and friendship with Nvidia's ousted CEO Jensen Huang contributed to the federal agency's lack o… [+7170 chars]"
-        },
-        {
-            "source": {
-                "id": "ars-technica",
-                "name": "Ars Technica"
-            },
-            "author": "Beth Mole",
-            "title": "In reversal, American Cancer Society urges prostate cancer tests for all men - Ars Technica",
-            "description": "Men aged 50–69 and at average risk should get PSA screening every two years.",
-            "url": "https://arstechnica.com/health/2026/11/in-reversal-american-cancer-society-urges-prostate-cancer-tests-for-all-men/",
-            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Prostate-Cancer.jpg",
-            "publishedAt": "2026-11-12T22:59:51Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Jack Baer",
-            "title": "NBA suspends Rockets G Marcus Smart 3 games for throwing punch at Warriors' Charles Bassey - Yahoo Sports",
-            "description": "Throwing punches is an automatic suspension in the NBA.",
-            "url": "https://sports.yahoo.com/nba/article/nba-suspends-rockets-g-marcus-smart-3-games-for-throwing-punch-at-warriors-charles-bassey-224526073.html",
-            "urlToImage": "https://s.yimg.com/lo/mysterio/api/07a0457eca064946154b88e758a9b13eb471f4f1bab9b5d8a8ec3b770af7f886/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2F2e674302-0183-4074-be31-fe95ea13bc8f",
-            "publishedAt": "2026-11-12T22:45:26Z",
-            "content": "The NBA doesn't look kindly on players who throw punches during a game. Houston Rockets guard Marcus Smart was suspended three games without pay by the NBA on Thursday after throwing a punch at Golde… [+2033 chars]"
-        },
-        {
-            "source": {
-                "id": "politico",
-                "name": "Politico"
-            },
-            "author": "Erin Doherty",
-            "title": "Meet the 27-year old behind the protein ad that helped flip Mississippi - Politico",
-            "description": "One of this cycle’s biggest viral hits offers Democrats a potential blueprint as they think about competing in the South — and their digital strategy ahead of 2028.",
-            "url": "https://www.politico.com/news/2026/11/12/ryan-sayles-scott-colom-viral-protein-ad-01163508",
-            "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F83%2Ff9%2Ffb0b1ab047e4a488e77071c83d61%2Fryan-sayles-scott-colom.jpg",
-            "publishedAt": "2026-11-12T22:34:00Z",
-            "content": "You know youve made a good ad when its outperforming an endorsement video from Barack Obama.\r\nRyan Sayles, a 27-year-old Mississippi content creator, is behind arguably the best political spot of the… [+365 chars]"
-        },
-        {
-            "source": {
-                "id": "cbs-news",
-                "name": "CBS News"
-            },
-            "author": null,
-            "title": "Regular prostate cancer screening recommended under new American Cancer Society guidelines - CBS News",
-            "description": "The American Cancer Society is recommending routine prostate cancer screening for more middle-aged men, in a major change to its guidelines.",
-            "url": "https://www.cbsnews.com/news/prostate-cancer-screening-guidelines/",
-            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/09/22/f006bbe2-fab8-427f-a414-09d50ddbbeb7/thumbnail/1200x630/387ff0fc9c02a10dfa4460a73aa60098/prostate-cancer.jpg",
-            "publishedAt": "2026-11-12T22:13:00Z",
-            "content": "Middle-aged men should undergo regular screening for prostate cancer, the American Cancer Society said Thursday in a major change to its guidelines.\r\nThe screening involves a simple blood test, and m… [+4185 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "NPR"
-            },
-            "author": "Yuki Noguchi",
-            "title": "American Cancer Society updates prostate cancer screening guidelines - NPR",
-            "description": "The updated guidelines (from 2010) are based on modern research showing reduced deaths and diagnoses of late stage disease, while avoiding unnecessary biopsies and treatment.",
-            "url": "https://www.npr.org/2026/11/12/nx-s1-6037709/american-cancer-society-updates-prostate-cancer-screening-guidelines",
-            "urlToImage": "https://media.npr.org/include/images/facebook-default-wide-s1400-c85.jpg",
-            "publishedAt": "2026-11-12T22:03:09Z",
-            "content": "TranscriptSCOTT DETROW, HOST: \r\n For the first time, the American Cancer Society is recommending routine prostate cancer screenings. The medical group says that blood tests, especially for those at h… [+2723 chars]"
-        },
-        {
-            "source": {
-                "id": "nbc-news",
-                "name": "NBC News"
-            },
-            "author": "Abigail Brooks, Doha Madani",
-            "title": "Oklahoma dismisses murder charge against former death row inmate Richard Glossip - NBC News",
-            "description": "A murder charge against Richard Glossip, a former death row prisoner who was nearly executed multiple times, was dismissed on Thursday after being granted a retrial in the 1997 killing of his former boss, according to his attorney.",
-            "url": "https://www.nbcnews.com/news/us-news/oklahoma-dismisses-murder-charge-former-death-row-inmate-richard-gloss-rcna609070",
-            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-11/241121-richard-glossip-al-1433-b637e1.jpg",
-            "publishedAt": "2026-11-12T21:56:00Z",
-            "content": "A murder charge against Richard Glossip, a former death row prisoner who was nearly executed multiple times, was dismissed on Thursday after being granted a retrial in the 1997 killing of his former … [+1904 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "9to5google.com"
-            },
-            "author": "Abner Li",
-            "title": "Google rolling out Android 17 QPR3 Beta 4 for Pixel - 9to5Google",
-            "description": "Following the early stable launch of QPR2, Android 17 QPR3 Beta 4 is rolling out to Pixel devices today...",
-            "url": "http://9to5google.com/2026/11/12/android-17-qpr3-beta-3-pixel-2/",
-            "urlToImage": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/Android-17-QPR1-yellow.jpg?quality=82&strip=all&resize=1200,628",
-            "publishedAt": "2026-11-12T21:16:00Z",
-            "content": "Following the early stable launch of QPR2, Android 17 QPR3 Beta 4 is rolling out to Pixel devices today.\r\nBeta 4 addresses the following issues:\r\nReport issues via the Android Beta Feedback app on Pi… [+720 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Phys.Org"
-            },
-            "author": null,
-            "title": "Space telescope Euclid sets the new standard for cosmology - Phys.org",
-            "description": "On July 1, 2023, the European Space Agency (ESA) launched the Euclid space telescope into space. Its mission: to create the largest and most detailed map of the universe ever made.",
-            "url": "https://phys.org/news/2026-11-space-telescope-euclid-standard-cosmology.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/2026/space-telescope-euclid.jpg",
-            "publishedAt": "2026-11-12T21:00:01Z",
-            "content": "On July 1, 2023, the European Space Agency (ESA) launched the Euclid space telescope into space. Its mission: to create the largest and most detailed map of the universe ever made.\r\n\"Euclid is a wide… [+4246 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNBC"
-            },
-            "author": "Sean Conlon, Hugh Leask, Jenny Lee, Tanaya Macheel",
-            "title": "Nasdaq falters as Nvidia shares fall on CEO exit, oil prices rise: Live updates - CNBC",
-            "description": "The Nasdaq Composite fluctuated on Thursday as investors weighed the departure of Nvidia CEO Jensen Huang.",
-            "url": "https://www.cnbc.com/2026/11/11/stock-market-today-live-updates.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108548217-1794329432696-Traders-Photo-20261110-KK-PRESS-007.jpg?v=1794329596&w=1920&h=1080",
-            "publishedAt": "2026-11-12T20:45:00Z",
-            "content": "Nvidia shares fell more than 5% after the company announced that Huang had resigned and named CFO Colette Kress as interim CEO. This comes after Huang reportedly had an affair with an alleged Chinese… [+1297 chars]"
         }
     ]
 }
