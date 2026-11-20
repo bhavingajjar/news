@@ -1,7 +1,124 @@
 {
     "status": "ok",
-    "totalResults": 261,
+    "totalResults": 262,
     "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Crain's Chicago Business"
+            },
+            "author": null,
+            "title": "Hyde Park castle-in-the-sky condo sells for first time in five decades - Crain's Chicago Business",
+            "description": "The longtime home of an eminent University of Chicago scientist who died this year, the 1920s condo has stone arches, tall columns, balconies and other elements of a castle.",
+            "url": "https://www.chicagobusiness.com/real-estate/residential/ccb-bernard-roizman-hyde-park-castle-condo-20261118/",
+            "urlToImage": "https://www.chicagobusiness.com/resizer/v2/CZHBRQZE6VATPIMXWNKMBMB3SQ.jpg?auth=8afc58347b25f3cdce1b14dd934e4da35ab36dd2fefe9844809bbd3be8e8ae25",
+            "publishedAt": "2026-11-19T17:50:38Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "OregonLive.com",
+            "title": "Dear Doctor: I can get COVID and flu shots on the same day, but does that mean I should? - OregonLive.com",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOcnpoWTlzZXJKQW5lX2hyR1FhU2ttS3hlMGZUZ054MVJ2WXdRRFFCNTlEYVhpS0doQVpRUGJ5V2Vsd1duWmZlTXRJd2l1aHE2bHhfTHhZMEE4VmpQc19uZDBxX1EySzNocy1LTjF6WkhteDZENVd3MjA5SU54TTVrRHVJRjdvdVZIT3RXNUlVSlFYM2Zta09fNWljNDVVVS1Nc2FwaDRLczFCaEhsNHJzMm43cTl3cmlEaHFkOUZqN3ZSLXlIS1RsSmxiY0nSAeABQVVfeXFMTmRTWUNiZTNXLVZOWTl2eHJKODdEX0ZkTWhrMGl2WFZoLVNia2o2U2VVbi1nUnVfVklSUzhrZUNoY25kMHVmcE1OaV9HV082QTc5NWFORjg1VFJfUGlrbzZ1YjZxQTlRRTktWFBkeEV2WDlkQ2F1dGJibzdfdFl4RXlETkdvUUd0aElGckJfcmVaemxrMmVqZVJVenU2QTlqY0xfQ3E4ZEVPb2NnRFpaSVZZcmk1eTRNNmkzUmJXOUxzeXYxV3NaNUdGOHh4RGVsNjlxZ3lPR0Jzekw5TUczc20?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2026-11-19T15:00:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ScienceAlert"
+            },
+            "author": "David Nield",
+            "title": "Scientists Link 2 Simple Eating Habits to Lasting Lower Weight - ScienceAlert",
+            "description": "In the hustle and bustle of modern life, the best weight-loss tips are simple ideas that will hopefully stick, and one study revealed a couple of new ones that qualify: fast for longer overnight and eat breakfast earlier.",
+            "url": "https://www.sciencealert.com/scientists-link-2-simple-eating-habits-to-lasting-lower-weight",
+            "urlToImage": "https://www.sciencealert.com/images/2026/10/Woman_Eating_With_Fork_Contemplating_With_Eyes_Closed.jpg",
+            "publishedAt": "2026-11-19T11:03:25Z",
+            "content": "In the hustle and bustle of modern life, the best weight-loss tips are simple ideas that will hopefully stick, and one study revealed a couple of new ones that qualify: fast for longer overnight and … [+4592 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Ed Cara",
+            "title": "Which Animal Germ Could Become the Next Major Human Disease? - Gizmodo",
+            "description": "Bird flu, coronaviruses, and many other unknown pathogens have the potential to jump into humans from animals and cause serious trouble.",
+            "url": "https://gizmodo.com/which-animal-germ-is-most-likely-to-become-the-next-major-human-disease-2000841153",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/11/Zoonotic-disease-Giz-Asks-1200x675.jpg",
+            "publishedAt": "2026-11-19T11:00:06Z",
+            "content": "Earlier this October, health officials in Europe reported the sort of news that might send a chill up people’s spines: they discovered the first known human case of a disease normally found in animal… [+18660 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Shannon Pettypiece",
+            "title": "As many employers stop covering GLP-1s for weight loss, workers are left scrambling - NBC News",
+            "description": "Employers say they need to drop GLP-1 coverage to keep their health plans affordable, but doctors worry about patients who can’t pay out of pocket, jeopardizing their health.",
+            "url": "https://www.nbcnews.com/health/health-care/many-employers-stop-covering-glp1s-weight-loss-workers-rcna608355",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261117-hege-glp1s-art-final-jg-57061a.jpg",
+            "publishedAt": "2026-11-19T10:45:40Z",
+            "content": "Just a moment.\r\nWe are getting your experience ready."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WKRC TV Cincinnati"
+            },
+            "author": "WKRC",
+            "title": "Cincinnati Health Department urges families to confirm vaccine records ahead of holidays - WKRC",
+            "description": "With the holidays coming up, the Cincinnati Health Department wants families to be prepared for a measles exposure and not spending valuable time in quarantine.",
+            "url": "https://local12.com/news/local/cincinnati-health-department-urges-families-to-confirm-vaccine-records-ahead-of-holidays",
+            "urlToImage": "https://local12.com/resources/media2/16x9/1280/1320/center/90/2bf3ced5-f588-4ac7-ba17-98f8fedcc5a7-44c24080ea8144bda532fb2cfeae3f6f.png",
+            "publishedAt": "2026-11-19T10:33:27Z",
+            "content": "CINCINNATI (WKRC) - With the holidays coming up, the Cincinnati Health Department wants families to be prepared for a measles exposure and not spending valuable time in quarantine.\r\nThe CDC says Ohio… [+2147 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Erica Sloan",
+            "title": "Why your joints may act up in the winter — and what can help - The Washington Post",
+            "description": "Weather changes, particularly a drop in temperature and fluctuations in pressure or humidity, can worsen the pain of arthritis. Experts share how to get relief.",
+            "url": "https://www.washingtonpost.com/wellness/2026/11/19/why-your-joints-may-act-up-winter-what-can-help/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BGNBX4SSGEOVM2TH2LB26OV2SE_size-normalized.jpg&w=1440",
+            "publishedAt": "2026-11-19T10:19:52Z",
+            "content": "Marta Michalska-Smith, a rheumatologist in Minnesota, spends a lot of time discussing the weather in the colder months and not just in a small-talk way. Many of my patients will say that their joints… [+253 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Phys.Org"
+            },
+            "author": null,
+            "title": "Potatoes grown in simulated lunar soil match Earth-grown performance - Phys.org",
+            "description": "Researchers have shown that potatoes grown in simulated lunar soil amended with organic matter are safe to eat and can achieve growth and yields comparable to those produced on Earth. \"We found that potatoes can complete their entire life cycle in simulated l…",
+            "url": "https://phys.org/news/2026-11-potatoes-grown-simulated-lunar-soil.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/study-finds-potatoes-g.jpg",
+            "publishedAt": "2026-11-19T10:00:02Z",
+            "content": "Researchers have shown that potatoes grown in simulated lunar soil amended with organic matter are safe to eat and can achieve growth and yields comparable to those produced on Earth. \"We found that … [+3846 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "STAT"
+            },
+            "author": "Vishal Khetpal",
+            "title": "I’m a cardiologist. I’m a little puzzled about the blockbuster new study on deprescribing statins - STAT",
+            "description": "STAT columnist Vishal Khetpal examines the STREAM trial and its findings about discontinuing use of statins.",
+            "url": "https://www.statnews.com/2026/11/19/deprescribing-statins-study-stream-trial-aha-questions/",
+            "urlToImage": "https://www.statnews.com/wp-content/uploads/2025/09/TheWorkup_Illustration_MollyFerguson_093025-1024x576.jpg",
+            "publishedAt": "2026-11-19T09:35:24Z",
+            "content": "At the American Heart Associations recent annual meeting, the overarching theme coming from the center stage, bathed in Pantone red, was one of high-profile neutral findings.\r\nAs I listened to the re… [+1211 chars]"
+        },
         {
             "source": {
                 "id": "the-washington-post",
@@ -12,8 +129,47 @@
             "description": "The United States is confronting its worst measles resurgence in decades and has lost its status as a country that has eliminated measles.",
             "url": "https://www.washingtonpost.com/health/2026/11/18/eighth-measles-death-reported-pennsylvania-nears-1600-cases/",
             "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QTU2VWMPLILRLPJ6DU34A3STBQ_size-normalized.jpg&w=1440",
-            "publishedAt": "2026-11-19T03:55:39Z",
+            "publishedAt": "2026-11-19T07:24:00Z",
             "content": "Pennsylvania health officials on Wednesday reported another measles-associated death, bringing the states death toll to eight as it confronts one of the nations largest outbreaks.\r\nThe unvaccinated r… [+315 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Kstp.com"
+            },
+            "author": "Ryan Pattee",
+            "title": "Minnesota to look at removing non-medical vaccine exemption this legislative session - 5 EYEWITNESS NEWS",
+            "description": "Minnesota families can request both medical and non-medical exemptions to vaccine requirements, but medical groups are trying to change that as measles cases rise.",
+            "url": "https://kstp.com/kstp-news/top-news/minnesota-to-look-at-removing-non-medical-vaccine-exemption-this-legislative-session/",
+            "urlToImage": "https://kstp.com/wp-content/uploads/2026/11/Religious-Ex-Removal.jpg",
+            "publishedAt": "2026-11-19T04:33:12Z",
+            "content": "Minnesota families can request both medical and non-medical exemptions to vaccine requirements, but medical groups are trying to change that as measles cases rise.\r\nThe number of Minnesota students w… [+2343 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PEOPLE"
+            },
+            "author": "Kayla Grant",
+            "title": "Pregnant Savannah Chrisley Defends Choice Not to Vaccinate Baby on the Way, Says Parents Shouldn’t Be ‘Shamed’ for Decisions - Yahoo",
+            "description": "The podcaster and ‘Chrisley Knows Best’ alum is expecting her first baby with husband Jason Galanis",
+            "url": "https://people.com/pregnant-savannah-chrisley-defends-choice-not-vaccinate-baby-12263440",
+            "urlToImage": "https://s.yimg.com/lo/mysterio/api/78ffa867f830b818c5c403166828ba619baab8e00e0ff6170a7386a285bf6717/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F3c189cef3684264cb8b4149d2db65f04.jpg",
+            "publishedAt": "2026-11-19T02:20:00Z",
+            "content": "NEED TO KNOW\r\n<ul><li>Savannah Chrisley is defending her decision not to vaccinate her baby on the way\r\n</li><li>During the latest episode of her Unlocked podcast, the expectant mother opened up abou… [+3553 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SciTechDaily"
+            },
+            "author": null,
+            "title": "A Study of 50,000 Children Reveals the Real Impact of Daily Iron Pills - SciTechDaily",
+            "description": "A major scientific review involving more than 50,000 children and adolescents reveals that daily iron supplementation can significantly reduce the risk of iron deficiency anemia.",
+            "url": "https://scitechdaily.com/a-study-of-50000-children-reveals-the-real-impact-of-daily-iron-pills/",
+            "urlToImage": null,
+            "publishedAt": "2026-11-19T01:33:44Z",
+            "content": "Iron supplements help the body produce hemoglobin, the protein in red blood cells that carries oxygen throughout the body. Commonly used to prevent and treat iron deficiency anemia, they can support … [+5446 chars]"
         },
         {
             "source": {
@@ -79,6 +235,45 @@
             "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11235-7/MediaObjects/41586_2026_11235_Fig1_HTML.png",
             "publishedAt": "2026-11-18T22:12:14Z",
             "content": "Mice\r\nAll animal experiments were approved by the Institutional Animal Care and Use Committees at the University of California, San Francisco. Mice were maintained on a C57BL/6 background under speci… [+61546 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "STLtoday.com"
+            },
+            "author": "Cara Anthony KFF Health News",
+            "title": "Meet the teen who called a St. Louis hospital home for more than 475 days - STLtoday.com",
+            "description": "Jaloni was shot multiple times in 2023. He ended up staying at Cardinal Glennon Children’s Hospital for more than 475 days.",
+            "url": "https://www.stltoday.com/news/local/business/health-care/article_439f932f-4c7f-465b-857e-3fa526eb2bf8.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/5/9b/59be70f7-275f-4bdc-a63e-641ad29c7d21/6afe0b6a2151a.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
+            "publishedAt": "2026-11-18T22:00:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Science.org"
+            },
+            "author": null,
+            "title": "NIH director calls for new probe of controversial COVID-19 origin paper - Science | AAAS",
+            "description": "Bhattacharya wants Nature Medicine to review whether former NIH leaders ghostwrote manuscript challenging theory an engineered virus caused pandemic",
+            "url": "https://www.science.org/content/article/nih-director-calls-new-probe-controversial-covid-19-origin-paper",
+            "urlToImage": "https://www.science.org/cms/asset/25b30fec-7fbf-4fa6-801b-8ee3f619171c/media/_20261118_on_origins_paper_lede.jpg",
+            "publishedAt": "2026-11-18T21:49:00Z",
+            "content": "When it comes to resolving the mysterious origin of the COVID-19 pandemic, new evidence remains in short supplybut that doesnt stop old issues from being endlessly relitigated.\r\nIn an unusual letter … [+5107 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WPTZ"
+            },
+            "author": "Isabel Meara",
+            "title": "Multiple cases of dog fungal disease reported in New York - WPTZ",
+            "description": "The Lake Placid Animal Hospital is warning about multiple cases of Blastomycosis, a fungal disease that can affect dogs and humans. Anyone who may be affected is asked to reach out.",
+            "url": "https://www.mynbc5.com/article/blastomycosis-cases-lake-placid-ny/74466332",
+            "urlToImage": "https://kubrick.htvapps.com/htv-prod/images/363497c6-3fe9-422d-8b81-29bae7dd2b6b.jpg?crop=1.00xw%3A0.943xh%3B0%2C0&resize=1200%3A*",
+            "publishedAt": "2026-11-18T21:24:00Z",
+            "content": "LAKE PLACID, N.Y.The Lake Placid Animal Hospital is warning dog owners in Northern New York after a number of Blastomycosis cases were reported in the area. \r\nThis content is imported from facebook. … [+2352 chars]"
         },
         {
             "source": {
@@ -161,6 +356,32 @@
         {
             "source": {
                 "id": null,
+                "name": "YourTango"
+            },
+            "author": "Lyss Micalizzi",
+            "title": "People Who Don’t Get Sad When It Gets Dark At 5 PM Usually Have 6 Specific Habits - YourTango",
+            "description": "Most of us want to crawl into bed the second it gets dark at 5 p.m., yet the people who stay upbeat all winter have six habits that keep them going.",
+            "url": "https://www.yourtango.com/self/winter-habits-of-people-dont-get-sad-sun-goes-down",
+            "urlToImage": "https://www.yourtango.com/sites/default/files/image_blog/2026-11/winter-habits-of-people-dont-get-sad-sun-goes-down.png",
+            "publishedAt": "2026-11-18T17:33:54Z",
+            "content": "Looking out the window at 5 p.m. and seeing pitch-black sky is enough to make almost anyone want to put on pajamas and call it a day. Once the weather turns cold and the days get shorter, slipping in… [+5411 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Nature.com"
+            },
+            "author": null,
+            "title": "Closest relatives of poxviruses prevail in human and animal guts worldwide - Nature",
+            "description": "A diversified group of DNA viruses with large linear genomes is discovered, egoviruses, that comprise a putative viral order most closely related to animal-infecting poxviruses, and prevail in the animal digestive system.",
+            "url": "https://www.nature.com/articles/s41586-026-11283-z",
+            "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11283-z/MediaObjects/41586_2026_11283_Fig1_HTML.png",
+            "publishedAt": "2026-11-18T17:32:24Z",
+            "content": "<li>Vincent, F., Sheyn, U., Porat, Z., Schatz, D. &amp; Vardi, A. Visualizing active viral infection reveals diverse cell fates in synchronized algal bloom demise. Proc. Natl Acad. Sci. USA118, e2021… [+23158 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "Gadgetreview.com"
             },
             "author": "Rex Edison",
@@ -183,6 +404,32 @@
             "urlToImage": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/24-03-2023-WHO-antimicrobial.jpg/image770x420cropped.jpg",
             "publishedAt": "2026-11-18T17:16:04Z",
             "content": "The agency issued the alert with the European Centre for Disease Prevention and Control (ECDC) after analysing progress on targets to reduce infections caused by resistant bacteria often described as… [+2358 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "HuffPost"
+            },
+            "author": null,
+            "title": "A New Report Detailed The Risk Of Measles During Pregnancy. Scientists Say It Was Quietly Buried By The CDC. - HuffPost",
+            "description": "Scientists wanted to share research with physicians about the effects of the disease, but the Trump admin’s CDC declined their request.",
+            "url": "https://www.huffpost.com/entry/measles-pregnancy-report-buried-by-cdc_l_6afc9503e4b076227f01219b",
+            "urlToImage": "https://img.huffingtonpost.com/asset/6afcd59a180000d4cc94c677.jpeg?ops=500_281%2Cscalefit_1200_630",
+            "publishedAt": "2026-11-18T17:11:11Z",
+            "content": "Officials at the Centers for Disease Control and Prevention reportedly declined to publish an alert to doctors about the risks of measles during pregnancy, according to reporting from The Washington … [+7431 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "TODAY"
+            },
+            "author": "Sarah Jacoby",
+            "title": "Eating Beans Every Day Is Healthy — If You Keep These 3 Things in Mind, Dietitian Says - TODAY.com",
+            "description": "Packed with protein and fiber, beans more than earn their place as a pantry staple. A dietitian shares tips for those who want to eat beans regularly or daily.",
+            "url": "https://www.today.com/health/diet-fitness/is-it-healthy-to-eat-beans-every-day-dietitian-rcna609662",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2026-11/beans-every-day-as11172026-630bb0.jpg",
+            "publishedAt": "2026-11-18T16:28:03Z",
+            "content": "Packed with plant protein and fiber, beans more than earn their place as a pantry staple. And theyre good enough for you that you could eat them every single day if you wanted. \r\nThe nutrients in bea… [+3355 chars]"
         },
         {
             "source": {
@@ -225,6 +472,19 @@
         },
         {
             "source": {
+                "id": null,
+                "name": "Glamour"
+            },
+            "author": "Allison Mertzman",
+            "title": "I Never Felt a Lump. None of My Symptoms Suggested I Might Have Breast Cancer - Glamour",
+            "description": "It took three months of advocating for myself to figure out what was going on.",
+            "url": "https://www.glamour.com/story/allison-mertzman-breast-cancer-story",
+            "urlToImage": "https://media.glamour.com/photos/6afbad61527e710ff1b511b8/16:9/w_1280,c_limit/allison%20mertzman.jpeg",
+            "publishedAt": "2026-11-18T16:00:00Z",
+            "content": "My breast cancer story scares a lot of people because I didnt have any typical symptoms, like a lump. There were, however, other signs something was off with my health starting in June 2021, about th… [+2183 chars]"
+        },
+        {
+            "source": {
                 "id": "associated-press",
                 "name": "Associated Press"
             },
@@ -235,6 +495,32 @@
             "urlToImage": "https://dims.apnews.com/dims4/default/7cea4f1/2147483647/strip/true/crop/2655x1860+0+0/resize/1200x841!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F92%2F11%2Fb13a208b8bc6c9c7ea66c83e7544%2Fdb2eca4fb33648a7aa481f6adc14aa48",
             "publishedAt": "2026-11-18T15:41:00Z",
             "content": "Now that measles is officially back in the U.S., some Americans are asking: Do adults need a booster shot?\r\nGenerally, experts say, the answer is no.\r\nMost people are protected without getting a boos… [+4164 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Verywell Health",
+            "title": "A Doctor Explains How Magnesium Interacts With Common Sleep Aids - Verywell Health",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPU1o2OU83UXNSOVZJV0c0WHBxWlRCd3gyTjJKc2UteWRMTkt1NXY5U0RFOHRzclBlR0J3eW9uRFhwUHpaRGxPRGZ3Z0JvR2NZenJiRlJ0Zl9lUElNOExWTHpibUVIczhyV0FDbjRKR2xXQkY0UklQSHIzcy16TlZyRERkbUFXZFYwc0c0Z2lR?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2026-11-18T15:30:53Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WANE"
+            },
+            "author": "Lydia Reuille, Allie McKibben",
+            "title": "Reported measles cases surpass 200 in Indiana - WANE 15",
+            "description": "There are more than 100 reported measles cases in northeast Indiana alone.",
+            "url": "https://www.wane.com/news/local-news/reported-measles-cases-reach-200-in-indiana/",
+            "urlToImage": "https://www.wane.com/wp-content/uploads/sites/21/2026/09/measles-e1777646697583.jpg?w=1280",
+            "publishedAt": "2026-11-18T15:13:25Z",
+            "content": "FORT WAYNE, Ind. (WANE) — The Hoosier State is now up to 217 reported measles cases for this year, according to an update Tuesday from the Indiana Department of Health.\r\nMore than 100 of those report… [+4313 chars]"
         },
         {
             "source": {
@@ -287,6 +573,19 @@
             "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/flu-image-1516818846.jpg?crop=0.981xw%3A0.980xh%3B0%2C0&resize=1200%3A*",
             "publishedAt": "2026-11-18T13:46:00Z",
             "content": "WASHINGTON COUNTY, MaineThree people have died from a respiratory virus outbreak in Washington County, according to the Maine CDC.\r\nA CDC spokesperson says higher than expected cases of the flu and C… [+2085 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Science Daily"
+            },
+            "author": null,
+            "title": "MIT discovers that aging weakens the brain’s nighttime cleaning system - ScienceDaily",
+            "description": "MIT researchers have discovered that the brain’s natural waste-removal system becomes significantly less effective during sleep as people age. The decline is linked to weaker deep-sleep brain waves and changes in blood flow, potentially offering new clues abo…",
+            "url": "https://www.sciencedaily.com/releases/2026/11/261114202137.htm",
+            "urlToImage": "https://www.sciencedaily.com/images/1920/brain-disease-neuroscience-psychology.webp",
+            "publishedAt": "2026-11-18T12:09:09Z",
+            "content": "While we sleep, the brain carries out an essential maintenance process that helps wash away accumulated waste. But new research from MIT suggests that this natural cleaning system becomes less effect… [+10241 chars]"
         },
         {
             "source": {
@@ -755,6 +1054,19 @@
             "urlToImage": "https://images.theconversation.com/files/771742/original/file-20261112-64-h5owk3.jpg?ixlib=rb-4.1.1&rect=0%2C163%2C2291%2C1145&q=45&auto=format&w=1356&h=668&fit=crop",
             "publishedAt": "2026-11-17T13:41:39Z",
             "content": "How your body processes food is significantly influenced by daily rhythms tied to 24-hour light-dark cycles. In new research published in the scientific journal Cell Host &amp; Microbe, my colleagues… [+3713 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Jamanetwork.com"
+            },
+            "author": null,
+            "title": "Toward a Healthier Future Through Obesity Prevention and Care The JAMA Summit Report on Obesity - JAMA",
+            "description": "This Special Communication discusses the nature of the obesity epidemic; strengths and weaknesses of current approaches to it, including GLP-1 drugs; and roles for different stakeholders.",
+            "url": "https://jamanetwork.com/journals/jama/fullarticle/2856764",
+            "urlToImage": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/0/jsc260013f1_1794320593.83176.png?Expires=2147483647&Signature=mlCeya-H8jvBnLSZxs2XvOKdQcmvTST0zKVuD0SFZVxW0Bw256YtLIPBTTw1uASMV9bU6qyh5vHPsdCRkAnq-A8cdnrLR4VqImXooxf0A0vN337jcTACYZ58ujgBRHp4jI3JGLmBJoyeh-kDbmXBjWXsGZvDXO6Z2Kf09VuTO965297xW4KPO6fGrDupaynj9hGa8xvfojdAEQN6banUYRxNyQsISeeeXN6H45N02PO2LqEXx-b590qtzTTaLsrOnEdyJghYLcc3HQCe0WAEUhio~i2ge96IPb~iycBmhhPIvI9TDDGplW5cS1mz7~dJY-9M-bninZQ7wkQZGmygrw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+            "publishedAt": "2026-11-17T13:27:07Z",
+            "content": "Over the last few decades, obesity has become a major societal challenge, plagued by multiple different viewpoints about how to define the problem and how to solve it. Obesity is defined clinically b… [+39860 chars]"
         },
         {
             "source": {
@@ -1483,6 +1795,19 @@
             "urlToImage": "https://www.eatingwell.com/thmb/EBDhEcrurJmtzqRFMdfXl6z-MhA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Common-Mistakes-to-Avoid-When-Adding-Beans-to-Your-Diet-According-to-Dietitians-3a46731c9d594131a39a13ffba65ec54.gif",
             "publishedAt": "2026-11-16T14:00:00Z",
             "content": "Adding beans to your diet can be simple, but a few common missteps can make it harder to build them into your routine. Beans should be a regular part of your routine, says Chelsea Didinger, Ph.D. Yet… [+6608 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Health.com"
+            },
+            "author": "https://www.facebook.com/Health/",
+            "title": "More Adults Over 65 Are Taking GLP-1s—Here’s Why Doctors Urge Caution - Health.com",
+            "description": "GLP-1 medications can improve health and mobility in older adults, but they also carry unique risks. Learn what experts say about taking these drugs after 65.",
+            "url": "https://www.health.com/glp-1-risks-older-adults-12121106",
+            "urlToImage": "https://www.health.com/thmb/aztjdVKNQPFNKDyqK6G2IYuOrwg=/8256x0/filters:no_upscale():max_bytes(150000):strip_icc()/Health-GettyImages-2286508296-e0d30d56497d4b88ad38627e7230ad03.jpg",
+            "publishedAt": "2026-11-16T13:55:00Z",
+            "content": "GLP-1s have made a world of difference for Patricia Nece. Since the 68-year-old started the medication three years ago, her weight, blood pressure, and cholesterol have all gone down. But the biggest… [+8216 chars]"
         },
         {
             "source": {
@@ -3082,318 +3407,6 @@
             "urlToImage": "https://bloximages.newyork1.vip.townnews.com/channel3000.com/content/tncms/assets/v3/editorial/2/c6/2c66e73a-209f-5010-adff-84e50aba15d8/6ae0b5c471eb8.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
             "publishedAt": "2026-11-13T20:03:00Z",
             "content": "LANCASTER, Wis. -- A second child has died from measles in Grant County, the Wisconsin Department of Health Services and Grant County Health Department confirmed Friday.\r\nHealth officials did not rel… [+1129 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Foxweather.com"
-            },
-            "author": null,
-            "title": "E. coli outbreak linked to California pumpkin farm leaves 1 dead, officials say no ongoing threat - FOX Weather",
-            "description": "An E. coli outbreak linked to a California pumpkin farm has left one person dead. Health officials identified five confirmed infections and 10 suspected cases but say there is no ongoing public health threat.",
-            "url": "https://www.foxweather.com/earth-space/california-e-coli-outbreak-kills-one-officials-say-no-ongoing-health-threat-identified",
-            "urlToImage": "https://images.foxweather.com/static.foxweather.com/www.foxweather.com/content/uploads/2026/11/1024/512/gettyimages-2298437710.jpg?ve=1&tl=1",
-            "publishedAt": "2026-11-13T19:31:00Z",
-            "content": "THE TAKEAWAY\r\n<ul><li>One person associated with the outbreak has died.</li><li>Five infections were confirmed, and another 10 visitors who developed symptoms were classified as suspected cases.</li>… [+3299 chars]"
-        },
-        {
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "author": null,
-            "title": "Widely used diabetes drug may offer unexpected health benefit - Fox News",
-            "description": "A Stanford study found Type 2 diabetes patients on metformin had a 39% lower risk of dying in the year after a COVID-19 infection than others.",
-            "url": "https://www.foxnews.com/health/widely-used-diabetes-drug-may-offer-unexpected-health-benefit",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/woman-holding-prescription-bottle.jpg",
-            "publishedAt": "2026-11-13T19:19:36Z",
-            "content": "For decades, doctors have relied on metformin to help people with type 2 diabetes manage their blood sugar. Now, new research suggests the widely prescribed drug may offer benefits beyond blood sugar… [+4267 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "AOL"
-            },
-            "author": "Camryn Rabideau",
-            "title": "Doctors say this 'underrated' benefit of collagen for women over 50 has nothing to do with looks - AOL.com",
-            "description": "Collagen peptides can improve your skin, hair, and nails, but there are other major benefits to consider, as well.",
-            "url": "https://www.aol.com/shopping/doctors-say-this-underrated-benefit-of-collagen-for-women-over-50-has-nothing-to-do-with-looks-191009000.html",
-            "urlToImage": "https://hermes.media.transform.aol.com/c34ea8e86355560b331038a15ab38df981b9e471/w_1200,c_scale,f_auto,q_auto/https://hermes.media.static.aol.com/uploads/2026/11/13/a0e3b543-6fc0-4ccd-838c-f365da55adbf.jpg",
-            "publishedAt": "2026-11-13T19:10:09Z",
-            "content": "If you're looking for ways to improve your hair, skin, and nails, you'll definitely come across collagen peptides in your research. This supplement has skyrocketed in popularity thanks to its ability… [+3731 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The-independent.com"
-            },
-            "author": "Julia Musto",
-            "title": "Here is why you should be eating more dark chocolate to improve your health - The Independent",
-            "description": "Just make sure you’re eating the right kind...",
-            "url": "https://www.the-independent.com/life-style/health-and-families/dark-chocolate-antioxidants-heart-health-b3084642.html",
-            "urlToImage": "https://static.the-independent.com/2026/11/13/17/33/GettyImages-940043874.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
-            "publishedAt": "2026-11-13T19:02:00Z",
-            "content": "Dark chocolate has been served as a delicacy for thousands of years with origins dating back to the ancient Mayans - and comes with some surprising health benefits. \r\nA whole bar of dark chocolate ha… [+2559 chars]"
-        },
-        {
-            "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
-            "author": "Anahad O’Connor",
-            "title": "Column | 4 reasons to eat dark chocolate every day, according to science - The Washington Post",
-            "description": "Can a square a day keep the doctor away? Here’s what the research shows about the health benefits of dark chocolate.",
-            "url": "https://www.washingtonpost.com/wellness/2026/11/13/4-reasons-eat-dark-chocolate-every-day-according-science/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NHDDGETSFFC2VCEUBWF526QMWU_size-normalized.jpg&w=1440",
-            "publishedAt": "2026-11-13T19:00:00Z",
-            "content": "Health experts have long encouraged Americans to limit their intake of sweets and treats such as cookies, candies and packaged snacks. These foods are top sources of added sugars, which have been lin… [+68 chars]"
-        },
-        {
-            "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
-            "author": "Kathleen Felton",
-            "title": "Breast cancer treatment can weaken bones. Here’s how to protect them. - The Washington Post",
-            "description": "A new review highlights the risk of osteoporosis and bone fractures for people who have had breast cancer. We asked experts who’s most vulnerable and what can help.",
-            "url": "https://www.washingtonpost.com/wellness/2026/11/13/breast-cancer-treatment-can-weaken-bones-heres-how-protect-them/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BEPT5X6CTLTSOQ4IXCV7XZCDXE_size-normalized.jpg&w=1440",
-            "publishedAt": "2026-11-13T19:00:00Z",
-            "content": "Breast cancer treatments are often lifesaving, but they can also come with both short-term and lingering side effects. One thats been documented in study after study: bone loss. \r\nA recent systematic… [+172 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "San Luis Obispo Tribune"
-            },
-            "author": "Hannah Poukish",
-            "title": "18-month-old died in SLO County E. coli outbreak. ‘We are inconsolable,’ grandma says - San Luis Obispo Tribune",
-            "description": "An 18-month-old toddler died after an STEC E. coli outbreak tied to Brookshire Farms in San Luis Obispo County, California, left three children hospitalized.",
-            "url": "https://www.sanluisobispo.com/news/local/article318047360.html",
-            "urlToImage": "https://www.sanluisobispo.com/public/latest-news/3t2tj4/picture318064622/alternates/LANDSCAPE_1200/exterior-dusk-stanford-childrens.jpg",
-            "publishedAt": "2026-11-13T18:07:00Z",
-            "content": "Local\r\nThe patient who died due to complications from an E. coli infection following an outbreak in San Luis Obispo was an 18-month-old girl, her grandmother confirmed.\r\nThe toddler developed hemolyt… [+3544 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "PBS"
-            },
-            "author": null,
-            "title": "What men need to know after a major update to prostate cancer guidelines - PBS",
-            "description": "Middle-aged men should undergo regular screening for prostate cancer, the American Cancer Society said Thursday in a major change to its guidelines.",
-            "url": "https://www.pbs.org/newshour/health/what-men-need-to-know-after-a-major-update-to-prostate-cancer-guidelines",
-            "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2025/06/BudgetBillMedicaid-1024x545.jpg",
-            "publishedAt": "2026-11-13T17:58:31Z",
-            "content": "WASHINGTON (AP) Middle-aged men should undergo regular screening for prostate cancer, the American Cancer Society said Thursday in a major change to its guidelines.\r\nThe screening involves a simple b… [+3882 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "OregonLive"
-            },
-            "author": "OregonLive.com",
-            "title": "Grieving family awarded $7.8M after doctors failed to diagnose woman’s cancer 2 years in a row - OregonLive.com",
-            "description": null,
-            "url": "https://www.oregonlive.com/health/2026/11/grieving-family-awarded-78m-after-doctors-failed-to-diagnose-womans-cancer-2-years-in-a-row.html",
-            "urlToImage": null,
-            "publishedAt": "2026-11-13T17:57:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "KCCI Des Moines"
-            },
-            "author": null,
-            "title": "Microsoft issues disrupt Polk County measles investigation - KCCI",
-            "description": "Technical problems with Microsoft systems are complicating efforts by the Polk County Health Department to trace potential measles exposures at five locations in Ankeny and Des Moines.",
-            "url": "https://www.kcci.com/article/microsoft-issues-disrupt-polk-county-measles-investigation/74418141",
-            "urlToImage": "https://kubrick.htvapps.com/vidthumb/82da9f77-af6e-4393-ba92-ca6dc9e35fcf/845c546a-0072-424e-9a7e-a025f5da8cd3.jpg?crop=0.814xw%3A0.815xh%3B0.0849xw%2C0&resize=1200%3A*",
-            "publishedAt": "2026-11-13T17:20:00Z",
-            "content": "DES MOINES, IowaThe Polk County Health Department is working to contact nearly 200 Iowans who may have been exposed to measles at five locations in Ankeny and Des Moines between Nov. 5 and Nov. 8, bu… [+1196 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Ground.news"
-            },
-            "author": null,
-            "title": "Irregular Sleep Linked to Worse Anxiety and Depression - Ground News",
-            "description": "A new study found disrupting the body’s natural clock can affect a person's mental health.",
-            "url": "https://ground.news/article/could-an-erratic-sleep-schedule-be-harming-your-mental-health",
-            "urlToImage": null,
-            "publishedAt": "2026-11-13T17:19:00Z",
-            "content": "Going to bed and waking up at different times each day may be linked to more symptoms of depression, anxiety and loneliness, according to a study by researchers from the University of California, San… [+249 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Ed Cara",
-            "title": "Scientists Figured Out Why We Feel Colder as We Age—and It’s Not What You Think - Gizmodo",
-            "description": "Our built-in furnace loses some punch over time.",
-            "url": "https://gizmodo.com/scientists-figured-out-why-we-feel-colder-as-we-age-and-its-not-what-you-think-2000839603",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/11/home-thermometer-1200x675.jpg",
-            "publishedAt": "2026-11-13T17:05:35Z",
-            "content": "If you’ve ever lived with your grandparents or other seniors, you may have had some squabbles over the temperature setting being too low. That’s often because people feel more sensitive to the cold a… [+3536 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "TODAY"
-            },
-            "author": "Sarah Jacoby",
-            "title": "3 Plant Proteins With the Most Fiber, According to a Dietitian - TODAY.com",
-            "description": "Plant-based proteins naturally come with additional nutrients, like fiber. If you want to hit both protein and fiber goals, look to these foods, dietitian says.",
-            "url": "https://www.today.com/health/diet-fitness/plant-based-protein-most-fiber-dietitian-rcna609033",
-            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2026-11/plant-based-protein-most-fiber-as11132026-2c5072.jpg",
-            "publishedAt": "2026-11-13T15:59:35Z",
-            "content": "Your body needs a certain amount of protein every day just to keep functioning properly. But you also need to make sure youre eating enough fiber to support your gut and heart health. \r\nSo, why not o… [+2773 chars]"
-        },
-        {
-            "source": {
-                "id": "newsweek",
-                "name": "Newsweek"
-            },
-            "author": "Lucy Notarantonio",
-            "title": "I had my appendix removed. At my next scan, the room went quiet - Yahoo",
-            "description": "I was having a CT scan and then the vibe in the room changed. I just knew they found something.",
-            "url": "https://www.newsweek.com/i-had-my-appendix-removed-at-my-next-scan-the-room-went-quiet-12701071",
-            "urlToImage": "https://s.yimg.com/lo/mysterio/api/1354a7dd7ef36f7418aa3f0b1a8b753b999e840342222a8a1a0ee5afdacfa95d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fnewsweek_sports_200%2F4810727dde1fb2da91b8efbadd494b6a.png",
-            "publishedAt": "2026-11-13T15:38:39Z",
-            "content": "I have always suffered from bad period pains, but one day in August 2024, I was crippled by pains. I had to call in sick as a medical secretary, as I physically couldn't move.\r\nBy the end of the day,… [+7182 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "nj.com"
-            },
-            "author": "NJ.com",
-            "title": "Measles exposure may have occurred at 3 N.J. locations, including convention - NJ.com",
-            "description": null,
-            "url": "https://www.nj.com/news/2026/11/measles-exposure-may-have-occurred-at-3-nj-locations-including-convention.html",
-            "urlToImage": null,
-            "publishedAt": "2026-11-13T15:02:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Medical Xpress"
-            },
-            "author": null,
-            "title": "Does a heart stent prevent future heart attacks in stable patients? 25-year follow-up offers new insight - Medical Xpress",
-            "description": "When doctors find a blockage in a patient's heart arteries, a common treatment option is a procedure to open the artery and restore blood flow. But does getting a stent actually help prevent a future heart attack or help someone live longer?",
-            "url": "https://medicalxpress.com/news/2026-11-heart-stent-future-stable-patients.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2019/1-cardiology.jpg",
-            "publishedAt": "2026-11-13T15:00:06Z",
-            "content": "When doctors find a blockage in a patient's heart arteries, a common treatment option is a procedure to open the artery and restore blood flow. But does getting a stent actually help prevent a future… [+5115 chars]"
-        },
-        {
-            "source": {
-                "id": "usa-today",
-                "name": "USA Today"
-            },
-            "author": "Daryl Austin",
-            "title": "They were ready to embrace aging. They didn’t anticipate these physical changes - USA Today",
-            "description": "Why is it harder to maintain a healthy weight as you get older? Experts explain.",
-            "url": "https://www.usatoday.com/story/life/health-wellness/2026/11/13/stay-in-shape-as-you-age/92638436007/",
-            "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/11/06/USAT/92638470007-getty-images-2278105372.jpg?crop=2120,1193,x0,y0&width=2120&height=1193&format=pjpg&auto=webp",
-            "publishedAt": "2026-11-13T13:06:33Z",
-            "content": "For Gabrielle Union, it was how quickly the weight appeared. It was 27 pounds in what felt like overnight, the actress told Drew Barrymore during a conversation about perimenopause in 2023.\r\nFor actr… [+7139 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Eatingwell.com"
-            },
-            "author": "https://www.facebook.com/EatingWell/",
-            "title": "Brain-Health Experts Say You Should Avoid These 3 Foods - EatingWell",
-            "description": "Brain-health experts share three foods to limit, plus simple food swaps and lifestyle changes to support cognitive health as you age.",
-            "url": "https://www.eatingwell.com/avoid-these-foods-for-brain-health-12244928",
-            "urlToImage": "https://www.eatingwell.com/thmb/4bjHyMPipDmsJpnvrfaocq03AWU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Brain-Health-Experts-You-Should-Avoid-These-3-Foods-a742083dce8546c6b6fa83e0c49f6433.jpg",
-            "publishedAt": "2026-11-13T13:00:00Z",
-            "content": "Brain health is a hot topic, and for good reason. Despite growing interest, only around 9% of U.S. adults feel knowledgeable about strategies to support their brain. With your brain serving as the co… [+7714 chars]"
-        },
-        {
-            "source": {
-                "id": "medical-news-today",
-                "name": "Medical News Today"
-            },
-            "author": "Peter Morales-Brown",
-            "title": "Two-drug therapy reduces heart artery plaque more than statins alone - Medical News Today",
-            "description": "Intensive cholesterol treatment by combining the two drugs rosuvastatin and ezetimibe reduced coronary plaque by up to 21%, more than statins alone, a new study has found.",
-            "url": "https://www.medicalnewstoday.com/articles/combining-two-cholesterol-drugs-may-shrink-artery-plaque-more-effectively-trial-finds",
-            "urlToImage": "https://media.post.rvohealth.io/wp-content/uploads/sites/3/2026/11/getty_2208159069_facebook_1200x630-1200x628.jpg",
-            "publishedAt": "2026-11-13T11:28:14Z",
-            "content": "<ul><li>A new study suggests that a combination therapy of rosuvastatin plus ezetimibe resulted in a greater reduction in coronary plaque volume than atorvastatin alone.</li><li>Combination therapy a… [+8922 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Deidre McPhillips, Rhyannon Bartlett-Imadegawa",
-            "title": "Timeline: How the US wrangled the deadly measles virus and how it has come raging back - CNN",
-            "description": "Deadly measles outbreaks have driven case counts higher than they’ve been in the United States since the early 1990s, and the country is on the brink of losing its measles elimination status.",
-            "url": "https://www.cnn.com/2026/11/13/health/measles-elimination-status-vis",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/measles-timeline.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2026-11-13T11:00:16Z",
-            "content": "Deadly measles outbreaks have driven case counts higher than theyve been in the United States since the early 1990s, and the country is on the brink of losing its measles elimination status.\r\nWhen th… [+7197 chars]"
-        },
-        {
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "author": null,
-            "title": "Popular snack may help support brain health in older adults, new study finds - Fox News",
-            "description": "A small study found that eating skin-roasted peanuts daily for 16 weeks improved insulin responsiveness in memory-related brain regions of older adults.",
-            "url": "https://www.foxnews.com/food-drink/popular-snack-may-help-support-brain-health-older-adults-new-study-finds",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/10/person-with-handful-of-peanuts.jpg",
-            "publishedAt": "2026-11-13T11:00:04Z",
-            "content": "An unsuspecting snack could help support brain health in older adults, new research suggests.\r\nA small study by researchers at Maastricht University Medical Center in the Netherlands, published in th… [+3340 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "DogTime"
-            },
-            "author": "Chhavi Puri",
-            "title": "Golden Retriever Thinks He Has a Guest & His First Move Is to Grab His Favorite Toy to Greet Them - Yahoo",
-            "description": "This Golden Retriever’s way of greeting a guest is absolutely adorable. Dogs often have their own unique ways of welcoming people or fellow furry companions....",
-            "url": "https://dogtime.com/news/238718-golden-retriever-toy-welcome-guest",
-            "urlToImage": "https://s.yimg.com/lo/mysterio/api/777e55791f991316a59f89731b187d079bf0ec254287b7cabb566e9747babc20/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdog_time_927%2F9e8510e9d948f932c93214849f79967a.jpg",
-            "publishedAt": "2026-11-13T10:39:58Z",
-            "content": "This Golden Retriever's way of greeting a guest is absolutely adorable. Dogs often have their own unique ways of welcoming people or fellow furry companions. Some wag their tails, others jump around,… [+1839 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Cdc.gov"
-            },
-            "author": "CDC",
-            "title": "Weekly US Influenza Surveillance Report: Key Updates for Week 44, ending November 7, 2026 | FluView - Centers for Disease Control and Prevention | CDC (.gov)",
-            "description": "Seasonal influenza activity is increasing in many parts of the country but remains low.",
-            "url": "https://www.cdc.gov/fluview/surveillance/2026-week-44.html",
-            "urlToImage": "https://www.cdc.gov/fluview/media/images/2026/flu-view-sm.png?_=75438",
-            "publishedAt": "2026-11-13T08:00:00Z",
-            "content": "All data are preliminary and may change as more reports are received.\r\nA description of the CDC influenza surveillance system, including methodology and detailed descriptions of each data component, … [+26377 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "DogTime"
-            },
-            "author": "Khushali Srivastava",
-            "title": "Golden Retriever Raises Ducklings, Then Learns Her Little Flock Has No Plans to Leave - Yahoo",
-            "description": "A Golden Retriever has won hearts online after a heartwarming video showed her caring for a group of ducklings. The little birds seem to share a special bond...",
-            "url": "https://dogtime.com/news/238663-golden-retriever-raises-ducklings-no-plans-leave",
-            "urlToImage": "https://s.yimg.com/lo/mysterio/api/072d65a9bc6ed20cbfd88b8393f2e2a19b7922c066ff0f35bed74a2fc2e07055/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdog_time_927%2Fb1e36ec6d3fbc8e461e83b9b9a16daa2.jpg",
-            "publishedAt": "2026-11-13T07:22:00Z",
-            "content": "A Golden Retriever has won hearts online after a heartwarming video showed her caring for a group of ducklings. The little birds seem to share a special bond with her and follow her everywhere. What … [+1861 chars]"
         }
     ]
 }
