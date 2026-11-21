@@ -1,7 +1,85 @@
 {
     "status": "ok",
-    "totalResults": 176,
+    "totalResults": 183,
     "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Gayoung Lee",
+            "title": "Physicists Just Sent an Unblockable Message Encoded in Gravity—Using a 1950s Elevator - Gizmodo",
+            "description": "A study published yesterday in Science Advances asked what the team calls a “fundamental” question: “Can information be transmitted through an unblockable channel?” Modern wireless communication depends on electromagnetism, which is easily blocked. But gravit…",
+            "url": "https://gizmodo.com/physicists-just-sent-an-unblockable-message-encoded-in-gravity-using-a-1950s-elevator-2000842537",
+            "urlToImage": "https://gizmodo.com/app/uploads/2026/11/university-of-queensland-elevator-gravimeter-experiment-1200x675.jpg",
+            "publishedAt": "2026-11-19T20:55:32Z",
+            "content": "Okayand I dont say this lightlyheres a seriously weird one. Scientists managed to transmit a message through a brick wall using two unusual ingredients: an old elevator and gravity.\r\nA study publishe… [+3507 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Space.com"
+            },
+            "author": "Andrew Jones",
+            "title": "No more asteroid landing: Engine trouble forces Japan's Hayabusa2 probe to change plans - Space",
+            "description": "JAXA has abandoned its plan to rendezvous with the asteroid 1998 KY26, switching to a high-speed flyby of 2015 BM510.",
+            "url": "https://www.space.com/space-exploration/asteroid-comet-missions/no-more-asteroid-landing-engine-trouble-forces-japans-hayabusa2-probe-to-change-plans",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/eu2FmcRSGP2BEPSmedZjm6-2000-80.jpg",
+            "publishedAt": "2026-11-19T20:00:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "Marcia Dunn",
+            "title": "NASA’s Voyager 1 phones home from an awe-inspiring one light-day away - AP News",
+            "description": "NASA’s Voyager 1 has phoned home from one light-day away. The spacecraft is humanity’s first emissary to cross this monumental threshold way out in interstellar space. Flight controllers received the spacecraft’s call Thursday, exactly 24 hours after it was s…",
+            "url": "https://apnews.com/article/voyager-nasa-light-day-interstellar-space-db9f5f8d9ec3a40f1f434446baf326b5",
+            "urlToImage": "https://dims.apnews.com/dims4/default/3af426f/2147483647/strip/true/crop/1024x1280+0+0/resize/1024x1280!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F1d%2F39%2F1f6ce0e59c5e4cf7282b13191f35%2Ff2bb9b3c916b4f77a9a0eb971ef4a366",
+            "publishedAt": "2026-11-19T19:26:00Z",
+            "content": "CAPE CANAVERAL, Fla. (AP) NASAs Voyager 1 has phoned home from one light-day away, humanitys first emissary to cross this monumental threshold way out in interstellar space.\r\nFlight controllers recei… [+4152 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Live Science"
+            },
+            "author": "Alex Keshavarzi",
+            "title": "What if space and time don’t exist? Physicists are chasing hints that our reality emerges from something deeper - Live Science",
+            "description": "Space and time seem like the bedrock of reality. But startling clues are leading physicists toward the possibility that something stranger lies beneath.",
+            "url": "https://www.livescience.com/physics-mathematics/what-if-space-and-time-dont-exist-physicists-are-chasing-hints-that-our-reality-emerges-from-something-deeper",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/6axZ5xXd96Mqbp9WGCmTDA-2000-80.jpg",
+            "publishedAt": "2026-11-19T17:00:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Phys.Org"
+            },
+            "author": "Sanjukta Mondal",
+            "title": "Dark personality traits linked to better chance at getting a second date - Phys.org",
+            "description": "Some personalities stand out on the first date and end up being asked for a second date, but not the ones we expect. While very few people want to date people with dark traits like psychopathy and sadism, they seem to make a good first impression. Psychopathy…",
+            "url": "https://phys.org/news/2026-11-dark-personality-traits-linked-chance.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/dark-personality-trait.jpg",
+            "publishedAt": "2026-11-19T15:50:01Z",
+            "content": "Some personalities stand out on the first date and end up being asked for a second date, but not the ones we expect. While very few people want to date people with dark traits like psychopathy and sa… [+5437 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Phys.Org"
+            },
+            "author": null,
+            "title": "Astronomers discover remarkable triple-star system just 28 light-years from Earth - Phys.org",
+            "description": "Astronomers have discovered a stellar system just 28 light-years from Earth that challenges our understanding of how stars live, die and interact as they evolve.",
+            "url": "https://phys.org/news/2026-11-astronomers-remarkable-triple-star-years.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/astronomers-discover-r.jpg",
+            "publishedAt": "2026-11-19T15:00:25Z",
+            "content": "Astronomers have discovered a stellar system just 28 light-years from Earth that challenges our understanding of how stars live, die and interact as they evolve.\r\nGiven the name Welopai, this unusual… [+5361 chars]"
+        },
         {
             "source": {
                 "id": null,
@@ -14,6 +92,19 @@
             "urlToImage": "https://s.yimg.com/lo/mysterio/api/5225b6f8bc657b59f6151f760d764a6ebb8695fce7221b9d0537163bf227a43c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpopular_mechanics_642%2Fefca670f61db09e3e41a1a40c84b75a6.jpg",
             "publishedAt": "2026-11-19T14:00:00Z",
             "content": "Some people fear a hostile alien takeover when there may be a threat lurking much closer to home (and it isn't sentient\r\n robots). If a molecule such as DNA were to see itself in the mirror, its refl… [+5363 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Popular Mechanics"
+            },
+            "author": "Darren Orf",
+            "title": "Scientists Say De-Extinction Is Impossible—Because Extinction Isn’t What You Think It Is - Yahoo News Canada",
+            "description": "Rebuilding a genome isn’t enough. A new paper argues what died with the dire wolf can’t be recreated.",
+            "url": "https://www.popularmechanics.com/science/animals/a74456250/de-extinction-controversy/",
+            "urlToImage": "https://s.yimg.com/lo/mysterio/api/b7d4fd5c8409a9d65531d48729a608fb645e12b68ab86839dd39cdefdd727ea8/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpopular_mechanics_642%2Fef723fef27f877d6e64290af264b11b3.jpg",
+            "publishedAt": "2026-11-19T13:30:00Z",
+            "content": "What does it mean for a species to go extinct? At first glance, the idea is pretty simple: Here today, gone tomorrow. But this uncomplicated view of existence on the planet is what leads some compani… [+3880 chars]"
         },
         {
             "source": {
@@ -31,6 +122,19 @@
         {
             "source": {
                 "id": null,
+                "name": "Nature.com"
+            },
+            "author": null,
+            "title": "4D ultrasound cerebral angiography reveals the hemodynamics of the circle of Willis in primates - Nature",
+            "description": "Four-dimensional ultrasound cerebral angiography (4D UCA) allows imaging of hemodynamic activity in the macaque through the intact skull, as demonstrated by imaging the circle of Willis.",
+            "url": "https://www.nature.com/articles/s41592-026-03314-4",
+            "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41592-026-03314-4/MediaObjects/41592_2026_3314_Fig1_HTML.png",
+            "publishedAt": "2026-11-19T11:57:44Z",
+            "content": "Ethical approval and animal management\r\nNHP housing conditions and experimental protocols were carried out in strict accordance with the National Institutes of Health guidelines (1996) and the recomm… [+18836 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "Space.com"
             },
             "author": "Elizabeth Howell",
@@ -40,6 +144,32 @@
             "urlToImage": "https://cdn.mos.cms.futurecdn.net/x92jSVrYz5idAHyxfXnJRC-1920-80.jpg",
             "publishedAt": "2026-11-19T11:02:37Z",
             "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Phys.Org"
+            },
+            "author": null,
+            "title": "X-rays tear water apart before its electrons can relax - Phys.org",
+            "description": "A single X‑ray photon can break both O–H bonds in a water molecule within a few femtoseconds (quadrillionths of a second), creating neutral atomic oxygen. As shown by a study published in the journal Physical Review Letters, this breakup happens before the el…",
+            "url": "https://phys.org/news/2026-11-rays-electrons.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/x-rays-tear-water-apar.jpg",
+            "publishedAt": "2026-11-19T10:40:05Z",
+            "content": "A single Xray photon can break both OH bonds in a water molecule within a few femtoseconds (quadrillionths of a second), creating neutral atomic oxygen. As shown by a study published in the journal P… [+4759 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Ctinsider.com"
+            },
+            "author": "Jordan Nathaniel Fenster",
+            "title": "Invasive marine worm found in Long Island Sound. It’s the first confirmed East Coast record - CT Insider",
+            "description": "Researchers confirmed Boccardia proboscidea was found in lobster traps in Long Island Sound, making it the first record of the species on the East Coast.",
+            "url": "https://www.ctinsider.com/connecticut/article/connecticut-ct-boccardia-worm-long-island-sound-22537045.php",
+            "urlToImage": "https://s.hdnux.com/photos/01/67/76/40/31451152/5/rawImage.jpg",
+            "publishedAt": "2026-11-19T09:04:06Z",
+            "content": "Boccardia proboscidea, an invasive worm, was found for the first time in the Long Island Sound.\r\nCourtesy of Vasily Radashevsky\r\nBoccardia proboscidea, an invasive worm, was found for the first time … [+6523 chars]"
         },
         {
             "source": {
@@ -148,6 +278,19 @@
         {
             "source": {
                 "id": null,
+                "name": "Space.com"
+            },
+            "author": "Daisy Dobrijevic",
+            "title": "Earth is missing over a billion years of geological history. Scientists may have discovered why - Space",
+            "description": "The answer to one of Earth's greatest geological mysteries may lie deep beneath our feet.",
+            "url": "https://www.space.com/astronomy/earth/earth-is-missing-over-a-billion-years-of-geological-history-scientists-may-have-discovered-why",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/Ct8s5Y3wQjNajro5V9RcA8-2000-80.jpg",
+            "publishedAt": "2026-11-18T20:00:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "Simple Flying"
             },
             "author": "Channing Reid",
@@ -251,6 +394,19 @@
         },
         {
             "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Meghan Bartels",
+            "title": "Eagles may have hunted early human ancestors, shaping evolution - The Washington Post",
+            "description": "New evidence of fatal attacks from above on full-grown baboons in the African desert suggests that early hominins could have faced danger from aerial predators.",
+            "url": "https://www.washingtonpost.com/climate-environment/2026/11/18/modern-baboon-skulls-offer-clues-about-avian-threats-early-human-ancestors/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/7H32QH6PV5A6BFXQW7UMEAQPJ4.jpg&w=1440",
+            "publishedAt": "2026-11-18T17:00:00Z",
+            "content": "It was a bad day for an olive baboon in the desert cliffs of northeast Chad, but it was a good day for a hungry eagle and, eventually, a very good day for a team of scientists who stumbled on the pot… [+57 chars]"
+        },
+        {
+            "source": {
                 "id": null,
                 "name": "Gizmodo.com"
             },
@@ -326,6 +482,19 @@
             "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/using-a-microwave-link.jpg",
             "publishedAt": "2026-11-18T12:00:13Z",
             "content": "Quantum technologies, devices and systems that process, store, transfer or collect information leveraging the laws of quantum mechanics, could outperform their classical counterparts on some real-wor… [+5939 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Nature.com"
+            },
+            "author": null,
+            "title": "Genomic signatures of recent human adaptation to the foraging-to-farming transition - Nature",
+            "description": "Here the authors assess genomic changes spanning the transition to farming with whole-genome sequences from 1,092 individuals. They find positive selection on genes associated with immune function and convergent adaptations across all groups, despite their ge…",
+            "url": "https://www.nature.com/articles/s41559-026-03227-7",
+            "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41559-026-03227-7/MediaObjects/41559_2026_3227_Fig1_HTML.png",
+            "publishedAt": "2026-11-18T11:52:37Z",
+            "content": "Cross-continental whole-genome sequencing dataset\r\nWe generated high-coverage whole-genome sequence data for 95 individuals from Uganda (70 Batwa and 25 Bakiga, East Central Africa), 43 individuals f… [+32363 chars]"
         },
         {
             "source": {
@@ -469,6 +638,19 @@
             "urlToImage": "https://www.futura-sciences.com/en/wp-content/uploads/2026/11/degel-pergelisol-alaska.jpg",
             "publishedAt": "2026-11-17T23:18:38Z",
             "content": "September 2025 was the 3rd-warmest on record globally. Vast areas of the #Arctic regions were 57°C warmer than normal accelerating ice sheet melt &amp;amp; thawing permafrost, releasing more Methane.… [+3199 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Cult of Mac"
+            },
+            "author": "Ankita Sharma",
+            "title": "NASA smashed into an asteroid. Now scientists have discovered something strange. - Yahoo Tech",
+            "description": "Hera’s images reveal unusual terrain on Didymos, while NASA scientists investigate the impact to better understanding the event for potential future deflecti...",
+            "url": "https://tech.cultofmac.com/news/nasa-smashed-into-an-asteroid-now-scientists-have-discovered-something-strange",
+            "urlToImage": "https://s.yimg.com/lo/mysterio/api/426fc59987d2c2a1a1d9e4b5a97bc272fbf6f47e3e80f7130a42b68c27c2c118/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcult_of_mac_917%2F32a2a3abc4a522ab60661b1688e0f9e7.jpg",
+            "publishedAt": "2026-11-17T22:29:04Z",
+            "content": "NASA's DART spacecraft slammed into the small asteroid Dimorphos in 2022. The impact altered the moonlet's orbit and provided planetary defense researchers with their very first full-scale demonstrat… [+3799 chars]"
         },
         {
             "source": {
@@ -1682,6 +1864,19 @@
         {
             "source": {
                 "id": null,
+                "name": "The Weather Channel"
+            },
+            "author": "Ada Wood",
+            "title": "Leonid meteor shower peaks tonight, Nov. 16, here's how to watch it - The Weather Channel",
+            "description": "The moon sets near midnight on Nov. 16-17, leaving dark post-midnight skies perfect for spotting Leonid fireballs and colorful Earth-grazing meteors.",
+            "url": "https://weather.com/2026/11/15/science/space/leonid-meteor-shower-peaks-how-to-watch-fireballs",
+            "urlToImage": "https://s.w-x.co/wxnext/img/GettyImages-877760704-47639a.jpg",
+            "publishedAt": "2026-11-15T12:00:00Z",
+            "content": "Leonids meteor shower peak this week: where and when to watch\r\nThe Leonid meteor shower's peak is tonight, and you might just catch one of their two specialties: fireballs and Earth-grazing meteors.\r… [+4618 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "ScienceAlert"
             },
             "author": "Jess Cockerill",
@@ -2185,110 +2380,6 @@
             "urlToImage": "https://www.sciencealert.com/images/2026/11/Screenshot-2026-11-11-at-3.02.14-PM-2560x1440-1.jpg",
             "publishedAt": "2026-11-14T08:03:33Z",
             "content": "Scientists have discovered a microscopic organelle unlike any other on Earth, hiding within a mysterious deep-sea creature.\r\nThey've called it a 'dragonball' because it exists within the divine drago… [+5308 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "News-Medical.Net"
-            },
-            "author": null,
-            "title": "Researchers discover bacterial molecule that rapidly repairs intestinal damage - News-Medical",
-            "description": "Scientists at Rutgers Health have discovered a molecule produced by \"good\" gut bacteria that rapidly heals the intestinal lining, protecting against severe inflammatory diseases and triggering increased production of a coenzyme whose levels diminish with age.",
-            "url": "https://www.news-medical.net/news/20261113/Researchers-discover-bacterial-molecule-that-rapidly-repairs-intestinal-damage.aspx",
-            "urlToImage": "https://www.news-medical.net/image-handler/picture/2016/5/3d_rendered_illustration_-_molecules-Sebastian_Kaulitzki-2000_12b7886e43a74db8bd94fd774ce58a26-620x480.jpg",
-            "publishedAt": "2026-11-14T02:55:00Z",
-            "content": "Scientists at Rutgers Health have discovered a molecule produced by \"good\" gut bacteria that rapidly heals the intestinal lining, protecting against severe inflammatory diseases and triggering increa… [+4127 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "ScienceAlert"
-            },
-            "author": "Jess Cockerill",
-            "title": "Scientists Discover a 98-Million-Year-Old Mantis With 'Leaves' on Its Abdomen, Trapped in Amber - ScienceAlert",
-            "description": "In the mid-Cretaceous, a tropical rainforest in what is now Myanmar was dripping with sticky tree resin that entombed a very peculiar praying mantis.",
-            "url": "https://www.sciencealert.com/scientists-discover-a-98-million-year-old-mantis-with-leaves-on-its-abdomen-trapped-in-amber",
-            "urlToImage": "https://www.sciencealert.com/images/2026/11/Copy-of-Template-for-CMS-Cover-Image-2560-x-1440-2560x1440-1.jpg",
-            "publishedAt": "2026-11-14T02:03:33Z",
-            "content": "In the mid-Cretaceous, a tropical rainforest in what is now Myanmar was dripping with sticky tree resin that entombed a very peculiar praying mantis.\r\nNow, 98 million years later, this insect is the … [+5290 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "ScienceAlert"
-            },
-            "author": "Michelle Starr",
-            "title": "Physicists Find a Mathematical Limit to Making Time Run Backward - ScienceAlert",
-            "description": "Our experience of time seems uniform and unidirectional, but relativity allows it to be a bit more loosey-goosey than you might expect.",
-            "url": "https://www.sciencealert.com/physicists-find-a-mathematical-limit-to-making-time-run-backward",
-            "urlToImage": "https://www.sciencealert.com/images/2026/11/melty-watches-1200x675.png",
-            "publishedAt": "2026-11-13T23:03:33Z",
-            "content": "Our experience of time seems uniform and unidirectional, but relativity allows it to be a bit more loosey-goosey than you might expect.\r\nFor example, in a strong gravitational field, time runs more s… [+7722 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Phys.Org"
-            },
-            "author": null,
-            "title": "'Planimal' cells retain nearly entire algal genome after experimental cell fusion - Phys.org",
-            "description": "Most DNA in an organism is inherited from its parent or parents. This form of genetic inheritance is referred to as vertical inheritance because genes are passed down from generation to generation.",
-            "url": "https://phys.org/news/2026-11-planimal-cells-retain-entire-algal.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/fusion-of-a-unicellula.jpg",
-            "publishedAt": "2026-11-13T22:20:01Z",
-            "content": "Most DNA in an organism is inherited from its parent or parents. This form of genetic inheritance is referred to as vertical inheritance because genes are passed down from generation to generation.\r\n… [+6784 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Science.org"
-            },
-            "author": null,
-            "title": "Extinct ‘vampire camel’ once stalked North American plains - Science | AAAS",
-            "description": "New fossil survey shines light on this mysterious creature, as well as ancient camels’ ecological importance",
-            "url": "https://www.science.org/content/article/extinct-vampire-camel-once-stalked-north-american-plains",
-            "urlToImage": "https://www.science.org/cms/asset/f54e2cc8-d6c4-4288-ac97-fd52cc754f63/media/_20261113_on_vampire_camel_1216.jpg",
-            "publishedAt": "2026-11-13T21:15:00Z",
-            "content": "Thirteen million years ago, this extinct camel stalked North Americas Great Plains like a fanged, four-legged Dracula.\r\nIn a monograph on camel evolution uploaded to ResearchGate earlier this month a… [+4378 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Space.com"
-            },
-            "author": "Joe Rao",
-            "title": "60 years ago the Leonid meteor shower produced 144,000 meteors per hour. Could it happen again? - Space",
-            "description": "60 years ago, the Leonid meteor shower unleashed one of the most spectacular meteor storms in recorded history. As the 2026 peak approaches, here's what skywatchers can expect.",
-            "url": "https://www.space.com/stargazing/meteor-showers/60-years-ago-the-leonid-meteor-shower-produced-144-000-meteors-per-hour-could-it-happen-again",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/nPEBawPrstV8fopNghgnUn-2121-80.jpg",
-            "publishedAt": "2026-11-13T21:00:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "World Atlas"
-            },
-            "author": "Gina DeMasi",
-            "title": "How Long It Takes A Clear-Cut Forest To Grow Back - WorldAtlas",
-            "description": "Three years to turn green, decades to grow tall, and a century may still not be enough for a clear-cut forest to regain everything it lost.",
-            "url": "https://www.worldatlas.com/forests/how-long-it-takes-a-clear-cut-forest-to-grow-back.html",
-            "urlToImage": "https://www.worldatlas.com/r/w1200-q80/upload/69/cb/40/shutterstock-2438605613-s3cdn.jpg",
-            "publishedAt": "2026-11-13T21:00:00Z",
-            "content": "A clear-cut forest grows back in stages, not on a single schedule. Grasses, shrubs, and young trees start filling the open ground during the first year, and fresh greenery usually covers the site wit… [+9518 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Phys.Org"
-            },
-            "author": "Paul Arnold",
-            "title": "A newly discovered South African dinosaur was a heavyweight even as a youngster - Phys.org",
-            "description": "It probably walked on two legs and weighed about 400 kilograms (880 pounds), despite still being a youngster. Meet Nyana rooiwalensis, a newly identified dinosaur species that lived more than 200 million years ago in what is now South Africa.",
-            "url": "https://phys.org/news/2026-11-newly-south-african-dinosaur-heavyweight.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/a-newly-discovered-sou-1.jpg",
-            "publishedAt": "2026-11-13T20:20:04Z",
-            "content": "It probably walked on two legs and weighed about 400 kilograms (880 pounds), despite still being a youngster. Meet Nyana rooiwalensis, a newly identified dinosaur species that lived more than 200 mil… [+3506 chars]"
         }
     ]
 }
