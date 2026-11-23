@@ -1,7 +1,293 @@
 {
     "status": "ok",
-    "totalResults": 320,
+    "totalResults": 323,
     "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "Chip Patterson",
+            "title": "Tomorrow's Top 25 Today: Ohio State, Indiana, UCLA fall in college football rankings amid Big Ten chaos - CBS Sports",
+            "description": "Projecting the new AP Top 25 poll after Saturday's chaos will cause a shakeup in the college football rankings",
+            "url": "https://www.cbssports.com/college-football/news/college-football-rankings-tomorrows-top-25-week-13-2026/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2026/11/22/b8426d01-7ce5-41cd-8316-910713d111b0/thumbnail/1200x675/8bedd146f77fa642c3cb581232424671/ohio-state-rankings.png",
+            "publishedAt": "2026-11-22T04:39:00Z",
+            "content": "One read of Saturday's college football schedule suggested we might be in for a sleepy weekend. After all, Week 12 marked the first time since 2009 that there were no games between teams ranked in th… [+11417 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Fernando Cervantes Jr.",
+            "title": "Powerball winning numbers for Nov. 21: $114M jackpot - USA Today",
+            "description": "Powerball's jackpot is up to $114 million for the Nov. 21 drawing. Check your ticket for the winning numbers!",
+            "url": "https://www.usatoday.com/story/money/lottery/2026/11/21/powerball-winning-numbers-november-21-2026/92884986007/",
+            "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/11/21/USAT/92904423007-20260813-t-120616-z-1652837378-mt-1-usatoday-29572102-rtrmadp-3-apowerballticketandthepowerballlogoonavending.JPG?crop=3023,1701,x0,y1528&width=3023&height=1701&format=pjpg&auto=webp",
+            "publishedAt": "2026-11-22T04:14:00Z",
+            "content": "The Powerball numbers are in for Saturday nights $114 million jackpot, but its not yet clear whether anyone matched all six numbers to win the grand prize. The jackpot carries a $47.9 million cash op… [+2691 chars]"
+        },
+        {
+            "source": {
+                "id": "espn",
+                "name": "ESPN"
+            },
+            "author": "Jenna Pel",
+            "title": "Kansas City Current finally breaks NWSL Championship drought - ESPN",
+            "description": "Kansas City Current's first NWSL Championship was a story of conviction and resilience, crowned by a wonder-strike from Vanessa DiBernardo.",
+            "url": "https://www.espn.com/soccer/story/_/id/50558351/kansas-city-current-breaks-nwsl-championship-drought",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1122%2Fr1749444_1296x729_16%2D9.jpg",
+            "publishedAt": "2026-11-22T03:57:00Z",
+            "content": "Nov 21, 2026, 10:57 PM ET\r\nWASHINGTON -- The Kansas City Current lay claim to some of the most passionate home supporters in the NWSL. Their 33-match regular-season unbeaten run at CPKC Stadium speak… [+5061 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BGR"
+            },
+            "author": "José Adorno",
+            "title": "These iPhone Customizations Can Make Your Lock Screen Look Cooler - BGR",
+            "description": "Apple introduced many enhancements to the lock screen in recent years, including AI-generated wallpapers, smaller clocks, and widgets.",
+            "url": "https://www.bgr.com/2317828/iphone-customizations-make-lock-screen-cooler/",
+            "urlToImage": "https://www.bgr.com/img/gallery/these-iphone-customizations-can-make-your-lock-screen-look-cooler/l-intro-1794845834.jpg",
+            "publishedAt": "2026-11-22T03:47:00Z",
+            "content": "Another important tweak that few people actually take advantage of is Apple's Focus Modes. Introduced in 2021's iOS 15 update, Apple lets you create different Lock Screen, Home Screen, wallpapers, an… [+1739 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "247Sports"
+            },
+            "author": "Ryan Callahan",
+            "title": "Lane Kiffin credits Neyland Stadium crowd as 'loudest' he has heard on road - 247Sports",
+            "description": "The former Tennessee coach whos now in his first year at LSU was complimentary of the Vols homefield advantage during their 2713 win over the Tigers",
+            "url": "https://247sports.com/college/tennessee/article/tennessee-football-lane-kiffin-credits-neyland-stadium-crowd-as-loudest-he-has-heard-on-road-293135203/",
+            "urlToImage": "https://s3media.247sports.com/Uploads/Assets/814/724/14724814.JPG?width=1200&height=628&crop=1.91:1&fit=cover",
+            "publishedAt": "2026-11-22T03:44:48Z",
+            "content": "First-year LSU coach Lane Kiffin is no stranger to Neyland Stadium. He walked the sideline there as Tennessee's coach in 2009, returned three times as Alabama's offensive coordinator and went head-to… [+3134 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "San Francisco Chronicle"
+            },
+            "author": "Matthias Gafni",
+            "title": "SFO will flood next week from huge tides, federal expert says - San Francisco Chronicle",
+            "description": "A National Weather Service meteorologist expects water to overtop SFO’s seawall in the days before Thanksgiving. It’s unclear if water will reach the runways.",
+            "url": "https://www.sfchronicle.com/travel/article/sfo-airport-flood-weather-22543280.php",
+            "urlToImage": "https://s.hdnux.com/photos/01/70/00/54/31460148/5/rawImage.jpg",
+            "publishedAt": "2026-11-22T02:50:47Z",
+            "content": "Low-lying San Francisco International Airport sits right on the bay and is vulnerable to extremely high tides, such as those expected next week. \r\nLea Suzuki/S.F. Chronicle\r\nSeawater will cascade int… [+5904 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": null,
+            "title": "Athlete swims Strait of Hormuz to raise awareness of Iran war's toll on wildlife - CBS News",
+            "description": "British endurance swimmer Lewis Pugh has swum the Strait of Hormuz to highlight environmental threats during ongoing conflict.",
+            "url": "https://www.cbsnews.com/news/athlete-swims-strait-of-hormuz-iran-war-wildlife/",
+            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/22/6f642d8d-a281-49af-8e39-8f6417483e55/thumbnail/1200x630/e4ef39168b9187cc5a8ff2ee8d77bd8a/ap26324612213940.jpg",
+            "publishedAt": "2026-11-22T01:30:53Z",
+            "content": "British endurance swimmer Lewis Pugh has swum in the North Pole and Antarctica to draw attention to environmental causes. But battling freezing waters and extreme conditions hasn't prepared him for h… [+4268 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "'El Chapo Isidro': Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out - BBC",
+            "description": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
+            "url": "https://www.bbc.com/news/articles/ckz749ey0r75o",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5701/live/7ac9e270-e5ad-11f1-99a1-253766e7ad8b.jpg",
+            "publishedAt": "2026-11-22T01:25:03Z",
+            "content": "The US Consulate General in the city of Hermosillo said it was \"monitoring reports of ongoing security operations, armed clashes, road blockades, and vehicle fires that occurred overnight in Ahome, G… [+68 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hollywood Reporter"
+            },
+            "author": "Lexi Carson",
+            "title": "Miley Cyrus and Maxx Morando Are Married - The Hollywood Reporter",
+            "description": "The couple began dating in 2021 after meeting on a blind date.",
+            "url": "http://www.hollywoodreporter.com/lifestyle/lifestyle-news/miley-cyrus-maxx-morando-married-1236760559/",
+            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/miley-maxx.jpg?w=1440&h=810&crop=1",
+            "publishedAt": "2026-11-22T01:08:13Z",
+            "content": "Miley Cyrus and Maxx Morando are married. \r\nThe couple tied the knot Saturday in Palm Springs, California, according to Entertainment Tonight. TMZ first reported that Cyrus, 33, and Morando, 28, were… [+1427 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Kyla Guilfoil",
+            "title": "Abdul El-Sayed catches Trump’s attention with pitch for ‘Trumpcare’ - NBC News",
+            "description": "President Donald Trump responded on Saturday to Sen.-elect Abdul El-Sayed’s push for universal healthcare after the progressive Michigan Democrat pitched that it be called “Trumpcare.”",
+            "url": "https://www.nbcnews.com/politics/donald-trump/abdul-el-sayed-catches-trumps-attention-pitch-trumpcare-rcna610626",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261121-abdul-el-sayed-ww-1531-766f03.jpg",
+            "publishedAt": "2026-11-22T00:37:00Z",
+            "content": "President Donald Trump responded on Saturday to Sen.-elect Abdul El-Sayeds push for universal healthcare after the progressive Michigan Democrat pitched that it be called Trumpcare.\r\nDonald, this is … [+2418 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "KTVZ"
+            },
+            "author": "Gregory Deffenbaugh",
+            "title": "USDA Quietly Releases Bigfoot Files, Included Cases in the Pacific Northwest - KTVZ",
+            "description": "BEND, Ore. (KTVZ) -- The U.S. Forest Service has added a small collection of Bigfoot- and Sasquatch-related records to its FOIA Reading Room, including a 1982 investigation of reported tracks in northeast Oregon’s Umatilla National Forest. The documents offer…",
+            "url": "https://ktvz.com/news/2026/11/21/usda-quietly-releases-bigfoot-files-included-cases-in-the-pacific-northwest/",
+            "urlToImage": "https://ktvz.com/wp-content/uploads/2026/11/MGN_1280x960_81220P00-NSXOY.jpg",
+            "publishedAt": "2026-11-22T00:14:58Z",
+            "content": "BEND, Ore. (KTVZ) -- The U.S. Forest Service has added a small collection of Bigfoot- and Sasquatch-related records to its FOIA Reading Room, including a 1982 investigation of reported tracks in nort… [+3086 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Tom  Ignudo",
+            "title": "Princeton University student detained by ICE at Reagan Airport after conference - CBS News",
+            "description": "Eva Yi Xie, a third-year Ph.D. Princeton student, was detained following a presentation she gave at the Society for Neuroscience.",
+            "url": "https://www.cbsnews.com/philadelphia/news/princeton-student-ice/",
+            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/21/ea3a8214-910e-4204-9906-b274fd0bbfcf/thumbnail/1200x630/eae675016c1c820add4f84e3e650712f/gettyimages-2274498190.jpg",
+            "publishedAt": "2026-11-21T22:50:00Z",
+            "content": "A Princeton University student was detained by U.S. Immigration and Customs Enforcement this week at Ronald Reagan National Airport in Washington, D.C., after attending a neuroscience conference, the… [+2186 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": "The Associated Press",
+            "title": "Trump orders federal contractors to check with White House before responding to Congress - NPR",
+            "description": "President Trump is directing federal contractors to consult the White House about inquiries from Congress and to withhold any communications that his administration considers privileged.",
+            "url": "https://www.npr.org/2026/11/21/g-s1-154966/trump-contractors-congress",
+            "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3599x2024+0+187/resize/1400/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F0e%2F00%2F8bdf254b4a1089592ab211f30cf5%2Fap26324673842521.jpg",
+            "publishedAt": "2026-11-21T22:40:36Z",
+            "content": "NEW YORK (AP) President Donald Trump is directing federal contractors and subcontractors to consult with his administration about inquiries they receive from Congress and to withhold any communicatio… [+2739 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "Geoff Mulvihill",
+            "title": "Virginia reports young child is the state’s first measles death in 2026 - AP News",
+            "description": "Virginia officials say a young child who tested positive for measles has died. It is the state's first death related to the highly contagious virus this year. The death comes days after the U.S. lost its designation of having eliminated measles. There have be…",
+            "url": "https://apnews.com/article/measles-child-dies-virginia-e0c572252ece06a106cbe4d890e9fd70",
+            "urlToImage": "https://dims.apnews.com/dims4/default/3efed4e/2147483647/strip/true/crop/4500x3000+0+0/resize/1200x800!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F23%2Fcb%2F47222a362541161c89f65bc5f8de%2F57fe8fdbcd3f411ba7056d889f302e06",
+            "publishedAt": "2026-11-21T22:07:00Z",
+            "content": "A young child has died in Virginia after testing positive for measles, officials said, the first deadly case in the state this year. \r\nThe Virginia Department of Health reported the death Friday, say… [+1237 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Drake Riggs",
+            "title": "UFC Qatar results: Navajo Stirling detonates Jiri Prochazka with monster statement KO - Yahoo Sports",
+            "description": "Navajo Stirling delivered the goods in his first main event at UFC Qatar.",
+            "url": "https://sports.yahoo.com/mma/live/ufc-qatar-live-now-prochazka-vs-stirling-results-round-by-round-updates-for-todays-fights-185159069.html",
+            "urlToImage": "https://s.yimg.com/lo/mysterio/api/47cc4bd0164fb2b11cb18a81232e781d30d4eaf47fe3b484d19ddfdeaa2cc87f/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2F14d301cf-85a2-474a-bc7c-020b42acfe84",
+            "publishedAt": "2026-11-21T21:49:04Z",
+            "content": "Navajo Stirling delivered the goods in his first main event at UFC Qatar.\r\nA rising, undefeated light heavyweight contender, the Kiwi scored his biggest win yet by knocking out former UFC champion Ji… [+13328 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "Politico",
+            "title": "Trump says latest FBI hack could have ‘positive’ impacts - Politico",
+            "description": null,
+            "url": "https://www.politico.com/news/2026/11/21/trump-fbi-hack-cybersecurity-01179574",
+            "urlToImage": null,
+            "publishedAt": "2026-11-21T21:41:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Cosmic Book News"
+            },
+            "author": "https://www.facebook.com/matt.mcgloin",
+            "title": "Batman To Be Recast After Robert Pattinson Early Exit (Report) - Cosmic Book News",
+            "description": "A new Batman will be recast with Robert Pattinson done after The Batman Part II. Insiders point to Ben Affleck, Michael Keaton, and a younger Dark Knight.",
+            "url": "https://cosmicbook.news/next-batman",
+            "urlToImage": "https://cosmicbook.news/wp-content/uploads/2026/11/batman-recast.webp",
+            "publishedAt": "2026-11-21T21:12:38Z",
+            "content": "A new actor will be playing Batman.\r\nRobert Pattinson is done after The Batman Part II, with The Sun reporting Amazon killed a third movie over James Bond and that the role will be recast.\r\nTo be cle… [+1867 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": "Will Stone",
+            "title": "Bayer reaches Roundup settlement that could cost the company billions - NPR",
+            "description": "The money will go to thousands of people who have been or will be diagnosed with non-Hodgkin lymphoma – a blood cancer linked to the herbicide.<br><br>",
+            "url": "https://www.npr.org/2026/11/21/nx-s1-6049684/roundup-bayer-hodgkins-settlement",
+            "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5265x2962+0+281/resize/1400/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F67%2Fa1%2F2a7c9b0b4b1783ffed73a002a6ad%2Fgettyimages-2283306424.jpg",
+            "publishedAt": "2026-11-21T20:37:35Z",
+            "content": "The agrochemical and biotech giant Bayer has agreed to pay billions of dollars to people who sued the company alleging the weed-killer Roundup caused their cancer.\r\nOn Friday, a judge in Missouri gav… [+2815 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Newsnationnow.com"
+            },
+            "author": "Caroline Jaime",
+            "title": "New pancreatic cancer drug stops tumor growth: Study - NewsNation",
+            "description": "The drug shrank the tumors of more than 60% of the 60 patients tested and made it completely undetectable in 8%.",
+            "url": "https://www.newsnationnow.com/health/pancreatic-cancer-drug-stops-tumor-growth/",
+            "urlToImage": "https://www.newsnationnow.com/wp-content/uploads/sites/108/2026/11/gettyimages-2287013334-594x594-1.jpg?w=1280",
+            "publishedAt": "2026-11-21T20:26:00Z",
+            "content": "(NewsNation) A new drug is capable of substantially reducing the size of tumors in patients with metastatic pancreatic cancer, when combined with chemotherapy, according to a new study.\r\nThe drug, Da… [+1655 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Russia Says Cargo Ship Attacked By Drones in Gulf of Finland - Bloomberg.com",
+            "description": "Russia said a cargo ship bound for its Kaliningrad exclave was targeted in international waters in the Gulf of Finland, highlighting growing risks to the country’s energy and food exports through critical Baltic Sea shipping routes.",
+            "url": "https://www.bloomberg.com/news/articles/2026-11-21/russia-says-cargo-ship-attacked-by-drones-in-gulf-of-finland",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iOTdTZSwq6zo/v0/1200x597.jpg",
+            "publishedAt": "2026-11-21T20:01:26Z",
+            "content": "Russia said a cargo ship bound for its Kaliningrad exclave was targeted in international waters in the Gulf of Finland, highlighting growing risks to the countrys energy and food exports through crit… [+184 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Nature.com"
+            },
+            "author": null,
+            "title": "BepiColombo finally reaches Mercury after eight-year odyssey - Nature",
+            "description": "European and Japanese probes will trace different paths around the planet to study its surface and its surroundings.",
+            "url": "https://www.nature.com/articles/d41586-026-03803-8",
+            "urlToImage": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03803-8/d41586-026-03803-8_54002884.jpg",
+            "publishedAt": "2026-11-21T19:36:23Z",
+            "content": "False-colour view of Mercury produced using data from MESSENGER.Credit: NASA Goddard\r\nAfter an epic eight-year journey, the European and Japanese BepiColombo spacecraft has arrived at Mercury. It is … [+1928 chars]"
+        },
+        {
+            "source": {
+                "id": "axios",
+                "name": "Axios"
+            },
+            "author": "Brad Jennings",
+            "title": "Map: Measles cases in each U.S. state - Axios",
+            "description": "Led by Pennsylvania, U.S. measles cases have surged past 5,800 so far this year — more than 20 times the total just two years ago.",
+            "url": "https://www.axios.com/2026/11/21/the-measles-surge-where-each-state-stands",
+            "urlToImage": "https://images.axios.com/U7tHe4N2VgAUC5Ynynk1zkP6AjU=/0x0:1344x756/1366x768/2026/11/20/1795204693835.png",
+            "publishedAt": "2026-11-21T18:27:32Z",
+            "content": "By the numbers: The U.S. has recorded 5,838 confirmed measles cases this year through Nov. 19, compared with 2,289 in all of 2025 and just 285 in 2024, according to the CDC.\r\n<ul><li>Pennsylvania by … [+1139 chars]"
+        },
         {
             "source": {
                 "id": null,
@@ -57,6 +343,19 @@
         {
             "source": {
                 "id": null,
+                "name": "Fox Business"
+            },
+            "author": "Robert McGreevy",
+            "title": "Anthropic IPO signals ‘beginning of a gold rush’ for small businesses, says biz tech CEO - Fox Business",
+            "description": "Anthropic's $1.5 trillion IPO signals a \"gold rush\" for solopreneurs, says Novo CEO Michael Rangel, as small business AI adoption jumped to one in eight.",
+            "url": "https://www.foxbusiness.com/economy/anthropic-ipo-signals-beginning-gold-rush-small-businesses-says-biz-tech-ceo",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/0/0/anthropic-dario-amodei-nasdaq.jpg?ve=1&tl=1",
+            "publishedAt": "2026-11-21T17:54:21Z",
+            "content": "Michael Rangel, founder of small business technology platform Novo, predicted that, in the wake of a historic initial public offering for AI behemoth Anthropic, artificial intelligence tools will hel… [+3334 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "Hollywood Reporter"
             },
             "author": "Ryan Gajewski",
@@ -92,6 +391,19 @@
             "urlToImage": "https://images.macrumors.com/t/y1HuPRSv1e6To4GeIAoCGSn6QrU=/2500x/article-new/2026/11/Black-Friday-Deals-26-4.jpg",
             "publishedAt": "2026-11-21T17:17:48Z",
             "content": "Black Friday is getting closer and closer, taking place on Friday, November 27 in 2026. As always, this will be the best time of the year to shop for great deals, including popular Apple products lik… [+13074 chars]"
+        },
+        {
+            "source": {
+                "id": "bleacher-report",
+                "name": "Bleacher Report"
+            },
+            "author": "Mike Chiari",
+            "title": "Miami Fan's GTA 6 Sign About Lucia Goes Viral in Trending Photo from ESPN College GameDay - Bleacher Report",
+            "description": "A University of Miami fan drew the attention of ESPN College GameDay on Saturday with a funny sign referencing the newly released Grand Theft Auto VI video game.",
+            "url": "https://bleacherreport.com/articles/25536053-miami-fans-gta-6-sign-about-lucia-goes-viral-trending-photo-espn-college-gameday",
+            "urlToImage": "https://gsp-image-cdn.wmsports.io/cms/prod/bleacher-report/getty_images/2026-11/2301605318_large_cropped.jpg?w=1120&h=630",
+            "publishedAt": "2026-11-21T17:04:32Z",
+            "content": "A University of Miami fan drew the attention of ESPN College GameDay on Saturday with a funny sign referencing the newly released Grand Theft Auto VI video game.\r\nThe sign, which was posted on Colleg… [+426 chars]"
         },
         {
             "source": {
@@ -134,6 +446,19 @@
         },
         {
             "source": {
+                "id": null,
+                "name": "Variety"
+            },
+            "author": "Payton Turkeltaub",
+            "title": "\"The Hunger Games: Sunrise on the Reaping\" opened to $56 million. - Variety",
+            "description": "The odds were ever in the favor of “The Hunger Games: Sunrise on the Reaping,” which ruled the box office on Friday.",
+            "url": "https://variety.com/2026/film/box-office/box-office-hunger-games-sunrise-of-the-reaping-opening-day-1236954987/",
+            "urlToImage": "https://variety.com/wp-content/uploads/2026/04/Solstice_Final-Trailer-Grab_00004RC-1.jpg?crop=0px%2C0px%2C1000px%2C562px&resize=1000%2C563",
+            "publishedAt": "2026-11-21T16:42:00Z",
+            "content": "The odds were ever in the favor of “The Hunger Games: Sunrise on the Reaping,” the latest entry in the storied franchise, which ruled the box office on Friday.\r\n“Sunrise on the Reaping” generated $56… [+3048 chars]"
+        },
+        {
+            "source": {
                 "id": "axios",
                 "name": "Axios"
             },
@@ -170,6 +495,19 @@
             "urlToImage": "https://www.sciencedaily.com/images/1920/physics-time-flow-illustration.webp",
             "publishedAt": "2026-11-21T15:11:22Z",
             "content": "We measure time constantly, from the ticking hands of a clock to the changing numbers on a smartphone screen. Yet despite how familiar time seems, physicists still do not fully understand its fundame… [+4599 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Freddie Clayton",
+            "title": "Facing economic pain and Russia threats, U.K.’s Burnham looks to rewrite Brexit with new deal - NBC News",
+            "description": "LONDON — Ten years after voting to leave the European Union, Britain is looking to rekindle a closer relationship with the neighbors it spent years trying to distance itself from.",
+            "url": "https://www.nbcnews.com/world/europe/facing-economic-pain-russia-threats-uks-burnham-looks-rewrite-brexit-n-rcna610544",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261121-burnham-nd-168a3e.jpg",
+            "publishedAt": "2026-11-21T15:10:07Z",
+            "content": "Just a moment.\r\nWe are getting your experience ready."
         },
         {
             "source": {
@@ -238,6 +576,19 @@
         },
         {
             "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Bethany Heitman",
+            "title": "This AirPods Pro 3 deal is the one to grab before Black Friday - NBC News",
+            "description": "The Apple AirPods Pro 3 are 28% off on Amazon, down to $179 from $249. They have stronger noise cancellation, heart rate tracking and 8-hour battery life.",
+            "url": "https://www.nbcnews.com/select/shopping/apple-airpods-pro-3-deal-of-the-day-rcna610526",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261120-airpod-pro-3-lf-main-cdade2.jpg",
+            "publishedAt": "2026-11-21T12:00:00Z",
+            "content": "Apple products rarely get big discounts, but right now the AirPods Pro 3 are 28% off their usual price. This deal means they match their low Prime Day price and, with Black Friday shopping picking up… [+1768 chars]"
+        },
+        {
+            "source": {
                 "id": null,
                 "name": "Financial Times"
             },
@@ -300,6 +651,19 @@
             "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/X3QFQAYXAAOOCZC3QGUVS4T3VQ_size-normalized.jpg&w=1440",
             "publishedAt": "2026-11-21T10:02:49Z",
             "content": "Hours after the United States lost its measles-elimination status, erasing a landmark public health victory earned 26 years ago, Health Secretary Robert F. Kennedy Jr. declared the country would figh… [+27 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Fox Business"
+            },
+            "author": "Michael Sinkewicz",
+            "title": "Grand Theft Auto VI shatters entertainment records with staggering $3.79B debut - Fox Business",
+            "description": "Rockstar Games says \"Grand Theft Auto VI\" hit $3.79 billion in first-day sales, topping a $2.94 billion worldwide box office run for \"Avengers: Endgame.\"",
+            "url": "https://www.foxbusiness.com/entertainment/grand-theft-auto-vi-shatters-entertainment-records-staggering-3-79b-debut",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/0/0/grand-theft-auto-vi-record-breaking-launch.jpg?ve=1&tl=1",
+            "publishedAt": "2026-11-21T07:59:58Z",
+            "content": "\"Grand Theft Auto VI\" made history this week with a staggering $3.79 billion in sales during its first 24 hours, surpassing the box office totals of major Hollywood blockbusters and making it the big… [+2668 chars]"
         },
         {
             "source": {
@@ -560,6 +924,19 @@
             "urlToImage": "https://mymodernmet.com/wp/wp-content/uploads/2026/11/voyager-1-light-day-fb.jpg",
             "publishedAt": "2026-11-20T18:31:51Z",
             "content": "Voyager 1, depicted in this artist’s concept, reached one light-day from Earth on Nov. 18, 2026. (Photo: NASA/JPL-Caltech)\r\nNASA’s Voyager 1 has made history. After nearly 50 years of travel, the spa… [+2485 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "AccuWeather.com"
+            },
+            "author": null,
+            "title": "Supermoon could worsen king tide flooding before Thanksgiving - AccuWeather",
+            "description": "The upcoming Beaver Moon will be the first of three consecutive supermoons, with its stronger tidal pull potentially pushing water onto low-lying coastal roads and sidewalks through Thanksgiving.",
+            "url": "https://www.accuweather.com/en/space-news/full-beaver-supermoon-november-2026/1961930",
+            "urlToImage": "https://cms.accuweather.com/wp-content/uploads/2026/11/AP25309631723949.jpg?w=768",
+            "publishedAt": "2026-11-20T18:12:03Z",
+            "content": "The upcoming Beaver Moon will be the first of three consecutive supermoons, with its stronger tidal pull potentially pushing water onto low-lying coastal roads and sidewalks through Thanksgiving.\r\nA … [+2873 chars]"
         },
         {
             "source": {
@@ -3823,344 +4200,6 @@
             "urlToImage": "https://www.audacy.com/media-library/grand-theft-auto-vi.jpg?id=68680743&width=1200&height=600&coordinates=0%2C85%2C0%2C86",
             "publishedAt": "2026-11-16T08:30:00Z",
             "content": "Buffalo, N.Y. (WBEN) - Later this week will see the official release of one of the most anticipated video games in recent memory - Grand Theft Auto VI (GTA VI).\r\nAhead of Thursday's release, major te… [+4485 chars]"
-        },
-        {
-            "source": {
-                "id": "nbc-news",
-                "name": "NBC News"
-            },
-            "author": "Casey Wooten",
-            "title": "U.S. attorney warns Sen. Elizabeth Warren against investigating Trump associates - NBC News",
-            "description": "A Justice Department official on Sunday accused Sen.",
-            "url": "https://www.nbcnews.com/politics/congress/us-attorney-warns-sen-elizabeth-warren-investigating-trump-associates-rcna609532",
-            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-07/260701-elizabeth-warren-ww-1657-8acefb.jpg",
-            "publishedAt": "2026-11-16T05:43:00Z",
-            "content": "A Justice Department official on Sunday accused Sen. Elizabeth Warren, D-Mass., of intending to target private individuals close to President Donald Trump with investigations. The allegation came in … [+2855 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "NBCSports.com"
-            },
-            "author": "Myles Simmons",
-            "title": "Sunday Night Football: Joe Burrow, Ja’Marr Chase torch Steelers in 38-18 Bengals victory - NBC Sports",
-            "description": "Burrow threw for 409 yards and four TDs while Chase caught 11 passes for 231 yards.",
-            "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sunday-night-football-joe-burrow-jamarr-chase-torch-steelers-in-38-18-bengals-victory",
-            "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/82506ff/2147483647/strip/true/crop/5173x2910+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F18%2Fe7%2F28618b95440080865e685831d9df%2F2304834094.jpg",
-            "publishedAt": "2026-11-16T04:30:47Z",
-            "content": "The Bengals wanted to create a special white out environment for Sundays game, with the home team wearing its White Bengal uniform and helmet. \r\nAfter the performance against the Steelers, they may w… [+2226 chars]"
-        },
-        {
-            "source": {
-                "id": "bloomberg",
-                "name": "Bloomberg"
-            },
-            "author": "Jeff Mason, Courtney Subramanian",
-            "title": "Trump Looks to Flex Power at Xi, Putin Summit After Midterm Loss - Bloomberg.com",
-            "description": "Donald Trump is arriving at an unprecedented summit meeting with Xi Jinping and Vladimir Putin politically weakened at home, yet perhaps even more eager to flex his power abroad.",
-            "url": "https://www.bloomberg.com/news/articles/2026-11-16/weakened-at-home-trump-looks-to-flex-power-at-putin-xi-summit",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iwn069qUcVG4/v0/1200x800.jpg",
-            "publishedAt": "2026-11-16T04:12:00Z",
-            "content": "Donald Trump is arriving at an unprecedented summit meeting with Xi Jinping and Vladimir Putin politically weakened at home, yet perhaps even more eager to flex his power abroad.\r\nThe US president ha… [+271 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": null,
-            "title": "Mexican drug lord Miguel Angel Felix Gallardo dies age 80 - BBC",
-            "description": "Known as the 'Boss of Bosses', he was the head of all-powerful Guadalajara Cartel in the 1980s before his arrest broke up his drug organisation.",
-            "url": "https://www.bbc.com/news/articles/c51k9nkwrndxo",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/e43a/live/4a4493e0-e169-11f1-89b7-092cfa4897c7.jpg",
-            "publishedAt": "2026-11-16T03:21:56Z",
-            "content": "Known as The Godfather or the 'Boss of Bosses', Félix Gallardo was the head of the all-powerful Guadalajara Cartel, which reigned over Mexican drug trafficking at the height of the cocaine boom of th… [+7 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "STAT"
-            },
-            "author": "Mario Aguilar, Brittany Trang",
-            "title": "Apple and OpenEvidence launch experimental health chat app - STAT",
-            "description": "Apple and OpenEvidence are launching a study based around an experimental AI-powered health chat app, hinting at possible new directions for both companies.",
-            "url": "https://www.statnews.com/2026/11/15/apple-openevidence-launch-health-chat-app-experiment-ai/",
-            "urlToImage": "https://www.statnews.com/wp-content/uploads/2020/07/AdobeStock_335879672-1024x576.jpeg",
-            "publishedAt": "2026-11-16T02:25:35Z",
-            "content": "LAS VEGAS Apple and OpenEvidence on Sunday launched a study based around an experimental artificial intelligence-powered health chat application, hinting at possible new directions for both companies… [+1067 chars]"
-        },
-        {
-            "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
-            },
-            "author": "Doug Feinberg",
-            "title": "Toronto Tempo win WNBA draft lottery, earn No. 1 pick and potentially chance to draft JuJu Watkins - AP News",
-            "description": "The Toronto Tempo have won the WNBA draft lottery, securing the No. 1 pick. This gives them a chance to draft Southern California star JuJu Watkins. The Tempo, an expansion team this past season, had a 33% chance of winning, tied with the Houston Comets. Temp…",
-            "url": "https://apnews.com/article/wnba-lottery-4bd0e9dbcb7359ae011dd3d4f9479f83",
-            "urlToImage": "https://dims.apnews.com/dims4/default/6bc60e6/2147483647/strip/true/crop/7393x4931+0+0/resize/1200x800!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F7d%2F80%2F3be910b4b71a7de71e2538e01732%2Fe83a39a9e330469fa5c45f3cd6f90175",
-            "publishedAt": "2026-11-16T02:17:00Z",
-            "content": "The Toronto Tempo won the WNBA draft lottery Sunday night and now will have to wait and see who is available for them to pick No. 1 next spring.\r\nThe Tempo, who joined the league as an expansion team… [+2264 chars]"
-        },
-        {
-            "source": {
-                "id": "cbs-news",
-                "name": "CBS News"
-            },
-            "author": "Camilo  Montoya-Galvez",
-            "title": "Siblings of man in Texas run over by ICE agent say incident was \"intentional\": \"The videos show everything\" - CBS News",
-            "description": "Miguel Parra Hernandez was hit by Immigration and Customs Enforcement agent Mario Alberto Morales in Houston on Oct. 10.",
-            "url": "https://www.cbsnews.com/news/ice-agent-siblings-man-run-over-incident-texas/",
-            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/16/6056c17c-85f9-4341-8ecb-e40b1db5fbc5/thumbnail/1200x630/9d9b66ef27770ff56fa39295c641cb91/a42nn-cmg-ice-reckoning-111526-wn-newspath-frame-113.jpg",
-            "publishedAt": "2026-11-16T01:54:30Z",
-            "content": "Houston — The siblings of a Mexican construction worker run over last month by an Immigration and Customs Enforcement agent in an unmarked SUV allege the incident that left their brother with severe … [+4704 chars]"
-        },
-        {
-            "source": {
-                "id": "techcrunch",
-                "name": "TechCrunch"
-            },
-            "author": "Ivan Mehta",
-            "title": "Apple launches new app to study how people use AI for health - TechCrunch",
-            "description": "Apple's new app for a study will answer everyday medical questions",
-            "url": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
-            "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/11/Apple-Health-AI-Usage-Study.jpg?resize=1200,800",
-            "publishedAt": "2026-11-16T01:30:00Z",
-            "content": "Big AI labs like OpenAI and Anthropic have made their bets on offering chatbots that can answer health-related queries with specialized features. Apple is debuting a new study to understand how peopl… [+2653 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Deadline"
-            },
-            "author": "Tom Tapp",
-            "title": "Governors Awards Red Carpet: Zendaya, Charlize Theron, Timothée Chalamet, Inde Navarrette & More - Deadline",
-            "description": "Pedro Pascal, Olivia Wilde & Florence Pugh are among the stars on the red carpet at at the 2026 event where the Academy hands out honorary Oscars.",
-            "url": "https://deadline.com/gallery/governors-awards-photos-2026/",
-            "urlToImage": "https://deadline.com/wp-content/uploads/2026/11/17th-Governors-Awards-17th-Governors-Awards-Arrivals-1000.jpg?w=1000",
-            "publishedAt": "2026-11-16T01:10:00Z",
-            "content": "Charlize Theron, Timothée Chalamet, Inde Navarrette, Pedro Pascal, Olivia Wilde, Lea Seydoux, Florence Pugh and many more walked the Governors Awards red carpet in Hollywood tonight.\r\nAfter eight nom… [+20241 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "WDSU New Orleans"
-            },
-            "author": "Erin Lowrey",
-            "title": "Preliminary investigation points to steering failure in tanker collision with river cruise ship - WDSU",
-            "description": "In what is being called a \"miracle on the Mississippi,\" all passengers aboard the American Heritage cruise ship struck in New Orleans have been accounted for.",
-            "url": "https://www.wdsu.com/article/mississippi-river-boat-crash-new-orleans-update/74433300",
-            "urlToImage": "https://kubrick.htvapps.com/htv-prod/images/b7d61f77-c3c3-4fbc-96ec-cab4b1b82065.jpg?crop=1.00xw%3A0.749xh%3B0%2C0&resize=1200%3A*",
-            "publishedAt": "2026-11-16T00:44:00Z",
-            "content": "Federal, state and local agencies responded to a boat collision on the Mississippi River in New Orleans, Louisiana, on Friday, Nov. 13. \r\nA tanker struck the American Cruise Lines American Heritage, … [+9881 chars]"
-        },
-        {
-            "source": {
-                "id": "usa-today",
-                "name": "USA Today"
-            },
-            "author": "KiMi Robinson",
-            "title": "Andrew Shue and Marilee Fiebig reveal first look at their wedding - Yahoo News New Zealand",
-            "description": "After \"GMA\" hosts T.J. Holmes and Amy Robach quietly married, their ex-spouses, Andrew Shue and Marilee Fiebig, opened up about their own wedding.",
-            "url": "https://www.usatoday.com/story/entertainment/tv-streaming/2026/11/15/andrew-shue-wedding-marilee-fiebig-photo/92801155007/",
-            "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/11/16/USAT/92802046007-getty-images-2304861586.jpg?crop=2760,1553,x1331,y216&width=2760&height=1553&format=pjpg&auto=webp",
-            "publishedAt": "2026-11-16T00:42:00Z",
-            "content": "Andrew Shue and Marilee Fiebig are letting the world in on their \"beautiful new beginning.\"\r\nThe newlyweds shared a black-and-white photo from their wedding day in a Nov. 15 Instagram post, which sho… [+2342 chars]"
-        },
-        {
-            "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
-            },
-            "author": "Rebecca Santana, Kevin Freking",
-            "title": "Trump administration asks for billions to overhaul FAA. Democrats question how money was spent - AP News",
-            "description": "The Trump administration is pushing for billions of dollars to update the aging air traffic control system after a router issue caused a nationwide grounding of planes. Democrats are questioning how previous funds have been spent and why the new request is so…",
-            "url": "https://apnews.com/article/trump-ground-stop-air-travel-faa-duffy-1a308c557552b2ce24a0532fee0be191",
-            "urlToImage": "https://dims.apnews.com/dims4/default/91dbf7f/2147483647/strip/true/crop/5840x3893+0+0/resize/1200x800!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fe7%2Fcf%2F667b43e99a0628bf6424c34eaa7d%2F16a3b02dfec94f18b729362ee5e63401",
-            "publishedAt": "2026-11-16T00:41:00Z",
-            "content": "WASHINGTON (AP) The Trump administration is pressing for $50 billion to address an aging air traffic control system after problems with routers apparently led to a rare nationwide grounding of all pl… [+6824 chars]"
-        },
-        {
-            "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
-            "author": "Rick Maese",
-            "title": "Trump vows appeal of East Potomac ruling as golf operations remain unclear - The Washington Post",
-            "description": "It’s unclear whether the administration can immediately appeal the temporary restraining order from U.S. District Judge Ana C. Reyes.",
-            "url": "https://www.washingtonpost.com/sports/2026/11/15/trump-vows-appeal-east-potomac-ruling-golf-operations-remain-unclear/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/RUQEADCU5RAAIVZD6XZOVCUNSY.JPG&w=1440",
-            "publishedAt": "2026-11-16T00:14:36Z",
-            "content": "President Donald Trump said Sunday that his administration would appeal a federal judges decision blocking the closure of East Potomac Golf Links, adding more uncertainty to the immediate future of t… [+25 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Foxweather.com"
-            },
-            "author": null,
-            "title": "Scientists discover star system sending strange radio signals every eight minutes from deep space - FOX Weather",
-            "description": "A group of researchers has discovered a mysterious star system more than 5,000 light-years away that emits radio signals every eight minutes.",
-            "url": "https://www.foxweather.com/earth-space/scientists-discover-star-system-sending-strange-signals-every-eight-minutes",
-            "urlToImage": "https://images.foxweather.com/static.foxweather.com/www.foxweather.com/content/uploads/2026/11/1024/512/lpt_hd_still_1.png?ve=1&tl=1",
-            "publishedAt": "2026-11-15T23:48:00Z",
-            "content": "THE TAKEAWAYS: \r\n<ul><li>Researchers discovered a mysterious star system that emits radio signals every eight minutes.</li><li>One of the stars is a white dwarf. The other is a G-type star which is s… [+2949 chars]"
-        },
-        {
-            "source": {
-                "id": "espn",
-                "name": "ESPN"
-            },
-            "author": "Kevin Seifert",
-            "title": "Kirk Cousins emotional after win in Vikings return, reflects on 'tough 3 years' - ESPN",
-            "description": "Kirk Cousins was emotional discussing his return to the Vikings after their victory over the Packers.",
-            "url": "https://www.espn.com/nfl/story/_/id/50495965/kirk-cousins-emotional-getting-win-return-vikings",
-            "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1115%2Fr1746351_1296x729_16%2D9.jpg",
-            "publishedAt": "2026-11-15T23:44:00Z",
-            "content": "GREEN BAY, Wis. -- Kirk Cousins managed to hold back tears Sunday morning when he arrived at Lambeau Field. He didn't even try on the way out.\r\nAfter the Minnesota Vikings' 30-10 victory over the Gre… [+4921 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNBC"
-            },
-            "author": "Fred Imbert",
-            "title": "Stock futures tick higher as traders brace for Nvidia earnings, Anthropic IPO this week: Live updates - CNBC",
-            "description": "The Dow, S&P 500 and Nasdaq posted their biggest weekly gains since August, rising more than 2% each.",
-            "url": "https://www.cnbc.com/2026/11/15/stock-market-today-live-updates.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108548216-1794329432695-Traders-Photo-20261110-KK-PRESS-006.jpg?v=1794329596&w=1920&h=1080",
-            "publishedAt": "2026-11-15T23:04:02Z",
-            "content": "Stock futures ticked higher on Sunday night following a volatile week on Wall Street, as traders await a highly anticipated earnings report from Nvidia and a potentially record-setting public market … [+1727 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "NPR"
-            },
-            "author": "Ava Pukatch",
-            "title": "Far from home. Voyager 1 is now farther than anything man has sent into space - NPR",
-            "description": "NASA's Voyager 1, which is the furthest man-made object from Earth, is set to reach a new milestone this week. On Wednesday, the probe will be roughly 16 billion miles from Earth.",
-            "url": "https://www.npr.org/2026/11/15/nx-s1-6041716/a-long-long-ways-from-home-voyager-1-is-now-farther-than-anything-man-has-sent-into-space",
-            "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5062x2847+0+376/resize/1400/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fb1%2F22%2Fdf2ccdf7425b9e9fd2adf7d753e0%2Fap25064678056736.jpg",
-            "publishedAt": "2026-11-15T22:41:22Z",
-            "content": "NASA's Voyager 1 has traveled farther than anything else that humans have launched into space. On Wednesday, it's set to reach a new milestone: reaching a distance that is one-light day away from Ear… [+2288 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Variety"
-            },
-            "author": "Payton Turkeltaub",
-            "title": "Nathan Fielder Wasn’t ‘Infatuated’ With Elizabeth Holmes While Filming ‘You Can See Everything,’ Says Billy Evans: ‘I Didn’t Get The Impression for One Minute That It Was Romantic’ - Variety",
-            "description": "Billy Evans is setting the record straight on the relationship between Nathan Fielder and Elizabeth Holmes.",
-            "url": "https://variety.com/2026/tv/news/nathan-fielder-elizabeth-holmes-billy-evans-1236948256/",
-            "urlToImage": "https://variety.com/wp-content/uploads/2026/11/MixCollage-15-Oct-2026-12-24-PM-2078.webp?w=1000&h=563&crop=1",
-            "publishedAt": "2026-11-15T22:38:00Z",
-            "content": "Although some audiences might have walked out of their “You Can See Everything” screening wondering whether there was more than just friendship between director Nathan Fielder and Theranos fraudster … [+1658 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "NPR"
-            },
-            "author": "Diaa Hadid",
-            "title": "Sydney Sweeney has great jeans. Who made them? (Psst: Workers) - NPR",
-            "description": "Sydney Sweeney has great jeans, American Eagle Outfitters tells us. But who made them? And what are working conditions like in the garment factories of Pakistan and Bangladesh?",
-            "url": "https://www.npr.org/2026/11/15/nx-s1-6013327/sydney-sweeney-jeans-american-eagle-garment-industry",
-            "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4000x2250+0+209/resize/1400/quality/85/format/webp/?url=https%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa6%2F70%2Fa2ecb0cb41c6bd401f594e5a314a%2Fgettyimages-2227834145.jpg",
-            "publishedAt": "2026-11-15T22:07:55Z",
-            "content": "KARACHI, Pakistan In a slum dotted with shimmering pools of sewage, a garment worker nods in recognition as Sydney Sweeney slowly zips up her jeans\r\n in an American Eagle Outfitters\r\n advertisement p… [+15293 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CBS Sports"
-            },
-            "author": "Garrett Podell",
-            "title": "LOOK: Fernando Mendoza scores first NFL TD on opening drive vs. Seahawks - CBS Sports",
-            "description": "Fans had planned to sit during the QB's first TD to honor Mendoza's mother, Elsa, utilizes a wheelchair because of her multiple sclerosis",
-            "url": "https://www.cbssports.com/nfl/news/why-raiders-fans-planning-stay-seated-fernando-mendoza-first-td/",
-            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2026/11/15/4e907ab1-6612-486a-9335-e8d3dbb8eb4c/thumbnail/1200x675/dce48365078ac4c0f415799c49cf25cc/gettyimages-2305263242-594x594.jpg",
-            "publishedAt": "2026-11-15T21:46:00Z",
-            "content": "With Kirk Cousins traded back to the Minnesota Vikings, Las Vegas Raiders fans' wait to see 2026 first-round pick Fernando Mendoza start is over. Some waited to jump for joy upon Mendoza scoring a to… [+2137 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "KSL.com"
-            },
-            "author": "Brenda Goodman, CNN",
-            "title": "After 26 years, the US has lost its measles elimination status - KSL News",
-            "description": "Thanks to widespread vaccination, measles had been considered \"eliminated\" as a continually transmitting illness in the United States since 2000, but not anymore.",
-            "url": "https://www.ksl.com/article/51645789/after-26-years-the-us-has-lost-its-measles-elimination-status",
-            "urlToImage": "https://img.ksl.com/slc/3208/320875/32087574.jpg?filter=kslv2/responsive_story_lg",
-            "publishedAt": "2026-11-15T21:39:08Z",
-            "content": "SALT LAKE CITY Thanks to widespread vaccination, measles had been considered \"eliminated\" as a continually transmitting illness in the United States since 2000, but not anymore.\r\nAn independent commi… [+7593 chars]"
-        },
-        {
-            "source": {
-                "id": "the-hill",
-                "name": "The Hill"
-            },
-            "author": "Ryan Mancini",
-            "title": "Koh blames Trump for blocking Biden-era infrastructure, FAA funding - The Hill",
-            "description": "Rep.-elect Dan Koh (D-Mass.) on Sunday blamed President Trump for blocking more than $1 trillion in Biden-era funding for infrastructure and funds toward the Federal Aviation Administration (FAA), referring to Friday’s rare nationwide ground stop for all U.S.…",
-            "url": "https://thehill.com/homenews/house/6221559-koh-blames-trump-faa-funding/",
-            "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2026/11/kohdan_110826gn03_w.jpg?w=1280",
-            "publishedAt": "2026-11-15T21:36:00Z",
-            "content": "Skip to content\r\nRep.-elect Dan Koh (D-Mass.) on Sunday blamed President Trump for blocking more than $1 trillion in Biden-era funding for infrastructure and funds toward the Federal Aviation Adminis… [+2843 chars]"
-        },
-        {
-            "source": {
-                "id": "al-jazeera-english",
-                "name": "Al Jazeera English"
-            },
-            "author": "Al Jazeera Staff",
-            "title": "Africa CDC says Ebola outbreak in DR Congo ‘still not under control’ - Al Jazeera",
-            "description": "‘If we don’t stop this outbreak now, it would be the worst Ebola outbreak,’ Africa CDC director says.",
-            "url": "https://www.aljazeera.com/news/2026/11/15/africa-cdc-says-ebola-outbreak-in-dr-congo-still-not-under-control",
-            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6af9fc48bf805-1794767944.jpg?resize=1920%2C1440",
-            "publishedAt": "2026-11-15T20:55:35Z",
-            "content": "Africas top public health agency says the Ebola outbreak in the Democratic Republic of the Congo (DRC) is still not under control six months after it was declared.\r\nIf we dont stop this outbreak now,… [+2695 chars]"
-        },
-        {
-            "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
-            "author": "Victoria Bisset",
-            "title": "SpaceX catches Starship rocket on return to Earth - The Washington Post",
-            "description": "The company hailed the mission as a “major step” toward developing fully reusable rockets.",
-            "url": "https://www.washingtonpost.com/technology/2026/11/15/spacex-catches-starship-rocket-return-earth/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/XUHGNKK4HG3UYZ5H3XH4MXVHMU.JPG&w=1440",
-            "publishedAt": "2026-11-15T20:33:13Z",
-            "content": "SpaceX caught the upper section of its massive Starship rocket as it returned to Earth on Saturday, in what the company hailed as a major step toward developing fully reusable rockets.\r\nThe spacecraf… [+175 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Phys.Org"
-            },
-            "author": null,
-            "title": "Dark matter–hunting satellite Euclid reveals record number of cosmic 'magnifying glasses' - Phys.org",
-            "description": "UBC researchers have helped uncover 15,000 new potential strong gravitational lenses—the largest collection of these cosmic tools that help astronomers investigate dark matter.",
-            "url": "https://phys.org/news/2026-11-dark-matterhunting-satellite-euclid-reveals.html",
-            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/disc-of-m81-feat-holmb.jpg",
-            "publishedAt": "2026-11-15T20:00:01Z",
-            "content": "UBC researchers have helped uncover 15,000 new potential strong gravitational lensesthe largest collection of these cosmic tools that help astronomers investigate dark matter.\r\nThe first major releas… [+5713 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Abcnews.com"
-            },
-            "author": "Jon Haworth",
-            "title": "2 Americans die in suspected drowning incident in the Bahamas - ABC7 Los Angeles",
-            "description": "\"Several individuals were reportedly swept away by the strong currents.\"",
-            "url": "https://abcnews.com/International/2-americans-die-suspected-drowning-incident-bahamas/story?id=138137434",
-            "urlToImage": "https://cdn.abcotvs.com/dip/images/15921886_AdobeStock_705146292.jpeg?w=1600",
-            "publishedAt": "2026-11-15T19:51:56Z",
-            "content": "Two Americans died in a suspected drowning incident in the Bahamas on Friday afternoon after a group of swimmers was swept away by strong currents, police said.\r\nThe victims, a 38-year-old man and a … [+1202 chars]"
         }
     ]
 }
