@@ -1,7 +1,384 @@
 {
     "status": "ok",
-    "totalResults": 323,
+    "totalResults": 306,
     "articles": [
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Anand Krishnamoorthy",
+            "title": "US Stock Futures Open Higher After Tech Selloff: Markets Wrap - Bloomberg.com",
+            "description": "US equity-index futures opened higher in early Asian trading as buyers returned following Friday’s sharp selloff sparked by an unwinding of the artificial intelligence trade. Treasury bond futures fell.",
+            "url": "https://www.bloomberg.com/news/articles/2026-11-22/asia-braces-for-more-volatility-after-us-selloff-markets-wrap",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ip2.waWRveJE/v1/1200x800.jpg",
+            "publishedAt": "2026-11-22T23:36:15Z",
+            "content": "US equity-index futures opened higher in early Asian trading as buyers returned following Fridays sharp selloff sparked by an unwinding of the artificial intelligence trade. Treasury bond futures fel… [+97 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Minneapolis Star Tribune"
+            },
+            "author": "Sofia Barnett, Liz Sawyer",
+            "title": "Delta computer outage disrupts flights at MSP ahead of Thanksgiving - Star Tribune",
+            "description": "More than 100 flights were delayed at Minneapolis-St. Paul International Airport on Sunday as the airline worked to restore an automated system ahead of Thanksgiving.",
+            "url": "https://www.startribune.com/delta-system-outage-delays-more-than-1000-flights-nationwide-disrupts-travel-at-msp/601926754",
+            "urlToImage": "https://arc.stimg.co/startribunemedia/MAKPJ2V23VFWVPURTJYVZTEBRE.jpg?&w=1200&ar=1.91:1&fit=crop",
+            "publishedAt": "2026-11-22T23:35:00Z",
+            "content": "A couple hundred flights were delayed at Minneapolis-St. Paul International Airport on Sunday as a computer system failure at Delta Air Lines disrupted flights nationwide, just days before the busy T… [+1308 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NBCSports.com"
+            },
+            "author": "Mike Florio",
+            "title": "Mike McCarthy doesn’t rule out internal discipline for DK Metcalf - NBC Sports",
+            "description": "Steelers receiver DK Metcalf had an unfortunate stat line on Sunday.",
+            "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mike-mccarthy-doesnt-rule-out-internal-discipline-for-dk-metcalf",
+            "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/64055e0/2147483647/strip/true/crop/5863x3298+0+306/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F66%2F80%2Fa21516b9419c89a845919442e9ce%2F2305918470.jpg",
+            "publishedAt": "2026-11-22T23:06:24Z",
+            "content": "Steelers receiver DK Metcalf had an unfortunate stat line on Sunday.\r\nOne catch, two yards, two personal fouls, one ejection.\r\nAfter the 19-16 loss to the Eagles on Sunday, Steelers coach Mike McCart… [+690 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Burnham to tell MPs 'landmark' EU deal could make next decade 'much better' - BBC",
+            "description": "The prime minister will tell MPs the deal agreed on Friday is a \"choice between a broken status quo or change\".",
+            "url": "https://www.bbc.com/news/articles/cmde1dy82lepo",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3431/live/0e8b4920-e6be-11f1-a023-d502158f79f8.jpg",
+            "publishedAt": "2026-11-22T22:49:10Z",
+            "content": "Meanwhile Reform UK leader Farage called the deal a \"very good day for the EU\", before adding: \"A good day to try and humiliate the one member state that actually had the courage to say, 'We don't ne… [+53 chars]"
+        },
+        {
+            "source": {
+                "id": "espn",
+                "name": "ESPN"
+            },
+            "author": "David Schoenfield",
+            "title": "Tarik Skubal to Mets: Grading record $450 million contract - ESPN",
+            "description": "New York has landed this offseason's most prized free agent. How did the Mets fare in handing out the mind-boggling contract?",
+            "url": "https://www.espn.com/mlb/story/_/id/50521081/tarik-skubal-new-york-mets-grade-record-contract",
+            "urlToImage": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1119%2Fmlb_skubal%2Dmets_16x9.jpg",
+            "publishedAt": "2026-11-22T22:00:00Z",
+            "content": "Tarik Skubal is a New York Met -- for $450 million over nine years!\r\nIt's not often that a two-time Cy Young winner still in his prime and regarded as one of the best starting pitchers in the game be… [+5778 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hollywood Reporter"
+            },
+            "author": "Carly Thomas",
+            "title": "Mahershala Ali Says “There Are Not Roles for Me” in “Vast Majority of Projects,” Despite Winning 2 Oscars - The Hollywood Reporter",
+            "description": "The actor previously took home Academy Awards for best supporting actor for 2016’s 'Moonlight' and 2018's 'Green Book.'",
+            "url": "http://www.hollywoodreporter.com/movies/movie-news/mahershala-ali-no-roles-majority-projects-despite-oscar-wins-1236760722/",
+            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/Mahershala-Ali-getty-H-2026.png?w=1296&h=730&crop=1",
+            "publishedAt": "2026-11-22T21:43:27Z",
+            "content": "Mahershala Ali is getting candid about why “there are not roles” for him in “the vast majority of projects,” despite having already won two Oscars.\r\nDuring a recent interview on Carmelo Anthony and K… [+2433 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PBS"
+            },
+            "author": null,
+            "title": "U.S. Army plans to invoke emergency provisions to detonate bomb-making chemicals in Iowa - PBS",
+            "description": "Environmental groups criticized the government’s move, decrying it as a maneuver to get around a court order and avoid public demands for safety and transparency.",
+            "url": "https://www.pbs.org/newshour/nation/u-s-army-plans-to-invoke-emergency-provisions-to-detonate-bomb-making-chemicals-in-iowa",
+            "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/2026-11-22T171208Z_227238376_RC23TOAA1BK4_RTRMADP_3_IOWA-ARMY-DETONATION-1024x683.jpg",
+            "publishedAt": "2026-11-22T20:18:46Z",
+            "content": "The U.S. Army plans to invoke emergency provisions to avoid a court order that had put on hold plans to detonate several tons of bomb-making chemicals in Iowa, saying that continued delays will make … [+4235 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Big Blue View"
+            },
+            "author": "Ed Valentine, Chris Pflum",
+            "title": "NY Giants vs. Jaguars, Week 11: Live updates, discussion, score, highlights - Big Blue View",
+            "description": "Follow and discuss Sunday’s action right here.",
+            "url": "https://www.bigblueview.com/new-york-giants-game-information/180720/ny-giants-vs-jaguars-week-11-live-updates-discussion-score-highlights",
+            "urlToImage": "https://platform.bigblueview.com/wp-content/uploads/sites/27/2026/11/reuters-tagreuters.com2026newsml_MT1USATODAY304271651802452542.jpg?quality=90&strip=all&crop=0%2C10.787750005477%2C100%2C78.424499989047&w=1200",
+            "publishedAt": "2026-11-22T20:00:00Z",
+            "content": "Cam Skattebo finally gets going as two runs get the Giants a much-needed first down as we go to the two-minute warning. And of course he punctuates the first down with a backflip\r\nHuge catch from Mal… [+7201 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": null,
+            "title": "Natural gas pipeline fire near Ward, Alabama, prompts shutdown with no injuries reported, operator says - CBS News",
+            "description": "Photos and videos posted on social media appeared to show flames rising dozens of yards above the trees near Ward, Alabama, with smoke billowing into the air.",
+            "url": "https://www.cbsnews.com/news/natural-gas-pipeline-fire-ward-alabama/",
+            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/22/b069b40a-475d-4b23-8b4e-6c5b4ed73adf/thumbnail/1200x630/e46ee0a4a61b17ce13a3a6eeb7c6131b/alabama-gas-fire.jpg",
+            "publishedAt": "2026-11-22T19:59:00Z",
+            "content": "A fire on a natural gas pipeline lit up the night sky in rural Alabama late Saturday with a towering column of orange flame, prompting the operator to shut down part of the line but causing no injuri… [+1470 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Kaia  Hubbard",
+            "title": "Democrat Chuck Hubbard defeats longtime GOP Rep. Virginia Foxx in North Carolina House race - CBS News",
+            "description": "Chuck Hubbard defeated Rep. Virginia Foxx, CBS News projects, adding to Democrats' sizable majority in the House next year.",
+            "url": "https://www.cbsnews.com/news/democrat-chuck-hubbard-defeats-gop-rep-virginia-foxx-north-carolina/",
+            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/22/f3e73972-0245-46a1-a682-bf61cdff2cc0/thumbnail/1200x630g2/0b08277177f4dc52403b61287d6bdf18/gettyimages-2303723745.jpg",
+            "publishedAt": "2026-11-22T19:48:03Z",
+            "content": "Washington — Chuck Hubbard defeated Rep. Virginia Foxx, CBS News projected 19 days after Election Day, adding to Democrats' sizable majority in the House next year. \r\nHubbard, 64, is a former journal… [+1337 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Brendan Morrow",
+            "title": "Bruce Willis' daughter apologizes for sharing 'intimate' photo of him - USA Today",
+            "description": "Tallulah Willis has apologized after sharing a new picture of her dad, Bruce Willis, who lives with dementia, saying it was \"possibly too intimate.\"",
+            "url": "https://www.usatoday.com/story/entertainment/celebrities/2026/11/22/bruce-willis-daughter-tallulah-new-photo-apology/92913243007/",
+            "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/11/22/USAT/92913622007-getty-images-999468408.jpg?crop=2999,1687,x0,y156&width=2999&height=1687&format=pjpg&auto=webp",
+            "publishedAt": "2026-11-22T19:47:00Z",
+            "content": "Tallulah Willis has apologized after sharing, then deleting, a new photo of her dad, Bruce Willis, as he navigates living with dementia.\r\nThe 32-year-old took to Instagram on Saturday, Nov. 21, to sh… [+3116 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "Brandon Marcello",
+            "title": "AP Top 25 poll: UCLA, Indiana slide; Texas moves into top five of college football rankings - CBS Sports",
+            "description": "The Bruins' first loss and the Hoosiers' stunning overtime defeat had consequences, as the Longhorns benefited most from the chaos in Week 12",
+            "url": "https://www.cbssports.com/college-football/news/college-football-rankings-ap-top-25-poll-week-13-ucla-indiana-texas/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2026/11/22/403c8406-f756-46b1-a8e2-c14f1428e8d3/thumbnail/1200x675/6ad099dba122c8f1b0e852d8e2ac0e0e/cig.jpg",
+            "publishedAt": "2026-11-22T19:23:00Z",
+            "content": "Six ranked teams lost in the penultimate week of the regular season, and the biggest moves in the newest AP poll came near the top.\r\nThe Big Ten took the hardest hit: three losses, all to unranked op… [+3919 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Hugh Son",
+            "title": "Employees at Eric Trump-backed robot startup lose health benefits as company's cash crunch deepens - CNBC",
+            "description": "Foundation is pursuing an emergency bridge loan and has been in talks with VC firms as it waits for a $150 million investment from South Korea's Base Group.",
+            "url": "https://www.cnbc.com/2026/11/22/foundation-future-industries-health-benefits-payroll-base-group.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108314199-1780134094393-Phantom_work2.png?v=1780135127&w=1920&h=1080",
+            "publishedAt": "2026-11-22T18:55:05Z",
+            "content": "Foundation Future Industries, a start-up founded in 2024, aims to leverage humanoid robots for military and industrial work, rather than household tasks and the service sector.\r\nEmployees at Foundati… [+5525 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Abcnews.com"
+            },
+            "author": "ABC News - Breaking News, Latest News and Videos",
+            "title": "West Coast bracing for more coastal flooding as Thanksgiving travel week begins - ABC News - Breaking News, Latest News and Videos",
+            "description": null,
+            "url": "https://abcnews.com/US/west-coast-bracing-coastal-flooding-thanksgiving-travel-week/story?id\\\\u003d138357189",
+            "urlToImage": null,
+            "publishedAt": "2026-11-22T18:47:15Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": "Jane Arraf",
+            "title": "Lebanese villagers return to wrecked homes as the Israeli army pulls back - NPR",
+            "description": "In a pilot project in a village in southern Lebanon, Israeli forces have left and the Lebanese army moved it. But villagers who return find their houses wrecked.",
+            "url": "https://www.npr.org/2026/11/22/nx-s1-6048710/lebanon-israel-army-conflict-homes",
+            "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7008x3942+0+365/resize/1400/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Faa%2Fe6%2F705920be46a09bdd2b396ad5411b%2Fmoe01329.jpg",
+            "publishedAt": "2026-11-22T17:44:52Z",
+            "content": "ZAWTAR AL-GHARBIYAH, Lebanon After two decades of working installing vehicle air conditioning in Saudi Arabia, Atef Kadouh saved up enough money to build a house in his hometown in southern Lebanon.\r… [+7418 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Deadline"
+            },
+            "author": "Glenn Garner",
+            "title": "Sheila Mangubat Dies: ’90 Day Fiancé: Before the 90 Days’ Star Was 35 - Deadline",
+            "description": "Sheila Mangubat, who appeared in TLC's '90 Day Fiancé' franchise, has died. She was 35.",
+            "url": "http://deadline.com/2026/11/sheila-mangubat-dies-90-day-fiance-1237231163/",
+            "urlToImage": "https://deadline.com/wp-content/uploads/2026/11/Sheila-90-Day-Fiance.jpg?w=1000",
+            "publishedAt": "2026-11-22T16:41:00Z",
+            "content": "Sheila Mangubat, who appeared in TLC’s 90 Day Fiancé franchise, has died. She was 35.\r\nDavid Dangerfield, whom Mangubat dated on 90 Day Fiance: Before the 90 Days, announced that she died on Saturday… [+744 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Newser"
+            },
+            "author": "Bob Cronin",
+            "title": "Eisenkot Denounces West Bank Arson - Newser",
+            "description": "Opposition leader warns settler violence threatens Israel's security and diplomacy",
+            "url": "https://www.newser.com/story/400439/opposition-leader-denounces-west-bank-arson.html",
+            "urlToImage": "https://cdn.newser.com/image/1726014-12-20261122110102.jpeg",
+            "publishedAt": "2026-11-22T16:31:00Z",
+            "content": "Israeli opposition leader Gadi Eisenkot on Sunday denounced overnight attacks on Palestinian villages in the West Bank as \"Jewish terrorism,\" saying extremists were endangering lives and damaging Isr… [+398 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Space.com"
+            },
+            "author": "Mike Wall",
+            "title": "European-Japanese BepiColombo mission becomes 2nd ever to arrive in orbit around Mercury - Space",
+            "description": "It was a moment more than eight years in the making.",
+            "url": "https://www.space.com/space-exploration/missions/esa-jaxa-bepicolomobo-mission-mercury-orbit-arrival",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/d7pYhNBUCPVYiaqD7aQLwE-2560-80.jpg",
+            "publishedAt": "2026-11-22T16:22:42Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Garrett Downs",
+            "title": "Director of National Intelligence Jay Clayton warns Americans of 'bumps in the road' after tech outages - CNBC",
+            "description": "Clayton’s warning comes ahead of Thanksgiving travel, after separate outages disrupted air travel, Microsoft 365 and some bank transactions.",
+            "url": "https://www.cnbc.com/2026/11/22/jay-clayton-tech-outages-faa-microsoft-thanksgiving.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108554284-1795017875830-gettyimages-2305725511-_s019615_hvtmmvsn.jpeg?v=1795017895&w=1920&h=1080",
+            "publishedAt": "2026-11-22T16:17:53Z",
+            "content": "Director of National Intelligence Jay Clayton warned Americans to prepare for \"bumps in the road\" after a set of damaging technology outages rocked air travel and systems like Microsoft Outlook.\r\nGov… [+1872 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Variety"
+            },
+            "author": "Rebecca Rubin",
+            "title": "Box Office: ‘Sunrise on the Reaping’ Reignites ‘Hunger Games’ Franchise With $120 Million Debut - Variety",
+            "description": "\"Sunrise on the Reaping\" caught fire at the domestic box office, with Lionsgate's \"Hunger Games\" prequel securing a huge opening weekend.",
+            "url": "https://variety.com/2026/film/box-office/sunrise-on-the-reaping-box-office-hunger-games-opening-weekend-exceeds-expectations-1236953061/",
+            "urlToImage": "https://variety.com/wp-content/uploads/2026/11/MCDHUGA_LG103_3bb4fe.jpg?w=1000&h=563&crop=1",
+            "publishedAt": "2026-11-22T16:16:00Z",
+            "content": "“Sunrise on the Reaping” caught fire at the domestic box office, collecting a sensational $120 million in its opening weekend while reinvigorating Lionsgate’s “Hunger Games” franchise.\r\nOverseas, “Su… [+6498 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Megan Brand",
+            "title": "Sen. Chris Van Hollen says ‘momentum is in our direction’ in battle for majority leader - NBC News",
+            "description": "Sen. Chris Van Hollen, D-Md., said “momentum is in our direction” on his bid to serve as the Senate majority leader in the next Congress",
+            "url": "https://www.nbcnews.com/politics/congress/van-hollen-momentum-senate-majority-leader-schumer-election-rcna610669",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261122-Senator-Chris-Van-Hollen-vsb-1047-84fc68.jpg",
+            "publishedAt": "2026-11-22T15:51:39Z",
+            "content": "Sen. Chris Van Hollen, D-Md., said on NBC News Meet the Press Sunday that momentum is in our direction in his bid for Senate majority leader.\r\nAsked directly how much support he had within the Democr… [+2468 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WMUR Manchester"
+            },
+            "author": "Kendra Broddus",
+            "title": "American Cancer Society updates prostate cancer screening guidelines - WMUR",
+            "description": "The American Cancer Society has made updates to prostate cancer screening guidelines.",
+            "url": "https://www.wmur.com/article/nh-updates-to-prostate-cancer-screening-guidelines/74501043",
+            "urlToImage": "https://kubrick.htvapps.com/vidthumb/c43fa7c3-90c8-471f-896a-8e5cd378e085/983dd1ca-6491-4ab4-9d8e-6d32ee24e7a1.jpg?crop=0.821xw%3A0.821xh%3B0.0733xw%2C0&resize=1200%3A*",
+            "publishedAt": "2026-11-22T15:50:00Z",
+            "content": "MANCHESTER, N.H.The American Cancer Society has made updates to its prostate cancer screening guidelines. \r\nOne in eight men will be diagnosed with prostate cancer in their lifetime, according to ACS… [+619 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MacRumors"
+            },
+            "author": "Joe Rossignol",
+            "title": "Apple Reportedly Plans to Release These Products in February or March - MacRumors",
+            "description": "Apple plans to unveil an iPhone 18e, iPhone 18, updated entry-level iPad, and new MacBook Neo and MacBook Air models around February or March next...",
+            "url": "https://www.macrumors.com/2026/11/22/new-apple-products-february-or-march/",
+            "urlToImage": "https://images.macrumors.com/t/Y92nV1dJpm0_r95dbcPiqR_gEMc=/2497x/article-new/2026/10/MacBook-Neo-2-on-Yellow-Feature.jpg",
+            "publishedAt": "2026-11-22T15:32:53Z",
+            "content": "Apple plans to unveil an iPhone 18e, iPhone 18, updated entry-level iPad, and new MacBook Neo and MacBook Air models around February or March next year, according to the latest word from Bloomberg's … [+1270 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Cameron Faulkner",
+            "title": "Nintendo’s Switch 2 console is $50 off for Black Friday - The Verge",
+            "description": "Following a $50 price increase in September, Nintendo has knocked that amount off the its Mario Kart World Switch 2 bundle, making it a great Black Friday deal.",
+            "url": "https://www.theverge.com/gadgets/1038181/nintendo-switch-2-black-friday-deal-mario-kart-world-bundle-2026-sale",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/257769_Switch_2_AKrales_0093_fe9169.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2026-11-22T14:00:00Z",
+            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe hybrid handheld / home console was already one of the best values in gaming, and now its an even better deal.\r\nThe hybrid handheld / home console was already… [+3156 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9News.com KUSA"
+            },
+            "author": null,
+            "title": "Virginia child who tested positive for measles has died, state officials report - 9NEWS",
+            "description": "A child younger than 5 years old who tested positive for measles has died, Virginia state officials reported. Here's what we know. (Photo: CDC via AP)",
+            "url": "https://www.9news.com/article/news/nation-world/virginia-child-measles-death/507-228702d1-9552-4f39-bd35-5add0d90aaf9",
+            "urlToImage": "https://media.9news.com/assets/CCT/images/cd7f0717-522c-4921-a46b-f1ea71e9c507/20261122T112600/cd7f0717-522c-4921-a46b-f1ea71e9c507_1920x1080.jpg",
+            "publishedAt": "2026-11-22T12:35:00Z",
+            "content": "WASHINGTON A child younger than 5 who tested positive for measles has died, according to Virginia state officials. \r\nThe Virginia Department of Health made the announcement Friday, Nov. 20. It's the … [+2016 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Eurogamer.net"
+            },
+            "author": "Vikki Blake",
+            "title": "GTA 6 players spent over eight hours in Leonida on launch day, and over half of active console players joined them - Eurogamer.net",
+            "description": "Circana data shows 61% of US PS5 players and 56% of global Xbox players active on launch day played GTA 6, for over eight hours on average.",
+            "url": "https://www.eurogamer.net/gta-6-launch-day-engagement-circana",
+            "urlToImage": "https://assetsio.gnwcdn.com/GTA6_5nov-(12).jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+            "publishedAt": "2026-11-22T12:02:30Z",
+            "content": "On Grand Theft Auto 6's launch day, more than half of everyone playing on PS5 and Xbox was playing GTA 6.\r\nCiting new data from Circana's Player Engagement Tracker, analyst Mat Piscatella said on Blu… [+2270 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Janet Loehrke",
+            "title": "4 back-to-back supermoons begin with November's full Beaver Moon - USA Today",
+            "description": "A streak of four consecutive supermoons begins this November, bringing four months of bigger, brighter full moons through February 2027.",
+            "url": "https://www.usatoday.com/story/graphics/2026/11/22/4-back-to-back-supermoons/92501463007/",
+            "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/10/29/USAT/92501746007-usatgraphics-supermooon-topper.png?crop=3554,1997,x119,y0&width=3200&height=1799&format=pjpg&auto=webp",
+            "publishedAt": "2026-11-22T09:01:00Z",
+            "content": "Get ready for series of four back-to-back supermoons set to unfold from late November 2026 through February 2027.\r\nFirst up is the full Beaver Moon, the year's second supermoon and the first since Ja… [+2228 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "POLITICO.eu"
+            },
+            "author": "Tim Ross",
+            "title": "Europeans dare to believe Trump could deliver security for Ukraine - POLITICO.eu",
+            "description": "After months of anxiety, some of Kyiv’s allies now think the U.S will help them negotiate an acceptable peace.",
+            "url": "https://www.politico.eu/article/europeans-dare-to-believe-trump-could-deliver-security-for-ukraine/",
+            "urlToImage": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/11/22/GettyImages-2306101487-scaled.jpg",
+            "publishedAt": "2026-11-22T07:44:00Z",
+            "content": "Neither is yet certain, and one Russian official dismissed the idea. \r\nBut Russian President Vladimir Putin himself has not yet publicly rejected Kushners plan, and European negotiators are taking it… [+1517 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Financial Times"
+            },
+            "author": null,
+            "title": "How measles spread across the world - Financial Times",
+            "description": "Vaccine misinformation, austerity and aid cuts have led to the resurgence of a disease once regarded as eliminated in rich countries",
+            "url": "https://www.ft.com/content/a71192b7-708c-4bd4-abb6-31c82113794a?syn-25a6b1a6\\\\u003d1",
+            "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F7532288c-9394-4a78-a2a6-24bb8ed612cc.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+            "publishedAt": "2026-11-22T05:02:06Z",
+            "content": "Then $75 per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial."
+        },
         {
             "source": {
                 "id": null,
@@ -66,6 +443,19 @@
             "urlToImage": "https://s3media.247sports.com/Uploads/Assets/814/724/14724814.JPG?width=1200&height=628&crop=1.91:1&fit=cover",
             "publishedAt": "2026-11-22T03:44:48Z",
             "content": "First-year LSU coach Lane Kiffin is no stranger to Neyland Stadium. He walked the sideline there as Tennessee's coach in 2009, returned three times as Alabama's offensive coordinator and went head-to… [+3134 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "TOI Tech Desk",
+            "title": "As NASA's Voyager 1 reaches one light-day from Earth, Microsoft AI CEO Mustafa Suleyman says: Built with - The Times of India",
+            "description": "Microsoft AI CEO Mustafa Suleyman praised NASA’s Voyager 1 mission after the space agency announced that the spacecraft has reached a distance of one",
+            "url": "https://timesofindia.indiatimes.com/technology/tech-news/as-nasas-voyager-1-reaches-one-light-day-from-earth-microsoft-ai-ceo-mustafa-suleyman-says-built-with-1970s-tech-still-calling-/articleshow/136066430.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-136066442,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "publishedAt": "2026-11-22T03:09:00Z",
+            "content": null
         },
         {
             "source": {
@@ -274,6 +664,19 @@
             "urlToImage": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03803-8/d41586-026-03803-8_54002884.jpg",
             "publishedAt": "2026-11-21T19:36:23Z",
             "content": "False-colour view of Mercury produced using data from MESSENGER.Credit: NASA Goddard\r\nAfter an epic eight-year journey, the European and Japanese BepiColombo spacecraft has arrived at Mercury. It is … [+1928 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Erica Andrews",
+            "title": "SpaceX shuttle to splash down off California coast — here’s how you’ll know it’s coming - New York Post",
+            "description": "The The cargo-carrying spaceship is expected to splash down off the coast Saturday afternoon.",
+            "url": "https://nypost.com/2026/11/21/us-news/spacex-dragon-splashdown-off-los-angeles-coast-could-bring-sonic-boom/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/11/newspress-collage-d9bgngvhh-1795287967044.jpg?quality=75&strip=all&1795270015&w=1200",
+            "publishedAt": "2026-11-21T19:08:00Z",
+            "content": "SpaceXs Dragon spaceship is coming back to Earth with a bang. \r\nThe cargo-carrying ship is expected to splash down in the Pacific Ocean near Los Angeles at about 2:05 p.m. Saturday, capping its retur… [+2463 chars]"
         },
         {
             "source": {
@@ -615,19 +1018,6 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Space.com"
-            },
-            "author": "Mike Wall",
-            "title": "European-Japanese BepiColombo probe arrives in orbit around Mercury today - Space",
-            "description": "It's a moment more than eight years in the making.",
-            "url": "https://www.space.com/space-exploration/missions/esa-jaxa-bepicolomobo-mission-mercury-orbit-arrival",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/d7pYhNBUCPVYiaqD7aQLwE-2560-80.jpg",
-            "publishedAt": "2026-11-21T11:00:00Z",
-            "content": null
-        },
-        {
-            "source": {
                 "id": "mashable",
                 "name": "Mashable"
             },
@@ -742,6 +1132,19 @@
             "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/21/70f55182-54f4-4043-81f4-a844aa084afc/thumbnail/1200x630/de22ec15943e268d21c2c7e25dcfce6a/1795224224465.png",
             "publishedAt": "2026-11-21T01:26:26Z",
             "content": "He has no culinary training and has never worked in a restaurant. Yet 18-year-old Joey Charney of Augusta, Georgia, has become a famous chef, with more than 2 million followers.  \r\n\"While I am very h… [+1790 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": null,
+            "title": "New drug combo shrinks tumors in most patients facing aggressive cancer type - Fox News",
+            "description": "The pancreatic cancer pill daraxonrasib shrank tumors in 60.7% of patients when paired with chemotherapy, and 8.2% saw tumors vanish on scans.",
+            "url": "https://www.foxnews.com/health/new-drug-combo-shrinks-tumors-most-patients-aggressive-cancer-type",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/07/man-taking-pill.jpg",
+            "publishedAt": "2026-11-21T01:07:32Z",
+            "content": "Pairing an experimental pill with standard chemotherapy shrank tumors or halted growth in most patients with advanced pancreatic cancer, according to early clinical trial results presented Friday at … [+4149 chars]"
         },
         {
             "source": {
@@ -1093,6 +1496,19 @@
             "urlToImage": "https://image.cnbcfm.com/api/v1/image/108533238-1795191208439-108533238-1793980775226-gettyimages-2303833268-anotherday34809196_zrhw37kt.jpeg?v=1795191232&w=1920&h=1080",
             "publishedAt": "2026-11-20T13:23:04Z",
             "content": "The market is skeptical about \"all layers of the AI layer cake\" but that can be a \"great setup for investors,\" Brett Winton, chief futurist at ARK Investment Management who has Anthropic in all his p… [+1506 chars]"
+        },
+        {
+            "source": {
+                "id": "mashable",
+                "name": "Mashable"
+            },
+            "author": "Eric Miller",
+            "title": "'GTA 6' on Xbox Series S: How well it actually runs - Mashable",
+            "description": "Here's the verdict.",
+            "url": "https://mashable.com/entertainment/gta-6-xbox-series-s-how-it-looks-runs",
+            "urlToImage": "https://helios-i.mashable.com/imagery/articles/04UL1Up6Ly2bZmEmeq44JHF/hero-image.fill.size_1200x675.v1795276078.jpg",
+            "publishedAt": "2026-11-20T13:17:20Z",
+            "content": null
         },
         {
             "source": {
@@ -3563,643 +3979,6 @@
             "urlToImage": "https://imagez.tmz.com/image/1a/16by9/2026/11/16/1a92bc85706347dc98754bb788111397_xl.jpg",
             "publishedAt": "2026-11-16T23:45:38Z",
             "content": "Woody Allen and Soon-Yi Previn's relationship often gets mocked and criticized ... but their daughter is showing they're a tight-knit family unit ... sharing a rare snap with her parents.\r\nBechet All… [+1264 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "NBCSports.com"
-            },
-            "author": "Charean Williams",
-            "title": "Report: Aidan Hutchinson has torn ACL but no additional damage - NBC Sports",
-            "description": "Lions defensive end Aidan Hutchinson received a bit of good news after additional testing on his right knee.",
-            "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-aidan-hutchinson-has-torn-acl-but-no-additional-damage",
-            "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/756749a/2147483647/strip/true/crop/3428x1928+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd2%2Fdc%2F1fd2e5c945c5a8c16d0414daa045%2F2305227527.jpg",
-            "publishedAt": "2026-11-16T23:24:45Z",
-            "content": "Lions defensive end Aidan Hutchinson received a bit of good news after additional testing on his right knee.\r\nTom Pelissero of The Ringer reports that, while Hutchinson will miss the rest of the seas… [+710 chars]"
-        },
-        {
-            "source": {
-                "id": "google-news",
-                "name": "Google News"
-            },
-            "author": "CNN",
-            "title": "Exclusive: US intel indicates Iran developing plans to potentially detonate a dirty bomb in Washington, sources say - CNN",
-            "description": null,
-            "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE03SEs1dzdtOVl4RVo4TjcxOHpLMmpKZlZ4cGFCQjQtMnV3OWhMSnhvemduUWxJSnlYYWstUk5PYURBSmxLQ2VDY3NyUG9fNXhDTlRwSDFEVFNCN29vWWtOaWRhTDlPYk04TThPOTREX2FVSzhZdEExSVVyQQ?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2026-11-16T22:59:28Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
-            },
-            "author": "Josh Funk",
-            "title": "United Airlines has a widespread system outage just days after nationwide ground stop - AP News",
-            "description": "A system outage that lasted more than 90 minutes forced United Airlines to delay departing flights. The outage Monday came just days after a malfunction in the Federal Aviation Administration’s network prompted a nationwide ground stop. Chicago-based United s…",
-            "url": "https://apnews.com/article/united-airlines-outage-5a5e5f75bb07f11ffb8750901f0076ff",
-            "urlToImage": "https://dims.apnews.com/dims4/default/7c9bd63/2147483647/strip/true/crop/4794x3196+0+0/resize/1200x800!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F57%2F1d%2F34fcf4d7e7a20d1b0ba17591981f%2F672e395163db49918b91778c3c13b3e2",
-            "publishedAt": "2026-11-16T22:42:00Z",
-            "content": "A system outage that lasted more than 90 minutes forced United Airlines to delay departing flights Monday, just days after a malfunction in the Federal Aviation Administrations network prompted a nat… [+3195 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Action Network"
-            },
-            "author": "Stuckey",
-            "title": "Chargers vs Ravens Predictions, Odds, Expert Monday Night Football Pick - Action Network",
-            "description": "Find NFL expert Stuckey's Chargers vs Ravens prediction and pick for Monday Night Football on November 16.",
-            "url": "https://www.actionnetwork.com/nfl/los-angeles-chargers-vs-baltimore-ravens-prediction-pick-odds-nfl-monday-night-football-november-16",
-            "urlToImage": "https://images.actionnetwork.com/blog/2026/11/Chargers-vs-Ravens.png",
-            "publishedAt": "2026-11-16T22:35:20Z",
-            "content": "The Chargers (0-8) try to get their first win of the season tonight against the Ravens (4-5) on NFL Monday Night Football. Kickoff is set for 8:15 p.m. ET from M&amp;T Bank Stadium in Baltimore, Md. … [+6370 chars]"
-        },
-        {
-            "source": {
-                "id": "bloomberg",
-                "name": "Bloomberg"
-            },
-            "author": "Hadriana Lowenkron, Kate Sullivan",
-            "title": "Trump Backs Huang Comeback While Nvidia’s Board Pursues New CEO - Bloomberg.com",
-            "description": "President Donald Trump supported calls from some Silicon Valley leaders for Jensen Huang’s reinstatement as Nvidia Corp.’s chief executive officer, despite the chipmaker’s board moving forward with its search for a new CEO.",
-            "url": "https://www.bloomberg.com/news/articles/2026-11-16/trump-backs-calls-for-huang-to-be-reinstated-as-nvidia-ceo",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iJfCnm1LDdho/v0/1200x803.jpg",
-            "publishedAt": "2026-11-16T22:20:42Z",
-            "content": "President Donald Trump supported calls from some Silicon Valley leaders for Jensen Huangs reinstatement as Nvidia Corp.s chief executive officer, despite the chipmakers board moving forward with its … [+289 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": null,
-            "title": "Cass report author says she does not support draft conversion practices bill - BBC",
-            "description": "The gender care review author says the bill’s wording risks \"serious unintended consequences\" for parents and therapists.",
-            "url": "https://www.bbc.com/news/articles/c6m25vd2yxgdo",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/bfe5/live/8953a160-e24b-11f1-aaeb-8b99d930b2d1.jpg",
-            "publishedAt": "2026-11-16T22:08:03Z",
-            "content": "In it, she said: \"I am pleased to see that the government is bringing forward legislation which not only gives a clearer definition of what conversion practices are, compared to previous drafts, but … [+23 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Bring Me The News"
-            },
-            "author": "Bring Me The News",
-            "title": "Second child dies of measles in Wisconsin, as state surpasses 650 cases - Bring Me The News",
-            "description": null,
-            "url": "https://bringmethenews.com/wisconsin-news/second-child-dies-of-measles-in-wisconsin-as-state-surpasses-650-cases",
-            "urlToImage": null,
-            "publishedAt": "2026-11-16T21:59:39Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "techcrunch",
-                "name": "TechCrunch"
-            },
-            "author": "Sarah Perez",
-            "title": "Apple reveals new Mac security controls as AI agents raise privacy risks - TechCrunch",
-            "description": "Following an October announcement, Apple has detailed new permission controls, warnings, and transparency features coming to macOS 27.3 to address risks posed by AI agents and other apps.",
-            "url": "https://techcrunch.com/2026/11/16/apple-reveals-new-mac-security-controls-as-ai-agents-raise-privacy-risks/",
-            "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/11/CMC_8152.jpg?resize=1200,800",
-            "publishedAt": "2026-11-16T21:01:02Z",
-            "content": "As promised last month, Apple on Monday announced changes to Mac security controls designed to protect users’ data from the growing popularity of AI agents and their apps’ demand for “full disk acces… [+3464 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Ellyn Lapointe",
-            "title": "NASA’s Curiosity Rover Finds Signs of Hidden Water on Mars Today - Gizmodo",
-            "description": "Analyzing more than a decade of Curiosity's atmospheric data revealed evidence of liquid-like water films in the Gale crater.",
-            "url": "https://gizmodo.com/mars-atmosphere-does-something-strange-every-year-and-it-may-point-to-hidden-water-2000840471",
-            "urlToImage": "https://gizmodo.com/app/uploads/2026/09/Curiosity-Rover-Pose-Mary-Anning-1200x675.jpg",
-            "publishedAt": "2026-11-16T20:40:30Z",
-            "content": "NASA’s Curiosity rover has spent nearly 15 years exploring the Gale crater, a large impact basin just south of the Martian equator. Curiosity has uncovered substantial evidence to suggest that the Ga… [+3004 chars]"
-        },
-        {
-            "source": {
-                "id": "axios",
-                "name": "Axios"
-            },
-            "author": "Herb Scribner",
-            "title": "What we know about what caused the FAA's nationwide ground stop - Axios",
-            "description": "The FAA issued its rare ground stop due to \"extraordinary circumstances.\"",
-            "url": "https://www.axios.com/2026/11/16/faa-flights-ground-stop-router-cause-reasons",
-            "urlToImage": "https://images.axios.com/5SD_OLE82n9QKK_f3wPq4furxgk=/0x87:4866x2824/1366x768/2026/11/13/1794606672694.jpeg",
-            "publishedAt": "2026-11-16T19:32:07Z",
-            "content": "Catch up quick: More than 12,000 flights were canceled Friday after the telecommunications failure, the FAA said, with thousands more delayed.\r\n<ul><li>\"I do think the worst is behind us, but we stil… [+4013 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Andrew Liszewski",
-            "title": "Apple is testing daily usage limits for more complex Siri AI interactions - The Verge",
-            "description": "With the latest iOS, iPadOS, and macOS betas Apple is testing daily usage limits for some Siri and Intelligence features that can be extended with iCloud Plus.",
-            "url": "https://www.theverge.com/tech/1034581/apple-intelligence-siri-ai-daily-usage-limits-icloud-subscription",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/siri-ai.jpg?quality=90&strip=all&crop=0.17391304347827%2C0%2C99.652173913043%2C100&w=1200",
-            "publishedAt": "2026-11-16T19:24:40Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nFrequent users of some Siri AI and Apple Intelligence features will require an iCloud Plus subscription to avoid limits.\r\nFrequent users of some Siri AI and Appl… [+3272 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "WABC-TV"
-            },
-            "author": "N.J. Burkett",
-            "title": "NYPD SRG disbanded: Mamdani, Tisch on NYC protest unit - ABC7 New York",
-            "description": "Over the next year, the city plans to hire and train civilians to work with protest organizers before and during demonstrations",
-            "url": "https://abc7ny.com/post/exclusive-mayor-zohran-mamdani-nyc-police-commissioner-jessica-tisch-disbanding-nypds-strategic-response-group/20043812/",
-            "urlToImage": "https://cdn.abcotvs.com/dip/images/20043958_111626-wabc-srg-mamdani-tisch-exclusive-img.jpg?w=1600",
-            "publishedAt": "2026-11-16T18:55:00Z",
-            "content": "NEW YORK (WABC) -- Mayor Zohran Mamdani and NYPD Commissioner Jessica Tisch have agreed to disband the department's Strategic Response Group, or SRG, after months of discussions, officials announced … [+3214 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CBS Sports"
-            },
-            "author": "Bryan DeArdo",
-            "title": "Joe Burrow isn't just chasing MVP, he's chasing the greatest passing season ever - CBS Sports",
-            "description": "With 20 touchdown passes during Cincinnati's five-game winning streak, Burrow has separated himself in the MVP race while closing in on historic territory",
-            "url": "https://www.cbssports.com/nfl/news/joe-burrow-stats-mvp-bengals-qb-2026/",
-            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2026/11/16/fe4305af-66f3-4ede-96f0-840ccdccf748/thumbnail/1200x675/d93d3bad6869f4ab47648c97d47ffddd/burrowtitans.jpg",
-            "publishedAt": "2026-11-16T18:53:00Z",
-            "content": "Two years ago, Joe Burrow resigned himself to the fact that, despite having an MVP-caliber season, he likely wouldn't win the award based on the Bengals' 9-8 record and absence from the playoffs. \r\n\"… [+4390 chars]"
-        },
-        {
-            "source": {
-                "id": "bloomberg",
-                "name": "Bloomberg"
-            },
-            "author": "Chris Welch",
-            "title": "Apple to Let Users Face-Unlock iPhone Duo, Addressing Key Drawback - Bloomberg.com",
-            "description": "Apple Inc. added the ability for iPhone Duo owners to unlock the device using facial recognition, addressing a key drawback of the company’s first foldable smartphone.",
-            "url": "https://www.bloomberg.com/news/articles/2026-11-16/apple-to-let-users-face-unlock-iphone-duo-addressing-key-drawback",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i_2QO5J0d3Ww/v1/1200x800.jpg",
-            "publishedAt": "2026-11-16T18:34:06Z",
-            "content": "Apple Inc. added the ability for iPhone Duo owners to unlock the device using facial recognition, addressing a key drawback of the companys first foldable smartphone.\r\nSome early buyers have complain… [+266 chars]"
-        },
-        {
-            "source": {
-                "id": "the-wall-street-journal",
-                "name": "The Wall Street Journal"
-            },
-            "author": "WSJ",
-            "title": "Mamdani Disbands Controversial NYPD Protest Unit - WSJ",
-            "description": null,
-            "url": "https://www.wsj.com/politics/mamdani-disbands-controversial-nypd-protest-unit-e6e0d6cb",
-            "urlToImage": null,
-            "publishedAt": "2026-11-16T18:07:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "NPR"
-            },
-            "author": "Imogen Foulkes",
-            "title": "U.N. talks seek to rein in 'killer robots' as fears over AI weapons grow - NPR",
-            "description": "Countries are meeting in Geneva to negotiate rules on weapons that can select and kill targets without human intervention. But with the U.S., Russia and Israel resisting legally binding controls, campaigners fear the window to act is closing.",
-            "url": "https://www.npr.org/2026/11/16/nx-s1-6042548/un-killer-robots-ai-weapons-drones",
-            "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8256x4644+0+430/resize/1400/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F47%2Fdc%2Fbe428cfe43728dcf909ce499cadf%2Fgettyimages-2273123489.jpg",
-            "publishedAt": "2026-11-16T18:04:50Z",
-            "content": "GENEVA Negotiations on possible rules for the use of lethal autonomous weapons, also known as 'killer robots' are underway at the United Nations in Geneva.\r\nSupporters of controls on autonomous weapo… [+4069 chars]"
-        },
-        {
-            "source": {
-                "id": "cbs-news",
-                "name": "CBS News"
-            },
-            "author": "Frank  Andrews",
-            "title": "U.K. considers changing laws on age for sexual consent in wake of Russell Brand case - CBS News",
-            "description": "Britain's government will consider adopting staggered ages for sexual consent in the wake of \"appalling\" stories of \"abuse of power by powerful men.\"",
-            "url": "https://www.cbsnews.com/news/russell-brand-rape-uk-sexual-consent-age-possible-law-change/",
-            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/05/55e09c81-76b3-4330-b8ef-687075553e09/thumbnail/1200x630/4866c5930e359d723204a5ff3dcc6629/gettyimages-2303156520.jpg",
-            "publishedAt": "2026-11-16T17:32:42Z",
-            "content": "London — Britain's government is considering changing the U.K.'s laws on the legal age of sexual consent as a woman who claims she was raped by convicted sex offender Russell Brand campaigns to crimi… [+3664 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "DW (English)"
-            },
-            "author": "Esteban Pardo",
-            "title": "The first human-made object to travel one light-day from Earth: Make sense of NASA's Voyager 1 - DW.com",
-            "description": "When just saying 'hello' takes a two-day round trip, you're a light-day, or 26 billion kilometers, from Earth. Only one human-made object has ever traveled that far — and its journey into interstellar space continues.",
-            "url": "https://www.dw.com/en/nasas-voyager-1-reaches-a-light-day-away-from-earth/a-79961817",
-            "urlToImage": "https://static.dw.com/image/79958286_6.jpg",
-            "publishedAt": "2026-11-16T17:24:38Z",
-            "content": "Hate long-haul flights? Well, imagine having to travel 3,300 years to get to your destination.\r\nImagine departing in 1977 and arriving in 2026, on November 18 at 11:16 a.m. Central European Time to b… [+3812 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": "https://www.facebook.com/bbcnews",
-            "title": "James Bond live updates: Robert Pattinson named as new 007 - BBC",
-            "description": "In a statement, the 40-year-old British actor says \"to be entrusted with 007 is the honour of a lifetime\".",
-            "url": "https://www.bbc.com/news/live/ckg5j69ndv2vt",
-            "urlToImage": "https://static.files.bbci.co.uk/core/website/assets/static/news/images/metadata/poster-1024x576.5f404a8b8b.png",
-            "publishedAt": "2026-11-16T16:51:20Z",
-            "content": "Image caption, Callum Turner, Jack Lowden and Jack Barton (L-R) are all thought to have been considered for the role\r\nA handful of actors were thought to have made it through to the final screen test… [+726 chars]"
-        },
-        {
-            "source": {
-                "id": "nbc-news",
-                "name": "NBC News"
-            },
-            "author": "Claudio Lavanga, Veronica Sanchis Bencomo, Max Butterworth",
-            "title": "Photos: Highlights from Pope Leo’s historic, 12-day tour of South America - NBC News",
-            "description": "They turned out in their millions to greet Pope Leo as he made his way around Uruguay, Argentina and Peru on a gruelling 12-day tour of the South America.",
-            "url": "https://www.nbcnews.com/world/the-vatican/pope-leo-south-america-tour-uruguay-argentina-peru-milei-fujimori-rcna608513",
-            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261116-pope-mb-1100-38c7ce.jpg",
-            "publishedAt": "2026-11-16T16:02:33Z",
-            "content": "LIMA, Peru They turned out in their millions to greet Pope Leo as he made his way around Uruguay, Argentina and Peru on a grueling 12-day tour of the South American nations, weeks after undergoing su… [+985 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "24/7 Wall St."
-            },
-            "author": "Rich Duprey",
-            "title": "Elon Musk’s Historic SpaceX Mission Was Only Half Successful. Its Payoff Could Still Slash Launch Costs by 77% - Yahoo Finance",
-            "description": "SpaceX watched its giant booster explode in the Gulf, yet the other half of Starship pulled off a first no orbital rocket has managed. Why that single catch matters more to investors than the loss stings.",
-            "url": "https://247wallst.com/investing/2026/11/16/elon-musks-historic-spacex-mission-was-only-half-successful-its-payoff-could-still-slash-launch-costs-by-77/",
-            "urlToImage": "https://247wallst.com/wp-content/uploads/2026/08/shutterstock_2155166627.jpg",
-            "publishedAt": "2026-11-16T15:48:59Z",
-            "content": "The economics of spaceflight are approaching another turning point. Reusable rockets have already reduced the expense of reaching orbit, but even today’s most successful launch systems still discard … [+5183 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "POLITICO.eu"
-            },
-            "author": "Sam Clark",
-            "title": "Google says Russian speakers pulled off first-ever fully automated AI cyberattack - POLITICO.eu",
-            "description": "The development could mark an inflection point in the use of AI for cyberattacks.",
-            "url": "https://www.politico.eu/article/google-says-russian-speakers-behind-first-ever-fully-automated-ai-cyberattack/",
-            "urlToImage": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/11/16/GettyImages-2005557968-scaled.jpg",
-            "publishedAt": "2026-11-16T15:43:00Z",
-            "content": "Hackers, who used Russian in technical documentation identified by Google, set up a series of AI agents to continuously compare pre- and post-patch code, identify vulnerabilities, and automatically d… [+1091 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Daniel Howley",
-            "title": "Nvidia live updates: Interim CEO Kress prepares for Q3 earnings, with Huang reportedly planning comeback - Yahoo Finance",
-            "description": "Nvidia will report its Q3 earnings after the bell Tuesday.",
-            "url": "https://finance.yahoo.com/technology/live/nvidia-live-updates-interim-ceo-kress-prepares-for-q3-earnings-with-huang-reportedly-planning-comeback-153114076.html",
-            "urlToImage": "https://s.yimg.com/lo/mysterio/api/cc9ad1a3ec34ad4475f4f702b47a628bf29c64151d2763df1224ef89ec534f94/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2F78cde9e3-767f-4ed2-a2b3-7a122d0d2792",
-            "publishedAt": "2026-11-16T15:38:22Z",
-            "content": "A Jensen Huang comeback is a 1-in-9 long shot on prediction markets, and Dan Ives calls it \"ridiculous.\" Nvidia's (NVDA) supply chain, built on his handshakes, makes it less ridiculous than it sounds… [+1709 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "WDSU New Orleans"
-            },
-            "author": "Erin Lowrey, Lena Folke",
-            "title": "5 remain hospitalized as NTSB investigation into tanker, cruise ship crash continues - WDSU",
-            "description": "The National Transportation Safety Board is continuing to investigate a boat crash on the Mississippi River in New Orleans.",
-            "url": "https://www.wdsu.com/article/mississippi-river-boat-crash-new-orleans-invesetigation-injuries/74440334",
-            "urlToImage": "https://kubrick.htvapps.com/htv-prod/images/6fac4440-d3aa-4ca8-8638-dd22dfe80f63.jpg?crop=1.00xw%3A0.318xh%3B0%2C0.254xh&resize=1200%3A*",
-            "publishedAt": "2026-11-16T15:27:00Z",
-            "content": "The National Transportation Safety Board is continuing to investigate a boat crash on the Mississippi River in New Orleans. \r\nThe crash happened on Friday, Nov. 13. \r\nA tanker struck the American Cru… [+10072 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": null,
-            "title": "US woman Lindsay Clancy to face retrial next year for deaths of her three children - BBC",
-            "description": "The 36-year-old's first trial this year fell apart when a 12-person jury failed to reach a verdict.",
-            "url": "https://www.bbc.com/news/articles/cw5y1v8de35go",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0f3a/live/c50f43d0-e1dd-11f1-99a1-253766e7ad8b.jpg",
-            "publishedAt": "2026-11-16T15:19:35Z",
-            "content": "The 36-year-old's first trial this year fell apart when a 12-person jury failed to reach a verdict over the deaths of five-year-old Cora, Dawson, three, and eight-month-old Callan at the the family h… [+3 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Quanta Magazine"
-            },
-            "author": null,
-            "title": "What Makes Up the Cosmos? A 20-Year Survey Hints That Something Is Missing. - Quanta Magazine",
-            "description": "An era-defining galaxy survey has released its final results. They don’t quite fit the leading theory of cosmology.",
-            "url": "https://www.quantamagazine.org/what-makes-up-the-cosmos-a-20-year-survey-hints-that-something-is-missing-20261116/",
-            "urlToImage": "https://www.quantamagazine.org/wp-content/uploads/2026/11/DES-cr.CTIO-NOIRLab-NSF-AURA-T.-Matsopoulos-Social.jpg",
-            "publishedAt": "2026-11-16T15:18:29Z",
-            "content": "In 2024, the DESI collaboration dropped a bombshell report. When researchers added their shells to the existing dossier, they couldnt get the Lambda-CDM model to fit all the data. What fit better was… [+2668 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "NBCSports.com"
-            },
-            "author": "Michael David Smith",
-            "title": "Report: Aidan Hutchinson is out for the season with torn ACL, likely additional damage - NBC Sports",
-            "description": "Hutchinson suffered the season-ending injury while celebrating a sack of Drake Maye, who was also injured.",
-            "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-aidan-hutchinson-is-out-for-the-season-with-torn-acl-likely-additional-damage",
-            "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/83c90e4/2147483647/strip/true/crop/4257x2395+0+213/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F77%2Faa%2F0b296c124d4780f9de03dc83da75%2F2305227635.jpg",
-            "publishedAt": "2026-11-16T14:56:59Z",
-            "content": "Lions defensive end Aidan Hutchinson will miss the rest of the season with a serious knee injury he suffered while celebrating a sack on Sunday.\r\nHutchinson has a torn ACL in his right knee and proba… [+911 chars]"
-        },
-        {
-            "source": {
-                "id": "nbc-news",
-                "name": "NBC News"
-            },
-            "author": "Lawrence Hurley",
-            "title": "Supreme Court rejects Trump over academic funding cuts related to DEI - NBC News",
-            "description": "The Supreme Court rejected President Donald Trump’s move to abruptly cancel academic funding for researchers in California over his opposition to DEI initiatives.",
-            "url": "https://www.nbcnews.com/politics/supreme-court/supreme-court-rejects-trump-academic-funding-cuts-dei-rcna608885",
-            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261106-donald-trump-ew-432p-909f43.jpg",
-            "publishedAt": "2026-11-16T14:52:32Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Eonline.com"
-            },
-            "author": null,
-            "title": "Gypsy Rose Blanchard's Partner Ken Urker’s Cause of Death Confirmed - E! News",
-            "description": "Following the death of Gypsy Rose Blanchard’s partner Ken Urker, a coroner has confirmed he died from\nan accidental drug overdose.",
-            "url": "https://www.eonline.com/news/1436681/gypsy-rose-blanchards-partner-ken-urkers-cause-of-death-confirmed",
-            "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/202527/cr_1200x1200-250307075207-Snapinsta.app_475045269_17887577691189483_6153961229241766856_n_1080.jpg?fit=around%7C1200:1200&output-quality=90&crop=1200:1200;center,top",
-            "publishedAt": "2026-11-16T14:47:00Z",
-            "content": "More information has come to light about Ken Urkers death. \r\nA little more than one month after the 34-year-oldwho shared daughter Aurora, 21 months, with Gypsy Rose Blanchardwas found dead in his Lo… [+877 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Livenowfox.com"
-            },
-            "author": "Mark Richardson",
-            "title": "Leonids meteor shower peaks on both Tuesday and Wednesday night - How to best view the celestial show - FOX 2 Detroit",
-            "description": "The Leonid meteor shower will peak this week on both Tuesday and Wednesday night, giving stargazers a great opportunity to see the celestial show.",
-            "url": "https://www.livenowfox.com/news/leonids-meteor-shower-novenber-2026",
-            "urlToImage": "https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2026/11/1200/630/gettyimages-2246746838.jpg?ve=1&tl=1",
-            "publishedAt": "2026-11-16T14:44:57Z",
-            "content": "The Leonid meteor shower will peak this week on both Tuesday and Wednesday night, giving stargazers a great opportunity to see the celestial show. \r\nTimeline:\r\nThe best viewing times, according to NA… [+1574 chars]"
-        },
-        {
-            "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
-            "author": "Rick Maese",
-            "title": "After one last Sunday, a beloved D.C. golf course is closed. For now. - The Washington Post",
-            "description": "The president wants to turn the historic 36-hole East Potomac into an 18-hole championship course. A judge blocked the closure of the park but didn’t require the government to offer golf.",
-            "url": "https://www.washingtonpost.com/sports/2026/11/16/after-one-last-sunday-beloved-dc-golf-course-is-closed-sort-now/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UD5OQNGDR6V6WFY3EC54BN7MMM_size-normalized.JPG&w=1440",
-            "publishedAt": "2026-11-16T14:34:04Z",
-            "content": "The sun came up over East Potomac Golf Links on Monday morning, the Washington Monument glowing in the distance. The tee boxes were empty. The greens were bare. And there wasnt a golfer in sight. \r\nT… [+228 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "NBC Chicago"
-            },
-            "author": "Alex Dvorak",
-            "title": "What is happening on Nov. 17? What to expect as FEMA prepares for nationwide test - NBC 5 Chicago",
-            "description": "A nationwide emergency test is scheduled to take place Tuesday, but what exactly is it and when can you expect it?",
-            "url": "https://www.nbcchicago.com/news/local/what-is-happening-on-nov-17-what-to-expect-as-fema-prepares-for-nationwide-test/4017342/",
-            "urlToImage": "https://media.nbcchicago.com/2025/01/FEMA.jpg?quality=85&strip=all&resize=1200%2C675",
-            "publishedAt": "2026-11-16T14:33:58Z",
-            "content": "A nationwide emergency test is scheduled to take place Tuesday, but what exactly is it and when can you expect it? \r\nHere's what to know: \r\nThe Federal Emergency Management Agency, along with the Fed… [+2189 chars]"
-        },
-        {
-            "source": {
-                "id": "nbc-news",
-                "name": "NBC News"
-            },
-            "author": "Adela Suliman",
-            "title": "Flight delays, cancellations return to normal levels after weekend of travel chaos - NBC News",
-            "description": "Air travel across the United States was largely returning to normal Monday, although some disruption persisted as airlines scrambled to get back on schedule after a rare nationwide ground stop.",
-            "url": "https://www.nbcnews.com/news/us-news/flights-air-traffic-delays-groundstop-faa-duffy-rcna609545",
-            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261116-reagan-airport-mb-0935-c48bcd.jpg",
-            "publishedAt": "2026-11-16T14:33:53Z",
-            "content": "Air travel across the United States was largely returning to normal Monday, although some disruption persisted as airlines scrambled to get back on schedule after a rare nationwide ground stop.\r\nThe … [+3989 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Emma Roth",
-            "title": "Google Maps can now create trip itineraries for you - The Verge",
-            "description": "Google is rolling out an update to its AI-powered Ask Maps feature that allows it to plan trip itineraries and provide real-time information about each stop.",
-            "url": "https://www.theverge.com/tech/1034110/google-ask-maps-ai-trip-planning",
-            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25472454/STK270_GOOGLE_MAPS_D.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "publishedAt": "2026-11-16T14:00:00Z",
-            "content": "<ul><li></li><li></li><li></li></ul>\r\nThe AI-powered Ask Maps feature can suggest stops for your next trip, while providing real-time details about each location.\r\nThe AI-powered Ask Maps feature can… [+3032 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Frank Schwab",
-            "title": "NFL Monday Night Football preview: Ravens look to stay relevant with Jacoby Brissett, Chargers look for a win - Yahoo Sports",
-            "description": "Jacoby Brissett will make his first start of the season for the Ravens.",
-            "url": "https://sports.yahoo.com/nfl/article/nfl-monday-night-football-preview-ravens-look-to-stay-relevant-with-jacoby-brissett-chargers-look-for-a-win-135635040.html",
-            "urlToImage": "https://s.yimg.com/lo/mysterio/api/32c9e69ee8a49db55ffc0887a4005674000992361481d08bbef6b2edcf04334f/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2F7179d25a-d0d4-4189-9aa7-62c5d9ca3331",
-            "publishedAt": "2026-11-16T13:56:35Z",
-            "content": "The Baltimore Ravens would have been excused for packing it up this season and not trading off draft picks for a long shot on a discarded quarterback dragging them to the playoffs.\r\nBut the Ravens ha… [+5000 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Health.com"
-            },
-            "author": "https://www.facebook.com/Health/",
-            "title": "More Adults Over 65 Are Taking GLP-1s—Here’s Why Doctors Urge Caution - Health.com",
-            "description": "GLP-1 medications can improve health and mobility in older adults, but they also carry unique risks. Learn what experts say about taking these drugs after 65.",
-            "url": "https://www.health.com/glp-1-risks-older-adults-12121106",
-            "urlToImage": "https://www.health.com/thmb/aztjdVKNQPFNKDyqK6G2IYuOrwg=/8256x0/filters:no_upscale():max_bytes(150000):strip_icc()/Health-GettyImages-2286508296-e0d30d56497d4b88ad38627e7230ad03.jpg",
-            "publishedAt": "2026-11-16T13:55:00Z",
-            "content": "GLP-1s have made a world of difference for Patricia Nece. Since the 68-year-old started the medication three years ago, her weight, blood pressure, and cholesterol have all gone down. But the biggest… [+8216 chars]"
-        },
-        {
-            "source": {
-                "id": "al-jazeera-english",
-                "name": "Al Jazeera English"
-            },
-            "author": "Mohammad Mansour",
-            "title": "Houthis edge closer to Aden as Yemeni forces pull out of Bab al-Mandeb - Al Jazeera",
-            "description": "Houthis edge closer to Aden as Yemeni forces retreat from the Red Sea coast, threatening global maritime security.",
-            "url": "https://www.aljazeera.com/news/2026/11/16/houthis-edge-closer-to-aden-as-yemeni-forces-pull-out-of-bab-al-mandeb",
-            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-16T070423Z_715019825_RC2TOOAXD9QD_RTRMADP_3_IRAN-CRISIS-YEMEN-1794814733.jpg?resize=1920%2C1440",
-            "publishedAt": "2026-11-16T13:49:26Z",
-            "content": "Forces aligned with the internationally recognised Yemeni government face a potentially catastrophic situation, as Houthi forces advance on the southern city of Aden and other strategic areas.\r\nYemen… [+4201 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Evan Perez, Andy Rose",
-            "title": "Suspect arrested in investigation into explosive device found at Illinois ethanol plant, official says - CNN",
-            "description": "A suspect has been arrested in connection with an investigation into an explosive device found Friday at a central Illinois ethanol plant, according to a law enforcement official.",
-            "url": "https://www.cnn.com/2026/11/16/us/illinois-ethanol-plant-explosive-arrest",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/still-23162479-24684-still.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2026-11-16T13:45:36Z",
-            "content": "A suspect has been arrested in connection with an investigation into an explosive device found Friday at a central Illinois ethanol plant, according to a law enforcement official.\r\nThe suspect was ar… [+2022 chars]"
-        },
-        {
-            "source": {
-                "id": "bloomberg",
-                "name": "Bloomberg"
-            },
-            "author": "Rita Nazareth",
-            "title": "Tech Stocks Slide as Nvidia, Anthropic Tests Await: Markets Wrap - Bloomberg",
-            "description": "A selloff in technology stocks carried into a new week as Wall Street traders geared up for Nvidia Corp.’s high-stakes earnings and Anthropic PBC’s expected market debut in the coming days.",
-            "url": "https://www.bloomberg.com/news/articles/2026-11-15/stock-market-today-dow-s-p-live-updates",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iWkeoLtRL2uQ/v1/1200x800.jpg",
-            "publishedAt": "2026-11-16T13:36:19Z",
-            "content": "A selloff in technology stocks carried into a new week as Wall Street traders geared up for Nvidia Corp.s high-stakes earnings and Anthropic PBCs expected market debut in the coming days.\r\nShares of … [+198 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "NDTV News"
-            },
-            "author": "NDTV Movies News Desk",
-            "title": "Jennifer Lopez Reacts As Fan Takes A Dig At Her Four Marriages - NDTV",
-            "description": "Jennifer Lopez has been married four times. Her first marriage was with Ojani Noa in 1997, but it only lasted a year",
-            "url": "https://www.ndtv.com/entertainment/jennifer-lopez-reacts-as-fan-takes-a-dig-at-her-four-marriages-12333829",
-            "urlToImage": "https://c.ndtvimg.com/2026-05/ptvii6i8_jennifer-lopez_625x300_28_May_26.jpg?im=FaceCrop,algorithm=dnn,width=1600,height=900",
-            "publishedAt": "2026-11-16T13:07:13Z",
-            "content": "Jennifer Lopez recently found herself at the centre of a hilarious fan interaction. The singer-actor attended a special screening of The JLO Show in New York when a fan from the audience made a remar… [+1843 chars]"
-        },
-        {
-            "source": {
-                "id": "espn",
-                "name": "ESPN"
-            },
-            "author": "Brett Okamoto",
-            "title": "Kayla Harrison could take on a familiar foe in next fight - ESPN",
-            "description": "What options do Ciryl Gane and Kayla Harrison have after the first defenses of their titles at UFC 334?",
-            "url": "https://www.espn.com/mma/story/_/id/50494167/ufc-334-next-ciryl-gane-kayla-harrison-more",
-            "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1115%2Fr1746333_2_1296x729_16%2D9.jpg",
-            "publishedAt": "2026-11-16T12:47:00Z",
-            "content": "Two UFC champions successfully defended their titles for the first time atop the UFC 334 fight card at Madison Square Garden in New York on Saturday. But the victories left the two titleholders in dr… [+6134 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": null,
-            "title": "Elon Musk joins 'Bring Jensen Back' campaign to reinstate the ex-Nvidia boss - BBC",
-            "description": "A number of tech figures want the board of the AI chip giant to give Jensen Huang his job back.",
-            "url": "https://www.bbc.com/news/articles/cry49plv8v3go",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/36dc/live/86b75570-e1b8-11f1-9a3f-99aca912798e.jpg",
-            "publishedAt": "2026-11-16T12:20:49Z",
-            "content": "Lord Sarfraz, a member of the UK's House of Lords, has also written to Nvidia's new chair, Harvey Jones, urging the firm's directors to give \"serious consideration\" to Huang's return following the in… [+11 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "WDSU New Orleans"
-            },
-            "author": "Annie Jennemann",
-            "title": "What to know about measles outbreaks as the US faces losing its elimination status - WDSU",
-            "description": "An international committee is weighing whether the U.S. could lose its measles elimination status.",
-            "url": "https://www.wdsu.com/article/us-measles-outbreaks-elimination-status/74415404",
-            "urlToImage": "https://kubrick.htvapps.com/htv-prod/images/b88e760f-27bf-4a70-a955-7b4a89930b18.png?crop=1.00xw%3A1.00xh%3B0%2C0&resize=1200%3A*",
-            "publishedAt": "2026-11-16T12:19:00Z",
-            "content": "WASHINGTONAn international committee met last week to decide whether the United States no longer has eliminated measles.\r\nMeasles cases have surged in the U.S. over the past couple of years. In 2026,… [+1753 chars]"
-        },
-        {
-            "source": {
-                "id": "cbs-news",
-                "name": "CBS News"
-            },
-            "author": null,
-            "title": "Drug cartel \"boss of bosses\" who orchestrated murder of U.S. agent dies at 80 - CBS News",
-            "description": "Miguel Angel Felix Gallardo, the architect of modern Mexican drug trafficking, was known as \"the boss of bosses.\"",
-            "url": "https://www.cbsnews.com/news/miguel-angel-felix-gallardo-dies-drug-lord-behind-us-agent-murder-age-80/",
-            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/02/28/be8a866d-cd6f-45eb-8996-96acddf3bea9/thumbnail/1200x630/95967c05f2c644251353ecd0fb8d2752/gettyimages-176579264.jpg",
-            "publishedAt": "2026-11-16T11:32:00Z",
-            "content": "Miguel Angel Felix Gallardo, the architect of modern Mexican drug trafficking known as \"the boss of bosses,\" who transformed the global cocaine trade and orchestrated the murder of a U.S. agent, died… [+4052 chars]"
-        },
-        {
-            "source": {
-                "id": "espn",
-                "name": "ESPN"
-            },
-            "author": "Dan Graziano",
-            "title": "Judging overreactions to NFL Week 10: Playoff spin for Vikings, Pats, Browns, more - ESPN",
-            "description": "Will Kirk Cousins be the difference in the NFC North? The Browns are going to the playoffs ... but not the Patriots? Patrick Mahomes for MVP and Kyle Shanahan for COY?",
-            "url": "https://www.espn.com/nfl/story/_/id/50491464/week-10-overreactions-2026-graziano-cousins-mahomes",
-            "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1115%2Fr1746347_1296x729_16%2D9.jpg",
-            "publishedAt": "2026-11-16T11:05:00Z",
-            "content": "We did not do post-trade deadline overreactions last week, preferring to see at least one weekend's worth of NFL games before rushing to judgment about the immediate impact of any of the completed de… [+12829 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Taylor Nicioli",
-            "title": "See the Leonid meteors this week — ‘the shower that started it all’ - CNN",
-            "description": "The Leonid meteor shower peaks Monday through Tuesday, offering sky-gazers a chance to spot up to 15 meteors per hour under ideal conditions. Here’s how to watch.",
-            "url": "https://www.cnn.com/2026/11/16/science/leonid-meteor-shower-2026",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2246746879.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2026-11-16T11:00:15Z",
-            "content": "Each November, Earth passes through a trail of debris left behind by comet 55P/Tempel-Tuttle, creating the annual celestial display known as the Leonid meteor shower.\r\nAs tiny pieces of the comet fiz… [+4245 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Space.com"
-            },
-            "author": "Elizabeth Howell",
-            "title": "NASA's interstellar Voyager 1 probe is about to reach 1 light-day from Earth after nearly 50 years in space - Space",
-            "description": "A light-day, as the name implies, represents the distance that light travels in a single day.",
-            "url": "https://www.space.com/space-exploration/voyager/nasas-interstellar-voyager-1-probe-is-about-to-reach-1-light-day-from-earth-after-nearly-50-years-in-space",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/FbpUYGY9M3AheaaKciVQSb-2000-80.jpg",
-            "publishedAt": "2026-11-16T11:00:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "NPR"
-            },
-            "author": "Deepa Shivaram",
-            "title": "Trump heads to Asia to meet with Xi and Putin amid Nvidia fallout - NPR",
-            "description": "The trip to China marks Trump's second time this year, and comes as the president and his party faced widespread backlash from voters in the recent midterm elections.",
-            "url": "https://www.npr.org/2026/11/16/nx-s1-6041738/trump-xi-and-putin-china-nvidia",
-            "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x1688+0+108/resize/1400/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F2a%2F43%2Fa1078a164917808b90cb7d9ece17%2Fgettyimages-2304645424.jpg",
-            "publishedAt": "2026-11-16T10:00:00Z",
-            "content": "President Trump heads to Asia this week where he's set to meet with Chinese President Xi Jinping and Russian leader Vladimir Putin for a high-stakes trilateral summit.\r\nThe trip to China marks Trump'… [+7102 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Audacy.com"
-            },
-            "author": "Brayton J. Wilson",
-            "title": "All tech eyes on Grand Theft Auto VI release Thursday - Audacy",
-            "description": "Later this week will see the official release of one of the most anticipated video games in recent memory - Grand Theft Auto VI (GTA VI). One local cybersecurity expert estimates theengagement with the game is going to be intense off the bat, with people spen…",
-            "url": "https://www.audacy.com/wben/news/local/all-tech-eyes-on-grand-theft-auto-vi-release-thursday",
-            "urlToImage": "https://www.audacy.com/media-library/grand-theft-auto-vi.jpg?id=68680743&width=1200&height=600&coordinates=0%2C85%2C0%2C86",
-            "publishedAt": "2026-11-16T08:30:00Z",
-            "content": "Buffalo, N.Y. (WBEN) - Later this week will see the official release of one of the most anticipated video games in recent memory - Grand Theft Auto VI (GTA VI).\r\nAhead of Thursday's release, major te… [+4485 chars]"
         }
     ]
 }
